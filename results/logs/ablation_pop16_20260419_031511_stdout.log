@@ -1,0 +1,92 @@
+03:15:15 [INFO] [full] loading pretrained from /nas/ckgfs/jaunts/jahin/HYDRA/hydra_pretrained
+03:15:17 [INFO] [full] WMS 2020: 23 instances
+03:15:17 [INFO]     MANN_a45.clq.wcnf                        cost=     0.00 t=  0.0s
+03:15:17 [INFO]     MANN_a9.clq.wcnf                         cost=     0.00 t=  0.0s
+03:15:17 [INFO]     brock200_3.clq.wcnf                      cost=     0.00 t=  0.0s
+03:15:17 [INFO]     brock200_4.clq.wcnf                      cost=     0.00 t=  0.0s
+03:15:18 [INFO]     brock400_2.clq.wcnf                      cost=     0.00 t=  0.0s
+03:15:18 [INFO]     brock400_3.clq.wcnf                      cost=     0.00 t=  0.1s
+03:15:18 [INFO]     brock800_3.clq.wcnf                      cost=     0.00 t=  0.0s
+03:15:18 [INFO]     hamming10-2.clq.wcnf                     cost=     0.00 t=  0.0s
+03:15:18 [INFO]     hamming6-2.clq.wcnf                      cost=     0.00 t=  0.3s
+03:15:19 [INFO]     hamming8-2.clq.wcnf                      cost=     0.00 t=  0.0s
+03:15:19 [INFO]     johnson8-4-4.clq.wcnf                    cost=     0.00 t=  0.3s
+03:15:19 [INFO]     maxcut-140-630-0.7-20.wcnf               cost=     0.00 t=  0.0s
+03:15:19 [INFO]     maxcut-140-630-0.8-39.wcnf               cost=     0.00 t=  0.0s
+03:15:19 [INFO]     p_hat300-3.clq.wcnf                      cost=     0.00 t=  0.0s
+03:15:19 [INFO]     p_hat500-3.clq.wcnf                      cost=     0.00 t=  0.0s
+/nas/ckgfs/users/jahin/HYDRA/hydra_data.py:178: RuntimeWarning: compute_clause_centrality: 3876 clause nodes — using scatter-based triangle count (no N×N allocation).
+  self._clause_centrality_cache = compute_clause_centrality(
+03:15:33 [INFO] Phase 1: Diffusion init (16 trajectories)...
+03:18:35 [INFO]   Diffusion init best cost: 1521768.0
+03:18:35 [INFO] Phase 2: Evolutionary refinement (n=153, m=3876)...
+03:18:35 [INFO] Final: cost=1521768.0000, steps=0, pop_size=16, time=195.6s
+03:18:35 [INFO]     ram_k3_n18.ra1.wcnf                      cost=1521768.00 t=195.6s
+/nas/ckgfs/users/jahin/HYDRA/hydra_data.py:178: RuntimeWarning: compute_clause_centrality: 4845 clause nodes — using scatter-based triangle count (no N×N allocation).
+  self._clause_centrality_cache = compute_clause_centrality(
+03:18:53 [INFO] Phase 1: Diffusion init (16 trajectories)...
+03:23:14 [INFO]   Diffusion init best cost: 1951731.0
+03:23:14 [INFO] Phase 2: Evolutionary refinement (n=171, m=4845)...
+03:23:14 [INFO] Final: cost=1951731.0000, steps=0, pop_size=16, time=278.6s
+03:23:14 [INFO]     ram_k3_n19.ra1.wcnf                      cost=1951731.00 t=278.6s
+03:23:14 [INFO]     role_smallcomp_0.95_2.wcnf               cost=     0.00 t=  0.0s
+03:23:14 [INFO]     san200_0.7_1.clq.wcnf                    cost=     0.00 t=  0.0s
+03:23:14 [INFO]     sanr200_0.7.clq.wcnf                     cost=     0.00 t=  0.0s
+03:23:14 [INFO]     scpcyc07_maxsat.wcnf                     cost=     0.00 t=  0.0s
+03:23:15 [INFO]     scpcyc08_maxsat.wcnf                     cost=     0.00 t=  0.0s
+03:23:15 [INFO]     uaq-min-nr-nr50-np400-rpp5-nc0-rs0-t0-pl cost=     0.00 t=  0.0s
+03:23:15 [INFO] Wrote /nas/ckgfs/jaunts/jahin/HYDRA/results/ablations_final/full_results_raw.json
+03:23:15 [INFO] [no_diffusion] loading pretrained from /nas/ckgfs/jaunts/jahin/HYDRA/hydra_pretrained
+03:23:15 [INFO] [no_diffusion] WMS 2020: 23 instances
+03:23:15 [INFO]     MANN_a45.clq.wcnf                        cost=     0.00 t=  0.0s
+03:23:16 [INFO]     MANN_a9.clq.wcnf                         cost=     0.00 t=  0.0s
+03:23:16 [INFO]     brock200_3.clq.wcnf                      cost=     0.00 t=  0.0s
+03:23:16 [INFO]     brock200_4.clq.wcnf                      cost=     0.00 t=  0.0s
+03:23:16 [INFO]     brock400_2.clq.wcnf                      cost=     0.00 t=  0.1s
+03:23:16 [INFO]     brock400_3.clq.wcnf                      cost=     0.00 t=  0.0s
+03:23:16 [INFO]     brock800_3.clq.wcnf                      cost=     0.00 t=  0.0s
+03:23:16 [INFO]     hamming10-2.clq.wcnf                     cost=     0.00 t=  0.0s
+03:23:17 [INFO]     hamming6-2.clq.wcnf                      cost=     0.00 t=  0.3s
+03:23:17 [INFO]     hamming8-2.clq.wcnf                      cost=     0.00 t=  0.0s
+03:23:17 [INFO]     johnson8-4-4.clq.wcnf                    cost=     0.00 t=  0.3s
+03:23:17 [INFO]     maxcut-140-630-0.7-20.wcnf               cost=     0.00 t=  0.0s
+03:23:18 [INFO]     maxcut-140-630-0.8-39.wcnf               cost=     0.00 t=  0.0s
+03:23:18 [INFO]     p_hat300-3.clq.wcnf                      cost=     0.00 t=  0.0s
+03:23:18 [INFO]     p_hat500-3.clq.wcnf                      cost=     0.00 t=  0.0s
+03:23:31 [INFO] Phase 2: Evolutionary refinement (n=153, m=3876)...
+/nas/ckgfs/jaunts/jahin/HYDRA/.venv_ckg08/lib/python3.12/site-packages/torch_geometric/utils/_scatter.py:91: UserWarning: The usage of `scatter(reduce='max')` can be accelerated via the 'torch-scatter' package, but it was not found
+  warnings.warn(
+/nas/ckgfs/jaunts/jahin/HYDRA/.venv_ckg08/lib/python3.12/site-packages/torch/optim/lr_scheduler.py:216: UserWarning: Detected call of `lr_scheduler.step()` before `optimizer.step()`. In PyTorch 1.1.0 and later, you should call them in the opposite order: `optimizer.step()` before `lr_scheduler.step()`.  Failure to do this will result in PyTorch skipping the first value of the learning rate schedule. See more details at https://pytorch.org/docs/stable/optim.html#how-to-adjust-learning-rate
+  warnings.warn(
+terminate called after throwing an instance of 'c10::Error'
+  what():  CUDA error: an illegal memory access was encountered
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrace below might be incorrect.
+For debugging consider passing CUDA_LAUNCH_BLOCKING=1
+Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
+
+Exception raised from c10_cuda_check_implementation at ../c10/cuda/CUDAException.cpp:43 (most recent call first):
+frame #0: c10::Error::Error(c10::SourceLocation, std::string) + 0x96 (0x7a9806f77f86 in /nas/ckgfs/jaunts/jahin/HYDRA/.venv_ckg08/lib/python3.12/site-packages/torch/lib/libc10.so)
+frame #1: c10::detail::torchCheckFail(char const*, char const*, unsigned int, std::string const&) + 0x64 (0x7a9806f26d10 in /nas/ckgfs/jaunts/jahin/HYDRA/.venv_ckg08/lib/python3.12/site-packages/torch/lib/libc10.so)
+frame #2: c10::cuda::c10_cuda_check_implementation(int, char const*, char const*, int, bool) + 0x118 (0x7a980739bf08 in /nas/ckgfs/jaunts/jahin/HYDRA/.venv_ckg08/lib/python3.12/site-packages/torch/lib/libc10_cuda.so)
+frame #3: <unknown function> + 0x587d0 (0x7a98073a17d0 in /nas/ckgfs/jaunts/jahin/HYDRA/.venv_ckg08/lib/python3.12/site-packages/torch/lib/libc10_cuda.so)
+frame #4: <unknown function> + 0x5a4f4 (0x7a98073a34f4 in /nas/ckgfs/jaunts/jahin/HYDRA/.venv_ckg08/lib/python3.12/site-packages/torch/lib/libc10_cuda.so)
+frame #5: void at::cuda::cub::detail::radix_sort_pairs_impl<long, 8>(long const*, long*, at::cuda::cub::detail::OpaqueType<8> const*, at::cuda::cub::detail::OpaqueType<8>*, long, bool, long, long) + 0x142 (0x7a97b8f4cc62 in /nas/ckgfs/jaunts/jahin/HYDRA/.venv_ckg08/lib/python3.12/site-packages/torch/lib/libtorch_cuda.so)
+frame #6: at::native::(anonymous namespace)::index_put_with_sort_kernel(at::Tensor&, c10::List<std::optional<at::Tensor> > const&, at::Tensor const&, bool, bool) + 0xc3d (0x7a97b9b1a36d in /nas/ckgfs/jaunts/jahin/HYDRA/.venv_ckg08/lib/python3.12/site-packages/torch/lib/libtorch_cuda.so)
+frame #7: at::native::_index_put_impl_(at::Tensor&, c10::List<std::optional<at::Tensor> > const&, at::Tensor const&, bool, bool) + 0xcfd (0x7a97eed9266d in /nas/ckgfs/jaunts/jahin/HYDRA/.venv_ckg08/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #8: <unknown function> + 0x33935ea (0x7a97baf4c5ea in /nas/ckgfs/jaunts/jahin/HYDRA/.venv_ckg08/lib/python3.12/site-packages/torch/lib/libtorch_cuda.so)
+frame #9: at::_ops::_index_put_impl_::redispatch(c10::DispatchKeySet, at::Tensor&, c10::List<std::optional<at::Tensor> > const&, at::Tensor const&, bool, bool) + 0x9c (0x7a97ef2fa42c in /nas/ckgfs/jaunts/jahin/HYDRA/.venv_ckg08/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #10: <unknown function> + 0x503b8fd (0x7a97f1e138fd in /nas/ckgfs/jaunts/jahin/HYDRA/.venv_ckg08/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #11: at::_ops::_index_put_impl_::redispatch(c10::DispatchKeySet, at::Tensor&, c10::List<std::optional<at::Tensor> > const&, at::Tensor const&, bool, bool) + 0x9c (0x7a97ef2fa42c in /nas/ckgfs/jaunts/jahin/HYDRA/.venv_ckg08/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #12: <unknown function> + 0x47fe530 (0x7a97f15d6530 in /nas/ckgfs/jaunts/jahin/HYDRA/.venv_ckg08/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #13: at::_ops::_index_put_impl_::call(at::Tensor&, c10::List<std::optional<at::Tensor> > const&, at::Tensor const&, bool, bool) + 0x21d (0x7a97ef3649fd in /nas/ckgfs/jaunts/jahin/HYDRA/.venv_ckg08/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #14: <unknown function> + 0x5c409aa (0x7a97f2a189aa in /nas/ckgfs/jaunts/jahin/HYDRA/.venv_ckg08/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #15: torch::autograd::generated::IndexBackward0::apply(std::vector<at::Tensor, std::allocator<at::Tensor> >&&) + 0x259 (0x7a97f13fcbd9 in /nas/ckgfs/jaunts/jahin/HYDRA/.venv_ckg08/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #16: <unknown function> + 0x52f871b (0x7a97f20d071b in /nas/ckgfs/jaunts/jahin/HYDRA/.venv_ckg08/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #17: torch::autograd::Engine::evaluate_function(std::shared_ptr<torch::autograd::GraphTask>&, torch::autograd::Node*, torch::autograd::InputBuffer&, std::shared_ptr<torch::autograd::ReadyQueue> const&) + 0x14e6 (0x7a97f20ca7d6 in /nas/ckgfs/jaunts/jahin/HYDRA/.venv_ckg08/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #18: torch::autograd::Engine::thread_main(std::shared_ptr<torch::autograd::GraphTask> const&) + 0x698 (0x7a97f20cb448 in /nas/ckgfs/jaunts/jahin/HYDRA/.venv_ckg08/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #19: torch::autograd::Engine::thread_init(int, std::shared_ptr<torch::autograd::ReadyQueue> const&, bool) + 0x13f (0x7a97f20c23cf in /nas/ckgfs/jaunts/jahin/HYDRA/.venv_ckg08/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #20: torch::autograd::python::PythonEngine::thread_init(int, std::shared_ptr<torch::autograd::ReadyQueue> const&, bool) + 0x5d (0x7a98058775ed in /nas/ckgfs/jaunts/jahin/HYDRA/.venv_ckg08/lib/python3.12/site-packages/torch/lib/libtorch_python.so)
+frame #21: <unknown function> + 0xecdb4 (0x7a98064ecdb4 in /lib/x86_64-linux-gnu/libstdc++.so.6)
+frame #22: <unknown function> + 0x9caa4 (0x7a9807e9caa4 in /lib/x86_64-linux-gnu/libc.so.6)
+frame #23: <unknown function> + 0x129c6c (0x7a9807f29c6c in /lib/x86_64-linux-gnu/libc.so.6)
+

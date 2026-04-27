@@ -1,0 +1,23 @@
+03:09:14 [INFO] [full] loading pretrained from /nas/ckgfs/jaunts/jahin/HYDRA/hydra_pretrained
+03:09:15 [INFO] [full] WMS 2020: 23 instances
+03:09:15 [INFO]     MANN_a45.clq.wcnf                        cost=     0.00 t=  0.0s
+03:09:16 [INFO]     MANN_a9.clq.wcnf                         cost=     0.00 t=  0.0s
+03:09:16 [INFO]     brock200_3.clq.wcnf                      cost=     0.00 t=  0.0s
+03:09:16 [INFO]     brock200_4.clq.wcnf                      cost=     0.00 t=  0.0s
+03:09:16 [INFO]     brock400_2.clq.wcnf                      cost=     0.00 t=  0.0s
+03:09:16 [INFO]     brock400_3.clq.wcnf                      cost=     0.00 t=  0.1s
+03:09:16 [INFO]     brock800_3.clq.wcnf                      cost=     0.00 t=  0.0s
+03:09:16 [INFO]     hamming10-2.clq.wcnf                     cost=     0.00 t=  0.0s
+03:09:17 [INFO]     hamming6-2.clq.wcnf                      cost=     0.00 t=  0.3s
+03:09:17 [INFO]     hamming8-2.clq.wcnf                      cost=     0.00 t=  0.0s
+03:09:17 [INFO]     johnson8-4-4.clq.wcnf                    cost=     0.00 t=  0.3s
+03:09:18 [INFO]     maxcut-140-630-0.7-20.wcnf               cost=     0.00 t=  0.0s
+03:09:18 [INFO]     maxcut-140-630-0.8-39.wcnf               cost=     0.00 t=  0.0s
+03:09:18 [INFO]     p_hat300-3.clq.wcnf                      cost=     0.00 t=  0.0s
+03:09:18 [INFO]     p_hat500-3.clq.wcnf                      cost=     0.00 t=  0.0s
+03:09:32 [INFO] Phase 1: Diffusion init (64 trajectories)...
+03:12:33 [INFO]   Diffusion init best cost: 1521768.0
+03:12:33 [INFO] Phase 2: Evolutionary refinement (n=153, m=3876)...
+03:12:33 [INFO] Final: cost=53756.0000, steps=0, pop_size=64, time=194.8s
+03:12:33 [INFO]     ram_k3_n18.ra1.wcnf                      cost= 53756.00 t=194.8s
+03:12:50 [INFO] Phase 1: Diffusion init (64 trajectories)...

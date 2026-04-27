@@ -1,0 +1,23 @@
+2026-04-20 13:18:07 [sup-ckg08] start; HYDRA_DIR=/nas/ckgfs/jaunts/jahin/HYDRA
+2026-04-20 13:18:07 [sup-ckg08] EVAL_GPUS='0 1 2' FULL_EVAL_GPUS='0 1 2 3' SKIP_ABLATION=1
+2026-04-20 13:18:07 [sup-ckg08] python=/nas/ckgfs/jaunts/jahin/HYDRA/.venv_ckg08/bin/python
+2026-04-20 13:18:07 [sup-ckg08] Stage A: launching HYDRA 60s eval seeds=3 across GPUs: 0 1 2
+2026-04-20 13:18:07 [sup-ckg08] HYDRA eval 60s PID=2794372
+2026-04-20 13:18:07 [sup-ckg08] Stage A: ablation skipped (running separately)
+13:18:08 [INFO] Found 10 (year, cat) directories
+13:18:08 [INFO]   shard 0 (gpu 0): ms2020 = 55 instances (filtered)
+13:18:08 [INFO]   shard 0 (gpu 0): ms2023 = 10 instances (filtered)
+13:18:09 [INFO]   shard 0 (gpu 0): wms2021 = 14 instances (filtered)
+13:18:09 [INFO]   shard 0 (gpu 0): wms2024 = 18 instances (filtered)
+13:18:09 [INFO]   shard 0 TOTAL: 97 instances
+13:18:10 [INFO]   shard 1 (gpu 1): ms2021 = 33 instances (filtered)
+13:18:10 [INFO]   shard 1 (gpu 1): ms2024 = 12 instances (filtered)
+13:18:10 [INFO]   shard 1 (gpu 1): wms2022 = 17 instances (filtered)
+13:18:10 [INFO]   shard 1 TOTAL: 62 instances
+13:18:10 [INFO]   shard 2 (gpu 2): ms2022 = 35 instances (filtered)
+13:18:11 [INFO]   shard 2 (gpu 2): wms2020 = 26 instances (filtered)
+13:18:11 [INFO]   shard 2 (gpu 2): wms2023 = 6 instances (filtered)
+13:18:11 [INFO]   shard 2 TOTAL: 67 instances
+13:18:11 [INFO]   shard 0 (gpu 0) PID=2794420 -> /nas/ckgfs/users/jahin/HYDRA/results/logs/hydra_eval_60s_v2shard0_20260420_131811.log
+13:18:11 [INFO]   shard 1 (gpu 1) PID=2794422 -> /nas/ckgfs/users/jahin/HYDRA/results/logs/hydra_eval_60s_v2shard1_20260420_131811.log
+13:18:11 [INFO]   shard 2 (gpu 2) PID=2794423 -> /nas/ckgfs/users/jahin/HYDRA/results/logs/hydra_eval_60s_v2shard2_20260420_131811.log

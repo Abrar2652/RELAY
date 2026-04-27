@@ -1,0 +1,47 @@
+2026-04-18 11:48:37 [INFO] Logging to file: /nas/ckgfs/users/jahin/HYDRA/results/logs/hydra_eval_60s_v2shard1_20260418_114832.log
+2026-04-18 11:48:44 [INFO] Loading pre-trained model from ./hydra_pretrained
+2026-04-18 11:48:45 [INFO] 
+Discovering benchmarks in /nas/ckgfs/users/jahin/HYDRA/results/shard_v2_tmp/shard_1_bench...
+2026-04-18 11:48:45 [INFO]   ms2021: 33 instances
+2026-04-18 11:48:45 [INFO]   wms2020: 26 instances
+2026-04-18 11:48:45 [INFO]   wms2024: 229 instances
+2026-04-18 11:48:45 [INFO] Loaded 68 best-known costs from ./results/hydra/eval_60s/shard_1/best_known.json
+2026-04-18 11:48:45 [INFO] 
+============================================================
+2026-04-18 11:48:45 [INFO]   EVALUATION: timeout=60.0s, seeds=1
+2026-04-18 11:48:45 [INFO] ============================================================
+2026-04-18 11:48:45 [INFO] 
+--- WMS 2020 (26 instances) ---
+2026-04-18 11:48:46 [INFO]   brock200_4.clq.wcnf            cost=      0.00  time=   0.0s
+2026-04-18 11:48:46 [INFO]   brock400_3.clq.wcnf            cost=      0.00  time=   0.0s
+2026-04-18 11:48:46 [INFO]   brock800_3.clq.wcnf            cost=      0.00  time=   0.0s
+2026-04-18 11:48:46 [INFO]   hamming6-2.clq.wcnf            cost=      0.00  time=   0.3s
+2026-04-18 11:48:47 [INFO]   johnson8-4-4.clq.wcnf          cost=      0.00  time=   0.3s
+2026-04-18 11:48:47 [INFO]   p_hat500-3.clq.wcnf            cost=      0.00  time=   0.0s
+2026-04-18 11:48:47 [INFO]   p_hat700-3.clq.wcnf            cost=      0.00  time=   0.1s
+2026-04-18 11:48:49 [INFO] Phase 1: Diffusion init (64 trajectories)...
+2026-04-18 11:49:17 [INFO]   Diffusion init best cost: 360422.0
+2026-04-18 11:49:17 [INFO] Phase 2: Evolutionary refinement (n=78, m=1001)...
+2026-04-18 11:49:47 [INFO] Final: cost=15212.0000, steps=46, pop_size=71, time=60.0s
+2026-04-18 11:49:47 [INFO]   ram_k3_n13.ra1.wcnf            cost=  15212.00  time=  60.0s
+2026-04-18 11:49:50 [INFO] Phase 1: Diffusion init (64 trajectories)...
+2026-04-18 11:50:30 [INFO]   Diffusion init best cost: 504950.0
+2026-04-18 11:50:30 [INFO] Phase 2: Evolutionary refinement (n=91, m=1365)...
+2026-04-18 11:50:47 [INFO] Final: cost=21464.0000, steps=21, pop_size=90, time=60.2s
+2026-04-18 11:50:47 [INFO]   ram_k3_n14.ra1.wcnf            cost=  21464.00  time=  60.2s
+2026-04-18 11:50:51 [INFO] Phase 1: Diffusion init (64 trajectories)...
+2026-04-18 11:51:51 [INFO]   Diffusion init best cost: 690848.0
+2026-04-18 11:51:51 [INFO] Phase 2: Evolutionary refinement (n=105, m=1820)...
+2026-04-18 11:51:51 [INFO] Final: cost=27249.0000, steps=0, pop_size=64, time=63.7s
+2026-04-18 11:51:51 [INFO]   ram_k3_n15.ra1.wcnf            cost=  27249.00  time=  63.7s
+2026-04-18 11:51:57 [INFO] Phase 1: Diffusion init (64 trajectories)...
+2026-04-18 11:53:26 [INFO]   Diffusion init best cost: 898741.0
+2026-04-18 11:53:26 [INFO] Phase 2: Evolutionary refinement (n=120, m=2380)...
+2026-04-18 11:53:26 [INFO] Final: cost=37790.0000, steps=0, pop_size=64, time=94.2s
+2026-04-18 11:53:26 [INFO]   ram_k3_n16.ra1.wcnf            cost=  37790.00  time=  94.2s
+2026-04-18 11:53:35 [INFO] Phase 1: Diffusion init (64 trajectories)...
+2026-04-18 11:55:41 [INFO]   Diffusion init best cost: 1191850.0
+2026-04-18 11:55:41 [INFO] Phase 2: Evolutionary refinement (n=136, m=3060)...
+2026-04-18 11:55:41 [INFO] Final: cost=42498.0000, steps=0, pop_size=64, time=135.7s
+2026-04-18 11:55:41 [INFO]   ram_k3_n17.ra1.wcnf            cost=  42498.00  time= 135.7s
+2026-04-18 11:55:54 [INFO] Phase 1: Diffusion init (64 trajectories)...

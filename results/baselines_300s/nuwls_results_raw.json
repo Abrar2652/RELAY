@@ -1,0 +1,5857 @@
+{
+  "300": {
+    "2020": {
+      "ms": {
+        "heart-c.wcnf": [
+          241.0
+        ],
+        "cleve.wcnf": [
+          251.0
+        ],
+        "haberman.wcnf": [
+          Infinity
+        ],
+        "soybean.wcnf": [
+          Infinity
+        ],
+        "postoperative-patient-data.wcnf": [
+          83.0
+        ],
+        "bupa.wcnf": [
+          306.0
+        ],
+        "ecoli.wcnf": [
+          619.0
+        ],
+        "heart-statlog.wcnf": [
+          212.0
+        ],
+        "hungarian.wcnf": [
+          217.0
+        ],
+        "heart-h.wcnf": [
+          203.0
+        ],
+        "rsdecoder6.dimacs.filtered.wcnf": [
+          41.0
+        ],
+        "liver-disorder.wcnf": [
+          324.0
+        ],
+        "GreeceWesternGreeceUniversityInstance4.xml.wcnf": [
+          157.0
+        ],
+        "colic.wcnf": [
+          303.0
+        ],
+        "rsdecoder1_blackbox_KESblock-problem.dimacs_30.filtered.wcnf": [
+          45.0
+        ],
+        "rsdecoder4.dimacs.filtered.wcnf": [
+          59.0
+        ],
+        "SM_AS_TOP_buggy1.dimacs.filtered.wcnf": [
+          59.0
+        ],
+        "australian.wcnf": [
+          504.0
+        ],
+        "rsdecoder-problem.dimacs_41.filtered.wcnf": [
+          2.0
+        ],
+        "wb_4m8s4.dimacs.filtered.wcnf": [
+          220.0
+        ],
+        "adult_train_3_CNF_5_1.wcnf": [
+          4344.0
+        ],
+        "SM_MAIN_MEM_buggy1.dimacs.filtered.wcnf": [
+          514.0
+        ],
+        "diabetes.wcnf": [
+          656.0
+        ],
+        "rsdecoder-problem.dimacs_38.filtered.wcnf": [
+          2.0
+        ],
+        "wb_4m8s-problem.dimacs_49.filtered.wcnf": [
+          231.0
+        ],
+        "shuttleM.wcnf": [
+          Infinity
+        ],
+        "wb_4m8s-problem.dimacs_47.filtered.wcnf": [
+          35.0
+        ],
+        "ms_120_20_20-0.wcnf": [
+          Infinity
+        ],
+        "ms_200_12_20-2.wcnf": [
+          113.0
+        ],
+        "ms_200_20_20-9.wcnf": [
+          Infinity
+        ],
+        "ms_260_20_20-1.wcnf": [
+          Infinity
+        ],
+        "ms_260_20_20-0.wcnf": [
+          Infinity
+        ],
+        "compas_train_4_DNF_5_1.wcnf": [
+          2122.0
+        ],
+        "compas_train_4_DNF_4_1.wcnf": [
+          2205.0
+        ],
+        "heart_train_0_CNF_5_1.wcnf": [
+          46.0
+        ],
+        "credit_test_0_CNF_4_1.wcnf": [
+          527.0
+        ],
+        "heart_train_1_DNF_3_1.wcnf": [
+          46.0
+        ],
+        "ionosphere_train_1_CNF_3_1.wcnf": [
+          22.0
+        ],
+        "credit_train_0_CNF_2_1.wcnf": [
+          4864.0
+        ],
+        "heart_train_4_CNF_5_1.wcnf": [
+          45.0
+        ],
+        "ionosphere_train_1_CNF_4_1.wcnf": [
+          22.0
+        ],
+        "credit_train_1_CNF_3_1.wcnf": [
+          4868.0
+        ],
+        "tictactoe_train_6_CNF_4_1.wcnf": [
+          118.0
+        ],
+        "credit_train_6_DNF_3_1.wcnf": [
+          4888.0
+        ],
+        "wdbc_train_7_DNF_5_1.wcnf": [
+          21.0
+        ],
+        "twitter_test_1_CNF_2_1.wcnf": [
+          160.0
+        ],
+        "credit_train_4_CNF_5_1.wcnf": [
+          4867.0
+        ],
+        "toms_test_1_DNF_2_1.wcnf": [
+          56.0
+        ],
+        "cnf.20.p.10.wcnf": [
+          Infinity
+        ],
+        "cnf.19.p.10.wcnf": [
+          Infinity
+        ],
+        "cnf.20.p.8.wcnf": [
+          Infinity
+        ],
+        "AES1-76-36.wcnf": [
+          Infinity
+        ],
+        "AES1-76-38.wcnf": [
+          Infinity
+        ],
+        "toms_train_1_CNF_2_1.wcnf": [
+          725.0
+        ],
+        "toms_train_4_DNF_5_1.wcnf": [
+          645.0
+        ],
+        "AES2-72-67.wcnf": [
+          Infinity
+        ],
+        "scpclr11_maxsat.wcnf": [
+          23.0
+        ],
+        "scpclr12_maxsat.wcnf": [
+          23.0
+        ],
+        "scpclr13_maxsat.wcnf": [
+          23.0
+        ],
+        "scpcyc06_maxsat.wcnf": [
+          60.0
+        ],
+        "scpcyc07_maxsat.wcnf": [
+          144.0
+        ],
+        "scpcyc08_maxsat.wcnf": [
+          344.0
+        ],
+        "scpcyc09_maxsat.wcnf": [
+          804.0
+        ],
+        "scpcyc10_maxsat.wcnf": [
+          1836.0
+        ],
+        "scpcyc11_maxsat.wcnf": [
+          4267.0
+        ],
+        "atcoss_mesat_03.wcnf": [
+          Infinity
+        ],
+        "atcoss_sugar_03.wcnf": [
+          Infinity
+        ],
+        "atcoss_mesat_02.wcnf": [
+          Infinity
+        ],
+        "atcoss_sugar_02.wcnf": [
+          Infinity
+        ],
+        "atcoss_sugar_10.wcnf": [
+          98.0
+        ],
+        "cnf_10.wcnf": [
+          124.0
+        ],
+        "atcoss_mesat_10.wcnf": [
+          Infinity
+        ],
+        "atcoss_sugar_04.wcnf": [
+          Infinity
+        ],
+        "atcoss_sugar_05.wcnf": [
+          Infinity
+        ],
+        "cnf_small.wcnf": [
+          54.0
+        ],
+        "atcoss_mesat_18.wcnf": [
+          Infinity
+        ],
+        "atcoss_sugar_15.wcnf": [
+          Infinity
+        ],
+        "atcoss_mesat_05.wcnf": [
+          Infinity
+        ],
+        "atcoss_mesat_15.wcnf": [
+          Infinity
+        ],
+        "atcoss_sugar_18.wcnf": [
+          Infinity
+        ],
+        "cnf_12.wcnf": [
+          126.0
+        ],
+        "atcoss_mesat_04.wcnf": [
+          Infinity
+        ],
+        "GenHyperTW_aim-50-2_0-yes1-3.wcnf": [
+          13.0
+        ],
+        "GenHyperTW_dubois24.wcnf": [
+          4.0
+        ],
+        "GenHyperTW_atv_partial_system.wcnf": [
+          8.0
+        ],
+        "GenHyperTW_grid4d_3.wcnf": [
+          7.0
+        ],
+        "GenHyperTW_hole6.wcnf": [
+          7.0
+        ],
+        "GenHyperTW_flat30-50.wcnf": [
+          20.0
+        ],
+        "GenHyperTW_hole9.wcnf": [
+          10.0
+        ],
+        "GenHyperTW_par8-5-c.wcnf": [
+          8.0
+        ],
+        "AMAZON.wcnf": [
+          60792.0
+        ],
+        "DBLP.wcnf": [
+          61910.0
+        ],
+        "Q13_OPTIONS_1.wcnf": [
+          Infinity
+        ],
+        "d4.wcnf": [
+          5877.0
+        ],
+        "Q22_OPTIONS_1.wcnf": [
+          Infinity
+        ],
+        "YOUTUBE.wcnf": [
+          92477.0
+        ],
+        "gen_cvc-add7to3_9999.wcnf": [
+          193.0
+        ],
+        "gen_add_4_carry_33.wcnf": [
+          188.0
+        ],
+        "pesp_18Min.wcnf": [
+          327.0
+        ],
+        "gen_mult_3_5_9999.wcnf": [
+          58.0
+        ],
+        "gen_mult_3_6_9999.wcnf": [
+          62.0
+        ],
+        "gen_mult_4_5_991.wcnf": [
+          117.0
+        ],
+        "gen_mult_4_5_399.wcnf": [
+          729.0
+        ],
+        "gen_mult_4_6_991.wcnf": [
+          140.0
+        ],
+        "gen_mult_4_5_9999.wcnf": [
+          199.0
+        ],
+        "gen_mult_4_5_33.wcnf": [
+          729.0
+        ],
+        "gen_mult_4_6_9999.wcnf": [
+          357.0
+        ],
+        "gen_mult_5_5_399.wcnf": [
+          2298.0
+        ],
+        "gen_mult_5_5_991.wcnf": [
+          237.0
+        ],
+        "extension-enforcement_non-strict_stb_150_0.05_2_8_4.wcnf": [
+          4.0
+        ],
+        "extension-enforcement_non-strict_stb_150_0.1_2_8_2.wcnf": [
+          8.0
+        ],
+        "we.wcnf": [
+          Infinity
+        ],
+        "pesp_5min.wcnf": [
+          89.0
+        ],
+        "gen_mult_5_5_9999.wcnf": [
+          514.0
+        ],
+        "extension-enforcement_non-strict_stb_200_0.05_1_10_1.wcnf": [
+          14.0
+        ],
+        "gen_mult_4_7_991.wcnf": [
+          176.0
+        ],
+        "gen_square_5_9999.wcnf": [
+          58.0
+        ],
+        "extension-enforcement_non-strict_stb_200_0.05_1_10_0.wcnf": [
+          10.0
+        ],
+        "extension-enforcement_non-strict_stb_200_0.05_1_10_2.wcnf": [
+          14.0
+        ],
+        "extension-enforcement_non-strict_stb_200_0.05_2_10_2.wcnf": [
+          8.0
+        ],
+        "extension-enforcement_non-strict_stb_200_0.05_3_10_0.wcnf": [
+          14.0
+        ],
+        "extension-enforcement_non-strict_stb_200_0.05_3_10_1.wcnf": [
+          11.0
+        ],
+        "extension-enforcement_non-strict_stb_200_0.05_4_10_1.wcnf": [
+          10.0
+        ],
+        "extension-enforcement_non-strict_stb_200_0.05_4_10_2.wcnf": [
+          9.0
+        ],
+        "extension-enforcement_non-strict_stb_200_0.05_4_10_3.wcnf": [
+          14.0
+        ],
+        "extension-enforcement_non-strict_stb_200_0.1_2_10_1.wcnf": [
+          10.0
+        ],
+        "MultiDay_1.wcnf": [
+          73970.0
+        ],
+        "MultiDay_3.wcnf": [
+          155200.0
+        ],
+        "SAT11__application__fuhs__AProVE11__AProVE11-09.cnf.wcnf.2.wcnf": [
+          Infinity
+        ],
+        "SAT11__application__fuhs__AProVE11__AProVE11-09.cnf.wcnf.3.wcnf": [
+          Infinity
+        ],
+        "TWComp_myciel5_N47.wcnf": [
+          19.0
+        ],
+        "TWComp_1dp_N76.wcnf": [
+          30.0
+        ],
+        "TWComp_queen5_5_N25.wcnf": [
+          18.0
+        ],
+        "TWComp_1c75_N69.wcnf": [
+          33.0
+        ],
+        "TWComp_queen7_7_N49.wcnf": [
+          36.0
+        ],
+        "TWComp_queen6_6_N36.wcnf": [
+          26.0
+        ],
+        "SAT11__application__fuhs__AProVE11__AProVE11-10.cnf.wcnf.3.wcnf": [
+          Infinity
+        ],
+        "TWComp_1dj7_N73.wcnf": [
+          27.0
+        ],
+        "MANN_a81.clq.wcnf": [
+          399.0
+        ],
+        "brock400_1.clq.wcnf": [
+          375.0
+        ],
+        "brock400_4.clq.wcnf": [
+          367.0
+        ],
+        "s38584_nan_explicit_8_0.wcnf": [
+          269.0
+        ],
+        "s38584_nan_explicit_9_0.wcnf": [
+          277.0
+        ],
+        "brock800_2.clq.wcnf": [
+          779.0
+        ],
+        "s38584_nan_explicit_2_0.wcnf": [
+          241.0
+        ],
+        "s38584_nan_explicit_7_0.wcnf": [
+          239.0
+        ],
+        "TWComp_mulsol.i.5-pp_N119.wcnf": [
+          31.0
+        ],
+        "MultiDay_4.wcnf": [
+          187963.0
+        ],
+        "p_hat1000-1.clq.wcnf": [
+          990.0
+        ],
+        "SingleDay_37.wcnf": [
+          82391.0
+        ],
+        "p_hat1000-3.clq.wcnf": [
+          932.0
+        ],
+        "p_hat300-3.clq.wcnf": [
+          264.0
+        ],
+        "p_hat500-3.clq.wcnf": [
+          450.0
+        ],
+        "SAT11__application__rintanen__SATPlanning__blocks-blocks-36-0.170-NOTKNOWN.cnf.wcnf.6.wcnf": [
+          48.0
+        ],
+        "p_hat700-1.clq.wcnf": [
+          689.0
+        ],
+        "p_hat700-3.clq.wcnf": [
+          638.0
+        ],
+        "sanr400_0.7.clq.wcnf": [
+          379.0
+        ],
+        "b14_C-mbd14-0277.wcnf": [
+          39.0
+        ],
+        "b14_C-mbd14-0337.wcnf": [
+          28.0
+        ],
+        "b14_C-mbd14-0388.wcnf": [
+          28.0
+        ],
+        "b21_C-mbd14-0218.wcnf": [
+          46.0
+        ],
+        "b21_C-mbd14-0322.wcnf": [
+          44.0
+        ],
+        "uaq-ppr-nr200-nc66-n5-k2-rpp4-ppr11-plb100.wcnf": [
+          76.0
+        ],
+        "uaq-ppr-nr200-nc66-n5-k2-rpp4-ppr10-plb100.wcnf": [
+          72.0
+        ],
+        "uaq-ppr-nr200-nc66-n5-k2-rpp4-ppr13-plb100.wcnf": [
+          76.0
+        ],
+        "uaq-ppr-nr200-nc66-n5-k2-rpp4-ppr12-plb100.wcnf": [
+          75.0
+        ],
+        "uaq-ppr-nr200-nc66-n5-k2-rpp4-ppr14-plb100.wcnf": [
+          68.0
+        ],
+        "uaq-ppr-nr200-nc66-n5-k2-rpp4-ppr8-plb100.wcnf": [
+          67.0
+        ],
+        "uaq-ppr-nr200-nc66-n5-k2-rpp4-ppr6-plb100.wcnf": [
+          66.0
+        ],
+        "uaq-ppr-nr200-nc66-n5-k2-rpp6-ppr11-plb100.wcnf": [
+          71.0
+        ],
+        "uaq-ppr-nr200-nc66-n5-k2-rpp6-ppr13-plb100.wcnf": [
+          73.0
+        ],
+        "uaq-ppr-nr200-nc66-n5-k2-rpp6-ppr10-plb100.wcnf": [
+          67.0
+        ],
+        "uaq-ppr-nr200-nc66-n5-k2-rpp6-ppr12-plb100.wcnf": [
+          68.0
+        ],
+        "uaq-ppr-nr200-nc66-n5-k2-rpp4-ppr9-plb100.wcnf": [
+          74.0
+        ],
+        "uaq-ppr-nr200-nc66-n5-k2-rpp6-ppr5-plb100.wcnf": [
+          65.0
+        ],
+        "uaq-ppr-nr200-nc66-n5-k2-rpp6-ppr8-plb100.wcnf": [
+          63.0
+        ],
+        "uaq-ppr-nr200-nc66-n5-k2-rpp6-ppr6-plb100.wcnf": [
+          66.0
+        ],
+        "uaq-ppr-nr200-nc66-n5-k2-rpp6-ppr14-plb100.wcnf": [
+          74.0
+        ],
+        "uaq-ppr-nr200-nc66-n5-k2-rpp6-ppr7-plb100.wcnf": [
+          67.0
+        ],
+        "SU-100kb__simp-genos.haps.1.wcnf": [
+          54.0
+        ],
+        "uaq-ppr-nr200-nc66-n5-k2-rpp6-ppr9-plb100.wcnf": [
+          63.0
+        ],
+        "SU-100kb__simp-genos.haps.12.wcnf": [
+          67.0
+        ],
+        "SU-100kb__simp-genos.haps.21.wcnf": [
+          58.0
+        ],
+        "SU-100kb__simp-genos.haps.22.wcnf": [
+          64.0
+        ],
+        "SU-100kb__simp-genos.haps.3.wcnf": [
+          55.0
+        ],
+        "SU3__simp-genos.haps.63.wcnf": [
+          89.0
+        ],
+        "SU3__simp-genos.haps.80.wcnf": [
+          103.0
+        ],
+        "SU3__simp-genos.haps.9.wcnf": [
+          106.0
+        ],
+        "normalized-ex1010.pi.wcnf": [
+          247.0
+        ],
+        "normalized-fir08_area_opers.wcnf": [
+          55.0
+        ],
+        "normalized-g125.18.wcnf": [
+          2231.0
+        ],
+        "normalized-par32-1.wcnf": [
+          Infinity
+        ],
+        "normalized-par32-3-c.wcnf": [
+          Infinity
+        ],
+        "normalized-test4.pi.wcnf": [
+          97.0
+        ],
+        "normalized-par32-1.opb.msat.wcnf": [
+          Infinity
+        ],
+        "normalized-g100x100.opb.msat.wcnf": [
+          2076.0
+        ],
+        "normalized-par32-2.opb.msat.wcnf": [
+          Infinity
+        ],
+        "normalized-par32-3.opb.msat.wcnf": [
+          Infinity
+        ],
+        "normalized-par32-5.opb.msat.wcnf": [
+          Infinity
+        ],
+        "ram_k3_n12.ra0.wcnf": [
+          10.0
+        ],
+        "ram_k3_n14.ra0.wcnf": [
+          21.0
+        ],
+        "ram_k3_n17.ra0.wcnf": [
+          50.0
+        ],
+        "ram_k3_n16.ra0.wcnf": [
+          39.0
+        ],
+        "ram_k3_n13.ra0.wcnf": [
+          16.0
+        ],
+        "normalized-par32-4.opb.msat.wcnf": [
+          Infinity
+        ],
+        "ram_k3_n18.ra0.wcnf": [
+          60.0
+        ],
+        "ram_k3_n19.ra0.wcnf": [
+          75.0
+        ],
+        "ram_k3_n20.ra0.wcnf": [
+          90.0
+        ],
+        "ram_k4_n18.ra0.wcnf": [
+          9.0
+        ],
+        "ram_k4_n19.ra0.wcnf": [
+          15.0
+        ],
+        "ram_k4_n20.ra0.wcnf": [
+          24.0
+        ],
+        "MANN_a27.clq.wcnf": [
+          404.0
+        ],
+        "MANN_a45.clq.wcnf": [
+          418.0
+        ],
+        "MANN_a9.clq.wcnf": [
+          422.0
+        ],
+        "hamming10-2.clq.wcnf": [
+          400.0
+        ],
+        "c-fat500-10.clq.wcnf": [
+          200.0
+        ],
+        "meltdown_min.wcnf": [
+          Infinity
+        ],
+        "spectre_min.wcnf": [
+          Infinity
+        ],
+        "hamming8-2.clq.wcnf": [
+          441.0
+        ],
+        "hamming6-2.clq.wcnf": [
+          832.0
+        ],
+        "johnson8-4-4.clq.wcnf": [
+          770.0
+        ],
+        "rev66-12.wcnf": [
+          36.0
+        ],
+        "rev66-14.wcnf": [
+          Infinity
+        ],
+        "rev66-16.wcnf": [
+          Infinity
+        ],
+        "rev66-18.wcnf": [
+          Infinity
+        ],
+        "rev66-22.wcnf": [
+          Infinity
+        ],
+        "rev66-20.wcnf": [
+          Infinity
+        ],
+        "rev66-24.wcnf": [
+          Infinity
+        ],
+        "rev66-26.wcnf": [
+          Infinity
+        ],
+        "rev66-30.wcnf": [
+          Infinity
+        ],
+        "rev66-28.wcnf": [
+          Infinity
+        ],
+        "MinFill_R0_queen7_7.wcnf": [
+          508.0
+        ],
+        "MinFill_R0_queen6_6.wcnf": [
+          234.0
+        ],
+        "rev66-32.wcnf": [
+          Infinity
+        ],
+        "MinFill_R0_queen8_8.wcnf": [
+          1034.0
+        ],
+        "MinFill_R0_queen9_9.wcnf": [
+          1733.0
+        ],
+        "MinFill_R0_myciel6.wcnf": [
+          776.0
+        ],
+        "MinFill_R0_queen11_11.wcnf": [
+          4564.0
+        ],
+        "MinFill_R0_queen8_12.wcnf": [
+          2588.0
+        ],
+        "MinFill_R1_games120.wcnf": [
+          2129.0
+        ],
+        "MinFill_R3_miles1000.wcnf": [
+          2160.0
+        ],
+        "normalized-test4.pi.opb.msat.wcnf": [
+          97.0
+        ],
+        "MinFill_R4_miles500.wcnf": [
+          1210.0
+        ],
+        "MinFill_R3_miles750.wcnf": [
+          2055.0
+        ],
+        "MinFill_R0_myciel7.wcnf": [
+          4604.0
+        ],
+        "mul_8_11.wcnf": [
+          64.0
+        ],
+        "mul_8_13.wcnf": [
+          62.0
+        ],
+        "mul_8_14.wcnf": [
+          57.0
+        ],
+        "mul_8_9.wcnf": [
+          42.0
+        ],
+        "g10_n13e12_n13e12_n14e13_n14e13_n14e13_n14e13_n14e13_n15e13_n15e14_n15e14.wcnf": [
+          1.0
+        ],
+        "g2_n13e12_n46e57.wcnf": [
+          1.0
+        ],
+        "g2_n35e34_n58e61.wcnf": [
+          21.0
+        ],
+        "g2_n42e55_n44e53.wcnf": [
+          33.0
+        ],
+        "sbox_8.wcnf": [
+          Infinity
+        ],
+        "g2_n57e60_n61e85.wcnf": [
+          44.0
+        ],
+        "g2_n61e68_n73e75.wcnf": [
+          49.0
+        ],
+        "g2_n63e71_n74e99.wcnf": [
+          53.0
+        ],
+        "g2_n67e83_n68e73.wcnf": [
+          51.0
+        ],
+        "g3_n46e48_n58e61_n75e81.wcnf": [
+          35.0
+        ],
+        "g4_n56e84_n61e85_n62e78_n63e71.wcnf": [
+          74.0
+        ],
+        "g4_n47e58_n55e66_n61e85_n67e83.wcnf": [
+          44.0
+        ]
+      },
+      "wms": {
+        "1407.wcsp.log.wcnf": [
+          459576.0
+        ],
+        "BrazilInstance1.xml.wcnf": [
+          117.0
+        ],
+        "BrazilInstance2.xml.wcnf": [
+          183.0
+        ],
+        "BrazilInstance4.xml.wcnf": [
+          Infinity
+        ],
+        "BrazilInstance5.xml.wcnf": [
+          490.0
+        ],
+        "BrazilInstance6.xml.wcnf": [
+          599.0
+        ],
+        "BrazilInstance7.xml.wcnf": [
+          889.0
+        ],
+        "FinlandSecondarySchool.xml.wcnf": [
+          Infinity
+        ],
+        "ItalyInstance4.xml.wcnf": [
+          12143.0
+        ],
+        "MinWidthCB_milan_200_12_1k_10s_1t_12.wcnf": [
+          98670.0
+        ],
+        "MinWidthCB_mitdbsample_100_43_1k_5s_2t_7.wcnf": [
+          31780.0
+        ],
+        "MinWidthCB_mitdbsample_200_26_1k_2s_2t_4.wcnf": [
+          30540.0
+        ],
+        "MinWidthCB_mitdbsample_200_43_1k_10s_2t_12.wcnf": [
+          40875.0
+        ],
+        "MinWidthCB_mitdbsample_300_26_1k_6s_1t_8.wcnf": [
+          31035.0
+        ],
+        "MinWidthCB_mitdbsample_300_26_1k_6s_2t_6.wcnf": [
+          28880.0
+        ],
+        "MinWidthCB_mitdbsample_300_32_1k_15s_2t_17.wcnf": [
+          26165.0
+        ],
+        "MinWidthCB_mitdbsample_300_32_1k_6s_1t_8.wcnf": [
+          32970.0
+        ],
+        "MinWidthCB_mitdbsample_300_32_1k_6s_2t_8.wcnf": [
+          31110.0
+        ],
+        "MinWidthCB_mitdbsample_300_43_1k_3s_1t_5.wcnf": [
+          47260.0
+        ],
+        "MinWidthCB_mitdbsample_300_43_1k_3s_2t_3.wcnf": [
+          46160.0
+        ],
+        "MinWidthCB_mitdbsample_300_64_1k_15s_2t_17.wcnf": [
+          60160.0
+        ],
+        "MinWidthCB_mitdbsample_300_64_1k_6s_1t_8.wcnf": [
+          76140.0
+        ],
+        "MinWidthCB_power_600_24_1k_12s_2t_14.wcnf": [
+          77361.0
+        ],
+        "MultiDay_2_weighted.wcnf": [
+          505507.0
+        ],
+        "MultiDay_3_weighted.wcnf": [
+          1171306.0
+        ],
+        "MultiDay_4_weighted.wcnf": [
+          2019094.0
+        ],
+        "Rounded_BTWBNSL_Flag.BIC_TWBound_2.wcnf": [
+          280619081.0
+        ],
+        "Rounded_BTWBNSL_Housing_TWBound_2.wcnf": [
+          347191110.0
+        ],
+        "Rounded_BTWBNSL_Voting_TWBound_3.wcnf": [
+          466846257.0
+        ],
+        "Rounded_BTWBNSL_hailfinder_10000_1_3.scores_TWBound_3.wcnf": [
+          53931983212.0
+        ],
+        "Rounded_BTWBNSL_hailfinder_1000_1_3.scores_TWBound_2.wcnf": [
+          5316518859.0
+        ],
+        "Rounded_BTWBNSL_insurance_1000_1_3.scores_TWBound_3.wcnf": [
+          1437466095.0
+        ],
+        "Rounded_CorrelationClustering_Ecoli_BINARY_N220_D0.200.wcnf": [
+          13370545.0
+        ],
+        "Rounded_CorrelationClustering_Ecoli_BINARY_N240_D0.200.wcnf": [
+          18089234.0
+        ],
+        "Rounded_CorrelationClustering_Ecoli_BINARY_N280_D0.200.wcnf": [
+          29211161.0
+        ],
+        "Rounded_CorrelationClustering_Ecoli_BINARY_N300_D0.200.wcnf": [
+          30219930.0
+        ],
+        "Rounded_CorrelationClustering_Ionosphere_BINARY_N280_D0.200.wcnf": [
+          7495586.0
+        ],
+        "Rounded_CorrelationClustering_Ionosphere_BINARY_N300_D0.200.wcnf": [
+          8717944.0
+        ],
+        "Rounded_CorrelationClustering_Protein1_UNARY_N230.wcnf": [
+          13842185.0
+        ],
+        "Rounded_CorrelationClustering_Protein1_UNARY_N250.wcnf": [
+          15672325.0
+        ],
+        "Rounded_CorrelationClustering_Protein1_UNARY_N270.wcnf": [
+          18007520.0
+        ],
+        "Rounded_CorrelationClustering_Protein1_UNARY_N290.wcnf": [
+          19777685.0
+        ],
+        "Rounded_CorrelationClustering_Protein2_BINARY_N400.wcnf": [
+          41374965.0
+        ],
+        "Rounded_CorrelationClustering_Protein2_UNARY_N180.wcnf": [
+          10993996.0
+        ],
+        "Rounded_CorrelationClustering_Protein2_UNARY_N200.wcnf": [
+          12821534.0
+        ],
+        "Rounded_CorrelationClustering_Protein2_UNARY_N220.wcnf": [
+          15466586.0
+        ],
+        "Rounded_CorrelationClustering_Protein2_UNARY_N240.wcnf": [
+          16526346.0
+        ],
+        "Rounded_CorrelationClustering_Protein3_UNARY_N220.wcnf": [
+          15435886.0
+        ],
+        "Rounded_CorrelationClustering_Protein3_UNARY_N240.wcnf": [
+          17269551.0
+        ],
+        "Rounded_CorrelationClustering_Protein3_UNARY_N260.wcnf": [
+          22695890.0
+        ],
+        "Rounded_CorrelationClustering_Protein3_UNARY_N300.wcnf": [
+          27248897.0
+        ],
+        "Rounded_CorrelationClustering_Protein4_BINARY_N380.wcnf": [
+          18200892.0
+        ],
+        "Rounded_CorrelationClustering_Protein4_UNARY_N210.wcnf": [
+          5234623.0
+        ],
+        "Rounded_CorrelationClustering_Vowel_BINARY_N700_D0.200.wcnf": [
+          75201247.0
+        ],
+        "Rounded_CorrelationClustering_Vowel_BINARY_N760_D0.200.wcnf": [
+          82403102.0
+        ],
+        "Rounded_CorrelationClustering_Vowel_BINARY_N800_D0.200.wcnf": [
+          86276967.0
+        ],
+        "SingleDay_37_weighted.wcnf": [
+          45129373.0
+        ],
+        "adult_train_0_CNF_5_20.wcnf": [
+          84846.0
+        ],
+        "adult_train_3_CNF_4_5.wcnf": [
+          21463.0
+        ],
+        "af-synthesis_stb_50_120_3.wcnf": [
+          102.0
+        ],
+        "af-synthesis_stb_50_120_9.wcnf": [
+          115.0
+        ],
+        "af-synthesis_stb_50_140_0.wcnf": [
+          121.0
+        ],
+        "af-synthesis_stb_50_140_1.wcnf": [
+          127.0
+        ],
+        "af-synthesis_stb_50_140_7.wcnf": [
+          109.0
+        ],
+        "af-synthesis_stb_50_140_8.wcnf": [
+          114.0
+        ],
+        "af-synthesis_stb_50_160_4.wcnf": [
+          127.0
+        ],
+        "af-synthesis_stb_50_160_5.wcnf": [
+          117.0
+        ],
+        "af-synthesis_stb_50_180_1.wcnf": [
+          135.0
+        ],
+        "af-synthesis_stb_50_180_2.wcnf": [
+          115.0
+        ],
+        "af-synthesis_stb_50_200_4.wcnf": [
+          105.0
+        ],
+        "af-synthesis_stb_50_20_8.wcnf": [
+          123.0
+        ],
+        "af-synthesis_stb_50_40_8.wcnf": [
+          120.0
+        ],
+        "af-synthesis_stb_50_40_9.wcnf": [
+          135.0
+        ],
+        "af-synthesis_stb_50_60_3.wcnf": [
+          115.0
+        ],
+        "af-synthesis_stb_50_80_3.wcnf": [
+          113.0
+        ],
+        "af-synthesis_stb_50_80_7.wcnf": [
+          115.0
+        ],
+        "bf2030fvslack.wcnf": [
+          Infinity
+        ],
+        "bnn_mnist_rot_7_label2_adversarial_norm_inf_totalizer.wcnf": [
+          Infinity
+        ],
+        "brock200_4.clq.wcnf": [
+          1105.0
+        ],
+        "brock400_3.clq.wcnf": [
+          1259.0
+        ],
+        "brock800_3.clq.wcnf": [
+          1079.0
+        ],
+        "causal_Autos_8_159.wcnf": [
+          1275067.0
+        ],
+        "causal_Heart_10_212.wcnf": [
+          5166113.0
+        ],
+        "causal_Horse_9_300.wcnf": [
+          2673130.0
+        ],
+        "causal_Link_10_1000.wcnf": [
+          28490847.0
+        ],
+        "causal_Water_10_1000.wcnf": [
+          45193159.0
+        ],
+        "causal_alarm_9_1000.wcnf": [
+          38803563.0
+        ],
+        "causal_carpo_9_10000.wcnf": [
+          6007532.0
+        ],
+        "causal_insurance_9_100.wcnf": [
+          4707228.0
+        ],
+        "channel-500x100x100-b050.wcnf": [
+          26463663.0
+        ],
+        "comp01.wcnf": [
+          Infinity
+        ],
+        "comp02.wcnf": [
+          118.0
+        ],
+        "comp05.wcnf": [
+          477.0
+        ],
+        "comp06.lp.sm-extracted.wcnf": [
+          368.0
+        ],
+        "comp07.wcnf": [
+          285.0
+        ],
+        "comp09.wcnf": [
+          135.0
+        ],
+        "comp12.wcnf": [
+          555.0
+        ],
+        "comp15.wcnf": [
+          125.0
+        ],
+        "comp18.wcnf": [
+          123.0
+        ],
+        "comp21.wcnf": [
+          179.0
+        ],
+        "compas_train_0_CNF_5_5.wcnf": [
+          10632.0
+        ],
+        "credit_test_9_CNF_4_10.wcnf": [
+          5322.0
+        ],
+        "credit_train_8_CNF_5_15.wcnf": [
+          72154.0
+        ],
+        "dds4.wcnf": [
+          Infinity
+        ],
+        "delaunay_n24.wcnf": [
+          Infinity
+        ],
+        "hamming6-2.clq.wcnf": [
+          4391.0
+        ],
+        "hugebubbles-00020.wcnf": [
+          Infinity
+        ],
+        "inf-road-usa.wcnf": [
+          Infinity
+        ],
+        "instance10.wcnf": [
+          6781.0
+        ],
+        "instance11.wcnf": [
+          3653.0
+        ],
+        "instance12.wcnf": [
+          7671.0
+        ],
+        "instance2.wcnf": [
+          838.0
+        ],
+        "instance3.wcnf": [
+          1026.0
+        ],
+        "instance4.wcnf": [
+          1740.0
+        ],
+        "instance5.wcnf": [
+          1287.0
+        ],
+        "instance6.wcnf": [
+          2081.0
+        ],
+        "instance7.wcnf": [
+          1178.0
+        ],
+        "instance8.wcnf": [
+          2848.0
+        ],
+        "instance9.wcnf": [
+          2161.0
+        ],
+        "johnson8-4-4.clq.wcnf": [
+          4154.0
+        ],
+        "limits-10-10_data-2_inst-003_30m.sm-extracted.wcnf": [
+          Infinity
+        ],
+        "limits-10-10_data-2_inst-025_30m.sm-extracted.wcnf": [
+          Infinity
+        ],
+        "limits-10-10_data-2_inst-030_30m.sm-extracted.wcnf": [
+          Infinity
+        ],
+        "limits-10-10_data-4_inst-003_60m.sm-extracted.wcnf": [
+          Infinity
+        ],
+        "lisbon-wedding-1-17.wcnf": [
+          Infinity
+        ],
+        "lisbon-wedding-1-19.wcnf": [
+          Infinity
+        ],
+        "lisbon-wedding-10-19.wcnf": [
+          447.0
+        ],
+        "lisbon-wedding-2-17.wcnf": [
+          Infinity
+        ],
+        "lisbon-wedding-2-18.wcnf": [
+          Infinity
+        ],
+        "lisbon-wedding-3-19.wcnf": [
+          Infinity
+        ],
+        "lisbon-wedding-4-17.wcnf": [
+          1529.0
+        ],
+        "lisbon-wedding-4-19.wcnf": [
+          1379.0
+        ],
+        "lisbon-wedding-5-19.wcnf": [
+          1172.0
+        ],
+        "lisbon-wedding-6-19.wcnf": [
+          1130.0
+        ],
+        "lisbon-wedding-7-17.wcnf": [
+          492.0
+        ],
+        "lisbon-wedding-7-19.wcnf": [
+          476.0
+        ],
+        "lisbon-wedding-8-17.wcnf": [
+          442.0
+        ],
+        "lisbon-wedding-8-19.wcnf": [
+          435.0
+        ],
+        "lisbon-wedding-9-19.wcnf": [
+          447.0
+        ],
+        "metro_8_8_5_20_10_6_500_1_3.lp.sm-extracted.wcnf": [
+          215.0
+        ],
+        "normalized-mps-v2-20-10-cracpb1.opb.msat.wcnf": [
+          Infinity
+        ],
+        "normalized-mps-v2-20-10-l152lav.opb.msat.wcnf": [
+          Infinity
+        ],
+        "normalized-mps-v2-20-10-lp4l.opb.msat.wcnf": [
+          Infinity
+        ],
+        "normalized-mps-v2-20-10-mod008.opb.msat.wcnf": [
+          Infinity
+        ],
+        "normalized-mps-v2-20-10-mod010.opb.msat.wcnf": [
+          Infinity
+        ],
+        "normalized-mps-v2-20-10-p0548.opb.msat.wcnf": [
+          Infinity
+        ],
+        "normalized-mps-v2-20-10-sentoy.opb.msat.wcnf": [
+          Infinity
+        ],
+        "p_hat500-3.clq.wcnf": [
+          1501.0
+        ],
+        "random-net-50-5_network-4.net.wcnf": [
+          78808.0
+        ],
+        "p_hat700-3.clq.wcnf": [
+          1432.0
+        ],
+        "pima_train_3_CNF_5_20.wcnf": [
+          2488.0
+        ],
+        "power-distribution_10_7.wcnf": [
+          60.0
+        ],
+        "power-distribution_10_8.wcnf": [
+          60.0
+        ],
+        "power-distribution_11_7.wcnf": [
+          126.0
+        ],
+        "power-distribution_11_8.wcnf": [
+          126.0
+        ],
+        "power-distribution_12_7.wcnf": [
+          216.0
+        ],
+        "power-distribution_12_8.wcnf": [
+          216.0
+        ],
+        "power-distribution_2_8.wcnf": [
+          10.0
+        ],
+        "power-distribution_7_8.wcnf": [
+          18.0
+        ],
+        "power-distribution_8_8.wcnf": [
+          40.0
+        ],
+        "power-distribution_9_8.wcnf": [
+          18.0
+        ],
+        "r11.wcnf": [
+          54951510.0
+        ],
+        "rail2536.wcnf": [
+          Infinity
+        ],
+        "rail4284.wcnf": [
+          Infinity
+        ],
+        "rail4872.wcnf": [
+          Infinity
+        ],
+        "ram_k3_n13.ra1.wcnf": [
+          1417.0
+        ],
+        "ram_k3_n14.ra1.wcnf": [
+          3025.0
+        ],
+        "ram_k3_n15.ra1.wcnf": [
+          4884.0
+        ],
+        "ram_k3_n16.ra1.wcnf": [
+          7271.0
+        ],
+        "ram_k3_n17.ra1.wcnf": [
+          10372.0
+        ],
+        "ram_k3_n18.ra1.wcnf": [
+          15621.0
+        ],
+        "ram_k3_n19.ra1.wcnf": [
+          20665.0
+        ],
+        "ram_k3_n20.ra1.wcnf": [
+          23898.0
+        ],
+        "ram_k4_n18.ra1.wcnf": [
+          347.0
+        ],
+        "ram_k4_n19.ra1.wcnf": [
+          1226.0
+        ],
+        "ram_k4_n20.ra1.wcnf": [
+          3219.0
+        ],
+        "random-net-30-6_network-4.net.wcnf": [
+          24362.0
+        ],
+        "random-net-40-5_network-10.net.wcnf": [
+          32686.0
+        ],
+        "random-net-40-5_network-7.net.wcnf": [
+          35573.0
+        ],
+        "random-net-50-5_network-10.net.wcnf": [
+          41721.0
+        ],
+        "random-net-50-5_network-9.net.wcnf": [
+          44178.0
+        ],
+        "robot-navigation_10.wcnf": [
+          Infinity
+        ],
+        "role_domino_0.05_7.wcnf": [
+          24520.0
+        ],
+        "role_domino_0.15_0.wcnf": [
+          56570.0
+        ],
+        "role_domino_0.15_18.wcnf": [
+          56268.0
+        ],
+        "role_domino_0.25_9.wcnf": [
+          85009.0
+        ],
+        "role_domino_0.35_10.wcnf": [
+          111644.0
+        ],
+        "role_domino_0.4_4.wcnf": [
+          124866.0
+        ],
+        "role_domino_0.7_16.wcnf": [
+          183188.0
+        ],
+        "role_domino_0.9_16.wcnf": [
+          206616.0
+        ],
+        "role_domino_0.9_6.wcnf": [
+          197783.0
+        ],
+        "role_domino_0.9_7.wcnf": [
+          206621.0
+        ],
+        "role_domino_multiple_0.4_5.wcnf": [
+          123648.0
+        ],
+        "role_domino_multiple_0.4_9.wcnf": [
+          119891.0
+        ],
+        "role_smallcomp_0.95_2.wcnf": [
+          426207.0
+        ],
+        "role_university_0.05_8.wcnf": [
+          39430.0
+        ],
+        "role_university_0.4_8.wcnf": [
+          198667.0
+        ],
+        "role_university_0.55_1.wcnf": [
+          242585.0
+        ],
+        "role_university_0.55_6.wcnf": [
+          268757.0
+        ],
+        "role_university_0.9_1.wcnf": [
+          242215.0
+        ],
+        "role_university_1.0_0.wcnf": [
+          207160.0
+        ],
+        "role_university_multiple_0.1_2.wcnf": [
+          54928.0
+        ],
+        "role_university_multiple_0.8_6.wcnf": [
+          208842.0
+        ],
+        "role_university_violations_0.45_2.wcnf": [
+          216895.0
+        ],
+        "role_university_violations_0.65_5.wcnf": [
+          250435.0
+        ],
+        "san200_0.7_1.clq.wcnf": [
+          1256.0
+        ],
+        "sanr200_0.7.clq.wcnf": [
+          1171.0
+        ],
+        "sc-rel9.wcnf": [
+          Infinity
+        ],
+        "scpnrg1_weighted.wcnf": [
+          176.0
+        ],
+        "scpnrg2_weighted.wcnf": [
+          156.0
+        ],
+        "scpnrg3_weighted.wcnf": [
+          168.0
+        ],
+        "scpnrg4_weighted.wcnf": [
+          168.0
+        ],
+        "scpnrg5_weighted.wcnf": [
+          169.0
+        ],
+        "scpnrh1_weighted.wcnf": [
+          64.0
+        ],
+        "scpnrh2_weighted.wcnf": [
+          63.0
+        ],
+        "scpnrh3_weighted.wcnf": [
+          59.0
+        ],
+        "scpnrh4_weighted.wcnf": [
+          58.0
+        ],
+        "scpnrh5_weighted.wcnf": [
+          55.0
+        ],
+        "simNo_1-s_15-m_300-n_300-fp_0.01-fn_0.20.wcnf": [
+          2546648144821308.0
+        ],
+        "simNo_2-s_5-m_300-n_300-fp_0.01-fn_0.20.wcnf": [
+          4138789492288554.0
+        ],
+        "simNo_6-s_5-m_100-n_500-fp_0.0001-fn_0.20.wcnf": [
+          950805570843675.0
+        ],
+        "simNo_8-s_5-m_100-n_500-fp_0.0001-fn_0.20.wcnf": [
+          652388698602009.0
+        ],
+        "simNo_9-s_15-m_300-n_300-fp_0.0001-fn_0.20.wcnf": [
+          1637440716745890.0
+        ],
+        "tcp_students_105_it_2.wcnf": [
+          2547.0
+        ],
+        "tcp_students_105_it_6.wcnf": [
+          3108.0
+        ],
+        "tcp_students_112_it_5.wcnf": [
+          3366.0
+        ],
+        "tcp_students_112_it_13.wcnf": [
+          3066.0
+        ],
+        "tcp_students_112_it_9.wcnf": [
+          3030.0
+        ],
+        "tcp_students_98_it_11.wcnf": [
+          2769.0
+        ],
+        "tcp_students_98_it_14.wcnf": [
+          3141.0
+        ],
+        "tcp_students_98_it_15.wcnf": [
+          3141.0
+        ],
+        "tcp_students_98_it_2.wcnf": [
+          2616.0
+        ],
+        "test1.wcnf": [
+          Infinity
+        ],
+        "test3.wcnf": [
+          316.0
+        ],
+        "test4.wcnf": [
+          395.0
+        ],
+        "tictactoe_train_0_DNF_3_5.wcnf": [
+          930.0
+        ],
+        "titanic_train_4_DNF_4_20.wcnf": [
+          4438.0
+        ],
+        "toms_test_1_CNF_3_10.wcnf": [
+          146.0
+        ],
+        "toms_train_6_DNF_4_5.wcnf": [
+          3074.0
+        ],
+        "twitter_test_4_CNF_3_10.wcnf": [
+          664.0
+        ],
+        "twitter_test_5_CNF_1_20.wcnf": [
+          3154.0
+        ],
+        "wg2.wcnf": [
+          168.0
+        ],
+        "web-wikipedia2009.wcnf": [
+          35092853.0
+        ]
+      }
+    },
+    "2021": {
+      "ms": {
+        "20-100-frag12-13.wcnf": [
+          49.0
+        ],
+        "20-100-frag12-85.wcnf": [
+          47.0
+        ],
+        "20-100-frag12-91.wcnf": [
+          48.0
+        ],
+        "20-100-frag12-97.wcnf": [
+          48.0
+        ],
+        "20-100-p100-49.wcnf": [
+          85.0
+        ],
+        "20-100-p100-54.wcnf": [
+          80.0
+        ],
+        "20-100-lambda100-48.wcnf": [
+          76.0
+        ],
+        "20-100-lambda100-96.wcnf": [
+          79.0
+        ],
+        "AMAZON.wcnf": [
+          60792.0
+        ],
+        "DBLP.wcnf": [
+          61910.0
+        ],
+        "YOUTUBE.wcnf": [
+          92477.0
+        ],
+        "GenHyperTW_aim-50-3_4-yes1-3.wcnf": [
+          14.0
+        ],
+        "GenHyperTW_atv_partial_system.wcnf": [
+          8.0
+        ],
+        "GenHyperTW_clique_15.wcnf": [
+          11.0
+        ],
+        "GenHyperTW_flat30-50.wcnf": [
+          20.0
+        ],
+        "GenHyperTW_hole6.wcnf": [
+          7.0
+        ],
+        "GenHyperTW_par8-3-c.wcnf": [
+          10.0
+        ],
+        "GenHyperTW_pret60_25.wcnf": [
+          6.0
+        ],
+        "GenHyperTW_uf20-099.wcnf": [
+          6.0
+        ],
+        "GreeceWesternGreeceUniversityInstance4.xml.wcnf": [
+          156.0
+        ],
+        "MinFill_R0_miles1500.wcnf": [
+          1942.0
+        ],
+        "MinFill_R0_myciel6.wcnf": [
+          761.0
+        ],
+        "MinFill_R0_queen5_5.wcnf": [
+          93.0
+        ],
+        "MinFill_R0_queen8_8.wcnf": [
+          1034.0
+        ],
+        "MinFill_R0_queen9_9.wcnf": [
+          1712.0
+        ],
+        "MinFill_R1_games120.wcnf": [
+          2129.0
+        ],
+        "MinFill_R3_miles750.wcnf": [
+          2055.0
+        ],
+        "MultiDay_1.wcnf": [
+          73965.0
+        ],
+        "MultiDay_3.wcnf": [
+          155200.0
+        ],
+        "MultiDay_4.wcnf": [
+          187963.0
+        ],
+        "SingleDay_15.wcnf": [
+          25873.0
+        ],
+        "SingleDay_3.wcnf": [
+          9448.0
+        ],
+        "Subnetwork_7.wcnf": [
+          6393.0
+        ],
+        "Subnetwork_9.wcnf": [
+          7902.0
+        ],
+        "MultiDay_1_weighted.wcnf": [
+          73965.0
+        ],
+        "TWComp_1c75_N69.wcnf": [
+          33.0
+        ],
+        "TWComp_myciel5_N47.wcnf": [
+          19.0
+        ],
+        "TWComp_queen5_5_N25.wcnf": [
+          18.0
+        ],
+        "atcoss_mesat_02.wcnf": [
+          Infinity
+        ],
+        "atcoss_mesat_03.wcnf": [
+          Infinity
+        ],
+        "atcoss_mesat_04.wcnf": [
+          Infinity
+        ],
+        "atcoss_mesat_15.wcnf": [
+          Infinity
+        ],
+        "atcoss_mesat_18.wcnf": [
+          Infinity
+        ],
+        "atcoss_sugar_05.wcnf": [
+          Infinity
+        ],
+        "atcoss_sugar_10.wcnf": [
+          80.0
+        ],
+        "hamming10-4.clq.wcnf": [
+          984.0
+        ],
+        "p_hat1000-2.clq.wcnf": [
+          954.0
+        ],
+        "p_hat700-2.clq.wcnf": [
+          656.0
+        ],
+        "brock200_3.clq.wcnf": [
+          214.0
+        ],
+        "maxcut-140-630-0.7-12.wcnf": [
+          167.0
+        ],
+        "maxcut-140-630-0.7-20.wcnf": [
+          168.0
+        ],
+        "maxcut-140-630-0.7-28.wcnf": [
+          167.0
+        ],
+        "maxcut-140-630-0.7-4.wcnf": [
+          167.0
+        ],
+        "maxcut-140-630-0.7-45.wcnf": [
+          168.0
+        ],
+        "maxcut-140-630-0.7-6.wcnf": [
+          162.0
+        ],
+        "maxcut-140-630-0.8-1.wcnf": [
+          165.0
+        ],
+        "maxcut-140-630-0.8-18.wcnf": [
+          163.0
+        ],
+        "maxcut-140-630-0.8-26.wcnf": [
+          167.0
+        ],
+        "maxcut-140-630-0.8-39.wcnf": [
+          169.0
+        ],
+        "cnf_10.wcnf": [
+          124.0
+        ],
+        "cnf_12.wcnf": [
+          126.0
+        ],
+        "cnf_small.wcnf": [
+          52.0
+        ],
+        "credit_train_1_DNF_3_1.wcnf": [
+          4890.0
+        ],
+        "d4.wcnf": [
+          5877.0
+        ],
+        "pesp_18Min.wcnf": [
+          327.0
+        ],
+        "pesp_5min.wcnf": [
+          75.0
+        ],
+        "we.wcnf": [
+          Infinity
+        ],
+        "data.135.wcnf": [
+          103.0
+        ],
+        "data.243.wcnf": [
+          198.0
+        ],
+        "data.405.wcnf": [
+          336.0
+        ],
+        "data.729.wcnf": [
+          617.0
+        ],
+        "formula_0.8_2021_atleast_127_max-6_reduced_incomplete_tree.wcnf": [
+          52.0
+        ],
+        "formula_0.8_2021_atleast_31_max-4_reduced_incomplete_tree.wcnf": [
+          102.0
+        ],
+        "formula_0.8_2021_atleast_63_max-5_reduced_incomplete_tree.wcnf": [
+          59.0
+        ],
+        "formula_0.8_2021_atleast_15_max-3_reduced_incomplete_tree.wcnf": [
+          469.0
+        ],
+        "haberman.wcnf": [
+          Infinity
+        ],
+        "heart-c.wcnf": [
+          241.0
+        ],
+        "ms_160_20_20-0.wcnf": [
+          Infinity
+        ],
+        "ms_200_10_40-0.wcnf": [
+          Infinity
+        ],
+        "ms_200_12_20-3.wcnf": [
+          Infinity
+        ],
+        "ms_200_16_20-0.wcnf": [
+          Infinity
+        ],
+        "ms_200_20_20-6.wcnf": [
+          Infinity
+        ],
+        "ms_200_22_20-2.wcnf": [
+          Infinity
+        ],
+        "ms_260_20_20-0.wcnf": [
+          Infinity
+        ],
+        "ms_260_20_20-1.wcnf": [
+          Infinity
+        ],
+        "mul_8_11.wcnf": [
+          64.0
+        ],
+        "mul_8_13.wcnf": [
+          62.0
+        ],
+        "mul_8_14.wcnf": [
+          57.0
+        ],
+        "mul_8_3.wcnf": [
+          36.0
+        ],
+        "mul_8_9.wcnf": [
+          42.0
+        ],
+        "sbox_8.wcnf": [
+          Infinity
+        ],
+        "normalized-test4.pi.opb.msat.wcnf": [
+          97.0
+        ],
+        "ram_k3_n10.ra0.wcnf": [
+          4.0
+        ],
+        "ram_k3_n11.ra0.wcnf": [
+          7.0
+        ],
+        "ram_k3_n12.ra0.wcnf": [
+          10.0
+        ],
+        "ram_k3_n13.ra0.wcnf": [
+          16.0
+        ],
+        "ram_k3_n14.ra0.wcnf": [
+          21.0
+        ],
+        "ram_k3_n15.ra0.wcnf": [
+          30.0
+        ],
+        "ram_k3_n18.ra0.wcnf": [
+          60.0
+        ],
+        "ram_k3_n19.ra0.wcnf": [
+          75.0
+        ],
+        "ram_k4_n18.ra0.wcnf": [
+          9.0
+        ],
+        "ram_k4_n19.ra0.wcnf": [
+          15.0
+        ],
+        "ram_k4_n20.ra0.wcnf": [
+          24.0
+        ],
+        "rev66-16.wcnf": [
+          Infinity
+        ],
+        "rev66-18.wcnf": [
+          Infinity
+        ],
+        "rev66-20.wcnf": [
+          Infinity
+        ],
+        "rev66-22.wcnf": [
+          Infinity
+        ],
+        "rev66-24.wcnf": [
+          Infinity
+        ],
+        "rev66-28.wcnf": [
+          Infinity
+        ],
+        "rev66-32.wcnf": [
+          Infinity
+        ],
+        "scpclr11_maxsat.wcnf": [
+          23.0
+        ],
+        "scpclr12_maxsat.wcnf": [
+          23.0
+        ],
+        "scpclr13_maxsat.wcnf": [
+          23.0
+        ],
+        "scpcyc06_maxsat.wcnf": [
+          60.0
+        ],
+        "scpcyc07_maxsat.wcnf": [
+          144.0
+        ],
+        "scpcyc08_maxsat.wcnf": [
+          344.0
+        ],
+        "scpcyc09_maxsat.wcnf": [
+          804.0
+        ],
+        "scpcyc10_maxsat.wcnf": [
+          1836.0
+        ],
+        "scpcyc11_maxsat.wcnf": [
+          4267.0
+        ],
+        "cellda_x_12.wcnf": [
+          Infinity
+        ],
+        "cellda_y_10.wcnf": [
+          Infinity
+        ],
+        "navigation_5x5_10.wcnf": [
+          Infinity
+        ],
+        "navigation_5x5_8.wcnf": [
+          Infinity
+        ],
+        "navigation_5x5_9.wcnf": [
+          Infinity
+        ],
+        "sysadmin_4_4.wcnf": [
+          Infinity
+        ],
+        "sysadmin_5_3.wcnf": [
+          Infinity
+        ],
+        "uaq-ppr-nr200-nc66-n5-k2-rpp4-ppr13-plb100.wcnf": [
+          76.0
+        ],
+        "sysadmin_5_4.wcnf": [
+          Infinity
+        ],
+        "Q34_OPTIONS_1.wcnf": [
+          Infinity
+        ],
+        "extension-enforcement_non-strict_stb_200_0.05_4_10_0.wcnf": [
+          13.0
+        ],
+        "extension-enforcement_non-strict_stb_200_0.1_4_10_2.wcnf": [
+          9.0
+        ],
+        "g2_n35e34_n58e61.wcnf": [
+          21.0
+        ],
+        "gen_add_6_991.wcnf": [
+          107.0
+        ],
+        "meltdown_min.wcnf": [
+          Infinity
+        ],
+        "uaq-min-nr-nr50-np400-rpp5-nc0-rs0-t0-plb100-n9.wcnf": [
+          234.0
+        ],
+        "spectre_min.wcnf": [
+          Infinity
+        ]
+      },
+      "wms": {
+        "BrazilInstance1.xml.wcnf": [
+          114.0
+        ],
+        "BrazilInstance2.xml.wcnf": [
+          149.0
+        ],
+        "BrazilInstance4.xml.wcnf": [
+          Infinity
+        ],
+        "BrazilInstance5.xml.wcnf": [
+          440.0
+        ],
+        "BrazilInstance6.xml.wcnf": [
+          546.0
+        ],
+        "BrazilInstance7.xml.wcnf": [
+          889.0
+        ],
+        "FinlandSecondarySchool.xml.wcnf": [
+          Infinity
+        ],
+        "ItalyInstance1.xml.wcnf": [
+          70.0
+        ],
+        "ItalyInstance4.xml.wcnf": [
+          9288.0
+        ],
+        "MANN_a45.clq.wcnf": [
+          2057.0
+        ],
+        "brock200_3.clq.wcnf": [
+          1102.0
+        ],
+        "brock400_2.clq.wcnf": [
+          1355.0
+        ],
+        "p_hat300-3.clq.wcnf": [
+          1439.0
+        ],
+        "MultiDay_2_weighted.wcnf": [
+          460558.0
+        ],
+        "MultiDay_3_weighted.wcnf": [
+          1053523.0
+        ],
+        "MultiDay_4_weighted.wcnf": [
+          2019094.0
+        ],
+        "SingleDay_15_weighted.wcnf": [
+          3644135.0
+        ],
+        "SingleDay_37_weighted.wcnf": [
+          45129373.0
+        ],
+        "Subnetwork_9_weighted.wcnf": [
+          82931.0
+        ],
+        "Rounded_CorrelationClustering_Protein1_UNARY_N190.wcnf": [
+          9315538.0
+        ],
+        "Rounded_CorrelationClustering_Protein2_UNARY_N260.wcnf": [
+          18061449.0
+        ],
+        "Rounded_CorrelationClustering_Protein3_BINARY_N400.wcnf": [
+          43731827.0
+        ],
+        "Rounded_CorrelationClustering_Protein3_UNARY_N260.wcnf": [
+          21677580.0
+        ],
+        "Rounded_CorrelationClustering_Protein4_UNARY_N190.wcnf": [
+          4071734.0
+        ],
+        "bf2030fvslack.wcnf": [
+          Infinity
+        ],
+        "wg2.wcnf": [
+          168.0
+        ],
+        "r11.wcnf": [
+          54951510.0
+        ],
+        "bn-human-BNU_1_0025865_session_1-bg.wcnf": [
+          Infinity
+        ],
+        "channel-500x100x100-b050.wcnf": [
+          33348213.0
+        ],
+        "delaunay_n24.wcnf": [
+          276432528.0
+        ],
+        "hugebubbles-00020.wcnf": [
+          588544429.0
+        ],
+        "inf-road-usa.wcnf": [
+          Infinity
+        ],
+        "sc-rel9.wcnf": [
+          11854723.0
+        ],
+        "web-wikipedia2009.wcnf": [
+          27076806.0
+        ],
+        "bnn_mnist_30_label3_adversarial_norm_inf_totalizer.wcnf": [
+          Infinity
+        ],
+        "bnn_mnist_back_image_35_label9_adversarial_norm_inf_totalizer.wcnf": [
+          Infinity
+        ],
+        "bnn_mnist_back_image_40_label3_adversarial_norm_inf_totalizer.wcnf": [
+          Infinity
+        ],
+        "bnn_mnist_back_image_5_label2_adversarial_norm_inf_totalizer.wcnf": [
+          Infinity
+        ],
+        "bnn_mnist_rot_1_label0_adversarial_norm_inf_totalizer.wcnf": [
+          Infinity
+        ],
+        "credit_train_1_DNF_2_5.wcnf": [
+          24114.0
+        ],
+        "twitter_train_1_CNF_4_20.wcnf": [
+          38207.0
+        ],
+        "toms_test_3_DNF_4_20.wcnf": [
+          142.0
+        ],
+        "toms_train_9_CNF_5_5.wcnf": [
+          3159.0
+        ],
+        "wdbc_train_9_DNF_5_10.wcnf": [
+          22.0
+        ],
+        "formula_0.8_2021_atleast_127_max-6_reduced_incomplete_adaboost_3.wcnf": [
+          105.0
+        ],
+        "formula_0.8_2021_atleast_15_max-3_reduced_incomplete_adaboost_6.wcnf": [
+          793.0
+        ],
+        "formula_0.8_2021_atleast_31_max-4_reduced_incomplete_adaboost_2.wcnf": [
+          296.0
+        ],
+        "formula_0.8_2021_atleast_63_max-5_reduced_incomplete_adaboost_4.wcnf": [
+          531.0
+        ],
+        "formula_0.8_2021_atleast_63_max-5_reduced_incomplete_adaboost_5.wcnf": [
+          500.0
+        ],
+        "formula_0.8_2021_atleast_15_max-3_reduced_incomplete_adaboost_2.wcnf": [
+          214.0
+        ],
+        "formula_0.8_2021_atleast_31_max-4_reduced_incomplete_adaboost_6.wcnf": [
+          240.0
+        ],
+        "formula_0.8_2021_atleast_63_max-5_reduced_incomplete_adaboost_6.wcnf": [
+          229.0
+        ],
+        "formula_0.8_2021_atleast_127_max-6_reduced_incomplete_adaboost_6.wcnf": [
+          843.0
+        ],
+        "formula_0.8_2021_atleast_63_max-5_reduced_incomplete_adaboost_3.wcnf": [
+          319.0
+        ],
+        "formula_0.8_2021_atleast_15_max-3_reduced_incomplete_adaboost_5.wcnf": [
+          242.0
+        ],
+        "formula_0.8_2021_atleast_63_max-5_reduced_incomplete_adaboost_2.wcnf": [
+          110.0
+        ],
+        "formula_0.8_2021_atleast_31_max-4_reduced_incomplete_adaboost_5.wcnf": [
+          750.0
+        ],
+        "random-net-50-5_network-4.net.wcnf": [
+          78808.0
+        ],
+        "formula_0.8_2021_atleast_15_max-3_reduced_incomplete_adaboost_4.wcnf": [
+          523.0
+        ],
+        "instance10.wcnf": [
+          6550.0
+        ],
+        "instance11.wcnf": [
+          3653.0
+        ],
+        "instance12.wcnf": [
+          7138.0
+        ],
+        "instance3.wcnf": [
+          1026.0
+        ],
+        "instance4.wcnf": [
+          1729.0
+        ],
+        "instance5.wcnf": [
+          1287.0
+        ],
+        "instance6.wcnf": [
+          2081.0
+        ],
+        "instance7.wcnf": [
+          1171.0
+        ],
+        "instance8.wcnf": [
+          2848.0
+        ],
+        "instance9.wcnf": [
+          2142.0
+        ],
+        "lisbon-wedding-1-17.wcnf": [
+          Infinity
+        ],
+        "lisbon-wedding-1-19.wcnf": [
+          Infinity
+        ],
+        "lisbon-wedding-10-19.wcnf": [
+          440.0
+        ],
+        "lisbon-wedding-7-18.wcnf": [
+          482.0
+        ],
+        "lisbon-wedding-7-19.wcnf": [
+          476.0
+        ],
+        "lisbon-wedding-9-17.wcnf": [
+          464.0
+        ],
+        "rail2536.wcnf": [
+          Infinity
+        ],
+        "rail4284.wcnf": [
+          Infinity
+        ],
+        "ram_k3_n13.ra1.wcnf": [
+          1417.0
+        ],
+        "ram_k3_n15.ra1.wcnf": [
+          4884.0
+        ],
+        "rail4872.wcnf": [
+          Infinity
+        ],
+        "ram_k3_n16.ra1.wcnf": [
+          7271.0
+        ],
+        "ram_k3_n18.ra1.wcnf": [
+          15621.0
+        ],
+        "ram_k3_n19.ra1.wcnf": [
+          20665.0
+        ],
+        "ram_k3_n20.ra1.wcnf": [
+          23898.0
+        ],
+        "ram_k4_n19.ra1.wcnf": [
+          1226.0
+        ],
+        "ram_k4_n20.ra1.wcnf": [
+          3219.0
+        ],
+        "role_domino_0.05_17.wcnf": [
+          24104.0
+        ],
+        "role_domino_0.3_1.wcnf": [
+          99377.0
+        ],
+        "role_domino_0.55_9.wcnf": [
+          162139.0
+        ],
+        "role_domino_0.5_0.wcnf": [
+          154605.0
+        ],
+        "role_domino_0.7_0.wcnf": [
+          183098.0
+        ],
+        "role_domino_0.8_6.wcnf": [
+          181020.0
+        ],
+        "role_domino_0.95_12.wcnf": [
+          202785.0
+        ],
+        "role_domino_0.9_18.wcnf": [
+          206606.0
+        ],
+        "role_domino_0.3_12.wcnf": [
+          98814.0
+        ],
+        "role_domino_0.5_18.wcnf": [
+          154062.0
+        ],
+        "role_university_0.6_3.wcnf": [
+          226990.0
+        ],
+        "role_domino_multiple_0.2_0.wcnf": [
+          66832.0
+        ],
+        "role_domino_multiple_0.5_7.wcnf": [
+          136820.0
+        ],
+        "role_domino_multiple_1.0_1.wcnf": [
+          209464.0
+        ],
+        "role_university_multiple_0.2_0.wcnf": [
+          105380.0
+        ],
+        "role_university_multiple_0.2_8.wcnf": [
+          99640.0
+        ],
+        "simNo_1-s_15-m_100-n_500-fp_0.01-fn_0.20.wcnf": [
+          947884067934692.0
+        ],
+        "simNo_10-s_5-m_100-n_100-fp_0.01-fn_0.20.wcnf": [
+          251449999917056.0
+        ],
+        "simNo_10-s_5-m_100-n_500-fp_0.01-fn_0.05.wcnf": [
+          1081237645702453.0
+        ],
+        "simNo_2-s_5-m_300-n_300-fp_0.01-fn_0.20.wcnf": [
+          3198791885358056.0
+        ],
+        "simNo_4-s_5-m_100-n_500-fp_0.0001-fn_0.05.wcnf": [
+          387884323572293.0
+        ],
+        "simNo_4-s_5-m_100-n_500-fp_0.01-fn_0.05.wcnf": [
+          829282215557880.0
+        ],
+        "SwitchingActivityMaximization_OpenRISC1200_100.wcnf": [
+          Infinity
+        ],
+        "SwitchingActivityMaximization_OpenRISC1200_150.wcnf": [
+          Infinity
+        ],
+        "SwitchingActivityMaximization_OpenRISC1200_200.wcnf": [
+          Infinity
+        ],
+        "SwitchingActivityMaximization_OpenRISC1200_66.wcnf": [
+          Infinity
+        ],
+        "SwitchingActivityMaximization_OpenRISC1200_68.wcnf": [
+          Infinity
+        ],
+        "SwitchingActivityMaximization_OpenRISC1200_70.wcnf": [
+          Infinity
+        ],
+        "SwitchingActivityMaximization_OpenRISC1200_72.wcnf": [
+          Infinity
+        ],
+        "SwitchingActivityMaximization_OpenRISC1200_74.wcnf": [
+          Infinity
+        ],
+        "SwitchingActivityMaximization_OpenRISC1200_76.wcnf": [
+          Infinity
+        ],
+        "SwitchingActivityMaximization_OpenRISC1200_78.wcnf": [
+          Infinity
+        ],
+        "SwitchingActivityMaximization_OpenRISC1200_80.wcnf": [
+          Infinity
+        ],
+        "SwitchingActivityMaximization_OpenRISC1200_90.wcnf": [
+          Infinity
+        ],
+        "MinWidthCB_mitdbsample_300_64_1k_15s_2t_17.wcnf": [
+          60145.0
+        ],
+        "af-synthesis_stb_50_120_2.wcnf": [
+          109.0
+        ],
+        "af-synthesis_stb_50_120_5.wcnf": [
+          117.0
+        ],
+        "af-synthesis_stb_50_140_8.wcnf": [
+          114.0
+        ],
+        "af-synthesis_stb_50_160_5.wcnf": [
+          113.0
+        ],
+        "af-synthesis_stb_50_200_5.wcnf": [
+          102.0
+        ],
+        "af-synthesis_stb_50_20_4.wcnf": [
+          117.0
+        ],
+        "af-synthesis_stb_50_40_6.wcnf": [
+          117.0
+        ],
+        "af-synthesis_stb_50_40_8.wcnf": [
+          117.0
+        ],
+        "af-synthesis_stb_50_80_8.wcnf": [
+          117.0
+        ],
+        "downcast-avrora.wcnf": [
+          46694.0
+        ],
+        "downcast-hsqldb.wcnf": [
+          30280.0
+        ],
+        "polysite-bloat.wcnf": [
+          168.0
+        ],
+        "downcast-pmd.wcnf": [
+          4286.0
+        ],
+        "polysite-hsqldb.wcnf": [
+          172545.0
+        ],
+        "polysite-pmd.wcnf": [
+          188481.0
+        ],
+        "polysite-xalan.wcnf": [
+          114706.0
+        ],
+        "metro_8_8_5_20_10_6_500_1_3.lp.sm-extracted.wcnf": [
+          173.0
+        ],
+        "pa-2.wcnf": [
+          3093.0
+        ],
+        "pa-3.wcnf": [
+          2967.0
+        ],
+        "scpnrf4_weighted.wcnf": [
+          14.0
+        ]
+      }
+    },
+    "2022": {
+      "ms": {
+        "AMAZON.wcnf": [
+          0.0
+        ],
+        "DBLP.wcnf": [
+          0.0
+        ],
+        "GenHyperTW_aim-50-1_6-no-3.wcnf": [
+          0.0
+        ],
+        "GenHyperTW_aim-50-1_6-yes1-3.wcnf": [
+          0.0
+        ],
+        "GenHyperTW_aim-50-3_4-yes1-3.wcnf": [
+          0.0
+        ],
+        "GenHyperTW_b01.wcnf": [
+          0.0
+        ],
+        "GenHyperTW_flat30-50.wcnf": [
+          0.0
+        ],
+        "GenHyperTW_flat30-99.wcnf": [
+          0.0
+        ],
+        "GenHyperTW_hole6.wcnf": [
+          0.0
+        ],
+        "GenHyperTW_hole8.wcnf": [
+          0.0
+        ],
+        "GenHyperTW_hole9.wcnf": [
+          0.0
+        ],
+        "GenHyperTW_par8-4-c.wcnf": [
+          0.0
+        ],
+        "GenHyperTW_par8-5-c.wcnf": [
+          0.0
+        ],
+        "GenHyperTW_uf20-050.wcnf": [
+          0.0
+        ],
+        "GreeceWesternGreeceUniversityInstance4.xml.wcnf": [
+          0.0
+        ],
+        "MLI.ionosphere_train_1_DNF_4_1.wcnf": [
+          0.0
+        ],
+        "GenHyperTW_s208.wcnf": [
+          0.0
+        ],
+        "MinFill_R0_mulsol.i.5.wcnf": [
+          0.0
+        ],
+        "MinFill_R0_myciel5.wcnf": [
+          0.0
+        ],
+        "MLI.twitter_train_1_CNF_4_1.wcnf": [
+          0.0
+        ],
+        "MinFill_R0_queen11_11.wcnf": [
+          0.0
+        ],
+        "MinFill_R0_myciel7.wcnf": [
+          0.0
+        ],
+        "MinFill_R0_queen6_6.wcnf": [
+          0.0
+        ],
+        "MinFill_R0_queen7_7.wcnf": [
+          0.0
+        ],
+        "MinFill_R4_miles500.wcnf": [
+          0.0
+        ],
+        "MinFill_R3_miles750.wcnf": [
+          0.0
+        ],
+        "TWComp_myciel5_N47.wcnf": [
+          0.0
+        ],
+        "TWComp_queen5_5_N25.wcnf": [
+          0.0
+        ],
+        "Q12_OPTIONS_1.wcnf": [
+          0.0
+        ],
+        "Q6_YESNO_1.wcnf": [
+          0.0
+        ],
+        "ann.formula_0.8_2021_atleast_31_max-4_reduced_incomplete_tree.wcnf": [
+          0.0
+        ],
+        "YOUTUBE.wcnf": [
+          0.0
+        ],
+        "aus.formula_0.8_2021_atleast_31_max-4_reduced_incomplete_tree.wcnf": [
+          0.0
+        ],
+        "bip.maxcut-140-630-0.7-37.wcnf": [
+          0.0
+        ],
+        "bip.maxcut-140-630-0.7-13.wcnf": [
+          0.0
+        ],
+        "bip.maxcut-140-630-0.7-42.wcnf": [
+          0.0
+        ],
+        "bip.maxcut-140-630-0.8-24.wcnf": [
+          0.0
+        ],
+        "bip.maxcut-140-630-0.7-44.wcnf": [
+          0.0
+        ],
+        "australian.wcnf": [
+          0.0
+        ],
+        "bupa.wcnf": [
+          0.0
+        ],
+        "car.formula_0.8_2021_atleast_15_max-3_reduced_incomplete_tree.wcnf": [
+          0.0
+        ],
+        "car.formula_0.8_2021_atleast_127_max-6_reduced_incomplete_tree.wcnf": [
+          0.0
+        ],
+        "bre-res-str.formula_0.8_2021_atleast_127_max-6_reduced_incomplete_tree.wcnf": [
+          0.0
+        ],
+        "cleveland.wcnf": [
+          0.0
+        ],
+        "cnf_10.wcnf": [
+          0.0
+        ],
+        "cnf_12.wcnf": [
+          0.0
+        ],
+        "cnf_small.wcnf": [
+          0.0
+        ],
+        "colic.wcnf": [
+          0.0
+        ],
+        "cra-scp.scpclr13_maxsat.wcnf": [
+          0.0
+        ],
+        "cra-scp.scpcyc10_maxsat.wcnf": [
+          0.0
+        ],
+        "d4.wcnf": [
+          0.0
+        ],
+        "data.135.wcnf": [
+          0.0
+        ],
+        "data.243.wcnf": [
+          0.0
+        ],
+        "data.405.wcnf": [
+          0.0
+        ],
+        "data.729.wcnf": [
+          0.0
+        ],
+        "dim.MANN_a9.clq.wcnf": [
+          0.0
+        ],
+        "dim.brock400_3.clq.wcnf": [
+          0.0
+        ],
+        "dim.brock400_4.clq.wcnf": [
+          0.0
+        ],
+        "dim.hamming10-4.clq.wcnf": [
+          0.0
+        ],
+        "dim.hamming8-2.clq.wcnf": [
+          0.0
+        ],
+        "ecoli.wcnf": [
+          0.0
+        ],
+        "extension-enforcement_non-strict_stb_150_0.1_2_8_2.wcnf": [
+          0.0
+        ],
+        "extension-enforcement_non-strict_stb_200_0.05_1_10_0.wcnf": [
+          0.0
+        ],
+        "extension-enforcement_non-strict_stb_200_0.05_1_10_1.wcnf": [
+          0.0
+        ],
+        "extension-enforcement_non-strict_stb_200_0.05_3_10_0.wcnf": [
+          0.0
+        ],
+        "extension-enforcement_non-strict_stb_200_0.05_4_10_4.wcnf": [
+          0.0
+        ],
+        "extension-enforcement_non-strict_stb_200_0.1_2_10_1.wcnf": [
+          0.0
+        ],
+        "gen_add_4_carry_33.wcnf": [
+          0.0
+        ],
+        "gen_mult_4_5_9999.wcnf": [
+          0.0
+        ],
+        "gen_mult_4_6_991.wcnf": [
+          0.0
+        ],
+        "gen_mult_4_7_991.wcnf": [
+          0.0
+        ],
+        "gen_mult_5_5_399.wcnf": [
+          0.0
+        ],
+        "gen_mult_5_5_991.wcnf": [
+          0.0
+        ],
+        "hea.formula_0.8_2021_atleast_31_max-4_reduced_incomplete_tree.wcnf": [
+          0.0
+        ],
+        "hyp.formula_0.8_2021_atleast_31_max-4_reduced_incomplete_tree.wcnf": [
+          0.0
+        ],
+        "cellda_x_10.wcnf": [
+          0.0
+        ],
+        "lam.20-100-frag12-0.wcnf": [
+          0.0
+        ],
+        "lam.20-100-frag12-45.wcnf": [
+          0.0
+        ],
+        "lam.20-100-frag12-56.wcnf": [
+          0.0
+        ],
+        "lam.20-100-frag12-79.wcnf": [
+          0.0
+        ],
+        "lam.20-100-lambda100-53.wcnf": [
+          0.0
+        ],
+        "lam.20-100-lambda100-59.wcnf": [
+          0.0
+        ],
+        "lam.20-100-lambda100-89.wcnf": [
+          0.0
+        ],
+        "lam.20-100-lambda100-95.wcnf": [
+          0.0
+        ],
+        "cellda_y_10.wcnf": [
+          0.0
+        ],
+        "lam.20-100-p100-55.wcnf": [
+          0.0
+        ],
+        "lam.20-100-p100-72.wcnf": [
+          0.0
+        ],
+        "lam.20-100-p100-86.wcnf": [
+          0.0
+        ],
+        "liver-disorder.wcnf": [
+          0.0
+        ],
+        "lam.20-100-p100-97.wcnf": [
+          0.0
+        ],
+        "max.uaq-max-np-nr200-np700-rpp5-nc50-n8-t3-plb10-n5.wcnf": [
+          0.0
+        ],
+        "cellda_x_12.wcnf": [
+          0.0
+        ],
+        "max.uaq-max-nr-nr160-np400-rpp5-nc50-n8-t3-plb10-n7.wcnf": [
+          0.0
+        ],
+        "lym.formula_0.8_2021_atleast_31_max-4_reduced_incomplete_tree.wcnf": [
+          0.0
+        ],
+        "max.uaq-max-nr-nr70-np400-rpp5-nc50-n8-t3-plb10-n7.wcnf": [
+          0.0
+        ],
+        "mes.atcoss_mesat_04.wcnf": [
+          0.0
+        ],
+        "mes.atcoss_mesat_05.wcnf": [
+          0.0
+        ],
+        "mes.atcoss_mesat_10.wcnf": [
+          0.0
+        ],
+        "meltdown_min.wcnf": [
+          0.0
+        ],
+        "ms_100_40_10-0.wcnf": [
+          0.0
+        ],
+        "indo.wcnf": [
+          0.0
+        ],
+        "ms_150_10_40-0.wcnf": [
+          0.0
+        ],
+        "ms_100_20_20-0.wcnf": [
+          0.0
+        ],
+        "ms_200_10_40-0.wcnf": [
+          0.0
+        ],
+        "ms_200_22_20-0.wcnf": [
+          0.0
+        ],
+        "mul_8_11.wcnf": [
+          0.0
+        ],
+        "ms_200_20_12-1.wcnf": [
+          0.0
+        ],
+        "mul_8_13.wcnf": [
+          0.0
+        ],
+        "mul_8_14.wcnf": [
+          0.0
+        ],
+        "mul_8_9.wcnf": [
+          0.0
+        ],
+        "mus.formula_0.8_2021_atleast_15_max-3_reduced_incomplete_tree.wcnf": [
+          0.0
+        ],
+        "ms_200_6_20-0.wcnf": [
+          0.0
+        ],
+        "normalized-test4.pi.opb.msat.wcnf": [
+          0.0
+        ],
+        "pesp_18Min.wcnf": [
+          0.0
+        ],
+        "pesp_5min.wcnf": [
+          0.0
+        ],
+        "ram_k3_n19.ra0.wcnf": [
+          0.0
+        ],
+        "ram_k4_n18.ra0.wcnf": [
+          0.0
+        ],
+        "ran-scp.scp43_maxsat.wcnf": [
+          0.0
+        ],
+        "ran-scp.scp47_maxsat.wcnf": [
+          0.0
+        ],
+        "pri.formula_0.8_2021_atleast_63_max-5_reduced_incomplete_tree.wcnf": [
+          0.0
+        ],
+        "ran-scp.scp48_maxsat.wcnf": [
+          0.0
+        ],
+        "ran-scp.scp58_maxsat.wcnf": [
+          0.0
+        ],
+        "navigation_5x5_8.wcnf": [
+          0.0
+        ],
+        "ran-scp.scp510_maxsat.wcnf": [
+          0.0
+        ],
+        "ran-scp.scp59_maxsat.wcnf": [
+          0.0
+        ],
+        "ran-scp.scpnre1_maxsat.wcnf": [
+          0.0
+        ],
+        "ran-scp.scp65_maxsat.wcnf": [
+          0.0
+        ],
+        "ran-scp.scpnrf5_maxsat.wcnf": [
+          0.0
+        ],
+        "ran-scp.scp61_maxsat.wcnf": [
+          0.0
+        ],
+        "ran-scp.scpnrg1_maxsat.wcnf": [
+          0.0
+        ],
+        "ran-scp.scpnrh1_maxsat.wcnf": [
+          0.0
+        ],
+        "ran.max_cut_60_600_4.asc.wcnf": [
+          0.0
+        ],
+        "ms_200_20_20-8.wcnf": [
+          0.0
+        ],
+        "ran-scp.scpnrf4_maxsat.wcnf": [
+          0.0
+        ],
+        "ran-scp.scpnrh5_maxsat.wcnf": [
+          0.0
+        ],
+        "navigation_5x5_10.wcnf": [
+          0.0
+        ],
+        "ran.max_cut_60_600_9.asc.wcnf": [
+          0.0
+        ],
+        "rev66-16.wcnf": [
+          0.0
+        ],
+        "rev66-14.wcnf": [
+          0.0
+        ],
+        "rev66-20.wcnf": [
+          0.0
+        ],
+        "rsdecoder1_blackbox_KESblock-problem.dimacs_30.filtered.wcnf": [
+          0.0
+        ],
+        "ms_200_22_20-3.wcnf": [
+          0.0
+        ],
+        "str.p_hat1000-1.clq.wcnf": [
+          0.0
+        ],
+        "str.p_hat700-3.clq.wcnf": [
+          0.0
+        ],
+        "sug.atcoss_sugar_04.wcnf": [
+          0.0
+        ],
+        "rsdecoder-problem.dimacs_41.filtered.wcnf": [
+          0.0
+        ],
+        "navigation_5x5_9.wcnf": [
+          0.0
+        ],
+        "soy.formula_0.8_2021_atleast_127_max-6_reduced_incomplete_tree.wcnf": [
+          0.0
+        ],
+        "sug.atcoss_sugar_10.wcnf": [
+          0.0
+        ],
+        "sug.atcoss_sugar_05.wcnf": [
+          0.0
+        ],
+        "sug.atcoss_sugar_18.wcnf": [
+          0.0
+        ],
+        "sug.atcoss_sugar_15.wcnf": [
+          0.0
+        ],
+        "uaq-ppr-nr200-nc66-n5-k2-rpp4-ppr14-plb100.wcnf": [
+          0.0
+        ],
+        "uaq-ppr-nr200-nc66-n5-k2-rpp6-ppr10-plb100.wcnf": [
+          0.0
+        ],
+        "uaq-ppr-nr200-nc66-n5-k2-rpp6-ppr7-plb100.wcnf": [
+          0.0
+        ],
+        "tic.formula_0.8_2021_atleast_15_max-3_reduced_incomplete_tree.wcnf": [
+          0.0
+        ],
+        "sysadmin_4_4.wcnf": [
+          0.0
+        ],
+        "sbox_8.wcnf": [
+          0.0
+        ],
+        "unw.MultiDay_3.wcnf": [
+          0.0
+        ],
+        "unw.SingleDay_3.wcnf": [
+          0.0
+        ],
+        "unw.MultiDay_2.wcnf": [
+          0.0
+        ],
+        "unw.SingleDay_15.wcnf": [
+          0.0
+        ],
+        "sysadmin_5_4.wcnf": [
+          0.0
+        ],
+        "unw.Subnetwork_9.wcnf": [
+          0.0
+        ],
+        "spl.formula_0.8_2021_atleast_63_max-5_reduced_incomplete_tree.wcnf": [
+          0.0
+        ],
+        "sysadmin_5_3.wcnf": [
+          0.0
+        ],
+        "unw.Subnetwork_7.wcnf": [
+          0.0
+        ],
+        "wcn.ionosphere_train_8_CNF_4_1.wcnf": [
+          0.0
+        ],
+        "wcn.heart_train_6_DNF_3_1.wcnf": [
+          0.0
+        ],
+        "wcn.tictactoe_train_7_DNF_4_1.wcnf": [
+          0.0
+        ],
+        "wcn.ionosphere_train_8_DNF_5_1.wcnf": [
+          0.0
+        ],
+        "unw.MultiDay_4.wcnf": [
+          0.0
+        ],
+        "wcn.toms_test_4_CNF_3_1.wcnf": [
+          0.0
+        ],
+        "wei.MultiDay_1_weighted.wcnf": [
+          0.0
+        ],
+        "unw.SingleDay_37.wcnf": [
+          0.0
+        ],
+        "ms_250_20_20-0.wcnf": [
+          0.0
+        ],
+        "we.wcnf": [
+          0.0
+        ],
+        "wb_4m8s-problem.dimacs_47.filtered.wcnf": [
+          0.0
+        ],
+        "spectre_min.wcnf": [
+          0.0
+        ]
+      },
+      "wms": {
+        "BrazilInstance1.xml.wcnf": [
+          0.0
+        ],
+        "BrazilInstance2.xml.wcnf": [
+          0.0
+        ],
+        "BrazilInstance4.xml.wcnf": [
+          0.0
+        ],
+        "BrazilInstance5.xml.wcnf": [
+          0.0
+        ],
+        "BrazilInstance6.xml.wcnf": [
+          0.0
+        ],
+        "BrazilInstance7.xml.wcnf": [
+          0.0
+        ],
+        "FinlandSecondarySchool.xml.wcnf": [
+          0.0
+        ],
+        "ItalyInstance4.xml.wcnf": [
+          0.0
+        ],
+        "MinWidthCB_mitdbsample_200_64_1k_10s_2t_12.wcnf": [
+          0.0
+        ],
+        "MinWidthCB_mitdbsample_200_64_1k_10s_3t_12.wcnf": [
+          0.0
+        ],
+        "MinWidthCB_mitdbsample_300_26_1k_3s_2t_5.wcnf": [
+          0.0
+        ],
+        "MinWidthCB_mitdbsample_300_26_1k_6s_1t_8.wcnf": [
+          0.0
+        ],
+        "MinWidthCB_mitdbsample_300_64_1k_3s_1t_5.wcnf": [
+          0.0
+        ],
+        "MinWidthCB_mitdbsample_300_64_1k_6s_1t_8.wcnf": [
+          0.0
+        ],
+        "MinWidthCB_power_1000_24_1k_20s_2t_22.wcnf": [
+          0.0
+        ],
+        "MinWidthCB_power_600_24_1k_6s_1t_8.wcnf": [
+          0.0
+        ],
+        "Rounded_BTWBNSL_Flag.BIC_TWBound_4.wcnf": [
+          0.0
+        ],
+        "Rounded_BTWBNSL_Housing_TWBound_2.wcnf": [
+          0.0
+        ],
+        "Rounded_BTWBNSL_Voting_TWBound_4.wcnf": [
+          0.0
+        ],
+        "Rounded_BTWBNSL_Water_1000_1_2.scores_TWBound_4.wcnf": [
+          0.0
+        ],
+        "Rounded_BTWBNSL_adult15N_TWBound_2.wcnf": [
+          0.0
+        ],
+        "Rounded_BTWBNSL_insurance_1000_1_3.scores_TWBound_2.wcnf": [
+          0.0
+        ],
+        "Rounded_BTWBNSL_hailfinder_10000_1_3.scores_TWBound_4.wcnf": [
+          0.0
+        ],
+        "Rounded_BTWBNSL_insurance_1000_1_3.scores_TWBound_3.wcnf": [
+          0.0
+        ],
+        "Rounded_BTWBNSL_insurance_1000_1_3.scores_TWBound_4.wcnf": [
+          0.0
+        ],
+        "Rounded_BTWBNSL_insurance_100_1_3.scores_TWBound_2.wcnf": [
+          0.0
+        ],
+        "Rounded_CorrelationClustering_Ecoli_BINARY_N240_D0.200.wcnf": [
+          0.0
+        ],
+        "Rounded_CorrelationClustering_Ionosphere_BINARY_N200_D0.200.wcnf": [
+          0.0
+        ],
+        "Rounded_CorrelationClustering_Protein2_BINARY_N380.wcnf": [
+          0.0
+        ],
+        "Rounded_CorrelationClustering_Ionosphere_BINARY_N280_D0.200.wcnf": [
+          0.0
+        ],
+        "Rounded_CorrelationClustering_Protein2_BINARY_N400.wcnf": [
+          0.0
+        ],
+        "Rounded_CorrelationClustering_Protein4_UNARY_N230.wcnf": [
+          0.0
+        ],
+        "Rounded_CorrelationClustering_Protein4_UNARY_N250.wcnf": [
+          0.0
+        ],
+        "SwitchingActivityMaximization_OpenRISC1200_100.wcnf": [
+          0.0
+        ],
+        "SwitchingActivityMaximization_OpenRISC1200_150.wcnf": [
+          0.0
+        ],
+        "SwitchingActivityMaximization_OpenRISC1200_200.wcnf": [
+          0.0
+        ],
+        "SwitchingActivityMaximization_OpenRISC1200_66.wcnf": [
+          0.0
+        ],
+        "SwitchingActivityMaximization_OpenRISC1200_70.wcnf": [
+          0.0
+        ],
+        "SwitchingActivityMaximization_OpenRISC1200_74.wcnf": [
+          0.0
+        ],
+        "SwitchingActivityMaximization_OpenRISC1200_80.wcnf": [
+          0.0
+        ],
+        "af-synthesis_stb_50_100_3.wcnf": [
+          0.0
+        ],
+        "SwitchingActivityMaximization_OpenRISC1200_90.wcnf": [
+          0.0
+        ],
+        "af-synthesis_stb_50_120_3.wcnf": [
+          0.0
+        ],
+        "af-synthesis_stb_50_140_1.wcnf": [
+          0.0
+        ],
+        "af-synthesis_stb_50_140_8.wcnf": [
+          0.0
+        ],
+        "af-synthesis_stb_50_160_5.wcnf": [
+          0.0
+        ],
+        "af-synthesis_stb_50_180_1.wcnf": [
+          0.0
+        ],
+        "af-synthesis_stb_50_200_4.wcnf": [
+          0.0
+        ],
+        "af-synthesis_stb_50_200_5.wcnf": [
+          0.0
+        ],
+        "af-synthesis_stb_50_20_8.wcnf": [
+          0.0
+        ],
+        "af-synthesis_stb_50_40_8.wcnf": [
+          0.0
+        ],
+        "af-synthesis_stb_50_200_6.wcnf": [
+          0.0
+        ],
+        "af-synthesis_stb_50_60_3.wcnf": [
+          0.0
+        ],
+        "af-synthesis_stb_50_80_7.wcnf": [
+          0.0
+        ],
+        "af-synthesis_stb_50_80_8.wcnf": [
+          0.0
+        ],
+        "ann.formula_0.8_2021_atleast_15_max-3_reduced_incomplete_adaboost_2.wcnf": [
+          0.0
+        ],
+        "ann.formula_0.8_2021_atleast_31_max-4_reduced_incomplete_adaboost_4.wcnf": [
+          0.0
+        ],
+        "ann.formula_0.8_2021_atleast_63_max-5_reduced_incomplete_adaboost_4.wcnf": [
+          0.0
+        ],
+        "aus.formula_0.8_2021_atleast_15_max-3_reduced_incomplete_adaboost_4.wcnf": [
+          0.0
+        ],
+        "aus.formula_0.8_2021_atleast_31_max-4_reduced_incomplete_adaboost_4.wcnf": [
+          0.0
+        ],
+        "aus.formula_0.8_2021_atleast_63_max-5_reduced_incomplete_adaboost_5.wcnf": [
+          0.0
+        ],
+        "aus.formula_0.8_2021_atleast_127_max-6_reduced_incomplete_adaboost_3.wcnf": [
+          0.0
+        ],
+        "aus.formula_0.8_2021_atleast_63_max-5_reduced_incomplete_adaboost_6.wcnf": [
+          0.0
+        ],
+        "bf2030fvslack.wcnf": [
+          0.0
+        ],
+        "bn-human-BNU_1_0025865_session_1-bg.wcnf": [
+          0.0
+        ],
+        "bnn_mnist_11_label6_adversarial_norm_inf_totalizer.wcnf": [
+          0.0
+        ],
+        "bnn_mnist_17_label7_adversarial_norm_inf_totalizer.wcnf": [
+          0.0
+        ],
+        "bnn_mnist_0_label7_adversarial_norm_inf_totalizer.wcnf": [
+          0.0
+        ],
+        "bnn_mnist_1_label2_adversarial_norm_inf_totalizer.wcnf": [
+          0.0
+        ],
+        "bnn_mnist_back_image_32_label3_adversarial_norm_inf_totalizer.wcnf": [
+          0.0
+        ],
+        "bnn_mnist_back_image_14_label9_adversarial_norm_inf_totalizer.wcnf": [
+          0.0
+        ],
+        "car.formula_0.8_2021_atleast_15_max-3_reduced_incomplete_adaboost_2.wcnf": [
+          0.0
+        ],
+        "bnn_mnist_back_image_12_label6_adversarial_norm_inf_totalizer.wcnf": [
+          0.0
+        ],
+        "causal_Heart_10_212.wcnf": [
+          0.0
+        ],
+        "causal_Statlog_7_752.wcnf": [
+          0.0
+        ],
+        "causal_insurance_9_100.wcnf": [
+          0.0
+        ],
+        "comp05.wcnf": [
+          0.0
+        ],
+        "comp15.wcnf": [
+          0.0
+        ],
+        "bnn_mnist_back_image_3_label6_adversarial_norm_inf_totalizer.wcnf": [
+          0.0
+        ],
+        "dds4.wcnf": [
+          0.0
+        ],
+        "dim.MANN_a81.clq.wcnf": [
+          0.0
+        ],
+        "dim.brock800_3.clq.wcnf": [
+          0.0
+        ],
+        "dim.hamming10-4.clq.wcnf": [
+          0.0
+        ],
+        "channel-500x100x100-b050.wcnf": [
+          0.0
+        ],
+        "dim.san400_0.9_1.clq.wcnf": [
+          0.0
+        ],
+        "dim.johnson8-4-4.clq.wcnf": [
+          0.0
+        ],
+        "dir.1403.wcsp.dir.wcnf": [
+          0.0
+        ],
+        "dim.san400_0.7_3.clq.wcnf": [
+          0.0
+        ],
+        "hea.formula_0.8_2021_atleast_127_max-6_reduced_incomplete_adaboost_4.wcnf": [
+          0.0
+        ],
+        "hea.formula_0.8_2021_atleast_31_max-4_reduced_incomplete_adaboost_4.wcnf": [
+          0.0
+        ],
+        "hea.formula_0.8_2021_atleast_31_max-4_reduced_incomplete_adaboost_5.wcnf": [
+          0.0
+        ],
+        "hea.formula_0.8_2021_atleast_63_max-5_reduced_incomplete_adaboost_5.wcnf": [
+          0.0
+        ],
+        "downcast-pmd.wcnf": [
+          0.0
+        ],
+        "downcast-hsqldb.wcnf": [
+          0.0
+        ],
+        "instance10.wcnf": [
+          0.0
+        ],
+        "instance11.wcnf": [
+          0.0
+        ],
+        "instance12.wcnf": [
+          0.0
+        ],
+        "instance2.wcnf": [
+          0.0
+        ],
+        "delaunay_n24.wcnf": [
+          0.0
+        ],
+        "instance4.wcnf": [
+          0.0
+        ],
+        "instance3.wcnf": [
+          0.0
+        ],
+        "instance6.wcnf": [
+          0.0
+        ],
+        "instance5.wcnf": [
+          0.0
+        ],
+        "instance7.wcnf": [
+          0.0
+        ],
+        "instance8.wcnf": [
+          0.0
+        ],
+        "bnn_mnist_back_image_5_label2_adversarial_norm_inf_totalizer.wcnf": [
+          0.0
+        ],
+        "instance9.wcnf": [
+          0.0
+        ],
+        "lisbon-wedding-1-17.wcnf": [
+          0.0
+        ],
+        "lisbon-wedding-1-19.wcnf": [
+          0.0
+        ],
+        "lisbon-wedding-10-18.wcnf": [
+          0.0
+        ],
+        "lisbon-wedding-10-19.wcnf": [
+          0.0
+        ],
+        "lisbon-wedding-3-18.wcnf": [
+          0.0
+        ],
+        "bnn_mnist_back_image_9_label1_adversarial_norm_inf_totalizer.wcnf": [
+          0.0
+        ],
+        "lisbon-wedding-5-19.wcnf": [
+          0.0
+        ],
+        "lisbon-wedding-7-19.wcnf": [
+          0.0
+        ],
+        "lisbon-wedding-8-18.wcnf": [
+          0.0
+        ],
+        "lisbon-wedding-8-19.wcnf": [
+          0.0
+        ],
+        "limits-10-10_data-1_inst-044_30m.sm-extracted.wcnf": [
+          0.0
+        ],
+        "log.1401.wcsp.log.wcnf": [
+          0.0
+        ],
+        "log.28.wcsp.log.wcnf": [
+          0.0
+        ],
+        "log.1405.wcsp.log.wcnf": [
+          0.0
+        ],
+        "mul.role_smallcomp_multiple_0.9_7.wcnf": [
+          0.0
+        ],
+        "mul.role_domino_multiple_0.8_5.wcnf": [
+          0.0
+        ],
+        "mul.role_domino_multiple_1.0_4.wcnf": [
+          0.0
+        ],
+        "mul.role_university_multiple_0.1_0.wcnf": [
+          0.0
+        ],
+        "hugebubbles-00020.wcnf": [
+          0.0
+        ],
+        "inf-road-usa.wcnf": [
+          0.0
+        ],
+        "limits-10-10_data-2_inst-030_30m.sm-extracted.wcnf": [
+          0.0
+        ],
+        "power-distribution_12_8.wcnf": [
+          0.0
+        ],
+        "power-distribution_2_8.wcnf": [
+          0.0
+        ],
+        "pa-2.wcnf": [
+          0.0
+        ],
+        "pri.formula_0.8_2021_atleast_31_max-4_reduced_incomplete_adaboost_3.wcnf": [
+          0.0
+        ],
+        "pa-3.wcnf": [
+          0.0
+        ],
+        "pri.formula_0.8_2021_atleast_127_max-6_reduced_incomplete_adaboost_6.wcnf": [
+          0.0
+        ],
+        "polysite-xalan.wcnf": [
+          0.0
+        ],
+        "polysite-pmd.wcnf": [
+          0.0
+        ],
+        "ram_k3_n14.ra1.wcnf": [
+          0.0
+        ],
+        "ram_k3_n16.ra1.wcnf": [
+          0.0
+        ],
+        "rail4284.wcnf": [
+          0.0
+        ],
+        "ram_k3_n17.ra1.wcnf": [
+          0.0
+        ],
+        "polysite-hsqldb.wcnf": [
+          0.0
+        ],
+        "ram_k4_n20.ra1.wcnf": [
+          0.0
+        ],
+        "ran-scp.scpnrg4_weighted.wcnf": [
+          0.0
+        ],
+        "ran-scp.scpnrg3_weighted.wcnf": [
+          0.0
+        ],
+        "random-net-40-4_network-2.net.wcnf": [
+          0.0
+        ],
+        "random-net-50-4_network-8.net.wcnf": [
+          0.0
+        ],
+        "random-net-50-5_network-8.net.wcnf": [
+          0.0
+        ],
+        "ran-scp.scpnrh5_weighted.wcnf": [
+          0.0
+        ],
+        "rail2536.wcnf": [
+          0.0
+        ],
+        "rail4872.wcnf": [
+          0.0
+        ],
+        "role_domino_0.05_15.wcnf": [
+          0.0
+        ],
+        "role_domino_0.1_18.wcnf": [
+          0.0
+        ],
+        "role_domino_0.1_3.wcnf": [
+          0.0
+        ],
+        "role_smallcomp_0.85_4.wcnf": [
+          0.0
+        ],
+        "role_domino_0.3_15.wcnf": [
+          0.0
+        ],
+        "role_domino_0.6_2.wcnf": [
+          0.0
+        ],
+        "role_university_0.15_8.wcnf": [
+          0.0
+        ],
+        "bnn_mnist_rot_1_label0_adversarial_norm_inf_totalizer.wcnf": [
+          0.0
+        ],
+        "role_domino_0.9_0.wcnf": [
+          0.0
+        ],
+        "bnn_mnist_rot_15_label8_adversarial_norm_inf_totalizer.wcnf": [
+          0.0
+        ],
+        "role_university_0.25_3.wcnf": [
+          0.0
+        ],
+        "role_university_0.25_8.wcnf": [
+          0.0
+        ],
+        "role_university_0.5_3.wcnf": [
+          0.0
+        ],
+        "role_university_1.0_2.wcnf": [
+          0.0
+        ],
+        "role_university_0.75_7.wcnf": [
+          0.0
+        ],
+        "simNo_7-s_5-m_100-n_100-fp_0.0001-fn_0.20.wcnf": [
+          0.0
+        ],
+        "r11.wcnf": [
+          0.0
+        ],
+        "tcp_students_112_it_5.wcnf": [
+          0.0
+        ],
+        "test4.wcnf": [
+          0.0
+        ],
+        "simNo_1-s_5-m_100-n_500-fp_0.0001-fn_0.05.wcnf": [
+          0.0
+        ],
+        "tic.formula_0.8_2021_atleast_15_max-3_reduced_incomplete_adaboost_6.wcnf": [
+          0.0
+        ],
+        "simNo_2-s_5-m_100-n_500-fp_0.01-fn_0.05.wcnf": [
+          0.0
+        ],
+        "vio.role_domino_violations_0.15_9.wcnf": [
+          0.0
+        ],
+        "vio.role_domino_violations_0.25_14.wcnf": [
+          0.0
+        ],
+        "vio.role_domino_violations_0.25_3.wcnf": [
+          0.0
+        ],
+        "vio.role_domino_violations_0.75_2.wcnf": [
+          0.0
+        ],
+        "vio.role_domino_violations_0.7_16.wcnf": [
+          0.0
+        ],
+        "sc-rel9.wcnf": [
+          0.0
+        ],
+        "vio.role_domino_violations_0.7_3.wcnf": [
+          0.0
+        ],
+        "wcn.heart_train_2_CNF_5_10.wcnf": [
+          0.0
+        ],
+        "wcn.heart_train_6_DNF_5_5.wcnf": [
+          0.0
+        ],
+        "wcn.titanic_train_7_CNF_5_15.wcnf": [
+          0.0
+        ],
+        "wcn.adult_train_3_DNF_1_5.wcnf": [
+          0.0
+        ],
+        "wcn.titanic_train_8_CNF_5_10.wcnf": [
+          0.0
+        ],
+        "vio.role_university_violations_0.2_7.wcnf": [
+          0.0
+        ],
+        "wei.MultiDay_2_weighted.wcnf": [
+          0.0
+        ],
+        "web-wikipedia2009.wcnf": [
+          0.0
+        ],
+        "wei.MultiDay_3_weighted.wcnf": [
+          0.0
+        ],
+        "wei.SingleDay_15_weighted.wcnf": [
+          0.0
+        ],
+        "wei.MultiDay_4_weighted.wcnf": [
+          0.0
+        ],
+        "wg2.wcnf": [
+          0.0
+        ],
+        "wei.SingleDay_37_weighted.wcnf": [
+          0.0
+        ],
+        "simNo_9-s_5-m_300-n_300-fp_0.0001-fn_0.20.wcnf": [
+          0.0
+        ],
+        "soc-livejournal-user-groups.wcnf": [
+          0.0
+        ],
+        "rgg_n_2_24_s0.wcnf": [
+          0.0
+        ],
+        "socfb-uci-uni.wcnf": [
+          0.0
+        ],
+        "vio.role_firewall_violations_1_0.95_0.wcnf": [
+          0.0
+        ]
+      }
+    },
+    "2023": {
+      "ms": {
+        "MaxSATQueriesinInterpretableClassifiers-wdbc_train_9_CNF_5_1.wcnf": [
+          0.0
+        ],
+        "aes-mul_8_11.wcnf": [
+          0.0
+        ],
+        "SeanSafarpour-rsdecoder1_blackbox_KESblock-problem.dimacs_30.filtered.wcnf": [
+          0.0
+        ],
+        "aes-mul_8_9.wcnf": [
+          0.0
+        ],
+        "aes-mul_8_3.wcnf": [
+          0.0
+        ],
+        "aes-mul_8_14.wcnf": [
+          0.0
+        ],
+        "aes-mul_8_13.wcnf": [
+          0.0
+        ],
+        "bcp-SU3__simp-genos.haps.9.wcnf": [
+          0.0
+        ],
+        "MaxSATQueriesinInterpretableClassifiers-twitter_train_9_CNF_1_1.wcnf": [
+          0.0
+        ],
+        "atcoss-atcoss_sugar_15.wcnf": [
+          0.0
+        ],
+        "atcoss-atcoss_sugar_05.wcnf": [
+          0.0
+        ],
+        "atcoss-atcoss_mesat_02.wcnf": [
+          0.0
+        ],
+        "decision-tree-heart-cleveland-un-formula_0.8_2021_atleast_15_max-3_reduced_incomplete_tree.wcnf": [
+          0.0
+        ],
+        "atcoss-atcoss_mesat_15.wcnf": [
+          0.0
+        ],
+        "decision-tree-breast-cancer-un-formula_0.8_2021_atleast_15_max-3_reduced_incomplete_tree.wcnf": [
+          0.0
+        ],
+        "decision-tree-car-un-formula_0.8_2021_atleast_31_max-4_reduced_incomplete_tree.wcnf": [
+          0.0
+        ],
+        "decision-tree-lymph-un-formula_0.8_2021_atleast_31_max-4_reduced_incomplete_tree.wcnf": [
+          0.0
+        ],
+        "extension-enforcement-extension-enforcement_non-strict_stb_200_0.05_1_10_1.wcnf": [
+          0.0
+        ],
+        "decision-tree-car-un-formula_0.8_2021_atleast_63_max-5_reduced_incomplete_tree.wcnf": [
+          0.0
+        ],
+        "decision-tree-heart-cleveland-un-formula_0.8_2021_atleast_63_max-5_reduced_incomplete_tree.wcnf": [
+          0.0
+        ],
+        "MaxSATQueriesinInterpretableClassifiers-twitter_train_2_CNF_4_1.wcnf": [
+          0.0
+        ],
+        "gen-hyper-tw-GenHyperTW_aim-50-1_6-no-3.wcnf": [
+          0.0
+        ],
+        "gen-hyper-tw-GenHyperTW_aim-50-1_6-yes1-3.wcnf": [
+          0.0
+        ],
+        "gen-hyper-tw-GenHyperTW_b01.wcnf": [
+          0.0
+        ],
+        "gen-hyper-tw-GenHyperTW_grid4d_3.wcnf": [
+          0.0
+        ],
+        "fault-diagnosis-s38584_nan_explicit_9_0.wcnf": [
+          0.0
+        ],
+        "decision-tree-kr-vs-kp-un-formula_0.8_2021_atleast_31_max-4_reduced_incomplete_tree.wcnf": [
+          0.0
+        ],
+        "fault-diagnosis-s38584_nan_explicit_10_0.wcnf": [
+          0.0
+        ],
+        "gen-hyper-tw-GenHyperTW_uf20-01.wcnf": [
+          0.0
+        ],
+        "inconsistency-measurement-im-contension-B-3-stb_696_368.tgf.pl.wcnf": [
+          0.0
+        ],
+        "decision-tree-mushroom-un-formula_0.8_2021_atleast_15_max-3_reduced_incomplete_tree.wcnf": [
+          0.0
+        ],
+        "inconsistency-measurement-im-forgetting-A-2-WS_300_16_90_30.tgf.pl.wcnf": [
+          0.0
+        ],
+        "gen-hyper-tw-GenHyperTW_pret60_25.wcnf": [
+          0.0
+        ],
+        "inconsistency-measurement-im-forgetting-A-2-WS_300_16_70_30.tgf.pl.wcnf": [
+          0.0
+        ],
+        "gen-hyper-tw-GenHyperTW_par8-1-c.wcnf": [
+          0.0
+        ],
+        "gen-hyper-tw-GenHyperTW_dubois28.wcnf": [
+          0.0
+        ],
+        "decision-tree-hypothyroid-un-formula_0.8_2021_atleast_63_max-5_reduced_incomplete_tree.wcnf": [
+          0.0
+        ],
+        "gen-hyper-tw-GenHyperTW_dubois29.wcnf": [
+          0.0
+        ],
+        "inconsistency-measurement-im-forgetting-B-3-stb_428_430.tgf.pl.wcnf": [
+          0.0
+        ],
+        "inconsistency-measurement-im-forgetting-B-3-stb_457_193.tgf.pl.wcnf": [
+          0.0
+        ],
+        "inconsistency-measurement-im-forgetting-B-3-WS_300_16_90_30.tgf.pl.wcnf": [
+          0.0
+        ],
+        "inconsistency-measurement-im-forgetting-T-2-stb_339_81.tgf.pl.wcnf": [
+          0.0
+        ],
+        "decision-tree-tic-tac-toe-un-formula_0.8_2021_atleast_127_max-6_reduced_incomplete_tree.wcnf": [
+          0.0
+        ],
+        "inconsistency-measurement-im-forgetting-B-2-stb_625_161.tgf.pl.wcnf": [
+          0.0
+        ],
+        "inconsistency-measurement-im-hit-B-3-stb_390_450.tgf.pl.wcnf": [
+          0.0
+        ],
+        "inconsistency-measurement-im-hit-A-1-grd_2065_1_8.tgf.pl.wcnf": [
+          0.0
+        ],
+        "inconsistency-measurement-im-contension-A-2-grd_3908_2_1.tgf.pl.wcnf": [
+          0.0
+        ],
+        "inconsistency-measurement-im-contension-C-1-grd_3018_3_7.tgf.pl.wcnf": [
+          0.0
+        ],
+        "decision-tree-anneal-un-formula_0.8_2021_atleast_127_max-6_reduced_incomplete_tree.wcnf": [
+          0.0
+        ],
+        "inconsistency-measurement-im-hit-A-2-grd_1948_5_1.tgf.pl.wcnf": [
+          0.0
+        ],
+        "inconsistency-measurement-im-hit-A-1-grd_1790_4_8.tgf.pl.wcnf": [
+          0.0
+        ],
+        "inconsistency-measurement-im-sum-B-2-stb_330_291.tgf.pl.wcnf": [
+          0.0
+        ],
+        "inconsistency-measurement-im-sum-B-3-stb_339_393.tgf.pl.wcnf": [
+          0.0
+        ],
+        "inconsistency-measurement-im-sum-B-3-stb_327_100.tgf.pl.wcnf": [
+          0.0
+        ],
+        "inconsistency-measurement-im-forgetting-C-1-grd_5178_1_1.tgf.pl.wcnf": [
+          0.0
+        ],
+        "inconsistency-measurement-im-forgetting-T-2-grd_4383_1_10.tgf.pl.wcnf": [
+          0.0
+        ],
+        "inconsistency-measurement-im-sum-B-3-stb_696_368.tgf.pl.wcnf": [
+          0.0
+        ],
+        "inconsistency-measurement-im-hit-C-1-grd_3018_3_7.tgf.pl.wcnf": [
+          0.0
+        ],
+        "inconsistency-measurement-im-hit-B-1-grd_3018_3_7.tgf.pl.wcnf": [
+          0.0
+        ],
+        "inconsistency-measurement-im-sum-C-1-grd_1222_5_4.tgf.pl.wcnf": [
+          0.0
+        ],
+        "judgment-aggregation-ja-maxham-preflib-00049-00000157.wcnf": [
+          0.0
+        ],
+        "decision-tree-kr-vs-kp-un-formula_0.8_2021_atleast_63_max-5_reduced_incomplete_tree.wcnf": [
+          0.0
+        ],
+        "judgment-aggregation-ja-maxham-preflib-00049-00000071.wcnf": [
+          0.0
+        ],
+        "gen-hyper-tw-GenHyperTW_2bitcomp_5.wcnf": [
+          0.0
+        ],
+        "inconsistency-measurement-im-sum-A-2-grd_1948_5_1.tgf.pl.wcnf": [
+          0.0
+        ],
+        "inconsistency-measurement-im-forgetting-A-2-grd_3908_2_1.tgf.pl.wcnf": [
+          0.0
+        ],
+        "judgment-aggregation-ja-maxham-preflib-00049-00000253.wcnf": [
+          0.0
+        ],
+        "judgment-aggregation-ja-maxham-preflib-00049-00000295.wcnf": [
+          0.0
+        ],
+        "judgment-aggregation-ja-maxham-preflib-00049-00000293.wcnf": [
+          0.0
+        ],
+        "gen-hyper-tw-GenHyperTW_flat30-99.wcnf": [
+          0.0
+        ],
+        "judgment-aggregation-ja-maxham-preflib-00049-00000333.wcnf": [
+          0.0
+        ],
+        "judgment-aggregation-ja-maxham-preflib-00049-00000260.wcnf": [
+          0.0
+        ],
+        "judgment-aggregation-ja-maxham-preflib-00049-00000385.wcnf": [
+          0.0
+        ],
+        "judgment-aggregation-ja-maxham-preflib-00049-00000316.wcnf": [
+          0.0
+        ],
+        "judgment-aggregation-ja-maxham-preflib-00049-00000338.wcnf": [
+          0.0
+        ],
+        "judgment-aggregation-ja-maxham-preflib-00049-00000444.wcnf": [
+          0.0
+        ],
+        "gen-hyper-tw-GenHyperTW_s208.wcnf": [
+          0.0
+        ],
+        "decision-tree-breast-cancer-un-formula_0.8_2021_atleast_127_max-6_reduced_incomplete_tree.wcnf": [
+          0.0
+        ],
+        "judgment-aggregation-ja-maxham-preflib-00049-00000390.wcnf": [
+          0.0
+        ],
+        "judgment-aggregation-ja-maxham-preflib-00049-00000486.wcnf": [
+          0.0
+        ],
+        "logic-synthesis-normalized-test4.pi.opb.msat.wcnf": [
+          0.0
+        ],
+        "judgment-aggregation-ja-maxham-preflib-00049-00000492.wcnf": [
+          0.0
+        ],
+        "aes-sbox_8.wcnf": [
+          0.0
+        ],
+        "judgment-aggregation-ja-maxham-preflib-00049-00000512.wcnf": [
+          0.0
+        ],
+        "judgment-aggregation-ja-slater-preflib-00049-00000468.wcnf": [
+          0.0
+        ],
+        "judgment-aggregation-ja-maxham-preflib-00049-00000517.wcnf": [
+          0.0
+        ],
+        "judgment-aggregation-ja-slater-preflib-00049-00000135.wcnf": [
+          0.0
+        ],
+        "judgment-aggregation-ja-slater-preflib-00049-00000405.wcnf": [
+          0.0
+        ],
+        "decision-tree-australian-credit-un-formula_0.8_2021_atleast_127_max-6_reduced_incomplete_tree.wcnf": [
+          0.0
+        ],
+        "mbd-b14_C-mbd14-0277.wcnf": [
+          0.0
+        ],
+        "judgment-aggregation-ja-maxham-preflib-00049-00000540.wcnf": [
+          0.0
+        ],
+        "judgment-aggregation-ja-slater-preflib-00043-00000180.wcnf": [
+          0.0
+        ],
+        "optic-gen_cvc-add7to3_9999.wcnf": [
+          0.0
+        ],
+        "judgment-aggregation-ja-slater-preflib-00049-00000451.wcnf": [
+          0.0
+        ],
+        "min-fill-MinFill_R0_myciel5.wcnf": [
+          0.0
+        ],
+        "judgment-aggregation-ja-slater-preflib-00051-00000011.wcnf": [
+          0.0
+        ],
+        "optimizing-BDDs-australian-credit-un-wcnf_incomplete_improved_1_2019_5.wcnf": [
+          0.0
+        ],
+        "optic-gen_mult_4_5_991.wcnf": [
+          0.0
+        ],
+        "optimizing-BDDs-australian-credit-un-wcnf_incomplete_improved_1_2019_2.wcnf": [
+          0.0
+        ],
+        "min-fill-MinFill_R0_queen8_12.wcnf": [
+          0.0
+        ],
+        "optic-gen_mult_5_5_991.wcnf": [
+          0.0
+        ],
+        "min-fill-MinFill_R4_miles500.wcnf": [
+          0.0
+        ],
+        "optimizing-BDDs-anneal-un-wcnf_incomplete_improved_1_2019_5.wcnf": [
+          0.0
+        ],
+        "optimizing-BDDs-car-un-wcnf_incomplete_improved_1_2019_7.wcnf": [
+          0.0
+        ],
+        "optimizing-BDDs-breast-cancer-un-wcnf_incomplete_improved_1_2019_7.wcnf": [
+          0.0
+        ],
+        "min-fill-MinFill_R3_miles1000.wcnf": [
+          0.0
+        ],
+        "optimizing-BDDs-lymph-un-wcnf_incomplete_improved_1_2019_7.wcnf": [
+          0.0
+        ],
+        "min-fill-MinFill_R0_mulsol.i.1.wcnf": [
+          0.0
+        ],
+        "judgment-aggregation-ja-slater-preflib-00051-00000008.wcnf": [
+          0.0
+        ],
+        "optimizing-BDDs-heart-cleveland-un-wcnf_incomplete_improved_1_2019_9.wcnf": [
+          0.0
+        ],
+        "min-fill-MinFill_R3_miles750.wcnf": [
+          0.0
+        ],
+        "optimizing-BDDs-primary-tumor-un-wcnf_incomplete_improved_1_2019_9.wcnf": [
+          0.0
+        ],
+        "optimizing-BDDs-soybean-un-wcnf_incomplete_improved_1_2019_6.wcnf": [
+          0.0
+        ],
+        "optimizing-BDDs-hypothyroid-un-wcnf_incomplete_improved_1_2019_3.wcnf": [
+          0.0
+        ],
+        "min-fill-MinFill_R1_games120.wcnf": [
+          0.0
+        ],
+        "min-fill-MinFill_R0_mulsol.i.2.wcnf": [
+          0.0
+        ],
+        "optimizing-BDDs-tic-tac-toe-un-wcnf_incomplete_improved_1_2019_6.wcnf": [
+          0.0
+        ],
+        "optimizing-BDDs-kr-vs-kp-un-wcnf_incomplete_improved_1_2019_4.wcnf": [
+          0.0
+        ],
+        "optimizing-BDDs-vote-un-wcnf_incomplete_improved_1_2019_8.wcnf": [
+          0.0
+        ],
+        "optimizing-BDDs-hypothyroid-un-wcnf_incomplete_improved_1_2019_5.wcnf": [
+          0.0
+        ],
+        "optimizing-BDDs-vote-un-wcnf_incomplete_improved_1_2019_7.wcnf": [
+          0.0
+        ],
+        "optimizing-BDDs-mushroom-un-wcnf_incomplete_improved_1_2019_4.wcnf": [
+          0.0
+        ],
+        "optimizing-BDDs-splice-1-un-wcnf_incomplete_improved_1_2019_4.wcnf": [
+          0.0
+        ],
+        "min-fill-MinFill_R0_mulsol.i.3.wcnf": [
+          0.0
+        ],
+        "optimizing-BDDs-kr-vs-kp-un-wcnf_incomplete_improved_1_2019_8.wcnf": [
+          0.0
+        ],
+        "optimizing-BDDs-mushroom-un-wcnf_incomplete_improved_1_2019_5.wcnf": [
+          0.0
+        ],
+        "min-fill-MinFill_R0_myciel7.wcnf": [
+          0.0
+        ],
+        "optimizing-BDDs-splice-1-un-wcnf_incomplete_improved_1_2019_5.wcnf": [
+          0.0
+        ],
+        "optimizing-BDDs-hypothyroid-un-wcnf_incomplete_improved_1_2019_7.wcnf": [
+          0.0
+        ],
+        "pseudoBoolean-normalized-par32-5.opb.msat.wcnf": [
+          0.0
+        ],
+        "pseudoBoolean-normalized-par32-3.opb.msat.wcnf": [
+          0.0
+        ],
+        "planning-bnn-sysadmin_4_3.wcnf": [
+          0.0
+        ],
+        "planning-bnn-navigation_4x4_7.wcnf": [
+          0.0
+        ],
+        "ramsey-ram_k3_n11.ra0.wcnf": [
+          0.0
+        ],
+        "ramsey-ram_k3_n14.ra0.wcnf": [
+          0.0
+        ],
+        "planning-bnn-sysadmin_5_3.wcnf": [
+          0.0
+        ],
+        "ramsey-ram_k3_n15.ra0.wcnf": [
+          0.0
+        ],
+        "ramsey-ram_k3_n17.ra0.wcnf": [
+          0.0
+        ],
+        "ramsey-ram_k4_n20.ra0.wcnf": [
+          0.0
+        ],
+        "ramsey-ram_k4_n18.ra0.wcnf": [
+          0.0
+        ],
+        "reversi-rev66-16.wcnf": [
+          0.0
+        ],
+        "railway-transport-pesp_5min.wcnf": [
+          0.0
+        ],
+        "program-disambiguation-Q42_OPTIONS_1.wcnf": [
+          0.0
+        ],
+        "reversi-rev66-26.wcnf": [
+          0.0
+        ],
+        "reversi-rev66-32.wcnf": [
+          0.0
+        ],
+        "planning-bnn-navigation_5x5_8.wcnf": [
+          0.0
+        ],
+        "reversi-rev66-28.wcnf": [
+          0.0
+        ],
+        "scheduling-cnf_small.wcnf": [
+          0.0
+        ],
+        "setcover-sts-data.243.wcnf": [
+          0.0
+        ],
+        "railway-transport-pesp_18Min.wcnf": [
+          0.0
+        ],
+        "program-disambiguation-Q45_YESNO_1.wcnf": [
+          0.0
+        ],
+        "setcover-sts-data.405.wcnf": [
+          0.0
+        ],
+        "scheduling-cnf_12.wcnf": [
+          0.0
+        ],
+        "scheduling-cnf_10.wcnf": [
+          0.0
+        ],
+        "program-disambiguation-Q55_YESNO_1.wcnf": [
+          0.0
+        ],
+        "setcover-sts-data.729.wcnf": [
+          0.0
+        ],
+        "setcover-sts-data.135.wcnf": [
+          0.0
+        ],
+        "treewidth-computation-TWComp_eil51.tsp_N51.wcnf": [
+          0.0
+        ],
+        "treewidth-computation-TWComp_queen7_7_N49.wcnf": [
+          0.0
+        ],
+        "xai-mindset2-bnn-last-layer-f10.wcnf": [
+          0.0
+        ],
+        "treewidth-computation-TWComp_1c75_N69.wcnf": [
+          0.0
+        ],
+        "xai-mindset2-postoperative-patient-data.wcnf": [
+          0.0
+        ],
+        "xai-mindset2-cleve.wcnf": [
+          0.0
+        ],
+        "tpr-b18-s_PathRelaxation_Set_FS_8.wcnf": [
+          0.0
+        ],
+        "xai-mindset2-bupa.wcnf": [
+          0.0
+        ],
+        "treewidth-computation-TWComp_1dj7_N73.wcnf": [
+          0.0
+        ],
+        "program-disambiguation-Q22_YESNO_1.wcnf": [
+          0.0
+        ],
+        "planning-bnn-sysadmin_5_4.wcnf": [
+          0.0
+        ],
+        "xai-mindset2-heart-h.wcnf": [
+          0.0
+        ],
+        "xai-mindset2-soybean.wcnf": [
+          0.0
+        ],
+        "railway-transport-we.wcnf": [
+          0.0
+        ],
+        "planning-bnn-navigation_5x5_9.wcnf": [
+          0.0
+        ],
+        "planning-bnn-navigation_5x5_10.wcnf": [
+          0.0
+        ],
+        "railway-transport-d4.wcnf": [
+          0.0
+        ],
+        "xai-mindset2-shuttleM.wcnf": [
+          0.0
+        ],
+        "planning-bnn-cellda_y_9.wcnf": [
+          0.0
+        ],
+        "planning-bnn-cellda_x_10.wcnf": [
+          0.0
+        ],
+        "planning-bnn-cellda_y_10.wcnf": [
+          0.0
+        ],
+        "planning-bnn-cellda_x_12.wcnf": [
+          0.0
+        ]
+      },
+      "wms": {
+        "MaxSATQueriesinInterpretableClassifiers_wt-pima_train_6_CNF_3_20.wcnf": [
+          0.0
+        ],
+        "MaxSATQueriesinInterpretableClassifiers_wt-toms_test_2_CNF_3_20.wcnf": [
+          0.0
+        ],
+        "MaxSATQueriesinInterpretableClassifiers_wt-credit_train_8_CNF_5_20.wcnf": [
+          0.0
+        ],
+        "MinimumWeightDominatingSetProblem_wt-web-wikipedia2009.wcnf": [
+          0.0
+        ],
+        "ParametricRBACMaintenance_mse20_wt-role_domino_multiple_0.1_8.wcnf": [
+          0.0
+        ],
+        "ParametricRBACMaintenance_mse20_wt-role_domino_multiple_0.2_0.wcnf": [
+          0.0
+        ],
+        "ParametricRBACMaintenance_mse20_wt-role_domino_multiple_0.6_8.wcnf": [
+          0.0
+        ],
+        "ParametricRBACMaintenance_mse20_wt-role_domino_multiple_0.5_1.wcnf": [
+          0.0
+        ],
+        "ParametricRBACMaintenance_mse20_wt-role_smallcomp_multiple_0.8_1.wcnf": [
+          0.0
+        ],
+        "ParametricRBACMaintenance_mse20_wt-role_smallcomp_multiple_0.7_2.wcnf": [
+          0.0
+        ],
+        "ParametricRBACMaintenance_mse20_wt-role_smallcomp_multiple_0.7_6.wcnf": [
+          0.0
+        ],
+        "ParametricRBACMaintenance_mse20_wt-role_smallcomp_multiple_0.9_6.wcnf": [
+          0.0
+        ],
+        "MinimumWeightDominatingSetProblem_wt-sc-rel9.wcnf": [
+          0.0
+        ],
+        "ParametricRBACMaintenance_mse20_wt-role_university_multiple_0.1_1.wcnf": [
+          0.0
+        ],
+        "ParametricRBACMaintenance_mse20_wt-role_university_multiple_0.5_5.wcnf": [
+          0.0
+        ],
+        "MinimumWeightDominatingSetProblem_wt-channel-500x100x100-b050.wcnf": [
+          0.0
+        ],
+        "ParametricRBACMaintenance_mse20_wt-role_university_multiple_0.5_4.wcnf": [
+          0.0
+        ],
+        "ParametricRBACMaintenance_mse20_wt-role_university_multiple_0.4_7.wcnf": [
+          0.0
+        ],
+        "ParametricRBACMaintenance_mse20_wt-role_university_multiple_0.5_7.wcnf": [
+          0.0
+        ],
+        "MinimumWeightDominatingSetProblem_wt-bn-human-BNU_1_0025865_session_1-bg.wcnf": [
+          0.0
+        ],
+        "abstraction-refinement_wt-downcast-avrora.wcnf": [
+          0.0
+        ],
+        "abstraction-refinement_wt-downcast-antlr.wcnf": [
+          0.0
+        ],
+        "abstraction-refinement_wt-polysite-avrora.wcnf": [
+          0.0
+        ],
+        "abstraction-refinement_wt-downcast-xalan.wcnf": [
+          0.0
+        ],
+        "causal-discovery_wt-causal_Link_10_1000.wcnf": [
+          0.0
+        ],
+        "MinimumWeightDominatingSetProblem_wt-delaunay_n24.wcnf": [
+          0.0
+        ],
+        "abstraction-refinement_wt-downcast-hsqldb.wcnf": [
+          0.0
+        ],
+        "causal-discovery_wt-causal_Link_10_10000.wcnf": [
+          0.0
+        ],
+        "abstraction-refinement_wt-polysite-xalan.wcnf": [
+          0.0
+        ],
+        "abstraction-refinement_wt-polysite-pmd.wcnf": [
+          0.0
+        ],
+        "causal-discovery_wt-causal_Mushroom_7_1000.wcnf": [
+          0.0
+        ],
+        "causal-discovery_wt-causal_Pigs_6_1000.wcnf": [
+          0.0
+        ],
+        "MinimumWeightDominatingSetProblem_wt-hugebubbles-00020.wcnf": [
+          0.0
+        ],
+        "causal-discovery_wt-causal_alarm_9_1000.wcnf": [
+          0.0
+        ],
+        "abstraction-refinement_wt-downcast-pmd.wcnf": [
+          0.0
+        ],
+        "causal-discovery_wt-causal_Link_9_100.wcnf": [
+          0.0
+        ],
+        "correlation-clustering_wt-Rounded_CorrelationClustering_Ionosphere_BINARY_N260_D0.200.wcnf": [
+          0.0
+        ],
+        "correlation-clustering_wt-Rounded_CorrelationClustering_Protein2_BINARY_N220.wcnf": [
+          0.0
+        ],
+        "abstraction-refinement_wt-polysite-bloat.wcnf": [
+          0.0
+        ],
+        "correlation-clustering_wt-Rounded_CorrelationClustering_Protein2_BINARY_N240.wcnf": [
+          0.0
+        ],
+        "causal-discovery_wt-causal_carpo_8_1000.wcnf": [
+          0.0
+        ],
+        "correlation-clustering_wt-Rounded_CorrelationClustering_Protein4_BINARY_N320.wcnf": [
+          0.0
+        ],
+        "causal-discovery_wt-causal_Water_10_1000.wcnf": [
+          0.0
+        ],
+        "correlation-clustering_wt-Rounded_CorrelationClustering_Protein2_BINARY_N380.wcnf": [
+          0.0
+        ],
+        "correlation-clustering_wt-Rounded_CorrelationClustering_Protein1_UNARY_N290.wcnf": [
+          0.0
+        ],
+        "correlation-clustering_wt-Rounded_CorrelationClustering_Protein4_UNARY_N250.wcnf": [
+          0.0
+        ],
+        "correlation-clustering_wt-Rounded_CorrelationClustering_Protein2_UNARY_N220.wcnf": [
+          0.0
+        ],
+        "correlation-clustering_wt-Rounded_CorrelationClustering_Protein3_UNARY_N220.wcnf": [
+          0.0
+        ],
+        "decision-tree-anneal-un-formula_0.8_2021_atleast_31_max-4_reduced_incomplete_adaboost_3.wcnf": [
+          0.0
+        ],
+        "correlation-clustering_wt-Rounded_CorrelationClustering_Vowel_BINARY_N800_D0.200.wcnf": [
+          0.0
+        ],
+        "abstraction-refinement_wt-polysite-hsqldb.wcnf": [
+          0.0
+        ],
+        "decision-tree-anneal-un-formula_0.8_2021_atleast_31_max-4_reduced_incomplete_adaboost_5.wcnf": [
+          0.0
+        ],
+        "decision-tree-australian-credit-un-formula_0.8_2021_atleast_31_max-4_reduced_incomplete_adaboost_5.wcnf": [
+          0.0
+        ],
+        "decision-tree-heart-cleveland-un-formula_0.8_2021_atleast_15_max-3_reduced_incomplete_adaboost_4.wcnf": [
+          0.0
+        ],
+        "correlation-clustering_wt-Rounded_CorrelationClustering_Protein3_TRANSITIVE_N280.wcnf": [
+          0.0
+        ],
+        "decision-tree-primary-tumor-un-formula_0.8_2021_atleast_15_max-3_reduced_incomplete_adaboost_2.wcnf": [
+          0.0
+        ],
+        "decision-tree-primary-tumor-un-formula_0.8_2021_atleast_127_max-6_reduced_incomplete_adaboost_2.wcnf": [
+          0.0
+        ],
+        "correlation-clustering_wt-Rounded_CorrelationClustering_Vowel_BINARY_N700_D0.200.wcnf": [
+          0.0
+        ],
+        "decision-tree-heart-cleveland-un-formula_0.8_2021_atleast_31_max-4_reduced_incomplete_adaboost_4.wcnf": [
+          0.0
+        ],
+        "decision-tree-tic-tac-toe-un-formula_0.8_2021_atleast_15_max-3_reduced_incomplete_adaboost_3.wcnf": [
+          0.0
+        ],
+        "decision-tree-heart-cleveland-un-formula_0.8_2021_atleast_31_max-4_reduced_incomplete_adaboost_6.wcnf": [
+          0.0
+        ],
+        "decision-tree-tic-tac-toe-un-formula_0.8_2021_atleast_15_max-3_reduced_incomplete_adaboost_2.wcnf": [
+          0.0
+        ],
+        "decision-tree-primary-tumor-un-formula_0.8_2021_atleast_31_max-4_reduced_incomplete_adaboost_4.wcnf": [
+          0.0
+        ],
+        "drmx-cryptogen_wt-geffe128_7.wcnf": [
+          0.0
+        ],
+        "MinimumWeightDominatingSetProblem_wt-inf-road-usa.wcnf": [
+          0.0
+        ],
+        "generalized-ising_wt-IS13_5.0.5.0.0.5_softer_periodic.wcnf": [
+          0.0
+        ],
+        "generalized-ising_wt-IS12_5.0.5.0.0.5_softer_periodic.wcnf": [
+          0.0
+        ],
+        "generalized-ising_wt-IS17_5.0.5.0.0.5_softer_periodic.wcnf": [
+          0.0
+        ],
+        "generalized-ising_wt-IS15_5.0.5.0.0.5_softer_periodic.wcnf": [
+          0.0
+        ],
+        "generalized-ising_wt-IS20_5.0.5.0.0.5_softer_periodic.wcnf": [
+          0.0
+        ],
+        "generalized-ising_wt-IS11_5.0.5.0.0.5_softer_periodic.wcnf": [
+          0.0
+        ],
+        "decision-tree-primary-tumor-un-formula_0.8_2021_atleast_127_max-6_reduced_incomplete_adaboost_4.wcnf": [
+          0.0
+        ],
+        "generalized-ising_wt-IS22_5.0.5.0.0.5_softer_periodic.wcnf": [
+          0.0
+        ],
+        "generalized-ising_wt-IS3_5.0.5.0.0.5_softer_periodic.wcnf": [
+          0.0
+        ],
+        "generalized-ising_wt-IS16_5.0.5.0.0.5_softer_periodic.wcnf": [
+          0.0
+        ],
+        "generalized-ising_wt-IS6_5.0.5.0.0.5_softer_periodic.wcnf": [
+          0.0
+        ],
+        "generalized-ising_wt-IS23_5.0.5.0.0.5_softer_periodic.wcnf": [
+          0.0
+        ],
+        "generalized-ising_wt-IS4_5.0.5.0.0.5_softer_periodic.wcnf": [
+          0.0
+        ],
+        "decision-tree-tic-tac-toe-un-formula_0.8_2021_atleast_31_max-4_reduced_incomplete_adaboost_2.wcnf": [
+          0.0
+        ],
+        "generalized-ising_wt-IS9_5.0.5.0.0.5_softer_periodic.wcnf": [
+          0.0
+        ],
+        "hs-timetabling_wt-BrazilInstance1.xml.wcnf": [
+          0.0
+        ],
+        "generalized-ising_wt-IS7_5.0.5.0.0.5_softer_periodic.wcnf": [
+          0.0
+        ],
+        "hs-timetabling_wt-BrazilInstance4.xml.wcnf": [
+          0.0
+        ],
+        "decision-tree-primary-tumor-un-formula_0.8_2021_atleast_63_max-5_reduced_incomplete_adaboost_6.wcnf": [
+          0.0
+        ],
+        "hs-timetabling_wt-BrazilInstance2.xml.wcnf": [
+          0.0
+        ],
+        "hs-timetabling_wt-BrazilInstance6.xml.wcnf": [
+          0.0
+        ],
+        "generalized-ising_wt-IS5_5.0.5.0.0.5_softer_periodic.wcnf": [
+          0.0
+        ],
+        "judgment-aggregation-ja-kemeny-preflib-00049-00000334.wcnf": [
+          0.0
+        ],
+        "hs-timetabling_wt-FinlandSecondarySchool.xml.wcnf": [
+          0.0
+        ],
+        "judgment-aggregation-ja-kemeny-preflib-00049-00000300.wcnf": [
+          0.0
+        ],
+        "hs-timetabling_wt-BrazilInstance7.xml.wcnf": [
+          0.0
+        ],
+        "hs-timetabling_wt-BrazilInstance5.xml.wcnf": [
+          0.0
+        ],
+        "hs-timetabling_wt-ItalyInstance4.xml.wcnf": [
+          0.0
+        ],
+        "judgment-aggregation-ja-kemeny-preflib-00049-00000454.wcnf": [
+          0.0
+        ],
+        "decision-tree-heart-cleveland-un-formula_0.8_2021_atleast_127_max-6_reduced_incomplete_adaboost_2.wcnf": [
+          0.0
+        ],
+        "judgment-aggregation-ja-kemeny-preflib-00049-00000451.wcnf": [
+          0.0
+        ],
+        "mpe_wt-random-net-50-5_network-8.net.wcnf": [
+          0.0
+        ],
+        "pseudoBoolean_wt-normalized-mps-v2-20-10-sentoy.opb.msat.wcnf": [
+          0.0
+        ],
+        "metro_wt-metro_8_8_5_20_10_6_500_1_3.lp.sm-extracted.wcnf": [
+          0.0
+        ],
+        "max-realizability_wt-power-distribution_11_7.wcnf": [
+          0.0
+        ],
+        "ramsey_wt-ram_k3_n14.ra1.wcnf": [
+          0.0
+        ],
+        "MinimumWeightDominatingSetProblem_wt-soc-livejournal-user-groups.wcnf": [
+          0.0
+        ],
+        "max-realizability_wt-power-distribution_12_8.wcnf": [
+          0.0
+        ],
+        "ramsey_wt-ram_k4_n19.ra1.wcnf": [
+          0.0
+        ],
+        "ramsey_wt-ram_k3_n16.ra1.wcnf": [
+          0.0
+        ],
+        "ramsey_wt-ram_k3_n19.ra1.wcnf": [
+          0.0
+        ],
+        "max-realizability_wt-robot-navigation_10.wcnf": [
+          0.0
+        ],
+        "railway-transport_wt-f2030.wcnf": [
+          0.0
+        ],
+        "judgment-aggregation-ja-kemeny-preflib-00051-00000011.wcnf": [
+          0.0
+        ],
+        "setcover_wt-rail507.wcnf": [
+          0.0
+        ],
+        "setcover_wt-rail4872.wcnf": [
+          0.0
+        ],
+        "setcover_wt-rail2536.wcnf": [
+          0.0
+        ],
+        "relational-inference_wt-pa-1.wcnf": [
+          0.0
+        ],
+        "railway-transport_wt-wg2.wcnf": [
+          0.0
+        ],
+        "setcover_wt-rail4284.wcnf": [
+          0.0
+        ],
+        "railway-transport_wt-bf2030fvslack.wcnf": [
+          0.0
+        ],
+        "MinimumWeightDominatingSetProblem_wt-rgg_n_2_24_s0.wcnf": [
+          0.0
+        ],
+        "shiftdesign_wt-limits-10-10_data-3_inst-002_30m.sm-extracted.wcnf": [
+          0.0
+        ],
+        "shiftdesign_wt-limits-10-10_data-1_inst-137_30m.sm-extracted.wcnf": [
+          0.0
+        ],
+        "spot5_wt-1403.wcsp.dir.wcnf": [
+          0.0
+        ],
+        "shiftdesign_wt-limits-10-10_data-1_inst-182_30m.sm-extracted.wcnf": [
+          0.0
+        ],
+        "spot5_wt-1405.wcsp.dir.wcnf": [
+          0.0
+        ],
+        "spot5_wt-1403.wcsp.log.wcnf": [
+          0.0
+        ],
+        "spot5_wt-1506.wcsp.log.wcnf": [
+          0.0
+        ],
+        "spot5_wt-5.wcsp.log.wcnf": [
+          0.0
+        ],
+        "spot5_wt-1401.wcsp.log.wcnf": [
+          0.0
+        ],
+        "shiftdesign_wt-limits-10-10_data-1_inst-084_30m.sm-extracted.wcnf": [
+          0.0
+        ],
+        "staff-scheduling_wt-instance2.wcnf": [
+          0.0
+        ],
+        "relational-inference_wt-pa-3.wcnf": [
+          0.0
+        ],
+        "staff-scheduling_wt-instance4.wcnf": [
+          0.0
+        ],
+        "staff-scheduling_wt-instance3.wcnf": [
+          0.0
+        ],
+        "staff-scheduling_wt-instance5.wcnf": [
+          0.0
+        ],
+        "staff-scheduling_wt-instance7.wcnf": [
+          0.0
+        ],
+        "shiftdesign_wt-limits-10-10_data-2_inst-025_30m.sm-extracted.wcnf": [
+          0.0
+        ],
+        "staff-scheduling_wt-instance6.wcnf": [
+          0.0
+        ],
+        "staff-scheduling_wt-instance10.wcnf": [
+          0.0
+        ],
+        "shiftdesign_wt-limits-10-10_data-3_inst-003_30m.sm-extracted.wcnf": [
+          0.0
+        ],
+        "staff-scheduling_wt-instance11.wcnf": [
+          0.0
+        ],
+        "staff-scheduling_wt-instance8.wcnf": [
+          0.0
+        ],
+        "shiftdesign_wt-limits-10-10_data-4_inst-003_60m.sm-extracted.wcnf": [
+          0.0
+        ],
+        "relational-inference_wt-pa-2.wcnf": [
+          0.0
+        ],
+        "staff-scheduling_wt-instance12.wcnf": [
+          0.0
+        ],
+        "staff-scheduling_wt-instance9.wcnf": [
+          0.0
+        ],
+        "switchingactivitymaximization-SwitchingActivityMaximization_OpenRISC1200_72.wcnf": [
+          0.0
+        ],
+        "switchingactivitymaximization-SwitchingActivityMaximization_OpenRISC1200_68.wcnf": [
+          0.0
+        ],
+        "switchingactivitymaximization-SwitchingActivityMaximization_OpenRISC1200_200.wcnf": [
+          0.0
+        ],
+        "switchingactivitymaximization-SwitchingActivityMaximization_OpenRISC1200_80.wcnf": [
+          0.0
+        ],
+        "shiftdesign_wt-limits-10-10_data-2_inst-003_30m.sm-extracted.wcnf": [
+          0.0
+        ],
+        "tcp_wt-tcp_students_112_it_2.wcnf": [
+          0.0
+        ],
+        "switchingactivitymaximization-SwitchingActivityMaximization_OpenRISC1200_90.wcnf": [
+          0.0
+        ],
+        "timetabling_wt-comp09.wcnf": [
+          0.0
+        ],
+        "switchingactivitymaximization-SwitchingActivityMaximization_OpenRISC1200_66.wcnf": [
+          0.0
+        ],
+        "switchingactivitymaximization-SwitchingActivityMaximization_OpenRISC1200_100.wcnf": [
+          0.0
+        ],
+        "timetabling_wt-comp12.wcnf": [
+          0.0
+        ],
+        "timetabling_wt-comp02.wcnf": [
+          0.0
+        ],
+        "switchingactivitymaximization-SwitchingActivityMaximization_OpenRISC1200_150.wcnf": [
+          0.0
+        ],
+        "switchingactivitymaximization-SwitchingActivityMaximization_OpenRISC1200_70.wcnf": [
+          0.0
+        ],
+        "shiftdesign_wt-limits-10-10_data-2_inst-030_30m.sm-extracted.wcnf": [
+          0.0
+        ],
+        "railway-transport_wt-r11.wcnf": [
+          0.0
+        ],
+        "timetabling_wt-dds4.wcnf": [
+          0.0
+        ]
+      }
+    },
+    "2024": {
+      "ms": {
+        "CircuitDebuggingProblems-spi-debug.dimacs.wcnf": [
+          0.0
+        ],
+        "CircuitDebuggingProblems-rsdecoder-debug.dimacs.wcnf": [
+          0.0
+        ],
+        "MaxSATQueriesinInterpretableClassifiers-compas_train_5_DNF_5_1.wcnf": [
+          0.0
+        ],
+        "HaplotypeAssembly-splitedReads_0.matrix.wcnf": [
+          0.0
+        ],
+        "MaxSATQueriesinInterpretableClassifiers-toms_test_5_DNF_5_1.wcnf": [
+          0.0
+        ],
+        "MaxSATQueriesinInterpretableClassifiers-credit_train_3_DNF_3_1.wcnf": [
+          0.0
+        ],
+        "MaxSATQueriesinInterpretableClassifiers-toms_train_8_DNF_2_1.wcnf": [
+          0.0
+        ],
+        "SeanSafarpour-b15-bug-fourvec-gate-0.dimacs.seq.filtered.wcnf": [
+          0.0
+        ],
+        "MaxSATQueriesinInterpretableClassifiers-twitter_train_3_CNF_2_1.wcnf": [
+          0.0
+        ],
+        "SeanSafarpour-rsdecoder5.dimacs.filtered.wcnf": [
+          0.0
+        ],
+        "SeanSafarpour-rsdecoder4.dimacs.filtered.wcnf": [
+          0.0
+        ],
+        "SeanSafarpour-wb_4m8s1.dimacs.filtered.wcnf": [
+          0.0
+        ],
+        "SeanSafarpour-wb_4m8s4.dimacs.filtered.wcnf": [
+          0.0
+        ],
+        "SeanSafarpour-rsdecoder-problem.dimacs_37.filtered.wcnf": [
+          0.0
+        ],
+        "SeanSafarpour-rsdecoder-problem.dimacs_39.filtered.wcnf": [
+          0.0
+        ],
+        "close_solutions-SAT11__application__fuhs__AProVE11__AProVE11-16.cnf.wcnf.1.wcnf": [
+          0.0
+        ],
+        "decision-tree-car-un-formula_0.8_2021_atleast_15_max-3_reduced_incomplete_tree.wcnf": [
+          0.0
+        ],
+        "close_solutions-SAT04__industrial__velev__pipe-sat-1-1__12pipe_bug6_q0.used-as.sat04-725.cnf.wcnf.3.wcnf": [
+          0.0
+        ],
+        "causal-discovery-causal_n6_i1_N500_uai13_harddeps_int.wcnf": [
+          0.0
+        ],
+        "close_solutions-SAT04__industrial__velev__pipe-sat-1-1__12pipe_bug4_q0.used-as.sat04-723.cnf.wcnf.8.wcnf": [
+          0.0
+        ],
+        "decision-tree-kr-vs-kp-un-formula_0.8_2021_atleast_31_max-4_reduced_incomplete_tree.wcnf": [
+          0.0
+        ],
+        "decision-tree-soybean-un-formula_0.8_2021_atleast_15_max-3_reduced_incomplete_tree.wcnf": [
+          0.0
+        ],
+        "decision-tree-soybean-un-formula_0.8_2021_atleast_31_max-4_reduced_incomplete_tree.wcnf": [
+          0.0
+        ],
+        "decision-tree-australian-credit-un-formula_0.8_2021_atleast_63_max-5_reduced_incomplete_tree.wcnf": [
+          0.0
+        ],
+        "decision-tree-vote-un-formula_0.8_2021_atleast_15_max-3_reduced_incomplete_tree.wcnf": [
+          0.0
+        ],
+        "des-cnf.16.p.6.wcnf": [
+          0.0
+        ],
+        "des-cnf.17.p.10.wcnf": [
+          0.0
+        ],
+        "decision-tree-soybean-un-formula_0.8_2021_atleast_63_max-5_reduced_incomplete_tree.wcnf": [
+          0.0
+        ],
+        "decision-tree-vote-un-formula_0.8_2021_atleast_63_max-5_reduced_incomplete_tree.wcnf": [
+          0.0
+        ],
+        "des-cnf.19.p.10.wcnf": [
+          0.0
+        ],
+        "fault-diagnosis-s38584_nan_explicit_15_0.wcnf": [
+          0.0
+        ],
+        "fault-diagnosis-s38584_nan_explicit_16_0.wcnf": [
+          0.0
+        ],
+        "frb-frb40-19-2.partial.wcnf": [
+          0.0
+        ],
+        "frb-frb40-19-4.partial.wcnf": [
+          0.0
+        ],
+        "decision-tree-soybean-un-formula_0.8_2021_atleast_127_max-6_reduced_incomplete_tree.wcnf": [
+          0.0
+        ],
+        "fault-diagnosis-s38584_nan_explicit_18_0.wcnf": [
+          0.0
+        ],
+        "fault-diagnosis-s38584_nan_explicit_33_0.wcnf": [
+          0.0
+        ],
+        "fault-diagnosis-s38584_nan_explicit_27_0.wcnf": [
+          0.0
+        ],
+        "gen-hyper-tw-GenHyperTW_aim-50-1_6-yes1-3.wcnf": [
+          0.0
+        ],
+        "close_solutions-SAT_RACE06__velev-pipe-sat-1.0-b9.cnf.wcnf.8.wcnf": [
+          0.0
+        ],
+        "gen-hyper-tw-GenHyperTW_b01.wcnf": [
+          0.0
+        ],
+        "gen-hyper-tw-GenHyperTW_b06.wcnf": [
+          0.0
+        ],
+        "SeanSafarpour-mem_ctrl-problem.dimacs_27.filtered.wcnf": [
+          0.0
+        ],
+        "decision-tree-splice-1-un-formula_0.8_2021_atleast_31_max-4_reduced_incomplete_tree.wcnf": [
+          0.0
+        ],
+        "gen-hyper-tw-GenHyperTW_2bitcomp_5.wcnf": [
+          0.0
+        ],
+        "close_solutions-SAT07__industrial__vliw_sat_4.0__9vliw_m_9stages_iq3_C1_bug6.cnf.wcnf.4.wcnf": [
+          0.0
+        ],
+        "decision-tree-australian-credit-un-formula_0.8_2021_atleast_127_max-6_reduced_incomplete_tree.wcnf": [
+          0.0
+        ],
+        "gen-hyper-tw-GenHyperTW_grid3d_5.wcnf": [
+          0.0
+        ],
+        "gen-hyper-tw-GenHyperTW_grid4d_3.wcnf": [
+          0.0
+        ],
+        "gen-hyper-tw-GenHyperTW_atv_partial_system.wcnf": [
+          0.0
+        ],
+        "gen-hyper-tw-GenHyperTW_dubois29.wcnf": [
+          0.0
+        ],
+        "gen-hyper-tw-GenHyperTW_hole8.wcnf": [
+          0.0
+        ],
+        "inconsistency-measurement-im-forgetting-A-2-WS_300_16_90_30.tgf.pl.wcnf": [
+          0.0
+        ],
+        "decision-tree-kr-vs-kp-un-formula_0.8_2021_atleast_127_max-6_reduced_incomplete_tree.wcnf": [
+          0.0
+        ],
+        "inconsistency-measurement-im-forgetting-B-3-stb_339_393.tgf.pl.wcnf": [
+          0.0
+        ],
+        "gen-hyper-tw-GenHyperTW_uf20-099.wcnf": [
+          0.0
+        ],
+        "inconsistency-measurement-im-contension-A-2-grd_1948_5_1.tgf.pl.wcnf": [
+          0.0
+        ],
+        "inconsistency-measurement-im-forgetting-B-3-stb_696_412.tgf.pl.wcnf": [
+          0.0
+        ],
+        "inconsistency-measurement-im-forgetting-T-2-stb_265_466.tgf.pl.wcnf": [
+          0.0
+        ],
+        "inconsistency-measurement-im-contension-A-2-grd_1697_5_7.tgf.pl.wcnf": [
+          0.0
+        ],
+        "gen-hyper-tw-GenHyperTW_par8-2-c.wcnf": [
+          0.0
+        ],
+        "inconsistency-measurement-im-hit-C-2-stb_304_352.tgf.pl.wcnf": [
+          0.0
+        ],
+        "inconsistency-measurement-im-contension-A-2-grd_3018_3_7.tgf.pl.wcnf": [
+          0.0
+        ],
+        "inconsistency-measurement-im-contension-A-2-grd_5178_1_1.tgf.pl.wcnf": [
+          0.0
+        ],
+        "inconsistency-measurement-im-contension-C-1-grd_3018_3_7.tgf.pl.wcnf": [
+          0.0
+        ],
+        "inconsistency-measurement-im-hit-A-2-WS_300_16_90_30.tgf.pl.wcnf": [
+          0.0
+        ],
+        "gen-hyper-tw-GenHyperTW_flat30-99.wcnf": [
+          0.0
+        ],
+        "inconsistency-measurement-im-sum-A-2-stb_547_485.tgf.pl.wcnf": [
+          0.0
+        ],
+        "inconsistency-measurement-im-sum-B-3-stb_428_430.tgf.pl.wcnf": [
+          0.0
+        ],
+        "hs-timetabling-GreeceWesternGreeceUniversityInstance4.xml.wcnf": [
+          0.0
+        ],
+        "inconsistency-measurement-im-sum-B-3-stb_390_450.tgf.pl.wcnf": [
+          0.0
+        ],
+        "judgment-aggregation-ja-maxham-preflib-00049-00000003.wcnf": [
+          0.0
+        ],
+        "judgment-aggregation-ja-maxham-preflib-00049-00000092.wcnf": [
+          0.0
+        ],
+        "judgment-aggregation-ja-maxham-preflib-00049-00000106.wcnf": [
+          0.0
+        ],
+        "judgment-aggregation-ja-maxham-preflib-00049-00000272.wcnf": [
+          0.0
+        ],
+        "judgment-aggregation-ja-maxham-preflib-00049-00000338.wcnf": [
+          0.0
+        ],
+        "judgment-aggregation-ja-maxham-preflib-00049-00000304.wcnf": [
+          0.0
+        ],
+        "judgment-aggregation-ja-maxham-preflib-00049-00000562.wcnf": [
+          0.0
+        ],
+        "judgment-aggregation-ja-maxham-preflib-00049-00000511.wcnf": [
+          0.0
+        ],
+        "judgment-aggregation-ja-maxham-preflib-00049-00000516.wcnf": [
+          0.0
+        ],
+        "judgment-aggregation-ja-maxham-preflib-00049-00000291.wcnf": [
+          0.0
+        ],
+        "gen-hyper-tw-GenHyperTW_flat30-1.wcnf": [
+          0.0
+        ],
+        "judgment-aggregation-ja-maxham-preflib-00049-00000512.wcnf": [
+          0.0
+        ],
+        "inconsistency-measurement-im-sum-T-1-grd_2130_2_7.tgf.pl.wcnf": [
+          0.0
+        ],
+        "logic-synthesis-normalized-test4.pi.opb.msat.wcnf": [
+          0.0
+        ],
+        "decision-tree-hypothyroid-un-formula_0.8_2021_atleast_127_max-6_reduced_incomplete_tree.wcnf": [
+          0.0
+        ],
+        "judgment-aggregation-ja-slater-preflib-00049-00000107.wcnf": [
+          0.0
+        ],
+        "judgment-aggregation-ja-slater-preflib-00049-00000451.wcnf": [
+          0.0
+        ],
+        "judgment-aggregation-ja-slater-preflib-00043-00000180.wcnf": [
+          0.0
+        ],
+        "judgment-aggregation-ja-slater-preflib-00043-00000196.wcnf": [
+          0.0
+        ],
+        "min-fill-MinFill_R3_david.wcnf": [
+          0.0
+        ],
+        "min-fill-MinFill_R0_myciel5.wcnf": [
+          0.0
+        ],
+        "minimize-5gons-u5-cube-maxcdcl-11-tmp-15-2655746.wcnf": [
+          0.0
+        ],
+        "min-fill-MinFill_R0_queen7_7.wcnf": [
+          0.0
+        ],
+        "minimize-5gons-u5-cube-maxcdcl-13-tmp-15-2655746.wcnf": [
+          0.0
+        ],
+        "min-fill-MinFill_R0_queen9_9.wcnf": [
+          0.0
+        ],
+        "minimize-5gons-u5-cube-maxcdcl-19-tmp-15-2655746.wcnf": [
+          0.0
+        ],
+        "minimize-5gons-u5-cube-maxcdcl-23-tmp-15-2655746.wcnf": [
+          0.0
+        ],
+        "minimize-5gons-u5-cube-maxcdcl-18-tmp-15-2655746.wcnf": [
+          0.0
+        ],
+        "minimize-5gons-u5-cube-maxcdcl-12-tmp-15-2655746.wcnf": [
+          0.0
+        ],
+        "minimize-5gons-u5-cube-maxcdcl-24-tmp-15-2655746.wcnf": [
+          0.0
+        ],
+        "minimize-5gons-u5-cube-maxcdcl-29-tmp-15-2655746.wcnf": [
+          0.0
+        ],
+        "minimize-5gons-u5-cube-maxcdcl-36-tmp-15-2655746.wcnf": [
+          0.0
+        ],
+        "minimize-5gons-u5-cube-maxcdcl-20-tmp-15-2655746.wcnf": [
+          0.0
+        ],
+        "minimize-5gons-u5-cube-maxcdcl-32-tmp-15-2655746.wcnf": [
+          0.0
+        ],
+        "min-fill-MinFill_R3_miles750.wcnf": [
+          0.0
+        ],
+        "minimize-5gons-u5-cube-maxcdcl-38-tmp-15-2655746.wcnf": [
+          0.0
+        ],
+        "minimize-5gons-u5-cube-maxcdcl-46-tmp-15-2655746.wcnf": [
+          0.0
+        ],
+        "minimize-5gons-u5-cube-maxcdcl-41-tmp-15-2655746.wcnf": [
+          0.0
+        ],
+        "minimize-5gons-u5-cube-maxcdcl-53-tmp-15-2655746.wcnf": [
+          0.0
+        ],
+        "min-fill-MinFill_R0_myciel6.wcnf": [
+          0.0
+        ],
+        "minimize-5gons-u5-cube-maxcdcl-58-tmp-15-2655746.wcnf": [
+          0.0
+        ],
+        "min-fill-MinFill_R0_queen11_11.wcnf": [
+          0.0
+        ],
+        "min-fill-MinFill_R1_games120.wcnf": [
+          0.0
+        ],
+        "minimize-5gons-u5-cube-maxcdcl-48-tmp-15-2655746.wcnf": [
+          0.0
+        ],
+        "minimize-5gons-u5-cube-maxcdcl-44-tmp-15-2655746.wcnf": [
+          0.0
+        ],
+        "minimize-5gons-u5-cube-maxcdcl-60-tmp-15-2655746.wcnf": [
+          0.0
+        ],
+        "min-fill-MinFill_R0_mulsol.i.1.wcnf": [
+          0.0
+        ],
+        "optic-gen_add_4_carry_991.wcnf": [
+          0.0
+        ],
+        "minimize-5gons-u5-cube-maxcdcl-7-tmp-15-2655746.wcnf": [
+          0.0
+        ],
+        "minimize-5gons-u5-cube-maxcdcl-61-tmp-15-2655746.wcnf": [
+          0.0
+        ],
+        "minimize-5gons-u5-cube-maxcdcl-8-tmp-15-2655746.wcnf": [
+          0.0
+        ],
+        "minimize-5gons-u5-cube-maxcdcl-59-tmp-15-2655746.wcnf": [
+          0.0
+        ],
+        "minimize-5gons-u5-cube-maxcdcl-49-tmp-15-2655746.wcnf": [
+          0.0
+        ],
+        "minimize-5gons-u5-cube-maxcdcl-9-tmp-15-2655746.wcnf": [
+          0.0
+        ],
+        "optic-gen_mult_4_5_991.wcnf": [
+          0.0
+        ],
+        "optic-gen_mult_5_5_991.wcnf": [
+          0.0
+        ],
+        "optimizing-BDDs-anneal-un-wcnf_incomplete_improved_1_2019_2.wcnf": [
+          0.0
+        ],
+        "optimizing-BDDs-anneal-un-wcnf_incomplete_improved_1_2019_5.wcnf": [
+          0.0
+        ],
+        "optimizing-BDDs-lymph-un-wcnf_incomplete_improved_1_2019_6.wcnf": [
+          0.0
+        ],
+        "optic-gen_mult_4_6_991.wcnf": [
+          0.0
+        ],
+        "optimizing-BDDs-anneal-un-wcnf_incomplete_improved_1_2019_7.wcnf": [
+          0.0
+        ],
+        "min-fill-MinFill_R0_mulsol.i.3.wcnf": [
+          0.0
+        ],
+        "optic-gen_add_6_carry_991.wcnf": [
+          0.0
+        ],
+        "optic-gen_mult_5_5_9999.wcnf": [
+          0.0
+        ],
+        "optimizing-BDDs-primary-tumor-un-wcnf_incomplete_improved_1_2019_4.wcnf": [
+          0.0
+        ],
+        "optic-gen_mult_4_6_9999.wcnf": [
+          0.0
+        ],
+        "optimizing-BDDs-breast-cancer-un-wcnf_incomplete_improved_1_2019_8.wcnf": [
+          0.0
+        ],
+        "min-fill-MinFill_R0_myciel7.wcnf": [
+          0.0
+        ],
+        "optimizing-BDDs-primary-tumor-un-wcnf_incomplete_improved_1_2019_8.wcnf": [
+          0.0
+        ],
+        "optimizing-BDDs-hypothyroid-un-wcnf_incomplete_improved_1_2019_2.wcnf": [
+          0.0
+        ],
+        "optimizing-BDDs-tic-tac-toe-un-wcnf_incomplete_improved_1_2019_5.wcnf": [
+          0.0
+        ],
+        "optimizing-BDDs-soybean-un-wcnf_incomplete_improved_1_2019_7.wcnf": [
+          0.0
+        ],
+        "optimizing-BDDs-tic-tac-toe-un-wcnf_incomplete_improved_1_2019_7.wcnf": [
+          0.0
+        ],
+        "decision-tree-mushroom-un-formula_0.8_2021_atleast_127_max-6_reduced_incomplete_tree.wcnf": [
+          0.0
+        ],
+        "optimizing-BDDs-splice-1-un-wcnf_incomplete_improved_1_2019_5.wcnf": [
+          0.0
+        ],
+        "optimizing-BDDs-splice-1-un-wcnf_incomplete_improved_1_2019_6.wcnf": [
+          0.0
+        ],
+        "planning-bnn-sysadmin_4_3.wcnf": [
+          0.0
+        ],
+        "planning-bnn-sysadmin_4_4.wcnf": [
+          0.0
+        ],
+        "planning-bnn-navigation_4x4_5.wcnf": [
+          0.0
+        ],
+        "privilege-escalation-cloud_access_control_repair_task-117.wcnf": [
+          0.0
+        ],
+        "planning-bnn-sysadmin_5_3.wcnf": [
+          0.0
+        ],
+        "planning-bnn-navigation_4x4_7.wcnf": [
+          0.0
+        ],
+        "planning-bnn-sysadmin_5_4.wcnf": [
+          0.0
+        ],
+        "planning-bnn-navigation_5x5_9.wcnf": [
+          0.0
+        ],
+        "decision-tree-splice-1-un-formula_0.8_2021_atleast_127_max-6_reduced_incomplete_tree.wcnf": [
+          0.0
+        ],
+        "privilege-escalation-cloud_access_control_repair_task-141.wcnf": [
+          0.0
+        ],
+        "privilege-escalation-cloud_access_control_repair_task-130.wcnf": [
+          0.0
+        ],
+        "privilege-escalation-cloud_access_control_repair_task-178.wcnf": [
+          0.0
+        ],
+        "privilege-escalation-cloud_access_control_repair_task-34.wcnf": [
+          0.0
+        ],
+        "privilege-escalation-cloud_access_control_repair_task-163.wcnf": [
+          0.0
+        ],
+        "program-disambiguation-Q27_YESNO_1.wcnf": [
+          0.0
+        ],
+        "privilege-escalation-cloud_access_control_repair_task-134.wcnf": [
+          0.0
+        ],
+        "protein_ins-1bpi_.2knt_.g.wcnf.t.wcnf": [
+          0.0
+        ],
+        "privilege-escalation-cloud_access_control_repair_task-15.wcnf": [
+          0.0
+        ],
+        "privilege-escalation-cloud_access_control_repair_task-73.wcnf": [
+          0.0
+        ],
+        "program-disambiguation-Q35_OPTIONS_1.wcnf": [
+          0.0
+        ],
+        "protein_ins-1knt_.5pti_.g.wcnf.t.wcnf": [
+          0.0
+        ],
+        "protein_ins-2knt_.5pti_.g.wcnf.t.wcnf": [
+          0.0
+        ],
+        "protein_ins-1knt_.1bpi_.g.wcnf.t.wcnf": [
+          0.0
+        ],
+        "pseudoBoolean-normalized-par32-1.opb.msat.wcnf": [
+          0.0
+        ],
+        "pseudoBoolean-normalized-par32-4.opb.msat.wcnf": [
+          0.0
+        ],
+        "pseudoBoolean-normalized-par32-5.opb.msat.wcnf": [
+          0.0
+        ],
+        "protein_ins-3ebx_.1era_.g.wcnf.t.wcnf": [
+          0.0
+        ],
+        "protein_ins-6ebx_.1era_.g.wcnf.t.wcnf": [
+          0.0
+        ],
+        "protein_ins-1bpi_.5pti_.g.wcnf.t.wcnf": [
+          0.0
+        ],
+        "protein_ins-p1.wcnf.t.wcnf": [
+          0.0
+        ],
+        "ramsey-ram_k3_n10.ra0.wcnf": [
+          0.0
+        ],
+        "protein_ins-sandiaprotein.g.wcnf.t.wcnf": [
+          0.0
+        ],
+        "ramsey-ram_k3_n18.ra0.wcnf": [
+          0.0
+        ],
+        "ramsey-ram_k3_n19.ra0.wcnf": [
+          0.0
+        ],
+        "ramsey-ram_k4_n20.ra0.wcnf": [
+          0.0
+        ],
+        "program-disambiguation-Q36_YESNO_1.wcnf": [
+          0.0
+        ],
+        "railway-transport-pesp_5min.wcnf": [
+          0.0
+        ],
+        "scheduling-cnf_10.wcnf": [
+          0.0
+        ],
+        "scheduling-cnf_10_center.wcnf": [
+          0.0
+        ],
+        "railway-transport-pesp_18Min.wcnf": [
+          0.0
+        ],
+        "ramsey-ram_k3_n12.ra0.wcnf": [
+          0.0
+        ],
+        "ramsey-ram_k3_n16.ra0.wcnf": [
+          0.0
+        ],
+        "setcover-sts-data.243.wcnf": [
+          0.0
+        ],
+        "scheduling-cnf_12.wcnf": [
+          0.0
+        ],
+        "setcover-sts-data.405.wcnf": [
+          0.0
+        ],
+        "scheduling-cnf_small.wcnf": [
+          0.0
+        ],
+        "setcover-sts-data.135.wcnf": [
+          0.0
+        ],
+        "setcover-sts-data.729.wcnf": [
+          0.0
+        ],
+        "privilege-escalation-cloud_access_control_repair_task-146.wcnf": [
+          0.0
+        ],
+        "treewidth-computation-TWComp_1dj7_N73.wcnf": [
+          0.0
+        ],
+        "treewidth-computation-TWComp_1en2_N69.wcnf": [
+          0.0
+        ],
+        "treewidth-computation-TWComp_queen5_5_N25.wcnf": [
+          0.0
+        ],
+        "xai-mindset2-cleveland-nominal.wcnf": [
+          0.0
+        ],
+        "scheduling-cnf_12_center.wcnf": [
+          0.0
+        ],
+        "xai-mindset2-house-votes-84.wcnf": [
+          0.0
+        ],
+        "xai-mindset2-postoperative-patient-data.wcnf": [
+          0.0
+        ],
+        "xai-mindset2-colic.wcnf": [
+          0.0
+        ],
+        "xai-mindset2-lymphography.wcnf": [
+          0.0
+        ],
+        "railway-transport-we.wcnf": [
+          0.0
+        ],
+        "xai-mindset2-ecoli.wcnf": [
+          0.0
+        ],
+        "xai-mindset2-australian.wcnf": [
+          0.0
+        ],
+        "planning-bnn-cellda_y_8.wcnf": [
+          0.0
+        ],
+        "treewidth-computation-TWComp_mulsol.i.5-pp_N119.wcnf": [
+          0.0
+        ],
+        "planning-bnn-cellda_x_10.wcnf": [
+          0.0
+        ],
+        "planning-bnn-cellda_y_9.wcnf": [
+          0.0
+        ],
+        "railway-transport-d4.wcnf": [
+          0.0
+        ],
+        "privilege-escalation-cloud_access_control_repair_task-61.wcnf": [
+          0.0
+        ],
+        "privilege-escalation-cloud_access_control_repair_task-47.wcnf": [
+          0.0
+        ],
+        "planning-bnn-cellda_x_12.wcnf": [
+          0.0
+        ]
+      },
+      "wms": {
+        "BTBNSL_wt-Rounded_BTWBNSL_Flag.BIC_TWBound_3.wcnf": [
+          0.0
+        ],
+        "BTBNSL_wt-Rounded_BTWBNSL_Flag.BIC_TWBound_4.wcnf": [
+          0.0
+        ],
+        "BTBNSL_wt-Rounded_BTWBNSL_Hepatitis.BIC_TWBound4.wcnf": [
+          0.0
+        ],
+        "BTBNSL_wt-Rounded_BTWBNSL_Horse.BIC_TWBound_2.wcnf": [
+          0.0
+        ],
+        "BTBNSL_wt-Rounded_BTWBNSL_Water_1000_1_2.scores_TWBound_3.wcnf": [
+          0.0
+        ],
+        "BTBNSL_wt-Rounded_BTWBNSL_Wine_TWBound_3.wcnf": [
+          0.0
+        ],
+        "BTBNSL_wt-Rounded_BTWBNSL_alarm_100_1_3.scores_TWBound_3.wcnf": [
+          0.0
+        ],
+        "BTBNSL_wt-Rounded_BTWBNSL_hailfinder_10000_1_3.scores_TWBound_3.wcnf": [
+          0.0
+        ],
+        "BTBNSL_wt-Rounded_BTWBNSL_hailfinder_1000_1_3.scores_TWBound_2.wcnf": [
+          0.0
+        ],
+        "BTBNSL_wt-Rounded_BTWBNSL_hailfinder_1000_1_3.scores_TWBound_3.wcnf": [
+          0.0
+        ],
+        "BTBNSL_wt-Rounded_BTWBNSL_insurance_1000_1_3.scores_TWBound_4.wcnf": [
+          0.0
+        ],
+        "BTBNSL_wt-Rounded_BTWBNSL_insurance_100_1_3.scores_TWBound_3.wcnf": [
+          0.0
+        ],
+        "BTBNSL_wt-Rounded_BTWBNSL_hailfinder_1000_1_3.scores_TWBound_4.wcnf": [
+          0.0
+        ],
+        "BTBNSL_wt-Rounded_BTWBNSL_insurance_1000_1_3.scores_TWBound_3.wcnf": [
+          0.0
+        ],
+        "MaxSATQueriesinInterpretableClassifiers_wt-heart_train_1_CNF_3_5.wcnf": [
+          0.0
+        ],
+        "MaxSATQueriesinInterpretableClassifiers_wt-compas_train_2_CNF_3_15.wcnf": [
+          0.0
+        ],
+        "CSG_wt-CSG140-140-6.wcnf": [
+          0.0
+        ],
+        "CSG_wt-CSGNaive140-140-6.wcnf": [
+          0.0
+        ],
+        "MaxSATQueriesinInterpretableClassifiers_wt-twitter_train_5_CNF_4_10.wcnf": [
+          0.0
+        ],
+        "MinimumWeightDominatingSetProblem_wt-bn-human-BNU_1_0025865_session_1-bg.wcnf": [
+          0.0
+        ],
+        "MinimumWeightDominatingSetProblem_wt-channel-500x100x100-b050.wcnf": [
+          0.0
+        ],
+        "MinimumWeightDominatingSetProblem_wt-sc-rel9.wcnf": [
+          0.0
+        ],
+        "MinimumWeightDominatingSetProblem_wt-delaunay_n24.wcnf": [
+          0.0
+        ],
+        "MinimumWeightDominatingSetProblem_wt-hugebubbles-00020.wcnf": [
+          0.0
+        ],
+        "ParametricRBACMaintenance_mse20_wt-role_domino_multiple_0.1_1.wcnf": [
+          0.0
+        ],
+        "MinimumWeightDominatingSetProblem_wt-web-wikipedia2009.wcnf": [
+          0.0
+        ],
+        "MinimumWeightDominatingSetProblem_wt-inf-road-usa.wcnf": [
+          0.0
+        ],
+        "ParametricRBACMaintenance_mse20_wt-role_domino_multiple_0.3_9.wcnf": [
+          0.0
+        ],
+        "ParametricRBACMaintenance_mse20_wt-role_domino_multiple_0.3_1.wcnf": [
+          0.0
+        ],
+        "ParametricRBACMaintenance_mse20_wt-role_domino_multiple_0.5_6.wcnf": [
+          0.0
+        ],
+        "ParametricRBACMaintenance_mse20_wt-role_domino_multiple_0.4_0.wcnf": [
+          0.0
+        ],
+        "ParametricRBACMaintenance_mse20_wt-role_domino_multiple_0.4_1.wcnf": [
+          0.0
+        ],
+        "ParametricRBACMaintenance_mse20_wt-role_domino_multiple_0.7_0.wcnf": [
+          0.0
+        ],
+        "ParametricRBACMaintenance_mse20_wt-role_domino_multiple_0.5_7.wcnf": [
+          0.0
+        ],
+        "ParametricRBACMaintenance_mse20_wt-role_smallcomp_multiple_0.1_9.wcnf": [
+          0.0
+        ],
+        "ParametricRBACMaintenance_mse20_wt-role_smallcomp_multiple_0.4_2.wcnf": [
+          0.0
+        ],
+        "ParametricRBACMaintenance_mse20_wt-role_smallcomp_multiple_0.5_2.wcnf": [
+          0.0
+        ],
+        "ParametricRBACMaintenance_mse20_wt-role_smallcomp_multiple_0.8_0.wcnf": [
+          0.0
+        ],
+        "ParametricRBACMaintenance_mse20_wt-role_smallcomp_multiple_0.8_2.wcnf": [
+          0.0
+        ],
+        "ParametricRBACMaintenance_mse20_wt-role_domino_multiple_0.7_7.wcnf": [
+          0.0
+        ],
+        "ParametricRBACMaintenance_mse20_wt-role_smallcomp_multiple_0.8_6.wcnf": [
+          0.0
+        ],
+        "abstraction-refinement_wt-downcast-avrora.wcnf": [
+          0.0
+        ],
+        "abstraction-refinement_wt-downcast-antlr.wcnf": [
+          0.0
+        ],
+        "MinimumWeightDominatingSetProblem_wt-soc-livejournal-user-groups.wcnf": [
+          0.0
+        ],
+        "abstraction-refinement_wt-downcast-hsqldb.wcnf": [
+          0.0
+        ],
+        "abstraction-refinement_wt-downcast-xalan.wcnf": [
+          0.0
+        ],
+        "abstraction-refinement_wt-polysite-avrora.wcnf": [
+          0.0
+        ],
+        "MinimumWeightDominatingSetProblem_wt-rgg_n_2_24_s0.wcnf": [
+          0.0
+        ],
+        "abstraction-refinement_wt-downcast-pmd.wcnf": [
+          0.0
+        ],
+        "abstraction-refinement_wt-polysite-lusearch.wcnf": [
+          0.0
+        ],
+        "af-synthesis_wt-af-synthesis_stb_50_100_4.wcnf": [
+          0.0
+        ],
+        "af-synthesis_wt-af-synthesis_stb_50_120_5.wcnf": [
+          0.0
+        ],
+        "af-synthesis_wt-af-synthesis_stb_50_140_0.wcnf": [
+          0.0
+        ],
+        "af-synthesis_wt-af-synthesis_stb_50_140_1.wcnf": [
+          0.0
+        ],
+        "af-synthesis_wt-af-synthesis_stb_50_140_7.wcnf": [
+          0.0
+        ],
+        "af-synthesis_wt-af-synthesis_stb_50_160_1.wcnf": [
+          0.0
+        ],
+        "abstraction-refinement_wt-polysite-xalan.wcnf": [
+          0.0
+        ],
+        "af-synthesis_wt-af-synthesis_stb_50_160_9.wcnf": [
+          0.0
+        ],
+        "af-synthesis_wt-af-synthesis_stb_50_160_5.wcnf": [
+          0.0
+        ],
+        "af-synthesis_wt-af-synthesis_stb_50_200_0.wcnf": [
+          0.0
+        ],
+        "abstraction-refinement_wt-polysite-pmd.wcnf": [
+          0.0
+        ],
+        "abstraction-refinement_wt-polysite-hsqldb.wcnf": [
+          0.0
+        ],
+        "af-synthesis_wt-af-synthesis_stb_50_200_5.wcnf": [
+          0.0
+        ],
+        "af-synthesis_wt-af-synthesis_stb_50_20_4.wcnf": [
+          0.0
+        ],
+        "af-synthesis_wt-af-synthesis_stb_50_40_0.wcnf": [
+          0.0
+        ],
+        "af-synthesis_wt-af-synthesis_stb_50_40_6.wcnf": [
+          0.0
+        ],
+        "af-synthesis_wt-af-synthesis_stb_50_20_8.wcnf": [
+          0.0
+        ],
+        "causal-discovery_wt-causal_Bands_6_277.wcnf": [
+          0.0
+        ],
+        "af-synthesis_wt-af-synthesis_stb_50_40_8.wcnf": [
+          0.0
+        ],
+        "causal-discovery_wt-causal_hailfinder_7_100.wcnf": [
+          0.0
+        ],
+        "causal-discovery_wt-causal_Mildew_8_1000.wcnf": [
+          0.0
+        ],
+        "causal-discovery_wt-causal_n7_i4_N500_uai14_log_int.wcnf": [
+          0.0
+        ],
+        "causal-discovery_wt-causal_insurance_8_10000.wcnf": [
+          0.0
+        ],
+        "causal-discovery_wt-causal_n6_i2_N500_uai13_log_int.wcnf": [
+          0.0
+        ],
+        "abstraction-refinement_wt-polysite-bloat.wcnf": [
+          0.0
+        ],
+        "correlation-clustering_wt-Rounded_CorrelationClustering_Protein1_BINARY_N320.wcnf": [
+          0.0
+        ],
+        "correlation-clustering_wt-Rounded_CorrelationClustering_Ionosphere_BINARY_N280_D0.200.wcnf": [
+          0.0
+        ],
+        "correlation-clustering_wt-Rounded_CorrelationClustering_Ionosphere_BINARY_N300_D0.200.wcnf": [
+          0.0
+        ],
+        "causal-discovery_wt-causal_Water_10_100.wcnf": [
+          0.0
+        ],
+        "correlation-clustering_wt-Rounded_CorrelationClustering_Protein1_BINARY_N400.wcnf": [
+          0.0
+        ],
+        "correlation-clustering_wt-Rounded_CorrelationClustering_Protein4_BINARY_N360.wcnf": [
+          0.0
+        ],
+        "correlation-clustering_wt-Rounded_CorrelationClustering_Protein1_UNARY_N250.wcnf": [
+          0.0
+        ],
+        "correlation-clustering_wt-Rounded_CorrelationClustering_Protein3_TRANSITIVE_N200.wcnf": [
+          0.0
+        ],
+        "correlation-clustering_wt-Rounded_CorrelationClustering_Protein4_BINARY_N400.wcnf": [
+          0.0
+        ],
+        "correlation-clustering_wt-Rounded_CorrelationClustering_Protein3_TRANSITIVE_N220.wcnf": [
+          0.0
+        ],
+        "decision-tree-australian-credit-un-formula_0.8_2021_atleast_15_max-3_reduced_incomplete_adaboost_5.wcnf": [
+          0.0
+        ],
+        "decision-tree-australian-credit-un-formula_0.8_2021_atleast_15_max-3_reduced_incomplete_adaboost_2.wcnf": [
+          0.0
+        ],
+        "correlation-clustering_wt-Rounded_CorrelationClustering_Vowel_BINARY_N700_D0.200.wcnf": [
+          0.0
+        ],
+        "correlation-clustering_wt-Rounded_CorrelationClustering_Protein4_TRANSITIVE_N190.wcnf": [
+          0.0
+        ],
+        "correlation-clustering_wt-Rounded_CorrelationClustering_Protein1_TRANSITIVE_N270.wcnf": [
+          0.0
+        ],
+        "decision-tree-heart-cleveland-un-formula_0.8_2021_atleast_15_max-3_reduced_incomplete_adaboost_5.wcnf": [
+          0.0
+        ],
+        "decision-tree-australian-credit-un-formula_0.8_2021_atleast_63_max-5_reduced_incomplete_adaboost_3.wcnf": [
+          0.0
+        ],
+        "decision-tree-australian-credit-un-formula_0.8_2021_atleast_63_max-5_reduced_incomplete_adaboost_5.wcnf": [
+          0.0
+        ],
+        "decision-tree-primary-tumor-un-formula_0.8_2021_atleast_15_max-3_reduced_incomplete_adaboost_2.wcnf": [
+          0.0
+        ],
+        "decision-tree-heart-cleveland-un-formula_0.8_2021_atleast_15_max-3_reduced_incomplete_adaboost_6.wcnf": [
+          0.0
+        ],
+        "decision-tree-primary-tumor-un-formula_0.8_2021_atleast_31_max-4_reduced_incomplete_adaboost_3.wcnf": [
+          0.0
+        ],
+        "decision-tree-primary-tumor-un-formula_0.8_2021_atleast_63_max-5_reduced_incomplete_adaboost_4.wcnf": [
+          0.0
+        ],
+        "decision-tree-primary-tumor-un-formula_0.8_2021_atleast_63_max-5_reduced_incomplete_adaboost_5.wcnf": [
+          0.0
+        ],
+        "decision-tree-primary-tumor-un-formula_0.8_2021_atleast_127_max-6_reduced_incomplete_adaboost_4.wcnf": [
+          0.0
+        ],
+        "decision-tree-tic-tac-toe-un-formula_0.8_2021_atleast_31_max-4_reduced_incomplete_adaboost_2.wcnf": [
+          0.0
+        ],
+        "drmx-cryptogen_wt-threshold128_0.wcnf": [
+          0.0
+        ],
+        "drmx-cryptogen_wt-threshold128_1.wcnf": [
+          0.0
+        ],
+        "drmx-cryptogen_wt-threshold128_6.wcnf": [
+          0.0
+        ],
+        "drmx-cryptogen_wt-threshold128_2.wcnf": [
+          0.0
+        ],
+        "frb_wt-frb40-19-3.wcnf": [
+          0.0
+        ],
+        "decision-tree-tic-tac-toe-un-formula_0.8_2021_atleast_127_max-6_reduced_incomplete_adaboost_3.wcnf": [
+          0.0
+        ],
+        "drmx-cryptogen_wt-threshold128_8.wcnf": [
+          0.0
+        ],
+        "frb_wt-frb40-19-4.wcnf": [
+          0.0
+        ],
+        "decision-tree-heart-cleveland-un-formula_0.8_2021_atleast_127_max-6_reduced_incomplete_adaboost_5.wcnf": [
+          0.0
+        ],
+        "decision-tree-tic-tac-toe-un-formula_0.8_2021_atleast_127_max-6_reduced_incomplete_adaboost_5.wcnf": [
+          0.0
+        ],
+        "judgment-aggregation-ja-kemeny-preflib-00049-00000287.wcnf": [
+          0.0
+        ],
+        "judgment-aggregation-ja-kemeny-preflib-00049-00000300.wcnf": [
+          0.0
+        ],
+        "judgment-aggregation-ja-kemeny-preflib-00049-00000334.wcnf": [
+          0.0
+        ],
+        "judgment-aggregation-ja-kemeny-preflib-00049-00000353.wcnf": [
+          0.0
+        ],
+        "haplotyping-pedigrees_wt-ped2.G.recomb10-0.20-12.wcnf": [
+          0.0
+        ],
+        "judgment-aggregation-ja-kemeny-preflib-00043-00000180.wcnf": [
+          0.0
+        ],
+        "judgment-aggregation-ja-kemeny-preflib-00049-00000377.wcnf": [
+          0.0
+        ],
+        "judgment-aggregation-ja-kemeny-preflib-00049-00000468.wcnf": [
+          0.0
+        ],
+        "judgment-aggregation-ja-kemeny-preflib-00049-00000451.wcnf": [
+          0.0
+        ],
+        "haplotyping-pedigrees_wt-ped2.G.recomb10-0.20-13.wcnf": [
+          0.0
+        ],
+        "judgment-aggregation-ja-kemeny-preflib-00049-00000454.wcnf": [
+          0.0
+        ],
+        "judgment-aggregation-ja-kemeny-preflib-00049-00000614.wcnf": [
+          0.0
+        ],
+        "lisbon-wedding_wt-lisbon-wedding-1-18.wcnf": [
+          0.0
+        ],
+        "judgment-aggregation-ja-kemeny-preflib-00051-00000007.wcnf": [
+          0.0
+        ],
+        "lisbon-wedding_wt-lisbon-wedding-10-17.wcnf": [
+          0.0
+        ],
+        "judgment-aggregation-ja-kemeny-preflib-00051-00000009.wcnf": [
+          0.0
+        ],
+        "judgment-aggregation-ja-kemeny-preflib-00051-00000011.wcnf": [
+          0.0
+        ],
+        "lisbon-wedding_wt-lisbon-wedding-4-17.wcnf": [
+          0.0
+        ],
+        "lisbon-wedding_wt-lisbon-wedding-3-18.wcnf": [
+          0.0
+        ],
+        "lisbon-wedding_wt-lisbon-wedding-10-18.wcnf": [
+          0.0
+        ],
+        "lisbon-wedding_wt-lisbon-wedding-1-19.wcnf": [
+          0.0
+        ],
+        "lisbon-wedding_wt-lisbon-wedding-6-19.wcnf": [
+          0.0
+        ],
+        "lisbon-wedding_wt-lisbon-wedding-7-18.wcnf": [
+          0.0
+        ],
+        "lisbon-wedding_wt-lisbon-wedding-8-17.wcnf": [
+          0.0
+        ],
+        "lisbon-wedding_wt-lisbon-wedding-5-19.wcnf": [
+          0.0
+        ],
+        "lisbon-wedding_wt-lisbon-wedding-7-19.wcnf": [
+          0.0
+        ],
+        "lisbon-wedding_wt-lisbon-wedding-9-17.wcnf": [
+          0.0
+        ],
+        "lisbon-wedding_wt-lisbon-wedding-9-18.wcnf": [
+          0.0
+        ],
+        "max-realizability_wt-power-distribution_10_7.wcnf": [
+          0.0
+        ],
+        "max-realizability_wt-power-distribution_11_6.wcnf": [
+          0.0
+        ],
+        "metro_wt-metro_8_8_5_20_10_6_500_1_3.lp.sm-extracted.wcnf": [
+          0.0
+        ],
+        "mpe_wt-random-net-30-5_network-4.net.wcnf": [
+          0.0
+        ],
+        "mpe_wt-random-net-20-5_network-3.net.wcnf": [
+          0.0
+        ],
+        "mpe_wt-random-net-60-3_network-7.net.wcnf": [
+          0.0
+        ],
+        "max-realizability_wt-power-distribution_11_7.wcnf": [
+          0.0
+        ],
+        "max-realizability_wt-power-distribution_12_7.wcnf": [
+          0.0
+        ],
+        "preference_planning_wt-WCNF_pathways_p16.wcnf": [
+          0.0
+        ],
+        "protein_ins_wt-1bpi_.2knt_.g.wcnf.t.wcnf": [
+          0.0
+        ],
+        "protein_ins_wt-1knt_.1bpi_.g.wcnf.t.wcnf": [
+          0.0
+        ],
+        "protein_ins_wt-1knt_.5pti_.g.wcnf.t.wcnf": [
+          0.0
+        ],
+        "protein_ins_wt-2knt_.5pti_.g.wcnf.t.wcnf": [
+          0.0
+        ],
+        "protein_ins_wt-6ebx_.1era_.g.wcnf.t.wcnf": [
+          0.0
+        ],
+        "protein_ins_wt-3ebx_.1era_.g.wcnf.t.wcnf": [
+          0.0
+        ],
+        "pseudoBoolean_wt-normalized-mps-v2-20-10-mod010.opb.msat.wcnf": [
+          0.0
+        ],
+        "planning-bnn-inventory_4_7.wcnf": [
+          0.0
+        ],
+        "protein_ins_wt-p1.wcnf.t.wcnf": [
+          0.0
+        ],
+        "quantum-circuit-qgan_6_15_ibmq-casablanca_7.wcnf": [
+          0.0
+        ],
+        "quantum-circuit-grover-noancilla_4_52_ibmq-casablanca_7.wcnf": [
+          0.0
+        ],
+        "protein_ins_wt-sandiaprotein.g.wcnf.t.wcnf": [
+          0.0
+        ],
+        "planning-bnn-inventory_4_8.wcnf": [
+          0.0
+        ],
+        "railway-transport_wt-bf2030fvcons.wcnf": [
+          0.0
+        ],
+        "ramsey_wt-ram_k3_n11.ra1.wcnf": [
+          0.0
+        ],
+        "ramsey_wt-ram_k3_n12.ra1.wcnf": [
+          0.0
+        ],
+        "ramsey_wt-ram_k3_n17.ra1.wcnf": [
+          0.0
+        ],
+        "railway-transport_wt-f2030.wcnf": [
+          0.0
+        ],
+        "railway-transport_wt-wg2.wcnf": [
+          0.0
+        ],
+        "ramsey_wt-ram_k3_n18.ra1.wcnf": [
+          0.0
+        ],
+        "relational-inference_wt-ar-2.wcnf": [
+          0.0
+        ],
+        "relational-inference_wt-pa-1.wcnf": [
+          0.0
+        ],
+        "railway-transport_wt-bf2030fvslack.wcnf": [
+          0.0
+        ],
+        "setcover_wt-rail2536.wcnf": [
+          0.0
+        ],
+        "MinimumWeightDominatingSetProblem_wt-socfb-uci-uni.wcnf": [
+          0.0
+        ],
+        "setcover_wt-rail507.wcnf": [
+          0.0
+        ],
+        "setcover_wt-rail516.wcnf": [
+          0.0
+        ],
+        "setcover_wt-rail4872.wcnf": [
+          0.0
+        ],
+        "setcover_wt-rail4284.wcnf": [
+          0.0
+        ],
+        "spot5_wt-1405.wcsp.dir.wcnf": [
+          0.0
+        ],
+        "spot5_wt-1405.wcsp.log.wcnf": [
+          0.0
+        ],
+        "setcover_wt-rail582.wcnf": [
+          0.0
+        ],
+        "spot5_wt-1407.wcsp.log.wcnf": [
+          0.0
+        ],
+        "railway-transport_wt-r11.wcnf": [
+          0.0
+        ],
+        "switchingactivitymaximization-SwitchingActivityMaximization_OpenRISC1200_100.wcnf": [
+          0.0
+        ],
+        "switchingactivitymaximization-SwitchingActivityMaximization_OpenRISC1200_150.wcnf": [
+          0.0
+        ],
+        "switchingactivitymaximization-SwitchingActivityMaximization_OpenRISC1200_200.wcnf": [
+          0.0
+        ],
+        "switchingactivitymaximization-SwitchingActivityMaximization_OpenRISC1200_66.wcnf": [
+          0.0
+        ],
+        "switchingactivitymaximization-SwitchingActivityMaximization_OpenRISC1200_68.wcnf": [
+          0.0
+        ],
+        "switchingactivitymaximization-SwitchingActivityMaximization_OpenRISC1200_74.wcnf": [
+          0.0
+        ],
+        "synplicate_new-synplicate_complete_tree_arity2_feature_4_size_10_ms_0_25_0_erm.wcnf": [
+          0.0
+        ],
+        "switchingactivitymaximization-SwitchingActivityMaximization_OpenRISC1200_76.wcnf": [
+          0.0
+        ],
+        "switchingactivitymaximization-SwitchingActivityMaximization_OpenRISC1200_70.wcnf": [
+          0.0
+        ],
+        "synplicate_new-synplicate_complete_tree_arity2_feature_4_size_8_ms_0_25_0_erm.wcnf": [
+          0.0
+        ],
+        "synplicate_new-synplicate_complete_tree_arity2_feature_4_size_6_ms_0_25_0_erm.wcnf": [
+          0.0
+        ],
+        "synplicate_new-synplicate_complete_tree_arity2_feature_4_size_11_ms_0_25_0_erm.wcnf": [
+          0.0
+        ],
+        "synplicate_new-synplicate_complete_tree_arity2_feature_4_size_9_ms_0_25_0_erm.wcnf": [
+          0.0
+        ],
+        "synplicate_new-synplicate_complete_tree_arity3_feature_3_size_10_ms_0_25_0_erm.wcnf": [
+          0.0
+        ],
+        "synplicate_new-synplicate_complete_tree_arity3_feature_3_size_11_ms_0_25_0_erm.wcnf": [
+          0.0
+        ],
+        "synplicate_new-synplicate_complete_tree_arity3_feature_3_size_5_ms_0_25_0_erm.wcnf": [
+          0.0
+        ],
+        "switchingactivitymaximization-SwitchingActivityMaximization_OpenRISC1200_80.wcnf": [
+          0.0
+        ],
+        "synplicate_new-synplicate_complete_tree_arity3_feature_3_size_8_ms_0_25_0_erm.wcnf": [
+          0.0
+        ],
+        "synplicate_new-synplicate_complete_tree_arity3_feature_4_size_10_ms_0_25_0_erm.wcnf": [
+          0.0
+        ],
+        "synplicate_new-synplicate_complete_tree_arity3_feature_4_size_5_ms_0_25_0_erm.wcnf": [
+          0.0
+        ],
+        "synplicate_new-synplicate_complete_tree_arity3_feature_4_size_6_ms_0_25_0_erm.wcnf": [
+          0.0
+        ],
+        "synplicate_new-synplicate_complete_tree_arity3_feature_4_size_12_ms_0_25_0_erm.wcnf": [
+          0.0
+        ],
+        "synplicate_new-synplicate_synthetic_dag_run1_14_size_5_ms_0_25_0_erm.wcnf": [
+          0.0
+        ],
+        "synplicate_new-synplicate_synthetic_dag_run1_16_size_4_ms_0_25_0_erm.wcnf": [
+          0.0
+        ],
+        "relational-inference_wt-pa-2.wcnf": [
+          0.0
+        ],
+        "synplicate_new-synplicate_synthetic_dag_run1_17_size_5_ms_0_25_0_erm.wcnf": [
+          0.0
+        ],
+        "synplicate_new-synplicate_synthetic_dag_run1_14_size_6_ms_0_25_0_erm.wcnf": [
+          0.0
+        ],
+        "synplicate_new-synplicate_complete_tree_arity5_feature_3_size_7_ms_0_25_0_erm.wcnf": [
+          0.0
+        ],
+        "synplicate_new-synplicate_synthetic_dag_run2_10_size_11_ms_26_50_0_erm.wcnf": [
+          0.0
+        ],
+        "synplicate_new-synplicate_synthetic_dag_run2_0_size_10_ms_26_50_0_erm.wcnf": [
+          0.0
+        ],
+        "synplicate_new-synplicate_synthetic_dag_run2_12_size_8_ms_26_50_0_erm.wcnf": [
+          0.0
+        ],
+        "synplicate_new-synplicate_synthetic_dag_run2_11_size_10_ms_26_50_0_erm.wcnf": [
+          0.0
+        ],
+        "tcp_wt-tcp_students_112_it_13.wcnf": [
+          0.0
+        ],
+        "synplicate_new-synplicate_synthetic_dag_run2_13_size_11_ms_26_50_0_erm.wcnf": [
+          0.0
+        ],
+        "tcp_wt-tcp_students_112_it_5.wcnf": [
+          0.0
+        ],
+        "tcp_wt-tcp_students_91_it_13.wcnf": [
+          0.0
+        ],
+        "relational-inference_wt-pa-3.wcnf": [
+          0.0
+        ],
+        "tcp_wt-tcp_students_98_it_11.wcnf": [
+          0.0
+        ],
+        "synplicate_new-synplicate_synthetic_dag_run2_16_size_9_ms_26_50_0_erm.wcnf": [
+          0.0
+        ],
+        "timetabling_wt-comp06.wcnf": [
+          0.0
+        ],
+        "synplicate_new-synplicate_synthetic_dag_run2_17_size_10_ms_26_50_0_erm.wcnf": [
+          0.0
+        ],
+        "timetabling_wt-comp02.wcnf": [
+          0.0
+        ],
+        "timetabling_wt-comp09.wcnf": [
+          0.0
+        ],
+        "timetabling_wt-comp21.wcnf": [
+          0.0
+        ],
+        "timetabling_wt-comp07.wcnf": [
+          0.0
+        ],
+        "timetabling_wt-test4.wcnf": [
+          0.0
+        ],
+        "timetabling_wt-comp10.wcnf": [
+          0.0
+        ],
+        "timetabling_wt-comp07.lp.sm-extracted.wcnf": [
+          0.0
+        ]
+      }
+    }
+  }
+}

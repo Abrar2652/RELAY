@@ -1,0 +1,6 @@
+2026-04-23 01:52:02 [hydra-post] Waiting for pretrain completion marker
+2026-04-23 05:11:05 [hydra-post] Pretrain done
+2026-04-23 05:11:05 [hydra-post] Launching HYDRA 60s eval on GPUs 0-3
+2026-04-23 08:00:43 [hydra-post] HYDRA 60s eval done
+2026-04-23 08:00:43 [hydra-post] Regenerating final artifacts with HYDRA as 9th solver
+2026-04-23 08:00:52 [hydra-post] Post-train pipeline complete

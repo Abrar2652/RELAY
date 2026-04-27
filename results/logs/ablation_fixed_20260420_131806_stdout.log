@@ -1,0 +1,295 @@
+13:18:21 [INFO] [full] loading pretrained from /nas/ckgfs/jaunts/jahin/HYDRA/hydra_pretrained
+13:18:22 [INFO] [full] WMS 2020: 23 instances
+/nas/ckgfs/users/jahin/HYDRA/hydra_data.py:178: RuntimeWarning: compute_clause_centrality: 1718 clause nodes — using scatter-based triangle count (no N×N allocation).
+  self._clause_centrality_cache = compute_clause_centrality(
+13:18:24 [INFO] Phase 1: Diffusion init (16 trajectories)...
+13:18:51 [INFO]   Diffusion init best cost: 4319.0
+13:18:51 [INFO] Phase 2: Evolutionary refinement (n=42, m=1718)...
+/nas/ckgfs/jaunts/jahin/HYDRA/.venv_ckg08/lib/python3.12/site-packages/torch_geometric/utils/_scatter.py:91: UserWarning: The usage of `scatter(reduce='max')` can be accelerated via the 'torch-scatter' package, but it was not found
+  warnings.warn(
+13:19:22 [INFO] Final: cost=2326.0000, steps=47, pop_size=26, time=60.2s
+13:19:22 [INFO]     MANN_a45.clq.wcnf                        cost=  2326.00 t= 60.2s
+/nas/ckgfs/users/jahin/HYDRA/hydra_data.py:178: RuntimeWarning: compute_clause_centrality: 1836 clause nodes — using scatter-based triangle count (no N×N allocation).
+  self._clause_centrality_cache = compute_clause_centrality(
+13:19:24 [INFO] Phase 1: Diffusion init (16 trajectories)...
+13:19:52 [INFO]   Diffusion init best cost: 617.0
+13:19:52 [INFO] Phase 2: Evolutionary refinement (n=45, m=1836)...
+13:20:24 [INFO] Final: cost=451.0000, steps=46, pop_size=29, time=61.8s
+13:20:24 [INFO]     MANN_a9.clq.wcnf                         cost=   451.00 t= 61.8s
+/nas/ckgfs/users/jahin/HYDRA/hydra_data.py:178: RuntimeWarning: compute_clause_centrality: 1038 clause nodes — using scatter-based triangle count (no N×N allocation).
+  self._clause_centrality_cache = compute_clause_centrality(
+13:20:25 [INFO] Phase 1: Diffusion init (16 trajectories)...
+13:20:50 [INFO]   Diffusion init best cost: 2498.0
+13:20:50 [INFO] Phase 2: Evolutionary refinement (n=40, m=1038)...
+13:21:25 [INFO] Final: cost=1370.0000, steps=61, pop_size=26, time=60.7s
+13:21:25 [INFO]     brock200_3.clq.wcnf                      cost=  1370.00 t= 60.7s
+/nas/ckgfs/users/jahin/HYDRA/hydra_data.py:178: RuntimeWarning: compute_clause_centrality: 1028 clause nodes — using scatter-based triangle count (no N×N allocation).
+  self._clause_centrality_cache = compute_clause_centrality(
+13:21:26 [INFO] Phase 1: Diffusion init (16 trajectories)...
+13:21:51 [INFO]   Diffusion init best cost: 2448.0
+13:21:51 [INFO] Phase 2: Evolutionary refinement (n=40, m=1028)...
+13:22:26 [INFO] Final: cost=1366.0000, steps=61, pop_size=26, time=60.7s
+13:22:26 [INFO]     brock200_4.clq.wcnf                      cost=  1366.00 t= 60.7s
+/nas/ckgfs/users/jahin/HYDRA/hydra_data.py:178: RuntimeWarning: compute_clause_centrality: 1188 clause nodes — using scatter-based triangle count (no N×N allocation).
+  self._clause_centrality_cache = compute_clause_centrality(
+13:22:27 [INFO] Phase 1: Diffusion init (16 trajectories)...
+13:22:52 [INFO]   Diffusion init best cost: 2888.0
+13:22:52 [INFO] Phase 2: Evolutionary refinement (n=40, m=1188)...
+13:23:26 [INFO] Final: cost=1534.0000, steps=57, pop_size=21, time=60.3s
+13:23:26 [INFO]     brock400_2.clq.wcnf                      cost=  1534.00 t= 60.3s
+/nas/ckgfs/users/jahin/HYDRA/hydra_data.py:178: RuntimeWarning: compute_clause_centrality: 1136 clause nodes — using scatter-based triangle count (no N×N allocation).
+  self._clause_centrality_cache = compute_clause_centrality(
+13:23:27 [INFO] Phase 1: Diffusion init (16 trajectories)...
+13:23:52 [INFO]   Diffusion init best cost: 2573.0
+13:23:52 [INFO] Phase 2: Evolutionary refinement (n=40, m=1136)...
+13:24:27 [INFO] Final: cost=1522.0000, steps=61, pop_size=30, time=61.1s
+13:24:27 [INFO]     brock400_3.clq.wcnf                      cost=  1522.00 t= 61.1s
+/nas/ckgfs/users/jahin/HYDRA/hydra_data.py:178: RuntimeWarning: compute_clause_centrality: 1014 clause nodes — using scatter-based triangle count (no N×N allocation).
+  self._clause_centrality_cache = compute_clause_centrality(
+13:24:28 [INFO] Phase 1: Diffusion init (16 trajectories)...
+13:24:54 [INFO]   Diffusion init best cost: 2188.0
+13:24:54 [INFO] Phase 2: Evolutionary refinement (n=40, m=1014)...
+13:25:28 [INFO] Final: cost=1337.0000, steps=66, pop_size=23, time=60.3s
+13:25:28 [INFO]     brock800_3.clq.wcnf                      cost=  1337.00 t= 60.3s
+/nas/ckgfs/users/jahin/HYDRA/hydra_data.py:178: RuntimeWarning: compute_clause_centrality: 1640 clause nodes — using scatter-based triangle count (no N×N allocation).
+  self._clause_centrality_cache = compute_clause_centrality(
+13:25:29 [INFO] Phase 1: Diffusion init (16 trajectories)...
+13:25:56 [INFO]   Diffusion init best cost: 510.0
+13:25:56 [INFO] Phase 2: Evolutionary refinement (n=41, m=1640)...
+13:26:28 [INFO] Final: cost=400.0000, steps=47, pop_size=30, time=60.3s
+13:26:28 [INFO]     hamming10-2.clq.wcnf                     cost=   400.00 t= 60.3s
+/nas/ckgfs/users/jahin/HYDRA/hydra_data.py:178: RuntimeWarning: compute_clause_centrality: 3648 clause nodes — using scatter-based triangle count (no N×N allocation).
+  self._clause_centrality_cache = compute_clause_centrality(
+13:26:32 [INFO] Phase 1: Diffusion init (16 trajectories)...
+13:27:41 [INFO]   Diffusion init best cost: 10088.0
+13:27:41 [INFO] Phase 2: Evolutionary refinement (n=64, m=3648)...
+13:27:41 [INFO] Final: cost=10088.0000, steps=0, pop_size=16, time=72.1s
+13:27:41 [INFO]     hamming6-2.clq.wcnf                      cost= 10088.00 t= 72.1s
+/nas/ckgfs/users/jahin/HYDRA/hydra_data.py:178: RuntimeWarning: compute_clause_centrality: 1806 clause nodes — using scatter-based triangle count (no N×N allocation).
+  self._clause_centrality_cache = compute_clause_centrality(
+13:27:42 [INFO] Phase 1: Diffusion init (16 trajectories)...
+13:28:12 [INFO]   Diffusion init best cost: 681.0
+13:28:12 [INFO] Phase 2: Evolutionary refinement (n=43, m=1806)...
+/nas/ckgfs/jaunts/jahin/HYDRA/.venv_ckg08/lib/python3.12/site-packages/torch/optim/lr_scheduler.py:216: UserWarning: Detected call of `lr_scheduler.step()` before `optimizer.step()`. In PyTorch 1.1.0 and later, you should call them in the opposite order: `optimizer.step()` before `lr_scheduler.step()`.  Failure to do this will result in PyTorch skipping the first value of the learning rate schedule. See more details at https://pytorch.org/docs/stable/optim.html#how-to-adjust-learning-rate
+  warnings.warn(
+13:28:42 [INFO] Final: cost=441.0000, steps=41, pop_size=19, time=61.6s
+13:28:42 [INFO]     hamming8-2.clq.wcnf                      cost=   441.00 t= 61.6s
+/nas/ckgfs/users/jahin/HYDRA/hydra_data.py:178: RuntimeWarning: compute_clause_centrality: 3710 clause nodes — using scatter-based triangle count (no N×N allocation).
+  self._clause_centrality_cache = compute_clause_centrality(
+13:28:46 [INFO] Phase 1: Diffusion init (16 trajectories)...
+13:29:52 [INFO]   Diffusion init best cost: 10254.0
+13:29:52 [INFO] Phase 2: Evolutionary refinement (n=70, m=3710)...
+13:29:52 [INFO] Final: cost=10254.0000, steps=0, pop_size=16, time=69.5s
+13:29:52 [INFO]     johnson8-4-4.clq.wcnf                    cost= 10254.00 t= 69.5s
+/nas/ckgfs/users/jahin/HYDRA/hydra_data.py:178: RuntimeWarning: compute_clause_centrality: 1260 clause nodes — using scatter-based triangle count (no N×N allocation).
+  self._clause_centrality_cache = compute_clause_centrality(
+13:29:53 [INFO] Phase 1: Diffusion init (16 trajectories)...
+13:30:18 [INFO]   Diffusion init best cost: 517.0
+13:30:18 [INFO] Phase 2: Evolutionary refinement (n=140, m=1260)...
+13:30:54 [INFO] Final: cost=297.0000, steps=61, pop_size=30, time=61.7s
+13:30:54 [INFO]     maxcut-140-630-0.7-20.wcnf               cost=   297.00 t= 61.7s
+/nas/ckgfs/users/jahin/HYDRA/hydra_data.py:178: RuntimeWarning: compute_clause_centrality: 1258 clause nodes — using scatter-based triangle count (no N×N allocation).
+  self._clause_centrality_cache = compute_clause_centrality(
+13:30:54 [INFO] Phase 1: Diffusion init (16 trajectories)...
+13:31:19 [INFO]   Diffusion init best cost: 527.0
+13:31:19 [INFO] Phase 2: Evolutionary refinement (n=140, m=1258)...
+13:31:54 [INFO] Final: cost=285.0000, steps=71, pop_size=25, time=60.2s
+13:31:54 [INFO]     maxcut-140-630-0.8-39.wcnf               cost=   285.00 t= 60.3s
+/nas/ckgfs/users/jahin/HYDRA/hydra_data.py:178: RuntimeWarning: compute_clause_centrality: 1270 clause nodes — using scatter-based triangle count (no N×N allocation).
+  self._clause_centrality_cache = compute_clause_centrality(
+13:31:55 [INFO] Phase 1: Diffusion init (16 trajectories)...
+13:32:20 [INFO]   Diffusion init best cost: 3116.0
+13:32:20 [INFO] Phase 2: Evolutionary refinement (n=43, m=1270)...
+13:32:54 [INFO] Final: cost=1694.0000, steps=62, pop_size=27, time=60.1s
+13:32:54 [INFO]     p_hat300-3.clq.wcnf                      cost=  1694.00 t= 60.1s
+/nas/ckgfs/users/jahin/HYDRA/hydra_data.py:178: RuntimeWarning: compute_clause_centrality: 1310 clause nodes — using scatter-based triangle count (no N×N allocation).
+  self._clause_centrality_cache = compute_clause_centrality(
+13:32:55 [INFO] Phase 1: Diffusion init (16 trajectories)...
+13:33:20 [INFO]   Diffusion init best cost: 3392.0
+13:33:20 [INFO] Phase 2: Evolutionary refinement (n=42, m=1310)...
+13:33:55 [INFO] Final: cost=1790.0000, steps=61, pop_size=26, time=60.2s
+13:33:55 [INFO]     p_hat500-3.clq.wcnf                      cost=  1790.00 t= 60.2s
+/nas/ckgfs/users/jahin/HYDRA/hydra_data.py:178: RuntimeWarning: compute_clause_centrality: 3876 clause nodes — using scatter-based triangle count (no N×N allocation).
+  self._clause_centrality_cache = compute_clause_centrality(
+13:34:04 [INFO] Phase 1: Diffusion init (16 trajectories)...
+13:37:07 [INFO]   Diffusion init best cost: 1521768.0
+13:37:07 [INFO] Phase 2: Evolutionary refinement (n=153, m=3876)...
+13:37:07 [INFO] Final: cost=1521768.0000, steps=0, pop_size=16, time=192.6s
+13:37:07 [INFO]     ram_k3_n18.ra1.wcnf                      cost=1521768.00 t=192.6s
+/nas/ckgfs/users/jahin/HYDRA/hydra_data.py:178: RuntimeWarning: compute_clause_centrality: 4845 clause nodes — using scatter-based triangle count (no N×N allocation).
+  self._clause_centrality_cache = compute_clause_centrality(
+13:37:22 [INFO] Phase 1: Diffusion init (16 trajectories)...
+13:41:44 [INFO]   Diffusion init best cost: 1951731.0
+13:41:44 [INFO] Phase 2: Evolutionary refinement (n=171, m=4845)...
+13:41:44 [INFO] Final: cost=1951731.0000, steps=0, pop_size=16, time=276.6s
+13:41:44 [INFO]     ram_k3_n19.ra1.wcnf                      cost=1951731.00 t=276.6s
+/nas/ckgfs/users/jahin/HYDRA/hydra_data.py:178: RuntimeWarning: compute_clause_centrality: 2994 clause nodes — using scatter-based triangle count (no N×N allocation).
+  self._clause_centrality_cache = compute_clause_centrality(
+13:41:46 [INFO] Phase 1: Diffusion init (16 trajectories)...
+13:42:13 [INFO]   Diffusion init best cost: 1810283904.0
+13:42:13 [INFO] Phase 2: Evolutionary refinement (n=686, m=2994)...
+13:42:44 [INFO] Final: cost=40722372.0000, steps=55, pop_size=26, time=60.1s
+13:42:44 [INFO]     role_smallcomp_0.95_2.wcnf               cost=40722372.00 t= 60.1s
+/nas/ckgfs/users/jahin/HYDRA/hydra_data.py:178: RuntimeWarning: compute_clause_centrality: 1116 clause nodes — using scatter-based triangle count (no N×N allocation).
+  self._clause_centrality_cache = compute_clause_centrality(
+13:42:45 [INFO] Phase 1: Diffusion init (16 trajectories)...
+13:43:11 [INFO]   Diffusion init best cost: 2642.0
+13:43:11 [INFO] Phase 2: Evolutionary refinement (n=40, m=1116)...
+13:43:45 [INFO] Final: cost=1495.0000, steps=57, pop_size=21, time=60.1s
+13:43:45 [INFO]     san200_0.7_1.clq.wcnf                    cost=  1495.00 t= 60.1s
+/nas/ckgfs/users/jahin/HYDRA/hydra_data.py:178: RuntimeWarning: compute_clause_centrality: 1092 clause nodes — using scatter-based triangle count (no N×N allocation).
+  self._clause_centrality_cache = compute_clause_centrality(
+13:43:45 [INFO] Phase 1: Diffusion init (16 trajectories)...
+13:44:10 [INFO]   Diffusion init best cost: 2640.0
+13:44:10 [INFO] Phase 2: Evolutionary refinement (n=40, m=1092)...
+13:44:46 [INFO] Final: cost=1389.0000, steps=71, pop_size=21, time=61.0s
+13:44:46 [INFO]     sanr200_0.7.clq.wcnf                     cost=  1389.00 t= 61.0s
+/nas/ckgfs/users/jahin/HYDRA/hydra_data.py:178: RuntimeWarning: compute_clause_centrality: 1120 clause nodes — using scatter-based triangle count (no N×N allocation).
+  self._clause_centrality_cache = compute_clause_centrality(
+13:44:47 [INFO] Phase 1: Diffusion init (16 trajectories)...
+13:45:12 [INFO]   Diffusion init best cost: 448.0
+13:45:12 [INFO] Phase 2: Evolutionary refinement (n=448, m=1120)...
+13:45:47 [INFO] Final: cost=224.0000, steps=66, pop_size=23, time=60.8s
+13:45:47 [INFO]     scpcyc07_maxsat.wcnf                     cost=   224.00 t= 60.8s
+/nas/ckgfs/users/jahin/HYDRA/hydra_data.py:178: RuntimeWarning: compute_clause_centrality: 2816 clause nodes — using scatter-based triangle count (no N×N allocation).
+  self._clause_centrality_cache = compute_clause_centrality(
+13:45:48 [INFO] Phase 1: Diffusion init (16 trajectories)...
+13:46:13 [INFO]   Diffusion init best cost: 1024.0
+13:46:13 [INFO] Phase 2: Evolutionary refinement (n=1024, m=2816)...
+13:46:47 [INFO] Final: cost=606.0000, steps=68, pop_size=29, time=60.2s
+13:46:47 [INFO]     scpcyc08_maxsat.wcnf                     cost=   606.00 t= 60.2s
+/nas/ckgfs/users/jahin/HYDRA/hydra_data.py:178: RuntimeWarning: compute_clause_centrality: 2800 clause nodes — using scatter-based triangle count (no N×N allocation).
+  self._clause_centrality_cache = compute_clause_centrality(
+13:46:49 [INFO] Phase 1: Diffusion init (16 trajectories)...
+13:47:23 [INFO]   Diffusion init best cost: 6618.0
+13:47:23 [INFO] Phase 2: Evolutionary refinement (n=450, m=2800)...
+13:47:48 [INFO] Final: cost=300.0000, steps=27, pop_size=19, time=60.4s
+13:47:48 [INFO]     uaq-min-nr-nr50-np400-rpp5-nc0-rs0-t0-pl cost=   300.00 t= 60.4s
+13:47:48 [INFO] Wrote /nas/ckgfs/jaunts/jahin/HYDRA/results/ablations_final/full_results_raw.json
+13:47:48 [INFO] [no_diffusion] loading pretrained from /nas/ckgfs/jaunts/jahin/HYDRA/hydra_pretrained
+13:47:49 [INFO] [no_diffusion] WMS 2020: 23 instances
+13:47:50 [INFO] Phase 2: Evolutionary refinement (n=42, m=1718)...
+13:48:49 [INFO] Final: cost=2349.0000, steps=92, pop_size=2, time=60.2s
+13:48:49 [INFO]     MANN_a45.clq.wcnf                        cost=  2349.00 t= 60.2s
+13:48:50 [INFO] Phase 2: Evolutionary refinement (n=45, m=1836)...
+13:49:50 [INFO] Final: cost=466.0000, steps=86, pop_size=1, time=61.2s
+13:49:50 [INFO]     MANN_a9.clq.wcnf                         cost=   466.00 t= 61.2s
+13:49:51 [INFO] Phase 2: Evolutionary refinement (n=40, m=1038)...
+13:50:50 [INFO] Final: cost=1438.0000, steps=103, pop_size=1, time=60.0s
+13:50:50 [INFO]     brock200_3.clq.wcnf                      cost=  1438.00 t= 60.0s
+13:50:51 [INFO] Phase 2: Evolutionary refinement (n=40, m=1028)...
+13:51:51 [INFO] Final: cost=1385.0000, steps=118, pop_size=1, time=60.3s
+13:51:51 [INFO]     brock200_4.clq.wcnf                      cost=  1385.00 t= 60.3s
+13:51:52 [INFO] Phase 2: Evolutionary refinement (n=40, m=1188)...
+13:52:51 [INFO] Final: cost=1894.0000, steps=104, pop_size=2, time=60.1s
+13:52:51 [INFO]     brock400_2.clq.wcnf                      cost=  1894.00 t= 60.1s
+13:52:52 [INFO] Phase 2: Evolutionary refinement (n=40, m=1136)...
+13:53:51 [INFO] Final: cost=1507.0000, steps=113, pop_size=1, time=60.1s
+13:53:51 [INFO]     brock400_3.clq.wcnf                      cost=  1507.00 t= 60.1s
+13:53:52 [INFO] Phase 2: Evolutionary refinement (n=40, m=1014)...
+13:54:52 [INFO] Final: cost=1308.0000, steps=111, pop_size=1, time=60.1s
+13:54:52 [INFO]     brock800_3.clq.wcnf                      cost=  1308.00 t= 60.2s
+13:54:53 [INFO] Phase 2: Evolutionary refinement (n=41, m=1640)...
+13:55:53 [INFO] Final: cost=406.0000, steps=86, pop_size=1, time=61.5s
+13:55:53 [INFO]     hamming10-2.clq.wcnf                     cost=   406.00 t= 61.5s
+13:55:57 [INFO] Phase 2: Evolutionary refinement (n=64, m=3648)...
+13:56:54 [INFO] Final: cost=4925.0000, steps=44, pop_size=2, time=60.5s
+13:56:54 [INFO]     hamming6-2.clq.wcnf                      cost=  4925.00 t= 60.5s
+13:56:55 [INFO] Phase 2: Evolutionary refinement (n=43, m=1806)...
+13:57:55 [INFO] Final: cost=441.0000, steps=81, pop_size=1, time=60.7s
+13:57:55 [INFO]     hamming8-2.clq.wcnf                      cost=   441.00 t= 60.7s
+13:57:58 [INFO] Phase 2: Evolutionary refinement (n=70, m=3710)...
+13:58:55 [INFO] Final: cost=5161.0000, steps=48, pop_size=1, time=60.3s
+13:58:55 [INFO]     johnson8-4-4.clq.wcnf                    cost=  5161.00 t= 60.3s
+13:58:56 [INFO] Phase 2: Evolutionary refinement (n=140, m=1260)...
+13:59:56 [INFO] Final: cost=320.0000, steps=94, pop_size=2, time=60.3s
+13:59:56 [INFO]     maxcut-140-630-0.7-20.wcnf               cost=   320.00 t= 60.3s
+13:59:56 [INFO] Phase 2: Evolutionary refinement (n=140, m=1258)...
+14:00:56 [INFO] Final: cost=284.0000, steps=107, pop_size=2, time=60.2s
+14:00:56 [INFO]     maxcut-140-630-0.8-39.wcnf               cost=   284.00 t= 60.2s
+14:00:57 [INFO] Phase 2: Evolutionary refinement (n=43, m=1270)...
+14:01:56 [INFO] Final: cost=1732.0000, steps=102, pop_size=2, time=60.1s
+14:01:56 [INFO]     p_hat300-3.clq.wcnf                      cost=  1732.00 t= 60.1s
+14:01:57 [INFO] Phase 2: Evolutionary refinement (n=42, m=1310)...
+14:02:58 [INFO] Final: cost=1788.0000, steps=101, pop_size=1, time=61.7s
+14:02:58 [INFO]     p_hat500-3.clq.wcnf                      cost=  1788.00 t= 61.7s
+14:03:07 [INFO] Phase 2: Evolutionary refinement (n=153, m=3876)...
+../aten/src/ATen/native/cuda/DistributionTemplates.h:599: operator(): block: [0,0,0], thread: [32,0,0] Assertion `0 <= p4 && p4 <= 1` failed.
+../aten/src/ATen/native/cuda/DistributionTemplates.h:599: operator(): block: [0,0,0], thread: [33,0,0] Assertion `0 <= p4 && p4 <= 1` failed.
+../aten/src/ATen/native/cuda/DistributionTemplates.h:599: operator(): block: [0,0,0], thread: [34,0,0] Assertion `0 <= p4 && p4 <= 1` failed.
+../aten/src/ATen/native/cuda/DistributionTemplates.h:599: operator(): block: [0,0,0], thread: [35,0,0] Assertion `0 <= p4 && p4 <= 1` failed.
+../aten/src/ATen/native/cuda/DistributionTemplates.h:599: operator(): block: [0,0,0], thread: [36,0,0] Assertion `0 <= p4 && p4 <= 1` failed.
+../aten/src/ATen/native/cuda/DistributionTemplates.h:599: operator(): block: [0,0,0], thread: [37,0,0] Assertion `0 <= p4 && p4 <= 1` failed.
+../aten/src/ATen/native/cuda/DistributionTemplates.h:599: operator(): block: [0,0,0], thread: [0,0,0] Assertion `0 <= p4 && p4 <= 1` failed.
+../aten/src/ATen/native/cuda/DistributionTemplates.h:599: operator(): block: [0,0,0], thread: [1,0,0] Assertion `0 <= p4 && p4 <= 1` failed.
+../aten/src/ATen/native/cuda/DistributionTemplates.h:599: operator(): block: [0,0,0], thread: [2,0,0] Assertion `0 <= p4 && p4 <= 1` failed.
+../aten/src/ATen/native/cuda/DistributionTemplates.h:599: operator(): block: [0,0,0], thread: [3,0,0] Assertion `0 <= p4 && p4 <= 1` failed.
+../aten/src/ATen/native/cuda/DistributionTemplates.h:599: operator(): block: [0,0,0], thread: [4,0,0] Assertion `0 <= p4 && p4 <= 1` failed.
+../aten/src/ATen/native/cuda/DistributionTemplates.h:599: operator(): block: [0,0,0], thread: [5,0,0] Assertion `0 <= p4 && p4 <= 1` failed.
+../aten/src/ATen/native/cuda/DistributionTemplates.h:599: operator(): block: [0,0,0], thread: [6,0,0] Assertion `0 <= p4 && p4 <= 1` failed.
+../aten/src/ATen/native/cuda/DistributionTemplates.h:599: operator(): block: [0,0,0], thread: [7,0,0] Assertion `0 <= p4 && p4 <= 1` failed.
+../aten/src/ATen/native/cuda/DistributionTemplates.h:599: operator(): block: [0,0,0], thread: [8,0,0] Assertion `0 <= p4 && p4 <= 1` failed.
+../aten/src/ATen/native/cuda/DistributionTemplates.h:599: operator(): block: [0,0,0], thread: [9,0,0] Assertion `0 <= p4 && p4 <= 1` failed.
+../aten/src/ATen/native/cuda/DistributionTemplates.h:599: operator(): block: [0,0,0], thread: [10,0,0] Assertion `0 <= p4 && p4 <= 1` failed.
+../aten/src/ATen/native/cuda/DistributionTemplates.h:599: operator(): block: [0,0,0], thread: [11,0,0] Assertion `0 <= p4 && p4 <= 1` failed.
+../aten/src/ATen/native/cuda/DistributionTemplates.h:599: operator(): block: [0,0,0], thread: [12,0,0] Assertion `0 <= p4 && p4 <= 1` failed.
+../aten/src/ATen/native/cuda/DistributionTemplates.h:599: operator(): block: [0,0,0], thread: [13,0,0] Assertion `0 <= p4 && p4 <= 1` failed.
+../aten/src/ATen/native/cuda/DistributionTemplates.h:599: operator(): block: [0,0,0], thread: [14,0,0] Assertion `0 <= p4 && p4 <= 1` failed.
+../aten/src/ATen/native/cuda/DistributionTemplates.h:599: operator(): block: [0,0,0], thread: [15,0,0] Assertion `0 <= p4 && p4 <= 1` failed.
+../aten/src/ATen/native/cuda/DistributionTemplates.h:599: operator(): block: [0,0,0], thread: [16,0,0] Assertion `0 <= p4 && p4 <= 1` failed.
+../aten/src/ATen/native/cuda/DistributionTemplates.h:599: operator(): block: [0,0,0], thread: [17,0,0] Assertion `0 <= p4 && p4 <= 1` failed.
+../aten/src/ATen/native/cuda/DistributionTemplates.h:599: operator(): block: [0,0,0], thread: [18,0,0] Assertion `0 <= p4 && p4 <= 1` failed.
+../aten/src/ATen/native/cuda/DistributionTemplates.h:599: operator(): block: [0,0,0], thread: [19,0,0] Assertion `0 <= p4 && p4 <= 1` failed.
+../aten/src/ATen/native/cuda/DistributionTemplates.h:599: operator(): block: [0,0,0], thread: [20,0,0] Assertion `0 <= p4 && p4 <= 1` failed.
+../aten/src/ATen/native/cuda/DistributionTemplates.h:599: operator(): block: [0,0,0], thread: [21,0,0] Assertion `0 <= p4 && p4 <= 1` failed.
+../aten/src/ATen/native/cuda/DistributionTemplates.h:599: operator(): block: [0,0,0], thread: [22,0,0] Assertion `0 <= p4 && p4 <= 1` failed.
+../aten/src/ATen/native/cuda/DistributionTemplates.h:599: operator(): block: [0,0,0], thread: [23,0,0] Assertion `0 <= p4 && p4 <= 1` failed.
+../aten/src/ATen/native/cuda/DistributionTemplates.h:599: operator(): block: [0,0,0], thread: [24,0,0] Assertion `0 <= p4 && p4 <= 1` failed.
+../aten/src/ATen/native/cuda/DistributionTemplates.h:599: operator(): block: [0,0,0], thread: [25,0,0] Assertion `0 <= p4 && p4 <= 1` failed.
+../aten/src/ATen/native/cuda/DistributionTemplates.h:599: operator(): block: [0,0,0], thread: [26,0,0] Assertion `0 <= p4 && p4 <= 1` failed.
+../aten/src/ATen/native/cuda/DistributionTemplates.h:599: operator(): block: [0,0,0], thread: [27,0,0] Assertion `0 <= p4 && p4 <= 1` failed.
+../aten/src/ATen/native/cuda/DistributionTemplates.h:599: operator(): block: [0,0,0], thread: [28,0,0] Assertion `0 <= p4 && p4 <= 1` failed.
+../aten/src/ATen/native/cuda/DistributionTemplates.h:599: operator(): block: [0,0,0], thread: [29,0,0] Assertion `0 <= p4 && p4 <= 1` failed.
+../aten/src/ATen/native/cuda/DistributionTemplates.h:599: operator(): block: [0,0,0], thread: [30,0,0] Assertion `0 <= p4 && p4 <= 1` failed.
+../aten/src/ATen/native/cuda/DistributionTemplates.h:599: operator(): block: [0,0,0], thread: [31,0,0] Assertion `0 <= p4 && p4 <= 1` failed.
+terminate called after throwing an instance of 'c10::Error'
+  what():  CUDA error: device-side assert triggered
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrace below might be incorrect.
+For debugging consider passing CUDA_LAUNCH_BLOCKING=1
+Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
+
+Exception raised from c10_cuda_check_implementation at ../c10/cuda/CUDAException.cpp:43 (most recent call first):
+frame #0: c10::Error::Error(c10::SourceLocation, std::string) + 0x96 (0x7dd2cdf77f86 in /nas/ckgfs/jaunts/jahin/HYDRA/.venv_ckg08/lib/python3.12/site-packages/torch/lib/libc10.so)
+frame #1: c10::detail::torchCheckFail(char const*, char const*, unsigned int, std::string const&) + 0x64 (0x7dd2cdf26d10 in /nas/ckgfs/jaunts/jahin/HYDRA/.venv_ckg08/lib/python3.12/site-packages/torch/lib/libc10.so)
+frame #2: c10::cuda::c10_cuda_check_implementation(int, char const*, char const*, int, bool) + 0x118 (0x7dd2ce35af08 in /nas/ckgfs/jaunts/jahin/HYDRA/.venv_ckg08/lib/python3.12/site-packages/torch/lib/libc10_cuda.so)
+frame #3: <unknown function> + 0x587d0 (0x7dd2ce3607d0 in /nas/ckgfs/jaunts/jahin/HYDRA/.venv_ckg08/lib/python3.12/site-packages/torch/lib/libc10_cuda.so)
+frame #4: <unknown function> + 0x5a4f4 (0x7dd2ce3624f4 in /nas/ckgfs/jaunts/jahin/HYDRA/.venv_ckg08/lib/python3.12/site-packages/torch/lib/libc10_cuda.so)
+frame #5: <unknown function> + 0x5dd3d0 (0x7dd2cc5e33d0 in /nas/ckgfs/jaunts/jahin/HYDRA/.venv_ckg08/lib/python3.12/site-packages/torch/lib/libtorch_python.so)
+frame #6: <unknown function> + 0x6abdf (0x7dd2cdf5bbdf in /nas/ckgfs/jaunts/jahin/HYDRA/.venv_ckg08/lib/python3.12/site-packages/torch/lib/libc10.so)
+frame #7: c10::TensorImpl::~TensorImpl() + 0x21b (0x7dd2cdf54c3b in /nas/ckgfs/jaunts/jahin/HYDRA/.venv_ckg08/lib/python3.12/site-packages/torch/lib/libc10.so)
+frame #8: c10::TensorImpl::~TensorImpl() + 0x9 (0x7dd2cdf54de9 in /nas/ckgfs/jaunts/jahin/HYDRA/.venv_ckg08/lib/python3.12/site-packages/torch/lib/libc10.so)
+frame #9: <unknown function> + 0x1160dd7 (0x7dd2b4f38dd7 in /nas/ckgfs/jaunts/jahin/HYDRA/.venv_ckg08/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #10: <unknown function> + 0x2e19f8b (0x7dd2b6bf1f8b in /nas/ckgfs/jaunts/jahin/HYDRA/.venv_ckg08/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #11: at::_ops::_to_copy::redispatch(c10::DispatchKeySet, at::Tensor const&, std::optional<c10::ScalarType>, std::optional<c10::Layout>, std::optional<c10::Device>, std::optional<bool>, bool, std::optional<c10::MemoryFormat>) + 0xf5 (0x7dd2b62fac25 in /nas/ckgfs/jaunts/jahin/HYDRA/.venv_ckg08/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #12: <unknown function> + 0x2c58a33 (0x7dd2b6a30a33 in /nas/ckgfs/jaunts/jahin/HYDRA/.venv_ckg08/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #13: at::_ops::_to_copy::call(at::Tensor const&, std::optional<c10::ScalarType>, std::optional<c10::Layout>, std::optional<c10::Device>, std::optional<bool>, bool, std::optional<c10::MemoryFormat>) + 0x1eb (0x7dd2b638a68b in /nas/ckgfs/jaunts/jahin/HYDRA/.venv_ckg08/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #14: at::native::to(at::Tensor const&, c10::Device, c10::ScalarType, bool, bool, std::optional<c10::MemoryFormat>) + 0xc8 (0x7dd2b5db3268 in /nas/ckgfs/jaunts/jahin/HYDRA/.venv_ckg08/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #15: <unknown function> + 0x301e379 (0x7dd2b6df6379 in /nas/ckgfs/jaunts/jahin/HYDRA/.venv_ckg08/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #16: at::_ops::to_device::call(at::Tensor const&, c10::Device, c10::ScalarType, bool, bool, std::optional<c10::MemoryFormat>) + 0x1bb (0x7dd2b6539f0b in /nas/ckgfs/jaunts/jahin/HYDRA/.venv_ckg08/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #17: <unknown function> + 0xcdc9d6 (0x7dd2ccce29d6 in /nas/ckgfs/jaunts/jahin/HYDRA/.venv_ckg08/lib/python3.12/site-packages/torch/lib/libtorch_python.so)
+frame #18: torch::utils::tensor_ctor(c10::DispatchKey, c10::ScalarType, torch::PythonArgs&) + 0x177 (0x7dd2ccce5ba7 in /nas/ckgfs/jaunts/jahin/HYDRA/.venv_ckg08/lib/python3.12/site-packages/torch/lib/libtorch_python.so)
+frame #19: <unknown function> + 0x88b24e (0x7dd2cc89124e in /nas/ckgfs/jaunts/jahin/HYDRA/.venv_ckg08/lib/python3.12/site-packages/torch/lib/libtorch_python.so)
+frame #20: /nas/ckgfs/jaunts/jahin/HYDRA/.venv_ckg08/bin/python() [0x581e9f]
+frame #21: _PyObject_MakeTpCall + 0x13e (0x54903e in /nas/ckgfs/jaunts/jahin/HYDRA/.venv_ckg08/bin/python)
+frame #22: _PyEval_EvalFrameDefault + 0xa89 (0x5d6f09 in /nas/ckgfs/jaunts/jahin/HYDRA/.venv_ckg08/bin/python)
+frame #23: PyEval_EvalCode + 0x15b (0x5d543b in /nas/ckgfs/jaunts/jahin/HYDRA/.venv_ckg08/bin/python)
+frame #24: /nas/ckgfs/jaunts/jahin/HYDRA/.venv_ckg08/bin/python() [0x6085d2]
+frame #25: /nas/ckgfs/jaunts/jahin/HYDRA/.venv_ckg08/bin/python() [0x6b4d03]
+frame #26: _PyRun_SimpleFileObject + 0x1aa (0x6b4a6a in /nas/ckgfs/jaunts/jahin/HYDRA/.venv_ckg08/bin/python)
+frame #27: _PyRun_AnyFileObject + 0x4f (0x6b489f in /nas/ckgfs/jaunts/jahin/HYDRA/.venv_ckg08/bin/python)
+frame #28: Py_RunMain + 0x3b5 (0x6bc905 in /nas/ckgfs/jaunts/jahin/HYDRA/.venv_ckg08/bin/python)
+frame #29: Py_BytesMain + 0x2d (0x6bc3ed in /nas/ckgfs/jaunts/jahin/HYDRA/.venv_ckg08/bin/python)
+frame #30: <unknown function> + 0x2a1ca (0x7dd2cee2a1ca in /lib/x86_64-linux-gnu/libc.so.6)
+frame #31: __libc_start_main + 0x8b (0x7dd2cee2a28b in /lib/x86_64-linux-gnu/libc.so.6)
+frame #32: _start + 0x25 (0x6576c5 in /nas/ckgfs/jaunts/jahin/HYDRA/.venv_ckg08/bin/python)
+

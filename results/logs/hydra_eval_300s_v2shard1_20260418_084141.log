@@ -1,0 +1,32 @@
+2026-04-18 08:41:45 [INFO] Logging to file: /nas/ckgfs/users/jahin/HYDRA/results/logs/hydra_eval_300s_v2shard1_20260418_084141.log
+2026-04-18 08:41:54 [INFO] Loading pre-trained model from ./hydra_pretrained
+2026-04-18 08:41:55 [INFO] 
+Discovering benchmarks in /nas/ckgfs/users/jahin/HYDRA/results/shard_v2_tmp/shard_1_bench...
+2026-04-18 08:41:55 [INFO]   ms2021: 33 instances
+2026-04-18 08:41:55 [INFO]   wms2020: 26 instances
+2026-04-18 08:41:55 [INFO]   wms2024: 229 instances
+2026-04-18 08:41:55 [INFO] 
+============================================================
+2026-04-18 08:41:55 [INFO]   EVALUATION: timeout=300.0s, seeds=1
+2026-04-18 08:41:55 [INFO] ============================================================
+2026-04-18 08:41:55 [INFO] 
+--- WMS 2020 (26 instances) ---
+2026-04-18 08:41:56 [INFO]   brock200_4.clq.wcnf            cost=      0.00  time=   0.0s
+2026-04-18 08:41:56 [INFO]   brock400_3.clq.wcnf            cost=      0.00  time=   0.0s
+2026-04-18 08:41:56 [INFO]   brock800_3.clq.wcnf            cost=      0.00  time=   0.0s
+2026-04-18 08:41:56 [INFO]   hamming6-2.clq.wcnf            cost=      0.00  time=   0.2s
+2026-04-18 08:41:57 [INFO]   johnson8-4-4.clq.wcnf          cost=      0.00  time=   0.3s
+2026-04-18 08:41:57 [INFO]   p_hat500-3.clq.wcnf            cost=      0.00  time=   0.0s
+2026-04-18 08:41:57 [INFO]   p_hat700-3.clq.wcnf            cost=      0.00  time=   0.0s
+2026-04-18 08:41:59 [INFO] Phase 1: Diffusion init (64 trajectories)...
+2026-04-18 08:42:24 [INFO]   Diffusion init best cost: 360422.0
+2026-04-18 08:42:24 [INFO] Phase 2: Evolutionary refinement (n=78, m=1001)...
+2026-04-18 08:43:28 [INFO]   Step 100: Consensus decimation, fixing 20/78 vars
+2026-04-18 08:44:36 [INFO]   Step 200: Consensus decimation, fixing 6/78 vars
+2026-04-18 08:45:41 [INFO]   Step 300: Consensus decimation, fixing 9/78 vars
+2026-04-18 08:46:59 [INFO] Final: cost=13322.0000, steps=421, pop_size=80, time=302.3s
+2026-04-18 08:46:59 [INFO]   ram_k3_n13.ra1.wcnf            cost=  13322.00  time= 302.3s
+2026-04-18 08:47:01 [INFO] Phase 1: Diffusion init (64 trajectories)...
+2026-04-18 08:47:33 [INFO]   Diffusion init best cost: 504950.0
+2026-04-18 08:47:33 [INFO] Phase 2: Evolutionary refinement (n=91, m=1365)...
+2026-04-18 08:48:46 [INFO]   Step 100: Consensus decimation, fixing 40/91 vars

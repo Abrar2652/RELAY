@@ -1,0 +1,7 @@
+18:21:43 [INFO] Train instances: 63, test: 51
+18:21:43 [INFO] Preloading train data...
+20:23:27 [WARNING] Skipping ./benchmarks/train/BTBNSL-Rounded_BTWBNSL_AbaloneTWBound_4.wcnf: Allocation on device 
+21:29:12 [WARNING] Skipping ./benchmarks/train/BTBNSL-Rounded_BTWBNSL_Abalone_TWBound_3.wcnf: Allocation on device 
+00:27:28 [WARNING] Skipping ./benchmarks/train/treewidth-computation-TWComp_queen5_5_N25.wcnf: Allocation on device 
+00:43:14 [INFO] Preloading test data...
+05:02:26 [WARNING] Skipping ./benchmarks/ms2018/maxsat_instances/ms_evals/MS18/mse18-incomplete-unweighted-benchmarks/treewidth-computation-TWComp_queen5_5_N25.wcnf: Allocation on device 

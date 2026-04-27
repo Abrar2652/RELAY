@@ -1,0 +1,24 @@
+2026-04-18 12:20:32 [INFO] Logging to file: /nas/ckgfs/users/jahin/HYDRA/results/logs/hydra_eval_300s_v2shard1_20260418_122029.log
+2026-04-18 12:20:46 [INFO] Loading pre-trained model from ./hydra_pretrained
+2026-04-18 12:20:48 [INFO] 
+Discovering benchmarks in /nas/ckgfs/users/jahin/HYDRA/results/shard_v2_tmp/shard_1_bench...
+2026-04-18 12:20:48 [INFO]   ms2021: 33 instances
+2026-04-18 12:20:48 [INFO]   wms2020: 26 instances
+2026-04-18 12:20:48 [INFO]   wms2024: 229 instances
+2026-04-18 12:20:48 [INFO] 
+============================================================
+2026-04-18 12:20:48 [INFO]   EVALUATION: timeout=300.0s, seeds=1
+2026-04-18 12:20:48 [INFO] ============================================================
+2026-04-18 12:20:48 [INFO] 
+--- WMS 2020 (26 instances) ---
+2026-04-18 12:20:48 [INFO]   brock200_4.clq.wcnf            cost=      0.00  time=   0.0s
+2026-04-18 12:20:49 [INFO]   brock400_3.clq.wcnf            cost=      0.00  time=   0.0s
+2026-04-18 12:20:49 [INFO]   brock800_3.clq.wcnf            cost=      0.00  time=   0.0s
+2026-04-18 12:20:49 [INFO]   hamming6-2.clq.wcnf            cost=      0.00  time=   0.3s
+2026-04-18 12:20:50 [INFO]   johnson8-4-4.clq.wcnf          cost=      0.00  time=   0.4s
+2026-04-18 12:20:50 [INFO]   p_hat500-3.clq.wcnf            cost=      0.00  time=   0.0s
+2026-04-18 12:20:50 [INFO]   p_hat700-3.clq.wcnf            cost=      0.00  time=   0.0s
+2026-04-18 12:20:54 [INFO] Phase 1: Diffusion init (16 trajectories)...
+2026-04-18 12:21:24 [INFO]   Diffusion init best cost: 360422.0
+2026-04-18 12:21:24 [INFO] Phase 2: Evolutionary refinement (n=78, m=1001)...
+2026-04-18 12:22:37 [INFO]   Step 100: Consensus decimation, fixing 7/78 vars

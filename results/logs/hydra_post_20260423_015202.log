@@ -1,0 +1,38 @@
+2026-04-23 01:52:02 [hydra-post] Waiting for pretrain completion marker
+2026-04-23 05:11:05 [hydra-post] Pretrain done
+2026-04-23 05:11:05 [hydra-post] Launching HYDRA 60s eval on GPUs 0-3
+05:11:05 [INFO] Found 10 (year, cat) directories
+05:11:11 [INFO]   shard 0 (gpu 0): ms2020 = 55 instances (filtered)
+05:11:15 [INFO]   shard 0 (gpu 0): ms2024 = 12 instances (filtered)
+05:11:20 [INFO]   shard 0 (gpu 0): wms2023 = 6 instances (filtered)
+05:11:20 [INFO]   shard 0 TOTAL: 73 instances
+05:11:24 [INFO]   shard 1 (gpu 1): ms2021 = 33 instances (filtered)
+05:11:29 [INFO]   shard 1 (gpu 1): wms2020 = 26 instances (filtered)
+05:11:29 [INFO]   shard 1 (gpu 1): wms2024 = 18 instances (filtered)
+05:11:29 [INFO]   shard 1 TOTAL: 77 instances
+05:11:33 [INFO]   shard 2 (gpu 2): ms2022 = 35 instances (filtered)
+05:11:37 [INFO]   shard 2 (gpu 2): wms2021 = 14 instances (filtered)
+05:11:37 [INFO]   shard 2 TOTAL: 49 instances
+05:11:41 [INFO]   shard 3 (gpu 3): ms2023 = 10 instances (filtered)
+05:11:46 [INFO]   shard 3 (gpu 3): wms2022 = 17 instances (filtered)
+05:11:46 [INFO]   shard 3 TOTAL: 27 instances
+05:11:46 [INFO]   shard 0 (gpu 0) PID=3418383 -> /nas/ckgfs/users/jahin/HYDRA/results/logs/hydra_eval_60s_v2shard0_20260423_051146.log
+05:11:46 [INFO]   shard 1 (gpu 1) PID=3418384 -> /nas/ckgfs/users/jahin/HYDRA/results/logs/hydra_eval_60s_v2shard1_20260423_051146.log
+05:11:46 [INFO]   shard 2 (gpu 2) PID=3418385 -> /nas/ckgfs/users/jahin/HYDRA/results/logs/hydra_eval_60s_v2shard2_20260423_051146.log
+05:11:46 [INFO]   shard 3 (gpu 3) PID=3418386 -> /nas/ckgfs/users/jahin/HYDRA/results/logs/hydra_eval_60s_v2shard3_20260423_051146.log
+07:09:39 [INFO] shard 0 exit code 0
+08:00:42 [INFO] shard 1 exit code -9
+08:00:43 [INFO] shard 2 exit code -9
+08:00:43 [INFO] shard 3 exit code 0
+08:00:43 [INFO] merged 130 instance results into ./results/hydra_standalone/eval_60s/results_raw.json
+2026-04-23 08:00:43 [hydra-post] HYDRA 60s eval done
+2026-04-23 08:00:43 [hydra-post] Regenerating final artifacts with HYDRA as 9th solver
+Full matched: 1736 instances
+Wrote /nas/ckgfs/jaunts/jahin/HYDRA/figures/tbl_main.tex
+Wrote /nas/ckgfs/jaunts/jahin/HYDRA/figures/tbl_h2h.tex
+/nas/ckgfs/users/jahin/HYDRA/eval/make_final_artifacts.py:159: UserWarning: Tight layout not applied. The bottom and top margins cannot be made large enough to accommodate all Axes decorations.
+  plt.tight_layout()
+Wrote /nas/ckgfs/jaunts/jahin/HYDRA/figures/fig_main_portfolio.pdf
+Wrote /nas/ckgfs/jaunts/jahin/HYDRA/figures/fig_per_year.pdf
+Wrote /nas/ckgfs/jaunts/jahin/HYDRA/results/final_summary.json
+2026-04-23 08:00:52 [hydra-post] Post-train pipeline complete

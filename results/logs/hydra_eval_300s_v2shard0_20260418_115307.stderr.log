@@ -1,0 +1,119 @@
+2026-04-18 11:53:11 [INFO] Logging to file: /nas/ckgfs/users/jahin/HYDRA/results/logs/hydra_eval_300s_v2shard0_20260418_115307.log
+/nas/home/jahin/.local/lib/python3.10/site-packages/requests/__init__.py:113: RequestsDependencyWarning: urllib3 (1.26.5) or chardet (7.2.0)/charset_normalizer (3.4.4) doesn't match a supported version!
+  warnings.warn(
+2026-04-18 11:53:26 [INFO] Loading pre-trained model from ./hydra_pretrained
+/nas/home/jahin/.local/lib/python3.10/site-packages/torch/cuda/__init__.py:654: UserWarning: Can't initialize NVML
+  warnings.warn("Can't initialize NVML")
+2026-04-18 11:53:27 [INFO] 
+Discovering benchmarks in /nas/ckgfs/users/jahin/HYDRA/results/shard_v2_tmp/shard_0_bench...
+2026-04-18 11:53:27 [INFO]   ms2020: 55 instances
+2026-04-18 11:53:27 [INFO]   ms2024: 216 instances
+2026-04-18 11:53:27 [INFO]   wms2021: 14 instances
+2026-04-18 11:53:27 [INFO] 
+============================================================
+2026-04-18 11:53:27 [INFO]   EVALUATION: timeout=300.0s, seeds=1
+2026-04-18 11:53:27 [INFO] ============================================================
+2026-04-18 11:53:27 [INFO] 
+--- MS 2020 (55 instances) ---
+2026-04-18 11:53:27 [INFO]   MANN_a27.clq.wcnf              cost=      0.00  time=   0.1s
+2026-04-18 11:53:27 [INFO]   MANN_a45.clq.wcnf              cost=      0.00  time=   0.0s
+2026-04-18 11:53:28 [INFO]   MANN_a81.clq.wcnf              cost=      0.00  time=   0.0s
+2026-04-18 11:53:28 [INFO]   MANN_a81.clq__1c44d3.wcnf      cost=      0.00  time=   0.1s
+2026-04-18 11:53:28 [INFO]   MANN_a9.clq.wcnf               cost=      0.00  time=   0.0s
+2026-04-18 11:53:28 [INFO]   c-fat500-10.clq.wcnf           cost=      0.00  time=   0.0s
+/nas/ckgfs/users/jahin/HYDRA/hydra_data.py:178: RuntimeWarning: compute_clause_centrality: 1398 clause nodes — using scatter-based triangle count (no N×N allocation).
+  self._clause_centrality_cache = compute_clause_centrality(
+2026-04-18 11:54:20 [INFO] Phase 1: Diffusion init (64 trajectories)...
+2026-04-18 11:54:41 [INFO]   Diffusion init best cost: 17485.0
+2026-04-18 11:54:41 [INFO] Phase 2: Evolutionary refinement (n=132, m=1398)...
+/nas/home/jahin/.local/lib/python3.10/site-packages/torch_geometric/utils/_scatter.py:91: UserWarning: The usage of `scatter(reduce='max')` can be accelerated via the 'torch-scatter' package, but it was not found
+  warnings.warn(
+2026-04-18 11:55:54 [INFO]   Step 100: Consensus decimation, fixing 132/132 vars
+../aten/src/ATen/native/cuda/DistributionTemplates.h:599: operator(): block: [0,0,0], thread: [32,0,0] Assertion `0 <= p4 && p4 <= 1` failed.
+../aten/src/ATen/native/cuda/DistributionTemplates.h:599: operator(): block: [0,0,0], thread: [0,0,0] Assertion `0 <= p4 && p4 <= 1` failed.
+../aten/src/ATen/native/cuda/DistributionTemplates.h:599: operator(): block: [0,0,0], thread: [1,0,0] Assertion `0 <= p4 && p4 <= 1` failed.
+../aten/src/ATen/native/cuda/DistributionTemplates.h:599: operator(): block: [0,0,0], thread: [2,0,0] Assertion `0 <= p4 && p4 <= 1` failed.
+../aten/src/ATen/native/cuda/DistributionTemplates.h:599: operator(): block: [0,0,0], thread: [3,0,0] Assertion `0 <= p4 && p4 <= 1` failed.
+../aten/src/ATen/native/cuda/DistributionTemplates.h:599: operator(): block: [0,0,0], thread: [4,0,0] Assertion `0 <= p4 && p4 <= 1` failed.
+../aten/src/ATen/native/cuda/DistributionTemplates.h:599: operator(): block: [0,0,0], thread: [5,0,0] Assertion `0 <= p4 && p4 <= 1` failed.
+../aten/src/ATen/native/cuda/DistributionTemplates.h:599: operator(): block: [0,0,0], thread: [6,0,0] Assertion `0 <= p4 && p4 <= 1` failed.
+../aten/src/ATen/native/cuda/DistributionTemplates.h:599: operator(): block: [0,0,0], thread: [7,0,0] Assertion `0 <= p4 && p4 <= 1` failed.
+../aten/src/ATen/native/cuda/DistributionTemplates.h:599: operator(): block: [0,0,0], thread: [8,0,0] Assertion `0 <= p4 && p4 <= 1` failed.
+../aten/src/ATen/native/cuda/DistributionTemplates.h:599: operator(): block: [0,0,0], thread: [9,0,0] Assertion `0 <= p4 && p4 <= 1` failed.
+../aten/src/ATen/native/cuda/DistributionTemplates.h:599: operator(): block: [0,0,0], thread: [10,0,0] Assertion `0 <= p4 && p4 <= 1` failed.
+../aten/src/ATen/native/cuda/DistributionTemplates.h:599: operator(): block: [0,0,0], thread: [11,0,0] Assertion `0 <= p4 && p4 <= 1` failed.
+../aten/src/ATen/native/cuda/DistributionTemplates.h:599: operator(): block: [0,0,0], thread: [12,0,0] Assertion `0 <= p4 && p4 <= 1` failed.
+../aten/src/ATen/native/cuda/DistributionTemplates.h:599: operator(): block: [0,0,0], thread: [13,0,0] Assertion `0 <= p4 && p4 <= 1` failed.
+../aten/src/ATen/native/cuda/DistributionTemplates.h:599: operator(): block: [0,0,0], thread: [14,0,0] Assertion `0 <= p4 && p4 <= 1` failed.
+../aten/src/ATen/native/cuda/DistributionTemplates.h:599: operator(): block: [0,0,0], thread: [15,0,0] Assertion `0 <= p4 && p4 <= 1` failed.
+../aten/src/ATen/native/cuda/DistributionTemplates.h:599: operator(): block: [0,0,0], thread: [16,0,0] Assertion `0 <= p4 && p4 <= 1` failed.
+../aten/src/ATen/native/cuda/DistributionTemplates.h:599: operator(): block: [0,0,0], thread: [17,0,0] Assertion `0 <= p4 && p4 <= 1` failed.
+../aten/src/ATen/native/cuda/DistributionTemplates.h:599: operator(): block: [0,0,0], thread: [18,0,0] Assertion `0 <= p4 && p4 <= 1` failed.
+../aten/src/ATen/native/cuda/DistributionTemplates.h:599: operator(): block: [0,0,0], thread: [19,0,0] Assertion `0 <= p4 && p4 <= 1` failed.
+../aten/src/ATen/native/cuda/DistributionTemplates.h:599: operator(): block: [0,0,0], thread: [20,0,0] Assertion `0 <= p4 && p4 <= 1` failed.
+../aten/src/ATen/native/cuda/DistributionTemplates.h:599: operator(): block: [0,0,0], thread: [21,0,0] Assertion `0 <= p4 && p4 <= 1` failed.
+../aten/src/ATen/native/cuda/DistributionTemplates.h:599: operator(): block: [0,0,0], thread: [22,0,0] Assertion `0 <= p4 && p4 <= 1` failed.
+../aten/src/ATen/native/cuda/DistributionTemplates.h:599: operator(): block: [0,0,0], thread: [23,0,0] Assertion `0 <= p4 && p4 <= 1` failed.
+../aten/src/ATen/native/cuda/DistributionTemplates.h:599: operator(): block: [0,0,0], thread: [24,0,0] Assertion `0 <= p4 && p4 <= 1` failed.
+../aten/src/ATen/native/cuda/DistributionTemplates.h:599: operator(): block: [0,0,0], thread: [25,0,0] Assertion `0 <= p4 && p4 <= 1` failed.
+../aten/src/ATen/native/cuda/DistributionTemplates.h:599: operator(): block: [0,0,0], thread: [26,0,0] Assertion `0 <= p4 && p4 <= 1` failed.
+../aten/src/ATen/native/cuda/DistributionTemplates.h:599: operator(): block: [0,0,0], thread: [27,0,0] Assertion `0 <= p4 && p4 <= 1` failed.
+../aten/src/ATen/native/cuda/DistributionTemplates.h:599: operator(): block: [0,0,0], thread: [28,0,0] Assertion `0 <= p4 && p4 <= 1` failed.
+../aten/src/ATen/native/cuda/DistributionTemplates.h:599: operator(): block: [0,0,0], thread: [29,0,0] Assertion `0 <= p4 && p4 <= 1` failed.
+../aten/src/ATen/native/cuda/DistributionTemplates.h:599: operator(): block: [0,0,0], thread: [30,0,0] Assertion `0 <= p4 && p4 <= 1` failed.
+../aten/src/ATen/native/cuda/DistributionTemplates.h:599: operator(): block: [0,0,0], thread: [31,0,0] Assertion `0 <= p4 && p4 <= 1` failed.
+terminate called after throwing an instance of 'c10::Error'
+  what():  CUDA error: device-side assert triggered
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrace below might be incorrect.
+For debugging consider passing CUDA_LAUNCH_BLOCKING=1
+Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
+
+Exception raised from c10_cuda_check_implementation at ../c10/cuda/CUDAException.cpp:43 (most recent call first):
+frame #0: c10::Error::Error(c10::SourceLocation, std::string) + 0x96 (0x7f8af2ccbf86 in /nas/home/jahin/.local/lib/python3.10/site-packages/torch/lib/libc10.so)
+frame #1: c10::detail::torchCheckFail(char const*, char const*, unsigned int, std::string const&) + 0x64 (0x7f8af2c7ad10 in /nas/home/jahin/.local/lib/python3.10/site-packages/torch/lib/libc10.so)
+frame #2: c10::cuda::c10_cuda_check_implementation(int, char const*, char const*, int, bool) + 0x118 (0x7f8af2da6f08 in /nas/home/jahin/.local/lib/python3.10/site-packages/torch/lib/libc10_cuda.so)
+frame #3: <unknown function> + 0x587d0 (0x7f8af2dac7d0 in /nas/home/jahin/.local/lib/python3.10/site-packages/torch/lib/libc10_cuda.so)
+frame #4: <unknown function> + 0x5a4f4 (0x7f8af2dae4f4 in /nas/home/jahin/.local/lib/python3.10/site-packages/torch/lib/libc10_cuda.so)
+frame #5: <unknown function> + 0x5db920 (0x7f8af15b8920 in /nas/home/jahin/.local/lib/python3.10/site-packages/torch/lib/libtorch_python.so)
+frame #6: <unknown function> + 0x6abdf (0x7f8af2cafbdf in /nas/home/jahin/.local/lib/python3.10/site-packages/torch/lib/libc10.so)
+frame #7: c10::TensorImpl::~TensorImpl() + 0x21b (0x7f8af2ca8c3b in /nas/home/jahin/.local/lib/python3.10/site-packages/torch/lib/libc10.so)
+frame #8: c10::TensorImpl::~TensorImpl() + 0x9 (0x7f8af2ca8de9 in /nas/home/jahin/.local/lib/python3.10/site-packages/torch/lib/libc10.so)
+frame #9: <unknown function> + 0x1160dd7 (0x7f8ad9f0fdd7 in /nas/home/jahin/.local/lib/python3.10/site-packages/torch/lib/libtorch_cpu.so)
+frame #10: <unknown function> + 0x2e19f8b (0x7f8adbbc8f8b in /nas/home/jahin/.local/lib/python3.10/site-packages/torch/lib/libtorch_cpu.so)
+frame #11: at::_ops::_to_copy::redispatch(c10::DispatchKeySet, at::Tensor const&, std::optional<c10::ScalarType>, std::optional<c10::Layout>, std::optional<c10::Device>, std::optional<bool>, bool, std::optional<c10::MemoryFormat>) + 0xf5 (0x7f8adb2d1c25 in /nas/home/jahin/.local/lib/python3.10/site-packages/torch/lib/libtorch_cpu.so)
+frame #12: <unknown function> + 0x2c58a33 (0x7f8adba07a33 in /nas/home/jahin/.local/lib/python3.10/site-packages/torch/lib/libtorch_cpu.so)
+frame #13: at::_ops::_to_copy::call(at::Tensor const&, std::optional<c10::ScalarType>, std::optional<c10::Layout>, std::optional<c10::Device>, std::optional<bool>, bool, std::optional<c10::MemoryFormat>) + 0x1eb (0x7f8adb36168b in /nas/home/jahin/.local/lib/python3.10/site-packages/torch/lib/libtorch_cpu.so)
+frame #14: at::native::to(at::Tensor const&, c10::Device, c10::ScalarType, bool, bool, std::optional<c10::MemoryFormat>) + 0xc8 (0x7f8adad8a268 in /nas/home/jahin/.local/lib/python3.10/site-packages/torch/lib/libtorch_cpu.so)
+frame #15: <unknown function> + 0x301e379 (0x7f8adbdcd379 in /nas/home/jahin/.local/lib/python3.10/site-packages/torch/lib/libtorch_cpu.so)
+frame #16: at::_ops::to_device::call(at::Tensor const&, c10::Device, c10::ScalarType, bool, bool, std::optional<c10::MemoryFormat>) + 0x1bb (0x7f8adb510f0b in /nas/home/jahin/.local/lib/python3.10/site-packages/torch/lib/libtorch_cpu.so)
+frame #17: <unknown function> + 0xcd4816 (0x7f8af1cb1816 in /nas/home/jahin/.local/lib/python3.10/site-packages/torch/lib/libtorch_python.so)
+frame #18: torch::utils::tensor_ctor(c10::DispatchKey, c10::ScalarType, torch::PythonArgs&) + 0x177 (0x7f8af1cb54b7 in /nas/home/jahin/.local/lib/python3.10/site-packages/torch/lib/libtorch_python.so)
+frame #19: <unknown function> + 0x88319e (0x7f8af186019e in /nas/home/jahin/.local/lib/python3.10/site-packages/torch/lib/libtorch_python.so)
+frame #20: <unknown function> + 0x18ae32 (0x55e7fa593e32 in /usr/bin/python3)
+frame #21: _PyObject_MakeTpCall + 0x25b (0x55e7fa58a89b in /usr/bin/python3)
+frame #22: _PyEval_EvalFrameDefault + 0x6a5b (0x55e7fa584f6b in /usr/bin/python3)
+frame #23: _PyFunction_Vectorcall + 0x7c (0x55e7fa59468c in /usr/bin/python3)
+frame #24: _PyEval_EvalFrameDefault + 0x286b (0x55e7fa580d7b in /usr/bin/python3)
+frame #25: <unknown function> + 0x1986f1 (0x55e7fa5a16f1 in /usr/bin/python3)
+frame #26: _PyEval_EvalFrameDefault + 0x56cb (0x55e7fa583bdb in /usr/bin/python3)
+frame #27: <unknown function> + 0x1986f1 (0x55e7fa5a16f1 in /usr/bin/python3)
+frame #28: _PyEval_EvalFrameDefault + 0x1992 (0x55e7fa57fea2 in /usr/bin/python3)
+frame #29: _PyFunction_Vectorcall + 0x7c (0x55e7fa59468c in /usr/bin/python3)
+frame #30: _PyEval_EvalFrameDefault + 0x1992 (0x55e7fa57fea2 in /usr/bin/python3)
+frame #31: _PyFunction_Vectorcall + 0x7c (0x55e7fa59468c in /usr/bin/python3)
+frame #32: _PyEval_EvalFrameDefault + 0x1992 (0x55e7fa57fea2 in /usr/bin/python3)
+frame #33: _PyFunction_Vectorcall + 0x7c (0x55e7fa59468c in /usr/bin/python3)
+frame #34: _PyEval_EvalFrameDefault + 0x6c0 (0x55e7fa57ebd0 in /usr/bin/python3)
+frame #35: <unknown function> + 0x259d36 (0x55e7fa662d36 in /usr/bin/python3)
+frame #36: PyEval_EvalCode + 0x86 (0x55e7fa662c06 in /usr/bin/python3)
+frame #37: <unknown function> + 0x280678 (0x55e7fa689678 in /usr/bin/python3)
+frame #38: <unknown function> + 0x27accf (0x55e7fa683ccf in /usr/bin/python3)
+frame #39: <unknown function> + 0x280415 (0x55e7fa689415 in /usr/bin/python3)
+frame #40: _PyRun_SimpleFileObject + 0x1a8 (0x55e7fa688958 in /usr/bin/python3)
+frame #41: _PyRun_AnyFileObject + 0x47 (0x55e7fa688637 in /usr/bin/python3)
+frame #42: Py_RunMain + 0x2be (0x55e7fa67cbfe in /usr/bin/python3)
+frame #43: Py_BytesMain + 0x2d (0x55e7fa656c4d in /usr/bin/python3)
+frame #44: <unknown function> + 0x29d90 (0x7f8af3c65d90 in /lib/x86_64-linux-gnu/libc.so.6)
+frame #45: __libc_start_main + 0x80 (0x7f8af3c65e40 in /lib/x86_64-linux-gnu/libc.so.6)
+frame #46: _start + 0x25 (0x55e7fa656b45 in /usr/bin/python3)
+

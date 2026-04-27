@@ -1,0 +1,17 @@
+2026-04-18 11:43:05 [INFO] Logging to file: results/logs/hydra_eval_60s_hrerun_20260418_114300.log
+2026-04-18 11:43:13 [INFO] Loading pre-trained model from ./hydra_pretrained
+2026-04-18 11:43:14 [INFO] 
+Discovering benchmarks in ./benchmarks/h_rerun...
+2026-04-18 11:43:14 [INFO]   ms2022: 113 instances
+2026-04-18 11:43:14 [INFO]   ms2023: 3 instances
+2026-04-18 11:43:14 [INFO]   wms2022: 187 instances
+2026-04-18 11:43:14 [INFO]   wms2023: 89 instances
+2026-04-18 11:43:14 [INFO]   wms2024: 218 instances
+2026-04-18 11:43:14 [INFO] 
+============================================================
+2026-04-18 11:43:14 [INFO]   EVALUATION: timeout=60.0s, seeds=1
+2026-04-18 11:43:14 [INFO] ============================================================
+2026-04-18 11:43:14 [INFO] 
+--- MS 2022 (113 instances) ---
+2026-04-18 11:43:23 [INFO]   AMAZON.wcnf                    cost=      0.00  time=   8.7s
+2026-04-18 11:43:33 [INFO]   DBLP.wcnf                      cost=      0.00  time=  10.4s

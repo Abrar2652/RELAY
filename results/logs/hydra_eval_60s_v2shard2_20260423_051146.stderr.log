@@ -1,0 +1,264 @@
+2026-04-23 05:11:58 [INFO] Logging to file: /nas/ckgfs/users/jahin/HYDRA/results/logs/hydra_eval_60s_v2shard2_20260423_051146.log
+2026-04-23 05:12:17 [INFO] Loading pre-trained model from ./hydra_pretrained
+2026-04-23 05:12:18 [INFO] 
+Discovering benchmarks in /nas/ckgfs/users/jahin/HYDRA/results/shard_v2_tmp/shard_2_bench...
+2026-04-23 05:12:18 [INFO]   ms2022: 35 instances
+2026-04-23 05:12:18 [INFO]   wms2021: 14 instances
+2026-04-23 05:12:18 [INFO] 
+============================================================
+2026-04-23 05:12:18 [INFO]   EVALUATION: timeout=60.0s, seeds=1
+2026-04-23 05:12:18 [INFO] ============================================================
+2026-04-23 05:12:18 [INFO] 
+--- WMS 2021 (14 instances) ---
+/nas/ckgfs/users/jahin/HYDRA/hydra_data.py:178: RuntimeWarning: compute_clause_centrality: 1718 clause nodes — using scatter-based triangle count (no N×N allocation).
+  self._clause_centrality_cache = compute_clause_centrality(
+2026-04-23 05:12:25 [INFO] Phase 1: Diffusion init (16 trajectories)...
+2026-04-23 05:12:44 [INFO]   Diffusion init best cost: 4122.0
+2026-04-23 05:12:44 [INFO] Phase 2: Evolutionary refinement (n=42, m=1718)...
+/nas/ckgfs/jaunts/jahin/HYDRA/.venv_ckg08/lib/python3.12/site-packages/torch_geometric/utils/_scatter.py:91: UserWarning: The usage of `scatter(reduce='max')` can be accelerated via the 'torch-scatter' package, but it was not found
+  warnings.warn(
+2026-04-23 05:13:19 [INFO] Final: cost=2276.0000, steps=113, pop_size=19, time=60.1s
+2026-04-23 05:13:19 [INFO]   MANN_a45.clq.wcnf              cost=   2276.00  time=  60.1s
+/nas/ckgfs/users/jahin/HYDRA/hydra_data.py:178: RuntimeWarning: compute_clause_centrality: 1038 clause nodes — using scatter-based triangle count (no N×N allocation).
+  self._clause_centrality_cache = compute_clause_centrality(
+2026-04-23 05:13:19 [INFO] Phase 1: Diffusion init (16 trajectories)...
+2026-04-23 05:13:32 [INFO]   Diffusion init best cost: 2268.0
+2026-04-23 05:13:32 [INFO] Phase 2: Evolutionary refinement (n=40, m=1038)...
+2026-04-23 05:13:59 [INFO]   Step 100: Consensus decimation, fixing 3/40 vars
+2026-04-23 05:14:19 [INFO] Final: cost=1332.0000, steps=168, pop_size=25, time=60.0s
+2026-04-23 05:14:19 [INFO]   brock200_3.clq.wcnf            cost=   1332.00  time=  60.1s
+/nas/ckgfs/users/jahin/HYDRA/hydra_data.py:178: RuntimeWarning: compute_clause_centrality: 1188 clause nodes — using scatter-based triangle count (no N×N allocation).
+  self._clause_centrality_cache = compute_clause_centrality(
+2026-04-23 05:14:20 [INFO] Phase 1: Diffusion init (16 trajectories)...
+2026-04-23 05:14:33 [INFO]   Diffusion init best cost: 3038.0
+2026-04-23 05:14:33 [INFO] Phase 2: Evolutionary refinement (n=40, m=1188)...
+2026-04-23 05:15:01 [INFO]   Step 100: Consensus decimation, fixing 7/40 vars
+2026-04-23 05:15:19 [INFO] Final: cost=1575.0000, steps=163, pop_size=19, time=60.0s
+2026-04-23 05:15:19 [INFO]   brock400_2.clq.wcnf            cost=   1575.00  time=  60.0s
+/nas/ckgfs/users/jahin/HYDRA/hydra_data.py:178: RuntimeWarning: compute_clause_centrality: 1270 clause nodes — using scatter-based triangle count (no N×N allocation).
+  self._clause_centrality_cache = compute_clause_centrality(
+2026-04-23 05:15:20 [INFO] Phase 1: Diffusion init (16 trajectories)...
+2026-04-23 05:15:33 [INFO]   Diffusion init best cost: 2935.0
+2026-04-23 05:15:33 [INFO] Phase 2: Evolutionary refinement (n=43, m=1270)...
+2026-04-23 05:16:20 [INFO] Final: cost=1718.0000, steps=161, pop_size=30, time=60.6s
+2026-04-23 05:16:20 [INFO]   p_hat300-3.clq.wcnf            cost=   1718.00  time=  60.6s
+/nas/ckgfs/users/jahin/HYDRA/hydra_data.py:178: RuntimeWarning: compute_clause_centrality: 1001 clause nodes — using scatter-based triangle count (no N×N allocation).
+  self._clause_centrality_cache = compute_clause_centrality(
+2026-04-23 05:16:21 [INFO] Phase 1: Diffusion init (16 trajectories)...
+2026-04-23 05:16:35 [INFO]   Diffusion init best cost: 360422.0
+2026-04-23 05:16:35 [INFO] Phase 2: Evolutionary refinement (n=78, m=1001)...
+2026-04-23 05:17:07 [INFO]   Step 100: Consensus decimation, fixing 19/78 vars
+2026-04-23 05:17:21 [INFO] Final: cost=12852.0000, steps=141, pop_size=23, time=60.7s
+2026-04-23 05:17:21 [INFO]   ram_k3_n13.ra1.wcnf            cost=  12852.00  time=  60.7s
+/nas/ckgfs/users/jahin/HYDRA/hydra_data.py:178: RuntimeWarning: compute_clause_centrality: 1820 clause nodes — using scatter-based triangle count (no N×N allocation).
+  self._clause_centrality_cache = compute_clause_centrality(
+2026-04-23 05:17:24 [INFO] Phase 1: Diffusion init (16 trajectories)...
+2026-04-23 05:17:48 [INFO]   Diffusion init best cost: 690848.0
+2026-04-23 05:17:48 [INFO] Phase 2: Evolutionary refinement (n=105, m=1820)...
+2026-04-23 05:18:21 [INFO] Final: cost=29161.0000, steps=76, pop_size=18, time=60.6s
+2026-04-23 05:18:21 [INFO]   ram_k3_n15.ra1.wcnf            cost=  29161.00  time=  60.6s
+/nas/ckgfs/users/jahin/HYDRA/hydra_data.py:178: RuntimeWarning: compute_clause_centrality: 2380 clause nodes — using scatter-based triangle count (no N×N allocation).
+  self._clause_centrality_cache = compute_clause_centrality(
+2026-04-23 05:18:26 [INFO] Phase 1: Diffusion init (16 trajectories)...
+2026-04-23 05:19:00 [INFO]   Diffusion init best cost: 898741.0
+2026-04-23 05:19:00 [INFO] Phase 2: Evolutionary refinement (n=120, m=2380)...
+2026-04-23 05:19:21 [INFO] Final: cost=45334.0000, steps=39, pop_size=16, time=60.1s
+2026-04-23 05:19:21 [INFO]   ram_k3_n16.ra1.wcnf            cost=  45334.00  time=  60.2s
+/nas/ckgfs/users/jahin/HYDRA/hydra_data.py:178: RuntimeWarning: compute_clause_centrality: 3876 clause nodes — using scatter-based triangle count (no N×N allocation).
+  self._clause_centrality_cache = compute_clause_centrality(
+2026-04-23 05:19:31 [INFO] Phase 1: Diffusion init (16 trajectories)...
+2026-04-23 05:20:41 [INFO]   Diffusion init best cost: 1521768.0
+2026-04-23 05:20:41 [INFO] Phase 2: Evolutionary refinement (n=153, m=3876)...
+2026-04-23 05:20:41 [INFO] Final: cost=1521768.0000, steps=0, pop_size=16, time=79.7s
+2026-04-23 05:20:41 [INFO]   ram_k3_n18.ra1.wcnf            cost=1521768.00  time=  79.7s
+/nas/ckgfs/users/jahin/HYDRA/hydra_data.py:178: RuntimeWarning: compute_clause_centrality: 4845 clause nodes — using scatter-based triangle count (no N×N allocation).
+  self._clause_centrality_cache = compute_clause_centrality(
+2026-04-23 05:20:55 [INFO] Phase 1: Diffusion init (16 trajectories)...
+2026-04-23 05:22:34 [INFO]   Diffusion init best cost: 1951731.0
+2026-04-23 05:22:34 [INFO] Phase 2: Evolutionary refinement (n=171, m=4845)...
+2026-04-23 05:22:34 [INFO] Final: cost=1951731.0000, steps=0, pop_size=16, time=112.5s
+2026-04-23 05:22:34 [INFO]   ram_k3_n19.ra1.wcnf            cost=1951731.00  time= 112.5s
+/nas/ckgfs/users/jahin/HYDRA/hydra_data.py:178: RuntimeWarning: compute_clause_centrality: 5985 clause nodes — using scatter-based triangle count (no N×N allocation).
+  self._clause_centrality_cache = compute_clause_centrality(
+2026-04-23 05:22:52 [INFO] Phase 1: Diffusion init (16 trajectories)...
+2026-04-23 05:25:11 [INFO]   Diffusion init best cost: 2441465.0
+2026-04-23 05:25:11 [INFO] Phase 2: Evolutionary refinement (n=190, m=5985)...
+2026-04-23 05:25:11 [INFO] Final: cost=2441465.0000, steps=0, pop_size=16, time=156.6s
+2026-04-23 05:25:11 [INFO]   ram_k3_n20.ra1.wcnf            cost=2441465.00  time= 156.6s
+/nas/ckgfs/users/jahin/HYDRA/hydra_data.py:178: RuntimeWarning: compute_clause_centrality: 7752 clause nodes — using scatter-based triangle count (no N×N allocation).
+  self._clause_centrality_cache = compute_clause_centrality(
+2026-04-23 05:25:50 [INFO] Phase 1: Diffusion init (16 trajectories)...
+2026-04-23 05:30:54 [INFO]   Diffusion init best cost: 1927177.0
+2026-04-23 05:30:54 [INFO] Phase 2: Evolutionary refinement (n=171, m=7752)...
+2026-04-23 05:30:54 [INFO] Final: cost=1927177.0000, steps=0, pop_size=16, time=342.8s
+2026-04-23 05:30:54 [INFO]   ram_k4_n19.ra1.wcnf            cost=1927177.00  time= 342.8s
+/nas/ckgfs/users/jahin/HYDRA/hydra_data.py:178: RuntimeWarning: compute_clause_centrality: 9690 clause nodes — using scatter-based triangle count (no N×N allocation).
+  self._clause_centrality_cache = compute_clause_centrality(
+2026-04-23 05:31:15 [ERROR]   ram_k4_n20.ra1.wcnf seed=0: FAILED (Allocation on device )
+/nas/ckgfs/users/jahin/HYDRA/hydra_data.py:178: RuntimeWarning: compute_clause_centrality: 7639 clause nodes — using scatter-based triangle count (no N×N allocation).
+  self._clause_centrality_cache = compute_clause_centrality(
+2026-04-23 05:31:53 [INFO] Phase 1: Diffusion init (16 trajectories)...
+2026-04-23 05:36:41 [INFO]   Diffusion init best cost: 247797360.0
+2026-04-23 05:36:41 [INFO] Phase 2: Evolutionary refinement (n=148, m=7639)...
+2026-04-23 05:36:41 [INFO] Final: cost=247797360.0000, steps=0, pop_size=16, time=324.8s
+2026-04-23 05:36:41 [INFO]   random-net-50-5_network-4.net.wcnf cost=247797360.00  time= 324.9s
+/nas/ckgfs/users/jahin/HYDRA/hydra_data.py:178: RuntimeWarning: compute_clause_centrality: 5500 clause nodes — using scatter-based triangle count (no N×N allocation).
+  self._clause_centrality_cache = compute_clause_centrality(
+2026-04-23 07:19:45 [WARNING]   6183.7s of 60s budget used before diffusion; skipping to evolutionary with random init
+2026-04-23 07:19:45 [INFO] Phase 2: Evolutionary refinement (n=5000, m=5500)...
+2026-04-23 07:19:45 [INFO] Final: cost=124812.0000, steps=0, pop_size=16, time=6183.7s
+2026-04-23 07:19:45 [INFO]   scpnrf4_weighted.wcnf          cost= 124812.00  time=6183.7s
+2026-04-23 07:19:45 [INFO] 
+--- MS 2022 (35 instances) ---
+/nas/ckgfs/users/jahin/HYDRA/hydra_data.py:178: RuntimeWarning: compute_clause_centrality: 1260 clause nodes — using scatter-based triangle count (no N×N allocation).
+  self._clause_centrality_cache = compute_clause_centrality(
+2026-04-23 07:19:46 [INFO] Phase 1: Diffusion init (16 trajectories)...
+2026-04-23 07:19:59 [INFO]   Diffusion init best cost: 416.0
+2026-04-23 07:19:59 [INFO] Phase 2: Evolutionary refinement (n=140, m=1260)...
+2026-04-23 07:20:26 [INFO]   Step 100: Consensus decimation, fixing 35/140 vars
+2026-04-23 07:20:45 [INFO] Final: cost=234.0000, steps=170, pop_size=27, time=60.2s
+2026-04-23 07:20:45 [INFO]   bip.maxcut-140-630-0.7-13.wcnf cost=    234.00  time=  60.2s
+2026-04-23 07:20:46 [INFO] Phase 1: Diffusion init (16 trajectories)...
+2026-04-23 07:20:59 [INFO]   Diffusion init best cost: 400.0
+2026-04-23 07:20:59 [INFO] Phase 2: Evolutionary refinement (n=140, m=1260)...
+2026-04-23 07:21:26 [INFO]   Step 100: Consensus decimation, fixing 75/140 vars
+2026-04-23 07:21:46 [INFO] Final: cost=301.0000, steps=168, pop_size=25, time=60.1s
+2026-04-23 07:21:46 [INFO]   bip.maxcut-140-630-0.7-37.wcnf cost=    301.00  time=  60.1s
+2026-04-23 07:21:46 [INFO] Phase 1: Diffusion init (16 trajectories)...
+2026-04-23 07:21:59 [INFO]   Diffusion init best cost: 439.0
+2026-04-23 07:21:59 [INFO] Phase 2: Evolutionary refinement (n=140, m=1260)...
+2026-04-23 07:22:26 [INFO]   Step 100: Consensus decimation, fixing 17/140 vars
+2026-04-23 07:22:46 [INFO] Final: cost=288.0000, steps=167, pop_size=24, time=60.0s
+2026-04-23 07:22:46 [INFO]   bip.maxcut-140-630-0.7-42.wcnf cost=    288.00  time=  60.0s
+2026-04-23 07:22:46 [INFO] Phase 1: Diffusion init (16 trajectories)...
+2026-04-23 07:22:59 [INFO]   Diffusion init best cost: 416.0
+2026-04-23 07:22:59 [INFO] Phase 2: Evolutionary refinement (n=140, m=1260)...
+2026-04-23 07:23:46 [INFO] Final: cost=299.0000, steps=171, pop_size=29, time=60.5s
+2026-04-23 07:23:46 [INFO]   bip.maxcut-140-630-0.7-44.wcnf cost=    299.00  time=  60.5s
+/nas/ckgfs/users/jahin/HYDRA/hydra_data.py:178: RuntimeWarning: compute_clause_centrality: 1258 clause nodes — using scatter-based triangle count (no N×N allocation).
+  self._clause_centrality_cache = compute_clause_centrality(
+2026-04-23 07:23:47 [INFO] Phase 1: Diffusion init (16 trajectories)...
+2026-04-23 07:24:00 [INFO]   Diffusion init best cost: 390.0
+2026-04-23 07:24:00 [INFO] Phase 2: Evolutionary refinement (n=140, m=1258)...
+2026-04-23 07:24:26 [INFO]   Step 100: Consensus decimation, fixing 140/140 vars
+2026-04-23 07:24:47 [INFO] Final: cost=254.0000, steps=176, pop_size=31, time=60.6s
+2026-04-23 07:24:47 [INFO]   bip.maxcut-140-630-0.8-24.wcnf cost=    254.00  time=  60.6s
+2026-04-23 07:25:48 [WARNING]   load()+preproc took 60.8s of 60s budget; skipping diffusion, using random assignment
+2026-04-23 07:25:48 [INFO]   cra-scp.scpclr13_maxsat.wcnf   cost=    354.00  time=  60.8s
+/nas/ckgfs/users/jahin/HYDRA/hydra_data.py:178: RuntimeWarning: compute_clause_centrality: 3150 clause nodes — using scatter-based triangle count (no N×N allocation).
+  self._clause_centrality_cache = compute_clause_centrality(
+2026-04-23 07:25:52 [INFO] Phase 1: Diffusion init (16 trajectories)...
+2026-04-23 07:26:14 [INFO]   Diffusion init best cost: 135.0
+2026-04-23 07:26:14 [INFO] Phase 2: Evolutionary refinement (n=135, m=3150)...
+2026-04-23 07:26:49 [INFO] Final: cost=135.0000, steps=81, pop_size=24, time=60.5s
+2026-04-23 07:26:49 [INFO]   data.135.wcnf                  cost=    135.00  time=  60.5s
+/nas/ckgfs/users/jahin/HYDRA/hydra_data.py:178: RuntimeWarning: compute_clause_centrality: 1836 clause nodes — using scatter-based triangle count (no N×N allocation).
+  self._clause_centrality_cache = compute_clause_centrality(
+2026-04-23 07:26:50 [INFO] Phase 1: Diffusion init (16 trajectories)...
+2026-04-23 07:27:03 [INFO]   Diffusion init best cost: 733.0
+2026-04-23 07:27:03 [INFO] Phase 2: Evolutionary refinement (n=45, m=1836)...
+2026-04-23 07:27:49 [INFO] Final: cost=447.0000, steps=144, pop_size=26, time=60.2s
+2026-04-23 07:27:49 [INFO]   dim.MANN_a9.clq.wcnf           cost=    447.00  time=  60.2s
+/nas/ckgfs/users/jahin/HYDRA/hydra_data.py:178: RuntimeWarning: compute_clause_centrality: 1136 clause nodes — using scatter-based triangle count (no N×N allocation).
+  self._clause_centrality_cache = compute_clause_centrality(
+2026-04-23 07:27:50 [INFO] Phase 1: Diffusion init (16 trajectories)...
+2026-04-23 07:28:02 [INFO]   Diffusion init best cost: 568.0
+2026-04-23 07:28:02 [INFO] Phase 2: Evolutionary refinement (n=40, m=1136)...
+2026-04-23 07:28:30 [INFO]   Step 100: Consensus decimation, fixing 18/40 vars
+2026-04-23 07:28:49 [INFO] Final: cost=270.0000, steps=168, pop_size=25, time=60.1s
+2026-04-23 07:28:49 [INFO]   dim.brock400_3.clq.wcnf        cost=    270.00  time=  60.1s
+/nas/ckgfs/users/jahin/HYDRA/hydra_data.py:178: RuntimeWarning: compute_clause_centrality: 1178 clause nodes — using scatter-based triangle count (no N×N allocation).
+  self._clause_centrality_cache = compute_clause_centrality(
+2026-04-23 07:28:50 [INFO] Phase 1: Diffusion init (16 trajectories)...
+2026-04-23 07:29:03 [INFO]   Diffusion init best cost: 567.0
+2026-04-23 07:29:03 [INFO] Phase 2: Evolutionary refinement (n=40, m=1178)...
+2026-04-23 07:29:29 [INFO]   Step 100: Consensus decimation, fixing 10/40 vars
+2026-04-23 07:29:49 [INFO] Final: cost=279.0000, steps=174, pop_size=32, time=60.0s
+2026-04-23 07:29:49 [INFO]   dim.brock400_4.clq.wcnf        cost=    279.00  time=  60.0s
+/nas/ckgfs/users/jahin/HYDRA/hydra_data.py:178: RuntimeWarning: compute_clause_centrality: 1436 clause nodes — using scatter-based triangle count (no N×N allocation).
+  self._clause_centrality_cache = compute_clause_centrality(
+2026-04-23 07:29:50 [INFO] Phase 1: Diffusion init (16 trajectories)...
+2026-04-23 07:30:03 [INFO]   Diffusion init best cost: 648.0
+2026-04-23 07:30:03 [INFO] Phase 2: Evolutionary refinement (n=41, m=1436)...
+2026-04-23 07:30:49 [INFO] Final: cost=344.0000, steps=166, pop_size=23, time=60.1s
+2026-04-23 07:30:49 [INFO]   dim.hamming10-4.clq.wcnf       cost=    344.00  time=  60.1s
+/nas/ckgfs/users/jahin/HYDRA/hydra_data.py:178: RuntimeWarning: compute_clause_centrality: 1806 clause nodes — using scatter-based triangle count (no N×N allocation).
+  self._clause_centrality_cache = compute_clause_centrality(
+2026-04-23 07:30:51 [INFO] Phase 1: Diffusion init (16 trajectories)...
+2026-04-23 07:31:04 [INFO]   Diffusion init best cost: 713.0
+2026-04-23 07:31:04 [INFO] Phase 2: Evolutionary refinement (n=43, m=1806)...
+2026-04-23 07:31:35 [INFO]   Step 100: Consensus decimation, fixing 9/43 vars
+2026-04-23 07:31:50 [INFO] Final: cost=441.0000, steps=143, pop_size=25, time=60.1s
+2026-04-23 07:31:50 [INFO]   dim.hamming8-2.clq.wcnf        cost=    441.00  time=  60.2s
+2026-04-23 07:33:34 [WARNING]   load()+preproc took 104.4s of 60s budget; skipping diffusion, using random assignment
+2026-04-23 07:33:34 [INFO]   max.uaq-max-np-nr200-np700-rpp5-nc50-n8-t3-plb10-n5.wcnf cost=918000000330.00  time= 104.4s
+2026-04-23 07:34:17 [WARNING]   load()+preproc took 42.6s of 60s budget; skipping diffusion, using random assignment
+2026-04-23 07:34:17 [INFO]   max.uaq-max-nr-nr160-np400-rpp5-nc50-n8-t3-plb10-n7.wcnf cost=646000000180.00  time=  42.6s
+2026-04-23 07:34:57 [WARNING]   load()+preproc took 40.2s of 60s budget; skipping diffusion, using random assignment
+2026-04-23 07:34:57 [INFO]   max.uaq-max-nr-nr70-np400-rpp5-nc50-n8-t3-plb10-n7.wcnf cost=627000000203.00  time=  40.2s
+2026-04-23 07:36:56 [WARNING]   load()+preproc took 119.1s of 60s budget; skipping diffusion, using random assignment
+2026-04-23 07:36:56 [INFO]   normalized-test4.pi.opb.msat.wcnf cost=   3020.00  time= 119.1s
+2026-04-23 07:37:09 [INFO] Phase 1: Diffusion init (16 trajectories)...
+2026-04-23 07:38:45 [INFO]   Diffusion init best cost: 3486.0
+2026-04-23 07:38:45 [INFO] Phase 2: Evolutionary refinement (n=171, m=4845)...
+2026-04-23 07:38:45 [INFO] Final: cost=3486.0000, steps=0, pop_size=16, time=108.9s
+2026-04-23 07:38:45 [INFO]   ram_k3_n19.ra0.wcnf            cost=   3486.00  time= 108.9s
+/nas/ckgfs/users/jahin/HYDRA/hydra_data.py:178: RuntimeWarning: compute_clause_centrality: 6120 clause nodes — using scatter-based triangle count (no N×N allocation).
+  self._clause_centrality_cache = compute_clause_centrality(
+2026-04-23 07:39:11 [INFO] Phase 1: Diffusion init (16 trajectories)...
+2026-04-23 07:42:36 [INFO]   Diffusion init best cost: 2047.0
+2026-04-23 07:42:36 [INFO] Phase 2: Evolutionary refinement (n=153, m=6120)...
+2026-04-23 07:42:36 [INFO] Final: cost=2047.0000, steps=0, pop_size=16, time=230.6s
+2026-04-23 07:42:36 [INFO]   ram_k4_n18.ra0.wcnf            cost=   2047.00  time= 230.6s
+/nas/ckgfs/users/jahin/HYDRA/hydra_data.py:178: RuntimeWarning: compute_clause_centrality: 1200 clause nodes — using scatter-based triangle count (no N×N allocation).
+  self._clause_centrality_cache = compute_clause_centrality(
+2026-04-23 07:42:38 [INFO] Phase 1: Diffusion init (16 trajectories)...
+2026-04-23 07:42:51 [INFO]   Diffusion init best cost: 953.0
+2026-04-23 07:42:51 [INFO] Phase 2: Evolutionary refinement (n=1000, m=1200)...
+2026-04-23 07:43:37 [INFO] Final: cost=190.0000, steps=171, pop_size=32, time=60.4s
+2026-04-23 07:43:37 [INFO]   ran-scp.scp43_maxsat.wcnf      cost=    190.00  time=  60.4s
+2026-04-23 07:43:38 [INFO] Phase 1: Diffusion init (16 trajectories)...
+2026-04-23 07:43:51 [INFO]   Diffusion init best cost: 948.0
+2026-04-23 07:43:51 [INFO] Phase 2: Evolutionary refinement (n=1000, m=1200)...
+2026-04-23 07:44:37 [INFO] Final: cost=93.0000, steps=167, pop_size=27, time=60.1s
+2026-04-23 07:44:37 [INFO]   ran-scp.scp47_maxsat.wcnf      cost=     93.00  time=  60.1s
+2026-04-23 07:44:38 [INFO] Phase 1: Diffusion init (16 trajectories)...
+2026-04-23 07:44:51 [INFO]   Diffusion init best cost: 970.0
+2026-04-23 07:44:51 [INFO] Phase 2: Evolutionary refinement (n=1000, m=1200)...
+2026-04-23 07:45:19 [INFO]   Step 100: Consensus decimation, fixing 709/1000 vars
+2026-04-23 07:45:38 [INFO] Final: cost=200.0000, steps=161, pop_size=20, time=60.7s
+2026-04-23 07:45:38 [INFO]   ran-scp.scp48_maxsat.wcnf      cost=    200.00  time=  60.7s
+/nas/ckgfs/users/jahin/HYDRA/hydra_data.py:178: RuntimeWarning: compute_clause_centrality: 2200 clause nodes — using scatter-based triangle count (no N×N allocation).
+  self._clause_centrality_cache = compute_clause_centrality(
+2026-04-23 07:45:42 [INFO] Phase 1: Diffusion init (16 trajectories)...
+2026-04-23 07:45:55 [INFO]   Diffusion init best cost: 1625.0
+2026-04-23 07:45:55 [INFO] Phase 2: Evolutionary refinement (n=2000, m=2200)...
+/nas/ckgfs/jaunts/jahin/HYDRA/.venv_ckg08/lib/python3.12/site-packages/torch/optim/lr_scheduler.py:216: UserWarning: Detected call of `lr_scheduler.step()` before `optimizer.step()`. In PyTorch 1.1.0 and later, you should call them in the opposite order: `optimizer.step()` before `lr_scheduler.step()`.  Failure to do this will result in PyTorch skipping the first value of the learning rate schedule. See more details at https://pytorch.org/docs/stable/optim.html#how-to-adjust-learning-rate
+  warnings.warn(
+2026-04-23 07:46:24 [INFO]   Step 100: Consensus decimation, fixing 1420/2000 vars
+2026-04-23 07:46:39 [INFO] Final: cost=200.0000, steps=151, pop_size=21, time=61.0s
+2026-04-23 07:46:39 [INFO]   ran-scp.scp510_maxsat.wcnf     cost=    200.00  time=  61.0s
+2026-04-23 07:46:43 [INFO] Phase 1: Diffusion init (16 trajectories)...
+2026-04-23 07:46:56 [INFO]   Diffusion init best cost: 1762.0
+2026-04-23 07:46:56 [INFO] Phase 2: Evolutionary refinement (n=2000, m=2200)...
+2026-04-23 07:47:24 [INFO]   Step 100: Consensus decimation, fixing 131/2000 vars
+2026-04-23 07:47:39 [INFO] Final: cost=73.0000, steps=152, pop_size=31, time=60.0s
+2026-04-23 07:47:39 [INFO]   ran-scp.scp58_maxsat.wcnf      cost=     73.00  time=  60.0s
+2026-04-23 07:47:44 [INFO] Phase 1: Diffusion init (16 trajectories)...
+2026-04-23 07:47:57 [INFO]   Diffusion init best cost: 1777.0
+2026-04-23 07:47:57 [INFO] Phase 2: Evolutionary refinement (n=2000, m=2200)...
+2026-04-23 07:48:24 [INFO]   Step 100: Consensus decimation, fixing 1733/2000 vars
+2026-04-23 07:48:40 [INFO] Final: cost=200.0000, steps=151, pop_size=21, time=60.6s
+2026-04-23 07:48:40 [INFO]   ran-scp.scp59_maxsat.wcnf      cost=    200.00  time=  60.6s
+2026-04-23 07:48:46 [INFO] Phase 1: Diffusion init (16 trajectories)...
+2026-04-23 07:48:59 [INFO]   Diffusion init best cost: 966.0
+2026-04-23 07:48:59 [INFO] Phase 2: Evolutionary refinement (n=1000, m=1200)...
+2026-04-23 07:49:26 [INFO]   Step 100: Consensus decimation, fixing 375/1000 vars
+2026-04-23 07:49:40 [INFO] Final: cost=200.0000, steps=147, pop_size=16, time=60.0s
+2026-04-23 07:49:40 [INFO]   ran-scp.scp61_maxsat.wcnf      cost=    200.00  time=  60.0s
+2026-04-23 07:49:46 [INFO] Phase 1: Diffusion init (16 trajectories)...
+2026-04-23 07:49:59 [INFO]   Diffusion init best cost: 976.0
+2026-04-23 07:49:59 [INFO] Phase 2: Evolutionary refinement (n=1000, m=1200)...
+2026-04-23 07:50:27 [INFO]   Step 100: Consensus decimation, fixing 709/1000 vars
+2026-04-23 07:50:40 [INFO] Final: cost=200.0000, steps=145, pop_size=30, time=60.0s
+2026-04-23 07:50:40 [INFO]   ran-scp.scp65_maxsat.wcnf      cost=    200.00  time=  60.0s

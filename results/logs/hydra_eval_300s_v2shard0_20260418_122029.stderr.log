@@ -1,0 +1,116 @@
+2026-04-18 12:20:33 [INFO] Logging to file: /nas/ckgfs/users/jahin/HYDRA/results/logs/hydra_eval_300s_v2shard0_20260418_122029.log
+/nas/home/jahin/.local/lib/python3.10/site-packages/requests/__init__.py:113: RequestsDependencyWarning: urllib3 (1.26.5) or chardet (7.2.0)/charset_normalizer (3.4.4) doesn't match a supported version!
+  warnings.warn(
+2026-04-18 12:20:46 [INFO] Loading pre-trained model from ./hydra_pretrained
+/nas/home/jahin/.local/lib/python3.10/site-packages/torch/cuda/__init__.py:654: UserWarning: Can't initialize NVML
+  warnings.warn("Can't initialize NVML")
+2026-04-18 12:20:48 [INFO] 
+Discovering benchmarks in /nas/ckgfs/users/jahin/HYDRA/results/shard_v2_tmp/shard_0_bench...
+2026-04-18 12:20:48 [INFO]   ms2020: 55 instances
+2026-04-18 12:20:48 [INFO]   ms2024: 216 instances
+2026-04-18 12:20:48 [INFO]   wms2023: 160 instances
+2026-04-18 12:20:48 [INFO] 
+============================================================
+2026-04-18 12:20:48 [INFO]   EVALUATION: timeout=300.0s, seeds=1
+2026-04-18 12:20:48 [INFO] ============================================================
+2026-04-18 12:20:48 [INFO] 
+--- MS 2020 (55 instances) ---
+2026-04-18 12:20:49 [INFO]   MANN_a27.clq.wcnf              cost=      0.00  time=   0.1s
+2026-04-18 12:20:49 [INFO]   MANN_a45.clq.wcnf              cost=      0.00  time=   0.1s
+2026-04-18 12:20:49 [INFO]   MANN_a81.clq.wcnf              cost=      0.00  time=   0.1s
+2026-04-18 12:20:50 [INFO]   MANN_a81.clq__1c44d3.wcnf      cost=      0.00  time=   0.4s
+2026-04-18 12:20:50 [INFO]   MANN_a9.clq.wcnf               cost=      0.00  time=   0.1s
+2026-04-18 12:20:50 [INFO]   c-fat500-10.clq.wcnf           cost=      0.00  time=   0.1s
+/nas/ckgfs/users/jahin/HYDRA/hydra_data.py:178: RuntimeWarning: compute_clause_centrality: 1398 clause nodes — using scatter-based triangle count (no N×N allocation).
+  self._clause_centrality_cache = compute_clause_centrality(
+2026-04-18 12:22:55 [INFO] Phase 1: Diffusion init (16 trajectories)...
+2026-04-18 12:23:38 [INFO]   Diffusion init best cost: 17485.0
+2026-04-18 12:23:38 [INFO] Phase 2: Evolutionary refinement (n=132, m=1398)...
+/nas/home/jahin/.local/lib/python3.10/site-packages/torch_geometric/utils/_scatter.py:91: UserWarning: The usage of `scatter(reduce='max')` can be accelerated via the 'torch-scatter' package, but it was not found
+  warnings.warn(
+2026-04-18 12:25:26 [INFO]   Step 100: Consensus decimation, fixing 105/132 vars
+2026-04-18 12:25:51 [INFO] Final: cost=156.0000, steps=126, pop_size=18, time=300.5s
+2026-04-18 12:25:51 [INFO]   g2_n13e12_n46e57.wcnf          cost=    156.00  time= 300.5s
+2026-04-18 12:25:51 [INFO]   gen_mult_3_5_9999.wcnf         cost=      0.00  time=   0.3s
+2026-04-18 12:25:53 [INFO]   gen_mult_4_5_991.wcnf          cost=      0.00  time=   1.0s
+2026-04-18 12:25:53 [INFO]   hamming10-2.clq.wcnf           cost=      0.00  time=   0.1s
+2026-04-18 12:25:54 [INFO]   hamming6-2.clq.wcnf            cost=      0.00  time=   0.8s
+2026-04-18 12:25:55 [INFO]   hamming8-2.clq.wcnf            cost=      0.00  time=   0.4s
+2026-04-18 12:25:55 [INFO]   heart_train_0_CNF_5_1.wcnf     cost=      0.00  time=   0.2s
+2026-04-18 12:25:55 [INFO]   heart_train_1_DNF_3_1.wcnf     cost=      0.00  time=   0.1s
+2026-04-18 12:25:56 [INFO]   heart_train_4_CNF_5_1.wcnf     cost=      0.00  time=   0.5s
+2026-04-18 12:25:57 [INFO]   johnson8-4-4.clq.wcnf          cost=      0.00  time=   0.6s
+2026-04-18 12:25:57 [INFO]   normalized-par32-3-c.wcnf      cost=      0.00  time=   0.1s
+2026-04-18 12:25:58 [INFO]   normalized-test4.pi.opb.msat.wcnf cost=      0.00  time=   0.4s
+2026-04-18 12:25:58 [INFO]   normalized-test4.pi.wcnf       cost=      0.00  time=   0.1s
+/nas/ckgfs/users/jahin/HYDRA/hydra_data.py:178: RuntimeWarning: compute_clause_centrality: 715 clause nodes — using scatter-based triangle count (no N×N allocation).
+  self._clause_centrality_cache = compute_clause_centrality(
+2026-04-18 12:26:01 [INFO] Phase 1: Diffusion init (16 trajectories)...
+2026-04-18 12:26:47 [INFO]   Diffusion init best cost: 66.0
+2026-04-18 12:26:47 [INFO] Phase 2: Evolutionary refinement (n=66, m=715)...
+2026-04-18 12:28:38 [INFO]   Step 100: Consensus decimation, fixing 32/66 vars
+2026-04-18 12:30:29 [INFO]   Step 200: Consensus decimation, fixing 4/66 vars
+2026-04-18 12:30:59 [INFO] Final: cost=19.0000, steps=230, pop_size=26, time=300.4s
+2026-04-18 12:30:59 [INFO]   ram_k3_n12.ra0.wcnf            cost=     19.00  time= 300.5s
+/nas/ckgfs/users/jahin/HYDRA/hydra_data.py:178: RuntimeWarning: compute_clause_centrality: 1001 clause nodes — using scatter-based triangle count (no N×N allocation).
+  self._clause_centrality_cache = compute_clause_centrality(
+2026-04-18 12:31:03 [INFO] Phase 1: Diffusion init (16 trajectories)...
+2026-04-18 12:31:49 [INFO]   Diffusion init best cost: 214.0
+2026-04-18 12:31:49 [INFO] Phase 2: Evolutionary refinement (n=78, m=1001)...
+2026-04-18 12:33:41 [INFO]   Step 100: Consensus decimation, fixing 9/78 vars
+../aten/src/ATen/native/cuda/DistributionTemplates.h:609: operator(): block: [0,0,0], thread: [19,0,0] Assertion `0 <= p2 && p2 <= 1` failed.
+terminate called after throwing an instance of 'c10::Error'
+  what():  CUDA error: device-side assert triggered
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrace below might be incorrect.
+For debugging consider passing CUDA_LAUNCH_BLOCKING=1
+Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
+
+Exception raised from c10_cuda_check_implementation at ../c10/cuda/CUDAException.cpp:43 (most recent call first):
+frame #0: c10::Error::Error(c10::SourceLocation, std::string) + 0x96 (0x7f90c5f77f86 in /nas/home/jahin/.local/lib/python3.10/site-packages/torch/lib/libc10.so)
+frame #1: c10::detail::torchCheckFail(char const*, char const*, unsigned int, std::string const&) + 0x64 (0x7f90c5f26d10 in /nas/home/jahin/.local/lib/python3.10/site-packages/torch/lib/libc10.so)
+frame #2: c10::cuda::c10_cuda_check_implementation(int, char const*, char const*, int, bool) + 0x118 (0x7f90c63c2f08 in /nas/home/jahin/.local/lib/python3.10/site-packages/torch/lib/libc10_cuda.so)
+frame #3: <unknown function> + 0x587d0 (0x7f90c63c87d0 in /nas/home/jahin/.local/lib/python3.10/site-packages/torch/lib/libc10_cuda.so)
+frame #4: <unknown function> + 0x5a4f4 (0x7f90c63ca4f4 in /nas/home/jahin/.local/lib/python3.10/site-packages/torch/lib/libc10_cuda.so)
+frame #5: <unknown function> + 0x5db920 (0x7f90c47b8920 in /nas/home/jahin/.local/lib/python3.10/site-packages/torch/lib/libtorch_python.so)
+frame #6: <unknown function> + 0x6abdf (0x7f90c5f5bbdf in /nas/home/jahin/.local/lib/python3.10/site-packages/torch/lib/libc10.so)
+frame #7: c10::TensorImpl::~TensorImpl() + 0x21b (0x7f90c5f54c3b in /nas/home/jahin/.local/lib/python3.10/site-packages/torch/lib/libc10.so)
+frame #8: c10::TensorImpl::~TensorImpl() + 0x9 (0x7f90c5f54de9 in /nas/home/jahin/.local/lib/python3.10/site-packages/torch/lib/libc10.so)
+frame #9: <unknown function> + 0x1160dd7 (0x7f90ad10fdd7 in /nas/home/jahin/.local/lib/python3.10/site-packages/torch/lib/libtorch_cpu.so)
+frame #10: <unknown function> + 0x2e19f8b (0x7f90aedc8f8b in /nas/home/jahin/.local/lib/python3.10/site-packages/torch/lib/libtorch_cpu.so)
+frame #11: at::_ops::_to_copy::redispatch(c10::DispatchKeySet, at::Tensor const&, std::optional<c10::ScalarType>, std::optional<c10::Layout>, std::optional<c10::Device>, std::optional<bool>, bool, std::optional<c10::MemoryFormat>) + 0xf5 (0x7f90ae4d1c25 in /nas/home/jahin/.local/lib/python3.10/site-packages/torch/lib/libtorch_cpu.so)
+frame #12: <unknown function> + 0x2c58a33 (0x7f90aec07a33 in /nas/home/jahin/.local/lib/python3.10/site-packages/torch/lib/libtorch_cpu.so)
+frame #13: at::_ops::_to_copy::call(at::Tensor const&, std::optional<c10::ScalarType>, std::optional<c10::Layout>, std::optional<c10::Device>, std::optional<bool>, bool, std::optional<c10::MemoryFormat>) + 0x1eb (0x7f90ae56168b in /nas/home/jahin/.local/lib/python3.10/site-packages/torch/lib/libtorch_cpu.so)
+frame #14: at::native::to(at::Tensor const&, c10::Device, c10::ScalarType, bool, bool, std::optional<c10::MemoryFormat>) + 0xc8 (0x7f90adf8a268 in /nas/home/jahin/.local/lib/python3.10/site-packages/torch/lib/libtorch_cpu.so)
+frame #15: <unknown function> + 0x301e379 (0x7f90aefcd379 in /nas/home/jahin/.local/lib/python3.10/site-packages/torch/lib/libtorch_cpu.so)
+frame #16: at::_ops::to_device::call(at::Tensor const&, c10::Device, c10::ScalarType, bool, bool, std::optional<c10::MemoryFormat>) + 0x1bb (0x7f90ae710f0b in /nas/home/jahin/.local/lib/python3.10/site-packages/torch/lib/libtorch_cpu.so)
+frame #17: <unknown function> + 0xcd4816 (0x7f90c4eb1816 in /nas/home/jahin/.local/lib/python3.10/site-packages/torch/lib/libtorch_python.so)
+frame #18: torch::utils::tensor_ctor(c10::DispatchKey, c10::ScalarType, torch::PythonArgs&) + 0x177 (0x7f90c4eb54b7 in /nas/home/jahin/.local/lib/python3.10/site-packages/torch/lib/libtorch_python.so)
+frame #19: <unknown function> + 0x88319e (0x7f90c4a6019e in /nas/home/jahin/.local/lib/python3.10/site-packages/torch/lib/libtorch_python.so)
+frame #20: <unknown function> + 0x18ae32 (0x55f021e43e32 in /usr/bin/python3)
+frame #21: _PyObject_MakeTpCall + 0x25b (0x55f021e3a89b in /usr/bin/python3)
+frame #22: _PyEval_EvalFrameDefault + 0x6a5b (0x55f021e34f6b in /usr/bin/python3)
+frame #23: _PyFunction_Vectorcall + 0x7c (0x55f021e4468c in /usr/bin/python3)
+frame #24: _PyEval_EvalFrameDefault + 0x286b (0x55f021e30d7b in /usr/bin/python3)
+frame #25: <unknown function> + 0x1986f1 (0x55f021e516f1 in /usr/bin/python3)
+frame #26: _PyEval_EvalFrameDefault + 0x56cb (0x55f021e33bdb in /usr/bin/python3)
+frame #27: <unknown function> + 0x1986f1 (0x55f021e516f1 in /usr/bin/python3)
+frame #28: _PyEval_EvalFrameDefault + 0x1992 (0x55f021e2fea2 in /usr/bin/python3)
+frame #29: _PyFunction_Vectorcall + 0x7c (0x55f021e4468c in /usr/bin/python3)
+frame #30: _PyEval_EvalFrameDefault + 0x1992 (0x55f021e2fea2 in /usr/bin/python3)
+frame #31: _PyFunction_Vectorcall + 0x7c (0x55f021e4468c in /usr/bin/python3)
+frame #32: _PyEval_EvalFrameDefault + 0x1992 (0x55f021e2fea2 in /usr/bin/python3)
+frame #33: _PyFunction_Vectorcall + 0x7c (0x55f021e4468c in /usr/bin/python3)
+frame #34: _PyEval_EvalFrameDefault + 0x6c0 (0x55f021e2ebd0 in /usr/bin/python3)
+frame #35: <unknown function> + 0x259d36 (0x55f021f12d36 in /usr/bin/python3)
+frame #36: PyEval_EvalCode + 0x86 (0x55f021f12c06 in /usr/bin/python3)
+frame #37: <unknown function> + 0x280678 (0x55f021f39678 in /usr/bin/python3)
+frame #38: <unknown function> + 0x27accf (0x55f021f33ccf in /usr/bin/python3)
+frame #39: <unknown function> + 0x280415 (0x55f021f39415 in /usr/bin/python3)
+frame #40: _PyRun_SimpleFileObject + 0x1a8 (0x55f021f38958 in /usr/bin/python3)
+frame #41: _PyRun_AnyFileObject + 0x47 (0x55f021f38637 in /usr/bin/python3)
+frame #42: Py_RunMain + 0x2be (0x55f021f2cbfe in /usr/bin/python3)
+frame #43: Py_BytesMain + 0x2d (0x55f021f06c4d in /usr/bin/python3)
+frame #44: <unknown function> + 0x29d90 (0x7f90c6fa9d90 in /lib/x86_64-linux-gnu/libc.so.6)
+frame #45: __libc_start_main + 0x80 (0x7f90c6fa9e40 in /lib/x86_64-linux-gnu/libc.so.6)
+frame #46: _start + 0x25 (0x55f021f06b45 in /usr/bin/python3)
+

@@ -1,0 +1,98 @@
+22:41:33 [WARNING]   diffusion collapsed (1 unique candidate); fixing nothing
+22:41:33 [INFO]   HYDRA fixed 0/42 vars (threshold=0.99)
+22:42:11 [INFO]   MANN_a45.clq.wcnf                        seed=0 cost=      2057.0  fix=0/42  t=60.0s
+22:42:30 [INFO]   HYDRA fixed 28/40 vars (threshold=0.99)
+22:43:11 [INFO]   brock200_3.clq.wcnf                      seed=0 cost=      1736.0  fix=28/40  t=60.0s
+22:43:30 [INFO]   HYDRA fixed 28/40 vars (threshold=0.99)
+22:44:11 [INFO]   brock400_2.clq.wcnf                      seed=0 cost=      1909.0  fix=28/40  t=60.0s
+22:44:31 [WARNING]   diffusion collapsed (1 unique candidate); fixing nothing
+22:44:31 [INFO]   HYDRA fixed 0/43 vars (threshold=0.99)
+22:45:11 [INFO]   p_hat300-3.clq.wcnf                      seed=0 cost=      1439.0  fix=0/43  t=60.0s
+22:45:33 [WARNING]   diffusion collapsed (1 unique candidate); fixing nothing
+22:45:33 [INFO]   HYDRA fixed 0/78 vars (threshold=0.99)
+22:46:11 [INFO]   ram_k3_n13.ra1.wcnf                      seed=0 cost=      1417.0  fix=0/78  t=60.0s
+22:46:59 [WARNING]   diffusion collapsed (1 unique candidate); fixing nothing
+22:46:59 [INFO]   HYDRA fixed 0/105 vars (threshold=0.99)
+22:47:11 [INFO]   ram_k3_n15.ra1.wcnf                      seed=0 cost=      4884.0  fix=0/105  t=60.0s
+22:48:22 [WARNING]   diffusion collapsed (1 unique candidate); fixing nothing
+22:48:22 [INFO]   HYDRA fixed 0/120 vars (threshold=0.99)
+22:48:24 [INFO]   ram_k3_n16.ra1.wcnf                      seed=0 cost=      7271.0  fix=0/120  t=73.5s
+22:50:57 [WARNING]   diffusion collapsed (1 unique candidate); fixing nothing
+22:50:57 [INFO]   HYDRA fixed 0/153 vars (threshold=0.99)
+22:50:59 [INFO]   ram_k3_n18.ra1.wcnf                      seed=0 cost=     15621.0  fix=0/153  t=153.2s
+22:54:35 [WARNING]   diffusion collapsed (1 unique candidate); fixing nothing
+22:54:35 [INFO]   HYDRA fixed 0/171 vars (threshold=0.99)
+22:54:37 [INFO]   ram_k3_n19.ra1.wcnf                      seed=0 cost=     20980.0  fix=0/171  t=217.8s
+22:59:41 [WARNING]   diffusion collapsed (1 unique candidate); fixing nothing
+22:59:41 [INFO]   HYDRA fixed 0/190 vars (threshold=0.99)
+22:59:43 [INFO]   ram_k3_n20.ra1.wcnf                      seed=0 cost=     24909.0  fix=0/190  t=306.4s
+23:10:53 [WARNING]   diffusion collapsed (1 unique candidate); fixing nothing
+23:10:53 [INFO]   HYDRA fixed 0/171 vars (threshold=0.99)
+23:10:55 [INFO]   ram_k4_n19.ra1.wcnf                      seed=0 cost=      1818.0  fix=0/171  t=671.3s
+23:11:16 [WARNING]   diffusion failed: Allocation on device ; falling back to pure SLS
+23:11:16 [INFO]   HYDRA fixed 0/190 vars (threshold=0.99)
+23:11:55 [INFO]   ram_k4_n20.ra1.wcnf                      seed=0 cost=      3219.0  fix=0/190  t=60.0s
+23:22:26 [INFO]   HYDRA fixed 103/148 vars (threshold=0.99)
+23:22:28 [INFO]   random-net-50-5_network-4.net.wcnf       seed=0 cost=   5386279.0  fix=103/148  t=632.9s
+01:10:19 [INFO]   HYDRA fixed 3500/5000 vars (threshold=0.99)
+01:10:21 [INFO]   scpnrf4_weighted.wcnf                    seed=0 cost=    125766.0  fix=3500/5000  t=6473.4s
+01:10:40 [INFO]   HYDRA fixed 98/140 vars (threshold=0.99)
+01:10:41 [INFO]   bip.maxcut-140-630-0.7-13.wcnf           seed=0 cost=         0.0  fix=98/140  t=19.3s
+01:10:59 [INFO]   HYDRA fixed 98/140 vars (threshold=0.99)
+01:10:59 [INFO]   bip.maxcut-140-630-0.7-37.wcnf           seed=0 cost=         0.0  fix=98/140  t=18.4s
+01:11:17 [INFO]   HYDRA fixed 81/140 vars (threshold=0.99)
+01:11:18 [INFO]   bip.maxcut-140-630-0.7-42.wcnf           seed=0 cost=         0.0  fix=81/140  t=18.4s
+01:11:36 [INFO]   HYDRA fixed 98/140 vars (threshold=0.99)
+01:11:36 [INFO]   bip.maxcut-140-630-0.7-44.wcnf           seed=0 cost=         0.0  fix=98/140  t=18.4s
+01:11:54 [INFO]   HYDRA fixed 98/140 vars (threshold=0.99)
+01:11:54 [INFO]   bip.maxcut-140-630-0.8-24.wcnf           seed=0 cost=         0.0  fix=98/140  t=18.4s
+01:12:55 [WARNING]   setup blew 60.3s of 60s; pure SLS
+01:12:55 [INFO]   HYDRA fixed 0/715 vars (threshold=0.99)
+01:12:55 [INFO]   cra-scp.scpclr13_maxsat.wcnf             seed=0 cost=         0.0  fix=0/715  t=60.5s
+01:13:40 [WARNING]   diffusion collapsed (1 unique candidate); fixing nothing
+01:13:40 [INFO]   HYDRA fixed 0/135 vars (threshold=0.99)
+01:13:40 [INFO]   data.135.wcnf                            seed=0 cost=         0.0  fix=0/135  t=45.1s
+01:14:03 [INFO]   HYDRA fixed 1/45 vars (threshold=0.99)
+01:14:03 [INFO]   dim.MANN_a9.clq.wcnf                     seed=0 cost=         0.0  fix=1/45  t=23.5s
+01:14:22 [INFO]   HYDRA fixed 1/40 vars (threshold=0.99)
+01:14:22 [INFO]   dim.brock400_3.clq.wcnf                  seed=0 cost=         0.0  fix=1/40  t=18.6s
+01:14:41 [INFO]   HYDRA fixed 2/40 vars (threshold=0.99)
+01:14:41 [INFO]   dim.brock400_4.clq.wcnf                  seed=0 cost=         0.0  fix=2/40  t=18.6s
+01:15:00 [INFO]   HYDRA fixed 0/41 vars (threshold=0.99)
+01:15:00 [INFO]   dim.hamming10-4.clq.wcnf                 seed=0 cost=         0.0  fix=0/41  t=19.1s
+01:15:24 [INFO]   HYDRA fixed 5/43 vars (threshold=0.99)
+01:15:24 [INFO]   dim.hamming8-2.clq.wcnf                  seed=0 cost=         0.0  fix=5/43  t=23.9s
+01:17:05 [WARNING]   setup blew 101.7s of 60s; pure SLS
+01:17:05 [INFO]   HYDRA fixed 0/1390 vars (threshold=0.99)
+01:17:05 [INFO]   max.uaq-max-np-nr200-np700-rpp5-nc50-n8-t3-plb10-n5.wcnf seed=0 cost=         0.0  fix=0/1390  t=101.8s
+01:17:46 [WARNING]   setup blew 40.3s of 60s; pure SLS
+01:17:46 [INFO]   HYDRA fixed 0/1050 vars (threshold=0.99)
+01:17:46 [INFO]   max.uaq-max-nr-nr160-np400-rpp5-nc50-n8-t3-plb10-n7.wcnf seed=0 cost=         0.0  fix=0/1050  t=40.4s
+01:18:24 [WARNING]   setup blew 38.1s of 60s; pure SLS
+01:18:24 [INFO]   HYDRA fixed 0/960 vars (threshold=0.99)
+01:18:24 [INFO]   max.uaq-max-nr-nr70-np400-rpp5-nc50-n8-t3-plb10-n7.wcnf seed=0 cost=         0.0  fix=0/960  t=38.3s
+01:20:18 [WARNING]   setup blew 114.0s of 60s; pure SLS
+01:20:18 [INFO]   HYDRA fixed 0/6139 vars (threshold=0.99)
+01:20:18 [INFO]   normalized-test4.pi.opb.msat.wcnf        seed=0 cost=         0.0  fix=0/6139  t=114.2s
+01:23:49 [INFO]   HYDRA fixed 119/171 vars (threshold=0.99)
+01:23:49 [INFO]   ram_k3_n19.ra0.wcnf                      seed=0 cost=         0.0  fix=119/171  t=211.1s
+01:31:17 [INFO]   HYDRA fixed 84/153 vars (threshold=0.99)
+01:31:18 [INFO]   ram_k4_n18.ra0.wcnf                      seed=0 cost=         0.0  fix=84/153  t=448.4s
+01:31:37 [INFO]   HYDRA fixed 73/1000 vars (threshold=0.99)
+01:31:38 [INFO]   ran-scp.scp43_maxsat.wcnf                seed=0 cost=         0.0  fix=73/1000  t=19.6s
+01:31:57 [INFO]   HYDRA fixed 45/1000 vars (threshold=0.99)
+01:31:57 [INFO]   ran-scp.scp47_maxsat.wcnf                seed=0 cost=         0.0  fix=45/1000  t=19.8s
+01:32:17 [INFO]   HYDRA fixed 190/1000 vars (threshold=0.99)
+01:32:17 [INFO]   ran-scp.scp48_maxsat.wcnf                seed=0 cost=         0.0  fix=190/1000  t=19.4s
+01:32:40 [INFO]   HYDRA fixed 552/2000 vars (threshold=0.99)
+01:32:40 [INFO]   ran-scp.scp510_maxsat.wcnf               seed=0 cost=         0.0  fix=552/2000  t=23.6s
+01:33:03 [INFO]   HYDRA fixed 811/2000 vars (threshold=0.99)
+01:33:03 [INFO]   ran-scp.scp58_maxsat.wcnf                seed=0 cost=         0.0  fix=811/2000  t=22.8s
+01:33:26 [INFO]   HYDRA fixed 779/2000 vars (threshold=0.99)
+01:33:26 [INFO]   ran-scp.scp59_maxsat.wcnf                seed=0 cost=         0.0  fix=779/2000  t=22.9s
+01:33:51 [INFO]   HYDRA fixed 305/1000 vars (threshold=0.99)
+01:33:51 [INFO]   ran-scp.scp61_maxsat.wcnf                seed=0 cost=         0.0  fix=305/1000  t=24.6s
+01:34:15 [INFO]   HYDRA fixed 427/1000 vars (threshold=0.99)
+01:34:15 [INFO]   ran-scp.scp65_maxsat.wcnf                seed=0 cost=         0.0  fix=427/1000  t=24.8s
+02:01:47 [INFO]   HYDRA fixed 3500/5000 vars (threshold=0.99)
+02:01:47 [INFO]   ran-scp.scpnre1_maxsat.wcnf              seed=0 cost=         0.0  fix=3500/5000  t=1651.6s

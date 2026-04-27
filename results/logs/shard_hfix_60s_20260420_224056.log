@@ -1,0 +1,20 @@
+22:40:56 [INFO] Found 10 year-cat dirs
+22:40:56 [INFO]   shard 0 (gpu 0): ms2020 = 55
+22:40:56 [INFO]   shard 0 (gpu 0): ms2024 = 12
+22:40:57 [INFO]   shard 0 (gpu 0): wms2023 = 6
+22:40:57 [INFO]   shard 0 TOTAL: 73
+22:40:57 [INFO]   shard 1 (gpu 1): ms2021 = 33
+22:40:57 [INFO]   shard 1 (gpu 1): wms2020 = 26
+22:40:57 [INFO]   shard 1 (gpu 1): wms2024 = 18
+22:40:57 [INFO]   shard 1 TOTAL: 77
+22:40:57 [INFO]   shard 2 (gpu 2): ms2022 = 35
+22:40:57 [INFO]   shard 2 (gpu 2): wms2021 = 14
+22:40:57 [INFO]   shard 2 TOTAL: 49
+22:40:57 [INFO]   shard 3 (gpu 3): ms2023 = 10
+22:40:57 [INFO]   shard 3 (gpu 3): wms2022 = 17
+22:40:57 [INFO]   shard 3 TOTAL: 27
+22:40:57 [INFO]   shard 0 gpu 0 PID=2893819 -> /nas/ckgfs/users/jahin/HYDRA/results/logs/hfix_shard0_20260420_224057.log
+22:40:57 [INFO]   shard 1 gpu 1 PID=2893820 -> /nas/ckgfs/users/jahin/HYDRA/results/logs/hfix_shard1_20260420_224057.log
+22:40:58 [INFO]   shard 2 gpu 2 PID=2893821 -> /nas/ckgfs/users/jahin/HYDRA/results/logs/hfix_shard2_20260420_224057.log
+22:40:58 [INFO]   shard 3 gpu 3 PID=2893822 -> /nas/ckgfs/users/jahin/HYDRA/results/logs/hfix_shard3_20260420_224057.log
+01:10:19 [INFO] shard 0 exit 0

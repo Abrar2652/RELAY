@@ -1,0 +1,51 @@
+2026-04-19 03:08:32 [sup-ckg08] start; HYDRA_DIR=/nas/ckgfs/jaunts/jahin/HYDRA
+2026-04-19 03:08:32 [sup-ckg08] EVAL_GPUS='0 1 2' ABL_GPU=3 FULL_EVAL_GPUS='0 1 2 3'
+2026-04-19 03:08:32 [sup-ckg08] python=/nas/ckgfs/jaunts/jahin/HYDRA/.venv_ckg08/bin/python
+2026-04-19 03:08:32 [sup-ckg08] Stage A: launching HYDRA 60s eval seeds=3 across GPUs: 0 1 2
+2026-04-19 03:08:32 [sup-ckg08] HYDRA eval 60s PID=2479557
+2026-04-19 03:08:32 [sup-ckg08] Stage A: launching ablation on GPU 3 (12 configs × diverse-hard)
+2026-04-19 03:08:32 [sup-ckg08] ablation PID=2479564
+03:08:32 [INFO] Found 10 (year, cat) directories
+03:08:34 [INFO]   shard 0 (gpu 0): ms2020 = 55 instances (filtered)
+03:08:34 [INFO]   shard 0 (gpu 0): ms2023 = 179 instances (filtered)
+03:08:34 [INFO]   shard 0 (gpu 0): wms2021 = 14 instances (filtered)
+03:08:35 [INFO]   shard 0 (gpu 0): wms2024 = 229 instances (filtered)
+03:08:35 [INFO]   shard 0 TOTAL: 477 instances
+03:08:36 [INFO]   shard 1 (gpu 1): ms2021 = 33 instances (filtered)
+03:08:36 [INFO]   shard 1 (gpu 1): ms2024 = 216 instances (filtered)
+03:08:36 [INFO]   shard 1 (gpu 1): wms2022 = 197 instances (filtered)
+03:08:36 [INFO]   shard 1 TOTAL: 446 instances
+03:08:36 [INFO]   shard 2 (gpu 2): ms2022 = 179 instances (filtered)
+03:08:36 [INFO]   shard 2 (gpu 2): wms2020 = 26 instances (filtered)
+03:08:37 [INFO]   shard 2 (gpu 2): wms2023 = 160 instances (filtered)
+03:08:37 [INFO]   shard 2 TOTAL: 365 instances
+03:08:37 [INFO]   shard 0 (gpu 0) PID=2479576 -> /nas/ckgfs/users/jahin/HYDRA/results/logs/hydra_eval_60s_v2shard0_20260419_030837.log
+03:08:37 [INFO]   shard 1 (gpu 1) PID=2479577 -> /nas/ckgfs/users/jahin/HYDRA/results/logs/hydra_eval_60s_v2shard1_20260419_030837.log
+03:08:37 [INFO]   shard 2 (gpu 2) PID=2479578 -> /nas/ckgfs/users/jahin/HYDRA/results/logs/hydra_eval_60s_v2shard2_20260419_030837.log
+03:09:14 [INFO] [full] loading pretrained from /nas/ckgfs/jaunts/jahin/HYDRA/hydra_pretrained
+03:09:15 [INFO] [full] WMS 2020: 23 instances
+03:09:15 [INFO]     MANN_a45.clq.wcnf                        cost=     0.00 t=  0.0s
+03:09:16 [INFO]     MANN_a9.clq.wcnf                         cost=     0.00 t=  0.0s
+03:09:16 [INFO]     brock200_3.clq.wcnf                      cost=     0.00 t=  0.0s
+03:09:16 [INFO]     brock200_4.clq.wcnf                      cost=     0.00 t=  0.0s
+03:09:16 [INFO]     brock400_2.clq.wcnf                      cost=     0.00 t=  0.0s
+03:09:16 [INFO]     brock400_3.clq.wcnf                      cost=     0.00 t=  0.1s
+03:09:16 [INFO]     brock800_3.clq.wcnf                      cost=     0.00 t=  0.0s
+03:09:16 [INFO]     hamming10-2.clq.wcnf                     cost=     0.00 t=  0.0s
+03:09:17 [INFO]     hamming6-2.clq.wcnf                      cost=     0.00 t=  0.3s
+03:09:17 [INFO]     hamming8-2.clq.wcnf                      cost=     0.00 t=  0.0s
+03:09:17 [INFO]     johnson8-4-4.clq.wcnf                    cost=     0.00 t=  0.3s
+03:09:18 [INFO]     maxcut-140-630-0.7-20.wcnf               cost=     0.00 t=  0.0s
+03:09:18 [INFO]     maxcut-140-630-0.8-39.wcnf               cost=     0.00 t=  0.0s
+03:09:18 [INFO]     p_hat300-3.clq.wcnf                      cost=     0.00 t=  0.0s
+03:09:18 [INFO]     p_hat500-3.clq.wcnf                      cost=     0.00 t=  0.0s
+/nas/ckgfs/users/jahin/HYDRA/hydra_data.py:178: RuntimeWarning: compute_clause_centrality: 3876 clause nodes — using scatter-based triangle count (no N×N allocation).
+  self._clause_centrality_cache = compute_clause_centrality(
+03:09:32 [INFO] Phase 1: Diffusion init (64 trajectories)...
+03:12:33 [INFO]   Diffusion init best cost: 1521768.0
+03:12:33 [INFO] Phase 2: Evolutionary refinement (n=153, m=3876)...
+03:12:33 [INFO] Final: cost=53756.0000, steps=0, pop_size=64, time=194.8s
+03:12:33 [INFO]     ram_k3_n18.ra1.wcnf                      cost= 53756.00 t=194.8s
+/nas/ckgfs/users/jahin/HYDRA/hydra_data.py:178: RuntimeWarning: compute_clause_centrality: 4845 clause nodes — using scatter-based triangle count (no N×N allocation).
+  self._clause_centrality_cache = compute_clause_centrality(
+03:12:50 [INFO] Phase 1: Diffusion init (64 trajectories)...

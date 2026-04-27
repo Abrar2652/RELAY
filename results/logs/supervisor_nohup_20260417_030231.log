@@ -1,0 +1,10 @@
+2026-04-17 03:02:31 [supervisor] supervisor start (CUDA_MAIN=2, CUDA_ABL=6)
+2026-04-17 03:02:31 [supervisor] HYDRA_DIR=/nas/ckgfs/jaunts/jahin/HYDRA
+2026-04-17 03:02:31 [supervisor] waiting for /nas/ckgfs/jaunts/jahin/HYDRA/hydra_pretrained/hydra_best.pt ...
+2026-04-17 03:02:31 [supervisor] model file exists: /nas/ckgfs/jaunts/jahin/HYDRA/hydra_pretrained/hydra_best.pt
+2026-04-17 03:02:36 [supervisor] pre-flight: testing solver on a single small instance
+2026-04-17 03:03:16 [supervisor] pre-flight exit code: 0
+2026-04-17 03:03:16 [supervisor] launching sharded HYDRA eval 60s across GPUs: 0 2 5
+2026-04-17 03:03:16 [supervisor] HYDRA eval 60s PID=2799610
+2026-04-17 03:03:16 [supervisor] launching ablation campaign on GPU 6
+2026-04-17 03:03:16 [supervisor] ablation PID=2799617

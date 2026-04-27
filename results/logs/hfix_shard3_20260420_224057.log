@@ -1,0 +1,65 @@
+22:41:32 [INFO]   HYDRA fixed 28/41 vars (threshold=0.99)
+22:41:32 [INFO]   dim.MANN_a81.clq.wcnf                    seed=0 cost=         0.0  fix=28/41  t=21.2s
+22:41:51 [WARNING]   diffusion collapsed (1 unique candidate); fixing nothing
+22:41:51 [INFO]   HYDRA fixed 0/40 vars (threshold=0.99)
+22:41:51 [INFO]   dim.brock800_3.clq.wcnf                  seed=0 cost=         0.0  fix=0/40  t=19.3s
+22:42:11 [INFO]   HYDRA fixed 28/41 vars (threshold=0.99)
+22:42:11 [INFO]   dim.hamming10-4.clq.wcnf                 seed=0 cost=         0.0  fix=28/41  t=19.8s
+22:43:03 [WARNING]   diffusion collapsed (1 unique candidate); fixing nothing
+22:43:03 [INFO]   HYDRA fixed 0/70 vars (threshold=0.99)
+22:43:03 [INFO]   dim.johnson8-4-4.clq.wcnf                seed=0 cost=         0.0  fix=0/70  t=51.7s
+22:43:22 [INFO]   HYDRA fixed 28/40 vars (threshold=0.99)
+22:43:22 [INFO]   dim.san400_0.7_3.clq.wcnf                seed=0 cost=         0.0  fix=28/40  t=19.4s
+22:43:41 [WARNING]   diffusion collapsed (1 unique candidate); fixing nothing
+22:43:41 [INFO]   HYDRA fixed 0/40 vars (threshold=0.99)
+22:43:42 [INFO]   dim.san400_0.9_1.clq.wcnf                seed=0 cost=         0.0  fix=0/40  t=19.6s
+22:44:13 [WARNING]   setup blew 31.9s of 60s; pure SLS
+22:44:13 [INFO]   HYDRA fixed 0/288 vars (threshold=0.99)
+22:44:14 [INFO]   log.28.wcsp.log.wcnf                     seed=0 cost=         0.0  fix=0/288  t=32.0s
+23:04:35 [WARNING]   setup blew 1221.5s of 60s; pure SLS
+23:04:35 [INFO]   HYDRA fixed 0/2318 vars (threshold=0.99)
+23:04:35 [INFO]   mul.role_smallcomp_multiple_0.9_7.wcnf   seed=0 cost=         0.0  fix=0/2318  t=1221.8s
+23:05:06 [WARNING]   diffusion collapsed (1 unique candidate); fixing nothing
+23:05:06 [INFO]   HYDRA fixed 0/91 vars (threshold=0.99)
+23:05:06 [INFO]   ram_k3_n14.ra1.wcnf                      seed=0 cost=         0.0  fix=0/91  t=30.9s
+23:06:14 [WARNING]   diffusion collapsed (1 unique candidate); fixing nothing
+23:06:14 [INFO]   HYDRA fixed 0/120 vars (threshold=0.99)
+23:06:14 [INFO]   ram_k3_n16.ra1.wcnf                      seed=0 cost=         0.0  fix=0/120  t=67.9s
+23:07:54 [WARNING]   diffusion collapsed (1 unique candidate); fixing nothing
+23:07:54 [INFO]   HYDRA fixed 0/136 vars (threshold=0.99)
+23:07:54 [INFO]   ram_k3_n17.ra1.wcnf                      seed=0 cost=         0.0  fix=0/136  t=99.8s
+23:08:16 [WARNING]   diffusion failed: Allocation on device ; falling back to pure SLS
+23:08:16 [INFO]   HYDRA fixed 0/190 vars (threshold=0.99)
+23:08:17 [INFO]   ram_k4_n20.ra1.wcnf                      seed=0 cost=         0.0  fix=0/190  t=22.6s
+23:12:12 [WARNING]   diffusion collapsed (1 unique candidate); fixing nothing
+23:12:12 [INFO]   HYDRA fixed 0/122 vars (threshold=0.99)
+23:12:12 [INFO]   random-net-40-4_network-2.net.wcnf       seed=0 cost=         0.0  fix=0/122  t=235.8s
+23:16:04 [WARNING]   diffusion collapsed (1 unique candidate); fixing nothing
+23:16:04 [INFO]   HYDRA fixed 0/142 vars (threshold=0.99)
+23:16:05 [INFO]   random-net-50-4_network-8.net.wcnf       seed=0 cost=         0.0  fix=0/142  t=232.1s
+23:17:04 [WARNING]   setup blew 59.4s of 60s; pure SLS
+23:17:04 [INFO]   HYDRA fixed 0/686 vars (threshold=0.99)
+23:17:04 [INFO]   role_smallcomp_0.85_4.wcnf               seed=0 cost=         0.0  fix=0/686  t=59.5s
+23:20:24 [WARNING]   setup blew 200.2s of 60s; pure SLS
+23:20:24 [INFO]   HYDRA fixed 0/1047 vars (threshold=0.99)
+23:20:24 [INFO]   wcn.heart_train_2_CNF_5_10.wcnf          seed=0 cost=         0.0  fix=0/1047  t=200.2s
+23:24:58 [WARNING]   setup blew 273.6s of 60s; pure SLS
+23:24:58 [INFO]   HYDRA fixed 0/1173 vars (threshold=0.99)
+23:24:58 [INFO]   wcn.heart_train_6_DNF_5_5.wcnf           seed=0 cost=         0.0  fix=0/1173  t=273.7s
+23:26:04 [WARNING]   setup blew 66.0s of 60s; pure SLS
+23:26:04 [INFO]   HYDRA fixed 0/1152 vars (threshold=0.99)
+23:26:04 [INFO]   inconsistency-measurement-im-hit-B-3-stb_390_450.tgf.pl.wcnf seed=0 cost=         0.0  fix=0/1152  t=66.1s
+23:28:04 [WARNING]   setup blew 119.8s of 60s; pure SLS
+23:28:04 [INFO]   HYDRA fixed 0/6139 vars (threshold=0.99)
+23:28:04 [INFO]   logic-synthesis-normalized-test4.pi.opb.msat.wcnf seed=0 cost=         0.0  fix=0/6139  t=119.8s
+23:30:32 [WARNING]   setup blew 147.8s of 60s; pure SLS
+23:30:32 [INFO]   HYDRA fixed 0/4749 vars (threshold=0.99)
+23:30:32 [INFO]   optic-gen_mult_4_5_991.wcnf              seed=0 cost=         0.0  fix=0/4749  t=147.9s
+23:30:51 [INFO]   HYDRA fixed 0/55 vars (threshold=0.99)
+23:30:51 [INFO]   ramsey-ram_k3_n11.ra0.wcnf               seed=0 cost=         0.0  fix=0/55  t=19.1s
+23:31:22 [INFO]   HYDRA fixed 19/91 vars (threshold=0.99)
+23:31:22 [INFO]   ramsey-ram_k3_n14.ra0.wcnf               seed=0 cost=         0.0  fix=19/91  t=31.0s
+23:32:08 [INFO]   HYDRA fixed 37/105 vars (threshold=0.99)
+23:32:08 [INFO]   ramsey-ram_k3_n15.ra0.wcnf               seed=0 cost=         0.0  fix=37/105  t=46.3s
+23:33:48 [INFO]   HYDRA fixed 95/136 vars (threshold=0.99)
+23:33:48 [INFO]   ramsey-ram_k3_n17.ra0.wcnf               seed=0 cost=         0.0  fix=95/136  t=99.6s

@@ -1,0 +1,16 @@
+2026-04-22 19:55:03 [INFO] Logging to file: results/logs/pretrain_h96_l6_20260422_195437.log
+2026-04-22 19:55:32 [INFO] ============================================================
+2026-04-22 19:55:32 [INFO] HYDRA Pre-Training
+2026-04-22 19:55:32 [INFO] ============================================================
+2026-04-22 19:55:32 [INFO] Found 28 instances
+2026-04-22 19:56:34 [INFO] Loaded 28 instances
+2026-04-22 19:56:35 [INFO] Model: 4,805,506 params
+2026-04-22 20:37:12 [INFO] Epoch    0/30: loss=0.1193 lr=0.000997
+2026-04-22 22:38:08 [INFO] Epoch    5/30: loss=0.0651 lr=0.000905
+2026-04-23 00:47:52 [INFO] Epoch   10/30: loss=0.0162 lr=0.000706
+2026-04-23 03:01:06 [INFO] Epoch   15/30: loss=0.0136 lr=0.000453
+2026-04-23 04:22:38 [INFO] Epoch   20/30: loss=0.0125 lr=0.000214
+2026-04-23 04:48:33 [INFO] Epoch   25/30: loss=0.0120 lr=0.000053
+2026-04-23 05:10:38 [INFO] Epoch   29/30: loss=0.0115 lr=0.000010
+2026-04-23 05:10:39 [INFO] Pre-training done. Best loss: 0.0115
+2026-04-23 05:10:39 [INFO] Pre-trained model saved to ./hydra_pretrained

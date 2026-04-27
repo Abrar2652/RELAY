@@ -1,0 +1,109 @@
+2026-04-19 03:08:52 [INFO] Logging to file: /nas/ckgfs/users/jahin/HYDRA/results/logs/hydra_eval_60s_v2shard1_20260419_030837.log
+2026-04-19 03:09:14 [INFO] Loading pre-trained model from /nas/ckgfs/jaunts/jahin/HYDRA/hydra_pretrained
+2026-04-19 03:09:15 [INFO] 
+Discovering benchmarks in /nas/ckgfs/users/jahin/HYDRA/results/shard_v2_tmp/shard_1_bench...
+2026-04-19 03:09:15 [INFO]   ms2021: 33 instances
+2026-04-19 03:09:15 [INFO]   ms2024: 216 instances
+2026-04-19 03:09:15 [INFO]   wms2022: 197 instances
+2026-04-19 03:09:15 [INFO] 
+============================================================
+2026-04-19 03:09:15 [INFO]   EVALUATION: timeout=60.0s, seeds=3
+2026-04-19 03:09:15 [INFO] ============================================================
+2026-04-19 03:09:15 [INFO] 
+--- MS 2021 (33 instances) ---
+2026-04-19 03:09:15 [INFO]   brock200_3.clq.wcnf            seed=0 cost=      0.00  time=   0.0s
+2026-04-19 03:09:16 [INFO]   brock200_3.clq.wcnf            seed=1 cost=      0.00  time=   0.0s
+2026-04-19 03:09:16 [INFO]   brock200_3.clq.wcnf            seed=2 cost=      0.00  time=   0.0s
+2026-04-19 03:09:16 [INFO]   data.135.wcnf                  seed=0 cost=      0.00  time=   0.0s
+2026-04-19 03:09:16 [INFO]   data.135.wcnf                  seed=1 cost=      0.00  time=   0.0s
+2026-04-19 03:09:16 [INFO]   data.135.wcnf                  seed=2 cost=      0.00  time=   0.0s
+2026-04-19 03:09:16 [INFO]   maxcut-140-630-0.7-12.wcnf     seed=0 cost=      0.00  time=   0.0s
+2026-04-19 03:09:16 [INFO]   maxcut-140-630-0.7-12.wcnf     seed=1 cost=      0.00  time=   0.2s
+2026-04-19 03:09:17 [INFO]   maxcut-140-630-0.7-12.wcnf     seed=2 cost=      0.00  time=   0.0s
+2026-04-19 03:09:17 [INFO]   maxcut-140-630-0.7-20.wcnf     seed=0 cost=      0.00  time=   0.0s
+2026-04-19 03:09:17 [INFO]   maxcut-140-630-0.7-20.wcnf     seed=1 cost=      0.00  time=   0.0s
+2026-04-19 03:09:17 [INFO]   maxcut-140-630-0.7-20.wcnf     seed=2 cost=      0.00  time=   0.0s
+2026-04-19 03:09:17 [INFO]   maxcut-140-630-0.7-28.wcnf     seed=0 cost=      0.00  time=   0.1s
+2026-04-19 03:09:17 [INFO]   maxcut-140-630-0.7-28.wcnf     seed=1 cost=      0.00  time=   0.0s
+2026-04-19 03:09:18 [INFO]   maxcut-140-630-0.7-28.wcnf     seed=2 cost=      0.00  time=   0.0s
+2026-04-19 03:09:18 [INFO]   maxcut-140-630-0.7-4.wcnf      seed=0 cost=      0.00  time=   0.0s
+2026-04-19 03:09:18 [INFO]   maxcut-140-630-0.7-4.wcnf      seed=1 cost=      0.00  time=   0.2s
+2026-04-19 03:09:18 [INFO]   maxcut-140-630-0.7-4.wcnf      seed=2 cost=      0.00  time=   0.0s
+2026-04-19 03:09:18 [INFO]   maxcut-140-630-0.7-45.wcnf     seed=0 cost=      0.00  time=   0.0s
+2026-04-19 03:09:18 [INFO]   maxcut-140-630-0.7-45.wcnf     seed=1 cost=      0.00  time=   0.0s
+2026-04-19 03:09:19 [INFO]   maxcut-140-630-0.7-45.wcnf     seed=2 cost=      0.00  time=   0.2s
+2026-04-19 03:09:19 [INFO]   maxcut-140-630-0.7-6.wcnf      seed=0 cost=      0.00  time=   0.0s
+2026-04-19 03:09:19 [INFO]   maxcut-140-630-0.7-6.wcnf      seed=1 cost=      0.00  time=   0.0s
+2026-04-19 03:09:19 [INFO]   maxcut-140-630-0.7-6.wcnf      seed=2 cost=      0.00  time=   0.0s
+2026-04-19 03:09:19 [INFO]   maxcut-140-630-0.8-1.wcnf      seed=0 cost=      0.00  time=   0.0s
+2026-04-19 03:09:19 [INFO]   maxcut-140-630-0.8-1.wcnf      seed=1 cost=      0.00  time=   0.0s
+2026-04-19 03:09:20 [INFO]   maxcut-140-630-0.8-1.wcnf      seed=2 cost=      0.00  time=   0.0s
+2026-04-19 03:09:20 [INFO]   maxcut-140-630-0.8-18.wcnf     seed=0 cost=      0.00  time=   0.0s
+2026-04-19 03:09:20 [INFO]   maxcut-140-630-0.8-18.wcnf     seed=1 cost=      0.00  time=   0.2s
+2026-04-19 03:09:20 [INFO]   maxcut-140-630-0.8-18.wcnf     seed=2 cost=      0.00  time=   0.0s
+2026-04-19 03:09:20 [INFO]   maxcut-140-630-0.8-26.wcnf     seed=0 cost=      0.00  time=   0.0s
+2026-04-19 03:09:20 [INFO]   maxcut-140-630-0.8-26.wcnf     seed=1 cost=      0.00  time=   0.0s
+2026-04-19 03:09:21 [INFO]   maxcut-140-630-0.8-26.wcnf     seed=2 cost=      0.00  time=   0.1s
+2026-04-19 03:09:21 [INFO]   maxcut-140-630-0.8-39.wcnf     seed=0 cost=      0.00  time=   0.0s
+2026-04-19 03:09:21 [INFO]   maxcut-140-630-0.8-39.wcnf     seed=1 cost=      0.00  time=   0.0s
+2026-04-19 03:09:21 [INFO]   maxcut-140-630-0.8-39.wcnf     seed=2 cost=      0.00  time=   0.0s
+2026-04-19 03:09:21 [INFO]   normalized-test4.pi.opb.msat.wcnf seed=0 cost=      0.00  time=   0.0s
+2026-04-19 03:09:21 [INFO]   normalized-test4.pi.opb.msat.wcnf seed=1 cost=      0.00  time=   0.2s
+2026-04-19 03:09:22 [INFO]   normalized-test4.pi.opb.msat.wcnf seed=2 cost=      0.00  time=   0.0s
+2026-04-19 03:09:26 [INFO] Phase 1: Diffusion init (16 trajectories)...
+2026-04-19 03:09:53 [INFO]   Diffusion init best cost: 13.0
+2026-04-19 03:09:53 [INFO] Phase 2: Evolutionary refinement (n=45, m=330)...
+/nas/ckgfs/jaunts/jahin/HYDRA/.venv_ckg08/lib/python3.12/site-packages/torch_geometric/utils/_scatter.py:91: UserWarning: The usage of `scatter(reduce='max')` can be accelerated via the 'torch-scatter' package, but it was not found
+  warnings.warn(
+2026-04-19 03:10:22 [INFO] Final: cost=13.0000, steps=54, pop_size=21, time=60.0s
+2026-04-19 03:10:22 [INFO]   ram_k3_n10.ra0.wcnf            seed=0 cost=     13.00  time=  60.1s
+2026-04-19 03:10:22 [INFO] Phase 1: Diffusion init (16 trajectories)...
+2026-04-19 03:10:48 [INFO]   Diffusion init best cost: 9.0
+2026-04-19 03:10:48 [INFO] Phase 2: Evolutionary refinement (n=45, m=330)...
+2026-04-19 03:11:22 [INFO] Final: cost=9.0000, steps=60, pop_size=28, time=60.1s
+2026-04-19 03:11:22 [INFO]   ram_k3_n10.ra0.wcnf            seed=1 cost=      9.00  time=  60.1s
+2026-04-19 03:11:22 [INFO] Phase 1: Diffusion init (16 trajectories)...
+2026-04-19 03:11:48 [INFO]   Diffusion init best cost: 13.0
+2026-04-19 03:11:48 [INFO] Phase 2: Evolutionary refinement (n=45, m=330)...
+2026-04-19 03:12:24 [INFO] Final: cost=10.0000, steps=56, pop_size=24, time=61.6s
+2026-04-19 03:12:24 [INFO]   ram_k3_n10.ra0.wcnf            seed=2 cost=     10.00  time=  61.6s
+2026-04-19 03:12:24 [INFO] Phase 1: Diffusion init (16 trajectories)...
+2026-04-19 03:12:50 [INFO]   Diffusion init best cost: 19.0
+2026-04-19 03:12:50 [INFO] Phase 2: Evolutionary refinement (n=55, m=495)...
+2026-04-19 03:13:26 [INFO] Final: cost=13.0000, steps=71, pop_size=29, time=62.0s
+2026-04-19 03:13:26 [INFO]   ram_k3_n11.ra0.wcnf            seed=0 cost=     13.00  time=  62.0s
+2026-04-19 03:13:26 [INFO] Phase 1: Diffusion init (16 trajectories)...
+2026-04-19 03:13:52 [INFO]   Diffusion init best cost: 23.0
+2026-04-19 03:13:52 [INFO] Phase 2: Evolutionary refinement (n=55, m=495)...
+2026-04-19 03:14:27 [INFO] Final: cost=16.0000, steps=61, pop_size=30, time=60.8s
+2026-04-19 03:14:27 [INFO]   ram_k3_n11.ra0.wcnf            seed=1 cost=     16.00  time=  60.8s
+2026-04-19 03:14:28 [INFO] Phase 1: Diffusion init (16 trajectories)...
+2026-04-19 03:14:54 [INFO]   Diffusion init best cost: 22.0
+2026-04-19 03:14:54 [INFO] Phase 2: Evolutionary refinement (n=55, m=495)...
+2026-04-19 03:15:27 [INFO] Final: cost=18.0000, steps=60, pop_size=28, time=60.0s
+2026-04-19 03:15:27 [INFO]   ram_k3_n11.ra0.wcnf            seed=2 cost=     18.00  time=  60.0s
+/nas/ckgfs/users/jahin/HYDRA/hydra_data.py:178: RuntimeWarning: compute_clause_centrality: 715 clause nodes — using scatter-based triangle count (no N×N allocation).
+  self._clause_centrality_cache = compute_clause_centrality(
+2026-04-19 03:15:28 [INFO] Phase 1: Diffusion init (16 trajectories)...
+2026-04-19 03:15:54 [INFO]   Diffusion init best cost: 66.0
+2026-04-19 03:15:54 [INFO] Phase 2: Evolutionary refinement (n=66, m=715)...
+2026-04-19 03:16:27 [INFO] Final: cost=29.0000, steps=61, pop_size=30, time=60.6s
+2026-04-19 03:16:27 [INFO]   ram_k3_n12.ra0.wcnf            seed=0 cost=     29.00  time=  60.6s
+2026-04-19 03:16:28 [INFO] Phase 1: Diffusion init (16 trajectories)...
+2026-04-19 03:16:55 [INFO]   Diffusion init best cost: 55.0
+2026-04-19 03:16:55 [INFO] Phase 2: Evolutionary refinement (n=66, m=715)...
+2026-04-19 03:17:29 [INFO] Final: cost=20.0000, steps=56, pop_size=24, time=61.9s
+2026-04-19 03:17:29 [INFO]   ram_k3_n12.ra0.wcnf            seed=1 cost=     20.00  time=  61.9s
+2026-04-19 03:17:31 [INFO] Phase 1: Diffusion init (16 trajectories)...
+2026-04-19 03:17:57 [INFO]   Diffusion init best cost: 51.0
+2026-04-19 03:17:57 [INFO] Phase 2: Evolutionary refinement (n=66, m=715)...
+2026-04-19 03:18:30 [INFO] Final: cost=27.0000, steps=50, pop_size=16, time=60.0s
+2026-04-19 03:18:30 [INFO]   ram_k3_n12.ra0.wcnf            seed=2 cost=     27.00  time=  60.0s
+/nas/ckgfs/users/jahin/HYDRA/hydra_data.py:178: RuntimeWarning: compute_clause_centrality: 1001 clause nodes — using scatter-based triangle count (no N×N allocation).
+  self._clause_centrality_cache = compute_clause_centrality(
+2026-04-19 03:18:31 [INFO] Phase 1: Diffusion init (16 trajectories)...
+2026-04-19 03:18:59 [INFO]   Diffusion init best cost: 214.0
+2026-04-19 03:18:59 [INFO] Phase 2: Evolutionary refinement (n=78, m=1001)...
+2026-04-19 03:19:30 [INFO] Final: cost=34.0000, steps=51, pop_size=27, time=60.6s
+2026-04-19 03:19:30 [INFO]   ram_k3_n13.ra0.wcnf            seed=0 cost=     34.00  time=  60.6s
+2026-04-19 03:19:32 [INFO] Phase 1: Diffusion init (16 trajectories)...

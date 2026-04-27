@@ -1,0 +1,20 @@
+2026-04-17 12:21:36 [INFO] Logging to file: /nas/ckgfs/users/jahin/HYDRA/results/logs/hydra_eval_60s_shard1_20260417_122130.log
+2026-04-17 12:21:45 [INFO] Loading pre-trained model from /nas/ckgfs/jaunts/jahin/HYDRA/hydra_pretrained
+2026-04-17 12:21:49 [INFO] 
+Discovering benchmarks in /nas/ckgfs/users/jahin/HYDRA/results/shard_tmp/shard_1_bench...
+2026-04-17 12:21:49 [INFO]   ms2020: 131 instances
+2026-04-17 12:21:49 [INFO]   ms2021: 77 instances
+2026-04-17 12:21:49 [INFO]   ms2022: 90 instances
+2026-04-17 12:21:49 [INFO]   ms2023: 89 instances
+2026-04-17 12:21:49 [INFO]   ms2024: 108 instances
+2026-04-17 12:21:49 [INFO]   wms2020: 122 instances
+2026-04-17 12:21:49 [INFO]   wms2021: 75 instances
+2026-04-17 12:21:49 [INFO]   wms2022: 99 instances
+2026-04-17 12:21:49 [INFO]   wms2023: 80 instances
+2026-04-17 12:21:49 [INFO]   wms2024: 114 instances
+2026-04-17 12:21:49 [INFO] 
+============================================================
+2026-04-17 12:21:49 [INFO]   EVALUATION: timeout=60.0s, seeds=1
+2026-04-17 12:21:49 [INFO] ============================================================
+2026-04-17 12:21:49 [INFO] 
+--- MS 2020 (131 instances) ---

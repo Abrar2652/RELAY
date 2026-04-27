@@ -1,0 +1,14 @@
+02:52:36 [INFO] Found 9 (year, cat) directories
+02:52:36 [INFO]   shard 0 (gpu 2): ms2020 = 50 instances (filtered)
+02:52:36 [INFO]   shard 0 (gpu 2): ms2022 = 149 instances (filtered)
+02:52:37 [INFO]   shard 0 (gpu 2): ms2024 = 216 instances (filtered)
+02:52:37 [INFO]   shard 0 (gpu 2): wms2021 = 3 instances (filtered)
+02:52:37 [INFO]   shard 0 (gpu 2): wms2023 = 160 instances (filtered)
+02:52:37 [INFO]   shard 0 TOTAL: 578 instances
+02:52:37 [INFO]   shard 1 (gpu 3): ms2021 = 33 instances (filtered)
+02:52:37 [INFO]   shard 1 (gpu 3): ms2023 = 179 instances (filtered)
+02:52:37 [INFO]   shard 1 (gpu 3): wms2020 = 19 instances (filtered)
+02:52:38 [INFO]   shard 1 (gpu 3): wms2022 = 188 instances (filtered)
+02:52:38 [INFO]   shard 1 TOTAL: 419 instances
+02:52:38 [INFO]   shard 0 (gpu 2) PID=4193224 -> /nas/ckgfs/users/jahin/HYDRA/results/logs/hydra_eval_300s_v2shard0_20260419_025238.log
+02:52:38 [INFO]   shard 1 (gpu 3) PID=4193226 -> /nas/ckgfs/users/jahin/HYDRA/results/logs/hydra_eval_300s_v2shard1_20260419_025238.log

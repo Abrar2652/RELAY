@@ -1,0 +1,53 @@
+2026-04-18 04:19:16 [INFO] Logging to file: /nas/ckgfs/users/jahin/HYDRA/results/logs/hydra_eval_60s_shard1_20260418_041913.log
+2026-04-18 04:19:19 [INFO] Loading pre-trained model from ./hydra_pretrained
+2026-04-18 04:19:20 [INFO] 
+Discovering benchmarks in /nas/ckgfs/users/jahin/HYDRA/results/shard_tmp/shard_1_bench...
+2026-04-18 04:19:20 [INFO]   ms2020: 18 instances
+2026-04-18 04:19:20 [INFO]   ms2021: 11 instances
+2026-04-18 04:19:20 [INFO]   ms2022: 60 instances
+2026-04-18 04:19:20 [INFO]   ms2023: 60 instances
+2026-04-18 04:19:20 [INFO]   ms2024: 72 instances
+2026-04-18 04:19:20 [INFO]   wms2020: 8 instances
+2026-04-18 04:19:20 [INFO]   wms2021: 5 instances
+2026-04-18 04:19:20 [INFO]   wms2022: 66 instances
+2026-04-18 04:19:20 [INFO]   wms2023: 53 instances
+2026-04-18 04:19:20 [INFO]   wms2024: 76 instances
+2026-04-18 04:19:20 [INFO] 
+============================================================
+2026-04-18 04:19:20 [INFO]   EVALUATION: timeout=60.0s, seeds=1
+2026-04-18 04:19:20 [INFO] ============================================================
+2026-04-18 04:19:20 [INFO] 
+--- MS 2020 (18 instances) ---
+2026-04-18 04:19:20 [INFO]   MANN_a81.clq.wcnf              cost=      0.00  time=   0.0s
+2026-04-18 04:19:20 [INFO]   gen_mult_3_5_9999.wcnf         cost=      0.00  time=   0.1s
+2026-04-18 04:19:20 [INFO]   hamming10-2.clq.wcnf           cost=      0.00  time=   0.1s
+2026-04-18 04:19:21 [INFO]   heart_train_1_DNF_3_1.wcnf     cost=      0.00  time=   0.0s
+2026-04-18 04:19:21 [INFO]   johnson8-4-4.clq.wcnf          cost=      0.00  time=   0.3s
+2026-04-18 04:19:21 [INFO]   normalized-par32-3-c.wcnf      cost=      0.00  time=   0.0s
+2026-04-18 04:19:24 [INFO] Phase 1: Diffusion init (64 trajectories)...
+2026-04-18 04:19:52 [INFO]   Diffusion init best cost: 214.0
+2026-04-18 04:19:52 [INFO] Phase 2: Evolutionary refinement (n=78, m=1001)...
+2026-04-18 04:20:21 [INFO] Final: cost=32.0000, steps=49, pop_size=74, time=60.1s
+2026-04-18 04:20:21 [INFO]   ram_k3_n13.ra0.wcnf            cost=     32.00  time=  60.1s
+2026-04-18 04:20:31 [INFO] Phase 1: Diffusion init (64 trajectories)...
+2026-04-18 04:22:37 [INFO]   Diffusion init best cost: 1642.0
+2026-04-18 04:22:37 [INFO] Phase 2: Evolutionary refinement (n=136, m=3060)...
+2026-04-18 04:22:37 [INFO] Final: cost=92.0000, steps=0, pop_size=64, time=135.5s
+2026-04-18 04:22:37 [INFO]   ram_k3_n17.ra0.wcnf            cost=     92.00  time= 135.5s
+2026-04-18 04:23:03 [ERROR]   ram_k3_n20.ra0.wcnf seed=0: FAILED (Allocation on device )
+2026-04-18 04:23:40 [ERROR]   ram_k4_n20.ra0.wcnf seed=0: FAILED (Allocation on device )
+2026-04-18 04:23:40 [INFO]   scpclr12_maxsat.wcnf           cost=      0.00  time=   0.0s
+2026-04-18 04:23:41 [INFO]   scpcyc07_maxsat.wcnf           cost=      0.00  time=   0.0s
+2026-04-18 04:23:41 [INFO]   uaq-ppr-nr200-nc66-n5-k2-rpp4-ppr10-plb100.wcnf cost=      0.00  time=   0.6s
+2026-04-18 04:23:42 [INFO]   uaq-ppr-nr200-nc66-n5-k2-rpp4-ppr13-plb100.wcnf cost=      0.00  time=   0.5s
+2026-04-18 04:23:43 [INFO]   uaq-ppr-nr200-nc66-n5-k2-rpp4-ppr8-plb100.wcnf cost=      0.00  time=   0.5s
+2026-04-18 04:23:43 [INFO]   uaq-ppr-nr200-nc66-n5-k2-rpp6-ppr11-plb100.wcnf cost=      0.00  time=   0.4s
+2026-04-18 04:23:44 [INFO]   uaq-ppr-nr200-nc66-n5-k2-rpp6-ppr14-plb100.wcnf cost=      0.00  time=   0.6s
+2026-04-18 04:23:44 [INFO]   uaq-ppr-nr200-nc66-n5-k2-rpp6-ppr7-plb100.wcnf cost=      0.00  time=   0.5s
+2026-04-18 04:23:44 [INFO] 
+--- WMS 2020 (8 instances) ---
+2026-04-18 04:23:45 [INFO]   brock800_3.clq.wcnf            cost=      0.00  time=   0.0s
+2026-04-18 04:23:45 [INFO]   p_hat500-3.clq.wcnf            cost=      0.00  time=   0.0s
+2026-04-18 04:23:47 [INFO] Phase 1: Diffusion init (64 trajectories)...
+2026-04-18 04:24:28 [INFO]   Diffusion init best cost: 504950.0
+2026-04-18 04:24:28 [INFO] Phase 2: Evolutionary refinement (n=91, m=1365)...

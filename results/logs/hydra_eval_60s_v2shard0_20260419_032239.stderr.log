@@ -1,0 +1,100 @@
+2026-04-19 03:22:40 [INFO] Logging to file: /nas/ckgfs/users/jahin/HYDRA/results/logs/hydra_eval_60s_v2shard0_20260419_032239.log
+2026-04-19 03:22:42 [INFO] Loading pre-trained model from /nas/ckgfs/jaunts/jahin/HYDRA/hydra_pretrained
+2026-04-19 03:22:43 [INFO] 
+Discovering benchmarks in /nas/ckgfs/users/jahin/HYDRA/results/shard_v2_tmp/shard_0_bench...
+2026-04-19 03:22:43 [INFO]   ms2020: 55 instances
+2026-04-19 03:22:43 [INFO]   ms2023: 179 instances
+2026-04-19 03:22:43 [INFO]   wms2021: 14 instances
+2026-04-19 03:22:43 [INFO]   wms2024: 229 instances
+2026-04-19 03:22:43 [INFO] 
+============================================================
+2026-04-19 03:22:43 [INFO]   EVALUATION: timeout=60.0s, seeds=3
+2026-04-19 03:22:43 [INFO] ============================================================
+2026-04-19 03:22:43 [INFO] 
+--- MS 2020 (55 instances) ---
+2026-04-19 03:22:44 [INFO]   MANN_a27.clq.wcnf              seed=0 cost=      0.00  time=   0.0s
+2026-04-19 03:22:44 [INFO]   MANN_a27.clq.wcnf              seed=1 cost=      0.00  time=   0.0s
+2026-04-19 03:22:44 [INFO]   MANN_a27.clq.wcnf              seed=2 cost=      0.00  time=   0.0s
+2026-04-19 03:22:44 [INFO]   MANN_a45.clq.wcnf              seed=0 cost=      0.00  time=   0.1s
+2026-04-19 03:22:44 [INFO]   MANN_a45.clq.wcnf              seed=1 cost=      0.00  time=   0.0s
+2026-04-19 03:22:44 [INFO]   MANN_a45.clq.wcnf              seed=2 cost=      0.00  time=   0.0s
+2026-04-19 03:22:44 [INFO]   MANN_a81.clq.wcnf              seed=0 cost=      0.00  time=   0.0s
+2026-04-19 03:22:45 [INFO]   MANN_a81.clq.wcnf              seed=1 cost=      0.00  time=   0.1s
+2026-04-19 03:22:45 [INFO]   MANN_a81.clq.wcnf              seed=2 cost=      0.00  time=   0.0s
+2026-04-19 03:22:45 [INFO]   MANN_a81.clq__f1bb0e.wcnf      seed=0 cost=      0.00  time=   0.0s
+2026-04-19 03:22:45 [INFO]   MANN_a81.clq__f1bb0e.wcnf      seed=1 cost=      0.00  time=   0.0s
+2026-04-19 03:22:45 [INFO]   MANN_a81.clq__f1bb0e.wcnf      seed=2 cost=      0.00  time=   0.0s
+2026-04-19 03:22:45 [INFO]   MANN_a9.clq.wcnf               seed=0 cost=      0.00  time=   0.2s
+2026-04-19 03:22:46 [INFO]   MANN_a9.clq.wcnf               seed=1 cost=      0.00  time=   0.0s
+2026-04-19 03:22:46 [INFO]   MANN_a9.clq.wcnf               seed=2 cost=      0.00  time=   0.0s
+2026-04-19 03:22:46 [INFO]   c-fat500-10.clq.wcnf           seed=0 cost=      0.00  time=   0.0s
+2026-04-19 03:22:46 [INFO]   c-fat500-10.clq.wcnf           seed=1 cost=      0.00  time=   0.0s
+2026-04-19 03:22:46 [INFO]   c-fat500-10.clq.wcnf           seed=2 cost=      0.00  time=   0.0s
+/nas/ckgfs/users/jahin/HYDRA/hydra_data.py:178: RuntimeWarning: compute_clause_centrality: 1398 clause nodes — using scatter-based triangle count (no N×N allocation).
+  self._clause_centrality_cache = compute_clause_centrality(
+2026-04-19 03:23:41 [INFO] Phase 1: Diffusion init (16 trajectories)...
+2026-04-19 03:24:07 [INFO]   Diffusion init best cost: 17485.0
+2026-04-19 03:24:07 [INFO] Phase 2: Evolutionary refinement (n=132, m=1398)...
+2026-04-19 03:24:07 [INFO] Final: cost=17485.0000, steps=0, pop_size=16, time=81.1s
+2026-04-19 03:24:07 [INFO]   g2_n13e12_n46e57.wcnf          seed=0 cost=  17485.00  time=  81.1s
+2026-04-19 03:25:01 [INFO] Phase 1: Diffusion init (16 trajectories)...
+2026-04-19 03:25:26 [INFO]   Diffusion init best cost: 18018.0
+2026-04-19 03:25:26 [INFO] Phase 2: Evolutionary refinement (n=132, m=1398)...
+2026-04-19 03:25:26 [INFO] Final: cost=18018.0000, steps=0, pop_size=16, time=78.9s
+2026-04-19 03:25:26 [INFO]   g2_n13e12_n46e57.wcnf          seed=1 cost=  18018.00  time=  78.9s
+2026-04-19 03:26:19 [INFO] Phase 1: Diffusion init (16 trajectories)...
+2026-04-19 03:26:44 [INFO]   Diffusion init best cost: 18018.0
+2026-04-19 03:26:44 [INFO] Phase 2: Evolutionary refinement (n=132, m=1398)...
+2026-04-19 03:26:44 [INFO] Final: cost=18018.0000, steps=0, pop_size=16, time=77.8s
+2026-04-19 03:26:44 [INFO]   g2_n13e12_n46e57.wcnf          seed=2 cost=  18018.00  time=  77.8s
+2026-04-19 03:26:44 [INFO]   gen_mult_3_5_9999.wcnf         seed=0 cost=      0.00  time=   0.0s
+2026-04-19 03:26:44 [INFO]   gen_mult_3_5_9999.wcnf         seed=1 cost=      0.00  time=   0.0s
+2026-04-19 03:26:44 [INFO]   gen_mult_3_5_9999.wcnf         seed=2 cost=      0.00  time=   0.0s
+2026-04-19 03:26:45 [INFO]   gen_mult_4_5_991.wcnf          seed=0 cost=      0.00  time=   0.0s
+2026-04-19 03:26:45 [INFO]   gen_mult_4_5_991.wcnf          seed=1 cost=      0.00  time=   0.0s
+2026-04-19 03:26:45 [INFO]   gen_mult_4_5_991.wcnf          seed=2 cost=      0.00  time=   0.2s
+2026-04-19 03:26:45 [INFO]   hamming10-2.clq.wcnf           seed=0 cost=      0.00  time=   0.0s
+2026-04-19 03:26:45 [INFO]   hamming10-2.clq.wcnf           seed=1 cost=      0.00  time=   0.0s
+2026-04-19 03:26:45 [INFO]   hamming10-2.clq.wcnf           seed=2 cost=      0.00  time=   0.0s
+2026-04-19 03:26:46 [INFO]   hamming6-2.clq.wcnf            seed=0 cost=      0.00  time=   0.3s
+2026-04-19 03:26:46 [INFO]   hamming6-2.clq.wcnf            seed=1 cost=      0.00  time=   0.3s
+2026-04-19 03:26:46 [INFO]   hamming6-2.clq.wcnf            seed=2 cost=      0.00  time=   0.2s
+2026-04-19 03:26:47 [INFO]   hamming8-2.clq.wcnf            seed=0 cost=      0.00  time=   0.1s
+2026-04-19 03:26:47 [INFO]   hamming8-2.clq.wcnf            seed=1 cost=      0.00  time=   0.0s
+2026-04-19 03:26:47 [INFO]   hamming8-2.clq.wcnf            seed=2 cost=      0.00  time=   0.0s
+2026-04-19 03:26:47 [INFO]   heart_train_0_CNF_5_1.wcnf     seed=0 cost=      0.00  time=   0.2s
+2026-04-19 03:26:47 [INFO]   heart_train_0_CNF_5_1.wcnf     seed=1 cost=      0.00  time=   0.1s
+2026-04-19 03:26:48 [INFO]   heart_train_0_CNF_5_1.wcnf     seed=2 cost=      0.00  time=   0.2s
+2026-04-19 03:26:48 [INFO]   heart_train_1_DNF_3_1.wcnf     seed=0 cost=      0.00  time=   0.0s
+2026-04-19 03:26:48 [INFO]   heart_train_1_DNF_3_1.wcnf     seed=1 cost=      0.00  time=   0.0s
+2026-04-19 03:26:48 [INFO]   heart_train_1_DNF_3_1.wcnf     seed=2 cost=      0.00  time=   0.0s
+2026-04-19 03:26:49 [INFO]   heart_train_4_CNF_5_1.wcnf     seed=0 cost=      0.00  time=   0.2s
+2026-04-19 03:26:49 [INFO]   heart_train_4_CNF_5_1.wcnf     seed=1 cost=      0.00  time=   0.2s
+2026-04-19 03:26:49 [INFO]   heart_train_4_CNF_5_1.wcnf     seed=2 cost=      0.00  time=   0.1s
+2026-04-19 03:26:50 [INFO]   johnson8-4-4.clq.wcnf          seed=0 cost=      0.00  time=   0.3s
+2026-04-19 03:26:50 [INFO]   johnson8-4-4.clq.wcnf          seed=1 cost=      0.00  time=   0.3s
+2026-04-19 03:26:50 [INFO]   johnson8-4-4.clq.wcnf          seed=2 cost=      0.00  time=   0.2s
+2026-04-19 03:26:50 [INFO]   normalized-par32-3-c.wcnf      seed=0 cost=      0.00  time=   0.1s
+2026-04-19 03:26:51 [INFO]   normalized-par32-3-c.wcnf      seed=1 cost=      0.00  time=   0.0s
+2026-04-19 03:26:51 [INFO]   normalized-par32-3-c.wcnf      seed=2 cost=      0.00  time=   0.0s
+2026-04-19 03:26:51 [INFO]   normalized-test4.pi.opb.msat.wcnf seed=0 cost=      0.00  time=   0.0s
+2026-04-19 03:26:51 [INFO]   normalized-test4.pi.opb.msat.wcnf seed=1 cost=      0.00  time=   0.0s
+2026-04-19 03:26:51 [INFO]   normalized-test4.pi.opb.msat.wcnf seed=2 cost=      0.00  time=   0.0s
+2026-04-19 03:26:51 [INFO]   normalized-test4.pi.wcnf       seed=0 cost=      0.00  time=   0.0s
+2026-04-19 03:26:51 [INFO]   normalized-test4.pi.wcnf       seed=1 cost=      0.00  time=   0.0s
+2026-04-19 03:26:51 [INFO]   normalized-test4.pi.wcnf       seed=2 cost=      0.00  time=   0.0s
+/nas/ckgfs/users/jahin/HYDRA/hydra_data.py:178: RuntimeWarning: compute_clause_centrality: 715 clause nodes — using scatter-based triangle count (no N×N allocation).
+  self._clause_centrality_cache = compute_clause_centrality(
+2026-04-19 03:26:53 [INFO] Phase 1: Diffusion init (16 trajectories)...
+2026-04-19 03:27:18 [INFO]   Diffusion init best cost: 66.0
+2026-04-19 03:27:18 [INFO] Phase 2: Evolutionary refinement (n=66, m=715)...
+/nas/ckgfs/jaunts/jahin/HYDRA/.venv_ckg08/lib/python3.12/site-packages/torch_geometric/utils/_scatter.py:91: UserWarning: The usage of `scatter(reduce='max')` can be accelerated via the 'torch-scatter' package, but it was not found
+  warnings.warn(
+2026-04-19 03:27:52 [INFO] Final: cost=29.0000, steps=61, pop_size=30, time=60.4s
+2026-04-19 03:27:52 [INFO]   ram_k3_n12.ra0.wcnf            seed=0 cost=     29.00  time=  60.4s
+2026-04-19 03:27:53 [INFO] Phase 1: Diffusion init (16 trajectories)...
+2026-04-19 03:28:19 [INFO]   Diffusion init best cost: 55.0
+2026-04-19 03:28:19 [INFO] Phase 2: Evolutionary refinement (n=66, m=715)...
+2026-04-19 03:28:53 [INFO] Final: cost=25.0000, steps=56, pop_size=24, time=60.8s
+2026-04-19 03:28:53 [INFO]   ram_k3_n12.ra0.wcnf            seed=1 cost=     25.00  time=  60.8s
+2026-04-19 03:28:54 [INFO] Phase 1: Diffusion init (16 trajectories)...

@@ -1,0 +1,69 @@
+2026-04-17 05:14:38 [supervisor] supervisor start (CUDA_MAIN=2, CUDA_ABL=6)
+2026-04-17 05:14:38 [supervisor] HYDRA_DIR=/nas/ckgfs/jaunts/jahin/HYDRA
+2026-04-17 05:14:38 [supervisor] waiting for /nas/ckgfs/jaunts/jahin/HYDRA/hydra_pretrained/hydra_status.json (end-of-training marker) ...
+2026-04-17 12:20:43 [supervisor] training complete: /nas/ckgfs/jaunts/jahin/HYDRA/hydra_pretrained/hydra_status.json
+2026-04-17 12:20:48 [supervisor] pre-flight: testing solver on a single small instance
+2026-04-17 12:20:55 [INFO] Logging to file: /nas/ckgfs/jaunts/jahin/HYDRA/results/preflight/preflight.log
+/nas/home/jahin/.local/lib/python3.10/site-packages/requests/__init__.py:113: RequestsDependencyWarning: urllib3 (1.26.5) or chardet (7.2.0)/charset_normalizer (3.4.4) doesn't match a supported version!
+  warnings.warn(
+2026-04-17 12:21:20 [INFO] Loading pre-trained model from /nas/ckgfs/jaunts/jahin/HYDRA/hydra_pretrained
+/nas/home/jahin/.local/lib/python3.10/site-packages/torch/cuda/__init__.py:654: UserWarning: Can't initialize NVML
+  warnings.warn("Can't initialize NVML")
+2026-04-17 12:21:23 [INFO] 
+Discovering benchmarks in /nas/ckgfs/jaunts/jahin/HYDRA/results/preflight/benchmarks...
+2026-04-17 12:21:23 [INFO]   wms2020: 1 instances
+2026-04-17 12:21:23 [INFO] Loaded 1 best-known costs from /nas/ckgfs/jaunts/jahin/HYDRA/results/preflight/results/best_known.json
+2026-04-17 12:21:23 [INFO] 
+============================================================
+2026-04-17 12:21:23 [INFO]   EVALUATION: timeout=15.0s, seeds=1
+2026-04-17 12:21:23 [INFO] ============================================================
+2026-04-17 12:21:23 [INFO] 
+--- WMS 2020 (1 instances) ---
+2026-04-17 12:21:24 [INFO]   maxcut-MANN_a9.clq.wcnf        cost=      0.00  time=   0.1s
+2026-04-17 12:21:24 [INFO] 
+Best-known costs saved to /nas/ckgfs/jaunts/jahin/HYDRA/results/preflight/results/best_known.json
+2026-04-17 12:21:24 [INFO] 
+2026-04-17 12:21:24 [INFO] ================================================================================
+2026-04-17 12:21:24 [INFO]   RESULTS TABLE (Avg Incomplete Score — SGAT-MS Table 1 format)
+2026-04-17 12:21:24 [INFO] ================================================================================
+2026-04-17 12:21:24 [INFO] 
+  Timeout: 15s
+2026-04-17 12:21:24 [INFO]   Type        2020      2021      2022      2023      2024
+2026-04-17 12:21:24 [INFO]   ------  --------  --------  --------  --------  --------
+2026-04-17 12:21:24 [INFO]   MS           N/A       N/A       N/A       N/A       N/A
+2026-04-17 12:21:24 [INFO]   WMS     1.0000       N/A       N/A       N/A       N/A
+2026-04-17 12:21:24 [INFO] 
+2026-04-17 12:21:24 [INFO] ================================================================================
+2026-04-17 12:21:24 [INFO]   SGAT-MS (LS-SGAT) reference scores from Table 1:
+2026-04-17 12:21:24 [INFO] ================================================================================
+2026-04-17 12:21:24 [INFO]   60s timeout:
+2026-04-17 12:21:24 [INFO]   MS     0.5237  0.5420  0.6202  0.1653  0.3516
+2026-04-17 12:21:24 [INFO]   WMS    0.8499  0.8973  0.7587  0.8432  0.7816
+2026-04-17 12:21:24 [INFO]   300s timeout:
+2026-04-17 12:21:24 [INFO]   MS     0.5289  0.5541  0.6403  0.1828  0.3684
+2026-04-17 12:21:24 [INFO]   WMS    0.8342  0.8835  0.7594  0.8471  0.7840
+2026-04-17 12:21:24 [INFO] Raw results saved to /nas/ckgfs/jaunts/jahin/HYDRA/results/preflight/results/results_raw.json
+2026-04-17 12:21:24 [INFO] Summary saved to /nas/ckgfs/jaunts/jahin/HYDRA/results/preflight/results/results_summary.json
+2026-04-17 12:21:25 [supervisor] pre-flight exit code: 0
+2026-04-17 12:21:25 [supervisor] launching sharded HYDRA eval 60s across GPUs: 0 5
+2026-04-17 12:21:25 [supervisor] HYDRA eval 60s PID=3154291
+2026-04-17 12:21:25 [supervisor] launching ablation campaign on GPU 6
+2026-04-17 12:21:25 [supervisor] ablation PID=3154298
+12:21:30 [INFO] shard 0 (GPU 0): 10 year-dirs
+12:21:30 [INFO]   cmd: python3 -u /nas/ckgfs/users/jahin/HYDRA/evaluate.py --model_dir /nas/ckgfs/jaunts/jahin/HYDRA/hydra_pretrained --bench_dir /nas/ckgfs/users/jahin/HYDRA/results/shard_tmp/shard_0_bench --timeouts 60 --seeds 1 --output_dir /nas/ckgfs/jaunts/jahin/HYDRA/results/hydra/eval_60s/shard_0 --device cuda --log_file /nas/ckgfs/users/jahin/HYDRA/results/logs/hydra_eval_60s_shard0_20260417_122130.log --population_size 64 --guidance_scale 0.1
+12:21:30 [INFO] shard 0 launched on GPU 0, PID 3154381
+12:21:30 [INFO] shard 1 (GPU 5): 10 year-dirs
+12:21:30 [INFO]   cmd: python3 -u /nas/ckgfs/users/jahin/HYDRA/evaluate.py --model_dir /nas/ckgfs/jaunts/jahin/HYDRA/hydra_pretrained --bench_dir /nas/ckgfs/users/jahin/HYDRA/results/shard_tmp/shard_1_bench --timeouts 60 --seeds 1 --output_dir /nas/ckgfs/jaunts/jahin/HYDRA/results/hydra/eval_60s/shard_1 --device cuda --log_file /nas/ckgfs/users/jahin/HYDRA/results/logs/hydra_eval_60s_shard1_20260417_122130.log --population_size 64 --guidance_scale 0.1
+12:21:30 [INFO] shard 1 launched on GPU 5, PID 3154384
+/nas/home/jahin/.local/lib/python3.10/site-packages/requests/__init__.py:113: RequestsDependencyWarning: urllib3 (1.26.5) or chardet (7.2.0)/charset_normalizer (3.4.4) doesn't match a supported version!
+  warnings.warn(
+12:21:39 [INFO] [full] loading pretrained from /nas/ckgfs/jaunts/jahin/HYDRA/hydra_pretrained
+/nas/home/jahin/.local/lib/python3.10/site-packages/torch/cuda/__init__.py:654: UserWarning: Can't initialize NVML
+  warnings.warn("Can't initialize NVML")
+12:22:02 [INFO] [full] MS 2018: 153 instances
+11:51:38 [INFO] shard 0 exited with code -9
+11:51:38 [INFO] shard 1 exited with code -9
+11:51:38 [WARNING] no results at /nas/ckgfs/jaunts/jahin/HYDRA/results/hydra/eval_60s/shard_0/results_raw.json (shard may have crashed)
+11:51:38 [INFO] merged 288 instance results into /nas/ckgfs/jaunts/jahin/HYDRA/results/hydra/eval_60s/results_raw.json
+11:51:38 [WARNING] at least one shard failed (rc=-9) — merged what we had
+2026-04-18 11:51:38 [supervisor] HYDRA eval 60s exit code: 247

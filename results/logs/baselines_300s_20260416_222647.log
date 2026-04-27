@@ -1,0 +1,19 @@
+22:26:49 [INFO] Queued 9855 solver runs across 5 baselines
+22:26:49 [INFO] 
+============================================================
+  TIMEOUT 300s
+============================================================
+22:36:49 [INFO]   [50/9855]   nuwls 2020-ms cnf.19.p.10.wcnf                         cost=      inf t=300.0s (ETA 1962.3m)
+22:46:50 [INFO]   [100/9855]   nuwls 2020-ms gen_add_4_carry_33.wcnf                  cost=      188 t=300.0s (ETA 1952.5m)
+22:51:49 [INFO]   [150/9855]   nuwls 2020-ms p_hat1000-1.clq.wcnf                     cost=      990 t=300.0s (ETA 1618.0m)
+23:01:49 [INFO]   [200/9855]   nuwls 2020-ms normalized-par32-5.opb.msat.wcnf         cost=      inf t=300.0s (ETA 1689.9m)
+23:06:50 [INFO]   [250/9855]   nuwls 2020-ms mul_8_9.wcnf                             cost=       42 t=300.0s (ETA 1537.4m)
+23:16:49 [INFO]   [300/9855]  bandhs 2020-ms heart_train_1_DNF_3_1.wcnf               cost=       46 t=300.0s (ETA 1592.8m)
+23:21:52 [INFO]   [350/9855]  bandhs 2020-ms GenHyperTW_hole6.wcnf                    cost=        7 t=300.0s (ETA 1494.9m)
+23:31:50 [INFO]   [400/9855]  bandhs 2020-ms TWComp_queen6_6_N36.wcnf                 cost=       26 t=300.0s (ETA 1536.8m)
+23:41:02 [INFO]   [450/9855]  bandhs 2020-ms SU3__simp-genos.haps.9.wcnf              cost=      106 t=300.0s (ETA 1551.3m)
+23:46:51 [INFO]   [500/9855]  bandhs 2020-ms MinFill_R0_queen7_7.wcnf                 cost=      507 t=300.0s (ETA 1497.4m)
+23:56:49 [INFO]   [550/9855] satlike 2020-ms rsdecoder4.dimacs.filtered.wcnf          cost=       66 t=300.0s (ETA 1522.8m)
+00:01:51 [INFO]   [600/9855] satlike 2020-ms atcoss_sugar_05.wcnf                     cost=      inf t=300.0s (ETA 1466.1m)
+00:11:50 [INFO]   [650/9855] satlike 2020-ms extension-enforcement_non-strict_stb_200 cost=        8 t=300.0s (ETA 1487.3m)
+00:16:52 [INFO]   [700/9855] satlike 2020-ms uaq-ppr-nr200-nc66-n5-k2-rpp6-ppr5-plb10 cost=       65 t=300.0s (ETA 1439.4m)

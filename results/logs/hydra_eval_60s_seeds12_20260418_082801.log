@@ -1,0 +1,809 @@
+2026-04-18 08:28:07 [INFO] Logging to file: results/logs/hydra_eval_60s_seeds12_20260418_082801.log
+2026-04-18 08:28:15 [INFO] Loading pre-trained model from ./hydra_pretrained
+2026-04-18 08:28:15 [INFO] 
+Discovering benchmarks in ./results/shard_v2_tmp/shard_1_bench...
+2026-04-18 08:28:16 [INFO]   ms2021: 33 instances
+2026-04-18 08:28:16 [INFO]   wms2020: 26 instances
+2026-04-18 08:28:16 [INFO]   wms2024: 229 instances
+2026-04-18 08:28:16 [INFO] 
+============================================================
+2026-04-18 08:28:16 [INFO]   EVALUATION: timeout=60.0s, seeds=2
+2026-04-18 08:28:16 [INFO] ============================================================
+2026-04-18 08:28:16 [INFO] 
+--- WMS 2020 (26 instances) ---
+2026-04-18 08:28:16 [INFO]   brock200_4.clq.wcnf            seed=1 cost=      0.00  time=   0.0s
+2026-04-18 08:28:16 [INFO]   brock200_4.clq.wcnf            seed=2 cost=      0.00  time=   0.0s
+2026-04-18 08:28:17 [INFO]   brock400_3.clq.wcnf            seed=1 cost=      0.00  time=   0.0s
+2026-04-18 08:28:17 [INFO]   brock400_3.clq.wcnf            seed=2 cost=      0.00  time=   0.0s
+2026-04-18 08:28:17 [INFO]   brock800_3.clq.wcnf            seed=1 cost=      0.00  time=   0.0s
+2026-04-18 08:28:17 [INFO]   brock800_3.clq.wcnf            seed=2 cost=      0.00  time=   0.0s
+2026-04-18 08:28:17 [INFO]   hamming6-2.clq.wcnf            seed=1 cost=      0.00  time=   0.2s
+2026-04-18 08:28:18 [INFO]   hamming6-2.clq.wcnf            seed=2 cost=      0.00  time=   0.3s
+2026-04-18 08:28:18 [INFO]   johnson8-4-4.clq.wcnf          seed=1 cost=      0.00  time=   0.3s
+2026-04-18 08:28:19 [INFO]   johnson8-4-4.clq.wcnf          seed=2 cost=      0.00  time=   0.3s
+2026-04-18 08:28:19 [INFO]   p_hat500-3.clq.wcnf            seed=1 cost=      0.00  time=   0.0s
+2026-04-18 08:28:19 [INFO]   p_hat500-3.clq.wcnf            seed=2 cost=      0.00  time=   0.1s
+2026-04-18 08:28:19 [INFO]   p_hat700-3.clq.wcnf            seed=1 cost=      0.00  time=   0.0s
+2026-04-18 08:28:19 [INFO]   p_hat700-3.clq.wcnf            seed=2 cost=      0.00  time=   0.0s
+2026-04-18 08:28:22 [INFO] Phase 1: Diffusion init (64 trajectories)...
+2026-04-18 08:28:49 [INFO]   Diffusion init best cost: 360422.0
+2026-04-18 08:28:49 [INFO] Phase 2: Evolutionary refinement (n=78, m=1001)...
+2026-04-18 08:29:20 [INFO] Final: cost=15760.0000, steps=43, pop_size=67, time=60.5s
+2026-04-18 08:29:20 [INFO]   ram_k3_n13.ra1.wcnf            seed=1 cost=  15760.00  time=  60.5s
+2026-04-18 08:29:22 [INFO] Phase 1: Diffusion init (64 trajectories)...
+2026-04-18 08:29:50 [INFO]   Diffusion init best cost: 360422.0
+2026-04-18 08:29:50 [INFO] Phase 2: Evolutionary refinement (n=78, m=1001)...
+2026-04-18 08:30:20 [INFO] Final: cost=13071.0000, steps=38, pop_size=118, time=60.1s
+2026-04-18 08:30:20 [INFO]   ram_k3_n13.ra1.wcnf            seed=2 cost=  13071.00  time=  60.2s
+2026-04-18 08:30:23 [INFO] Phase 1: Diffusion init (64 trajectories)...
+2026-04-18 08:31:04 [INFO]   Diffusion init best cost: 504950.0
+2026-04-18 08:31:04 [INFO] Phase 2: Evolutionary refinement (n=91, m=1365)...
+2026-04-18 08:31:22 [INFO] Final: cost=20428.0000, steps=21, pop_size=90, time=61.5s
+2026-04-18 08:31:22 [INFO]   ram_k3_n14.ra1.wcnf            seed=1 cost=  20428.00  time=  61.5s
+2026-04-18 08:31:24 [INFO] Phase 1: Diffusion init (64 trajectories)...
+2026-04-18 08:32:05 [INFO]   Diffusion init best cost: 504950.0
+2026-04-18 08:32:05 [INFO] Phase 2: Evolutionary refinement (n=91, m=1365)...
+2026-04-18 08:32:22 [INFO] Final: cost=21347.0000, steps=16, pop_size=84, time=60.6s
+2026-04-18 08:32:22 [INFO]   ram_k3_n14.ra1.wcnf            seed=2 cost=  21347.00  time=  60.6s
+2026-04-18 08:32:27 [INFO] Phase 1: Diffusion init (64 trajectories)...
+2026-04-18 08:33:26 [INFO]   Diffusion init best cost: 690848.0
+2026-04-18 08:33:26 [INFO] Phase 2: Evolutionary refinement (n=105, m=1820)...
+2026-04-18 08:33:26 [INFO] Final: cost=25484.0000, steps=0, pop_size=64, time=63.9s
+2026-04-18 08:33:26 [INFO]   ram_k3_n15.ra1.wcnf            seed=1 cost=  25484.00  time=  63.9s
+2026-04-18 08:33:31 [INFO] Phase 1: Diffusion init (64 trajectories)...
+2026-04-18 08:34:30 [INFO]   Diffusion init best cost: 690848.0
+2026-04-18 08:34:30 [INFO] Phase 2: Evolutionary refinement (n=105, m=1820)...
+2026-04-18 08:34:30 [INFO] Final: cost=28401.0000, steps=0, pop_size=64, time=63.9s
+2026-04-18 08:34:30 [INFO]   ram_k3_n15.ra1.wcnf            seed=2 cost=  28401.00  time=  63.9s
+2026-04-18 08:34:37 [INFO] Phase 1: Diffusion init (64 trajectories)...
+2026-04-18 08:36:04 [INFO]   Diffusion init best cost: 898741.0
+2026-04-18 08:36:04 [INFO] Phase 2: Evolutionary refinement (n=120, m=2380)...
+2026-04-18 08:36:04 [INFO] Final: cost=35998.0000, steps=0, pop_size=64, time=93.6s
+2026-04-18 08:36:04 [INFO]   ram_k3_n16.ra1.wcnf            seed=1 cost=  35998.00  time=  93.6s
+2026-04-18 08:36:10 [INFO] Phase 1: Diffusion init (64 trajectories)...
+2026-04-18 08:37:38 [INFO]   Diffusion init best cost: 898741.0
+2026-04-18 08:37:38 [INFO] Phase 2: Evolutionary refinement (n=120, m=2380)...
+2026-04-18 08:37:38 [INFO] Final: cost=32228.0000, steps=0, pop_size=64, time=93.6s
+2026-04-18 08:37:38 [INFO]   ram_k3_n16.ra1.wcnf            seed=2 cost=  32228.00  time=  93.6s
+2026-04-18 08:37:47 [INFO] Phase 1: Diffusion init (64 trajectories)...
+2026-04-18 08:39:53 [INFO]   Diffusion init best cost: 1191850.0
+2026-04-18 08:39:53 [INFO] Phase 2: Evolutionary refinement (n=136, m=3060)...
+2026-04-18 08:39:53 [INFO] Final: cost=47639.0000, steps=0, pop_size=64, time=135.5s
+2026-04-18 08:39:53 [INFO]   ram_k3_n17.ra1.wcnf            seed=1 cost=  47639.00  time= 135.5s
+2026-04-18 08:40:03 [INFO] Phase 1: Diffusion init (64 trajectories)...
+2026-04-18 08:42:09 [INFO]   Diffusion init best cost: 1191850.0
+2026-04-18 08:42:09 [INFO] Phase 2: Evolutionary refinement (n=136, m=3060)...
+2026-04-18 08:42:09 [INFO] Final: cost=45692.0000, steps=0, pop_size=64, time=135.6s
+2026-04-18 08:42:09 [INFO]   ram_k3_n17.ra1.wcnf            seed=2 cost=  45692.00  time= 135.6s
+2026-04-18 08:42:23 [INFO] Phase 1: Diffusion init (64 trajectories)...
+2026-04-18 08:45:27 [INFO]   Diffusion init best cost: 1521768.0
+2026-04-18 08:45:27 [INFO] Phase 2: Evolutionary refinement (n=153, m=3876)...
+2026-04-18 08:45:27 [INFO] Final: cost=56021.0000, steps=0, pop_size=64, time=197.3s
+2026-04-18 08:45:27 [INFO]   ram_k3_n18.ra1.wcnf            seed=1 cost=  56021.00  time= 197.3s
+2026-04-18 08:45:40 [INFO] Phase 1: Diffusion init (64 trajectories)...
+2026-04-18 08:48:44 [INFO]   Diffusion init best cost: 1521768.0
+2026-04-18 08:48:44 [INFO] Phase 2: Evolutionary refinement (n=153, m=3876)...
+2026-04-18 08:48:44 [INFO] Final: cost=58321.0000, steps=0, pop_size=64, time=196.8s
+2026-04-18 08:48:44 [INFO]   ram_k3_n18.ra1.wcnf            seed=2 cost=  58321.00  time= 196.8s
+2026-04-18 08:49:03 [INFO] Phase 1: Diffusion init (64 trajectories)...
+2026-04-18 08:53:27 [INFO]   Diffusion init best cost: 1951731.0
+2026-04-18 08:53:27 [INFO] Phase 2: Evolutionary refinement (n=171, m=4845)...
+2026-04-18 08:53:27 [INFO] Final: cost=72632.0000, steps=0, pop_size=64, time=283.6s
+2026-04-18 08:53:27 [INFO]   ram_k3_n19.ra1.wcnf            seed=1 cost=  72632.00  time= 283.6s
+2026-04-18 08:53:46 [INFO] Phase 1: Diffusion init (64 trajectories)...
+2026-04-18 08:58:11 [INFO]   Diffusion init best cost: 1951731.0
+2026-04-18 08:58:11 [INFO] Phase 2: Evolutionary refinement (n=171, m=4845)...
+2026-04-18 08:58:11 [INFO] Final: cost=75812.0000, steps=0, pop_size=64, time=283.4s
+2026-04-18 08:58:11 [INFO]   ram_k3_n19.ra1.wcnf            seed=2 cost=  75812.00  time= 283.4s
+2026-04-18 08:58:36 [INFO] Phase 1: Diffusion init (64 trajectories)...
+2026-04-18 09:04:50 [INFO]   Diffusion init best cost: 2441465.0
+2026-04-18 09:04:50 [INFO] Phase 2: Evolutionary refinement (n=190, m=5985)...
+2026-04-18 09:04:50 [INFO] Final: cost=85709.0000, steps=0, pop_size=64, time=399.5s
+2026-04-18 09:04:50 [INFO]   ram_k3_n20.ra1.wcnf            seed=1 cost=  85709.00  time= 399.5s
+2026-04-18 09:05:16 [INFO] Phase 1: Diffusion init (64 trajectories)...
+2026-04-18 09:11:30 [INFO]   Diffusion init best cost: 2441465.0
+2026-04-18 09:11:30 [INFO] Phase 2: Evolutionary refinement (n=190, m=5985)...
+2026-04-18 09:11:30 [INFO] Final: cost=88893.0000, steps=0, pop_size=64, time=399.9s
+2026-04-18 09:11:30 [INFO]   ram_k3_n20.ra1.wcnf            seed=2 cost=  88893.00  time= 399.9s
+2026-04-18 09:12:04 [INFO] Phase 1: Diffusion init (64 trajectories)...
+2026-04-18 09:21:28 [INFO]   Diffusion init best cost: 1538868.0
+2026-04-18 09:21:28 [INFO] Phase 2: Evolutionary refinement (n=153, m=6120)...
+2026-04-18 09:21:28 [INFO] Final: cost=29203.0000, steps=0, pop_size=64, time=597.8s
+2026-04-18 09:21:28 [INFO]   ram_k4_n18.ra1.wcnf            seed=1 cost=  29203.00  time= 597.8s
+2026-04-18 09:22:02 [INFO] Phase 1: Diffusion init (64 trajectories)...
+2026-04-18 09:31:26 [INFO]   Diffusion init best cost: 1538868.0
+2026-04-18 09:31:26 [INFO] Phase 2: Evolutionary refinement (n=153, m=6120)...
+2026-04-18 09:31:26 [INFO] Final: cost=28582.0000, steps=0, pop_size=64, time=597.8s
+2026-04-18 09:31:26 [INFO]   ram_k4_n18.ra1.wcnf            seed=2 cost=  28582.00  time= 597.8s
+2026-04-18 09:32:17 [INFO] Phase 1: Diffusion init (64 trajectories)...
+2026-04-18 09:46:11 [INFO]   Diffusion init best cost: 1927177.0
+2026-04-18 09:46:11 [INFO] Phase 2: Evolutionary refinement (n=171, m=7752)...
+2026-04-18 09:46:11 [INFO] Final: cost=40849.0000, steps=0, pop_size=64, time=884.9s
+2026-04-18 09:46:11 [INFO]   ram_k4_n19.ra1.wcnf            seed=1 cost=  40849.00  time= 884.9s
+2026-04-18 09:47:02 [INFO] Phase 1: Diffusion init (64 trajectories)...
+2026-04-18 10:00:56 [INFO]   Diffusion init best cost: 1927177.0
+2026-04-18 10:00:56 [INFO] Phase 2: Evolutionary refinement (n=171, m=7752)...
+2026-04-18 10:00:56 [INFO] Final: cost=37729.0000, steps=0, pop_size=64, time=884.4s
+2026-04-18 10:00:56 [INFO]   ram_k4_n19.ra1.wcnf            seed=2 cost=  37729.00  time= 884.4s
+2026-04-18 10:01:30 [ERROR]   ram_k4_n20.ra1.wcnf seed=1: FAILED (Allocation on device )
+2026-04-18 10:02:06 [ERROR]   ram_k4_n20.ra1.wcnf seed=2: FAILED (Allocation on device )
+2026-04-18 10:02:07 [INFO]   random-net-30-6_network-4.net.wcnf seed=1 cost=      0.00  time=   0.9s
+2026-04-18 10:02:08 [INFO]   random-net-30-6_network-4.net.wcnf seed=2 cost=      0.00  time=   0.8s
+2026-04-18 10:02:08 [INFO]   random-net-40-5_network-10.net.wcnf seed=1 cost=      0.00  time=   0.0s
+2026-04-18 10:02:08 [INFO]   random-net-40-5_network-10.net.wcnf seed=2 cost=      0.00  time=   0.0s
+2026-04-18 10:02:09 [INFO]   random-net-50-5_network-10.net.wcnf seed=1 cost=      0.00  time=   0.1s
+2026-04-18 10:02:09 [INFO]   random-net-50-5_network-10.net.wcnf seed=2 cost=      0.00  time=   0.2s
+2026-04-18 10:02:10 [INFO]   random-net-50-5_network-4.net.wcnf seed=1 cost=      0.00  time=   1.2s
+2026-04-18 10:02:11 [INFO]   random-net-50-5_network-4.net.wcnf seed=2 cost=      0.00  time=   0.9s
+2026-04-18 10:02:12 [INFO]   random-net-50-5_network-9.net.wcnf seed=1 cost=      0.00  time=   0.2s
+2026-04-18 10:02:12 [INFO]   random-net-50-5_network-9.net.wcnf seed=2 cost=      0.00  time=   0.1s
+2026-04-18 10:02:12 [INFO]   role_smallcomp_0.95_2.wcnf     seed=1 cost=      0.00  time=   0.0s
+2026-04-18 10:02:12 [INFO]   role_smallcomp_0.95_2.wcnf     seed=2 cost=      0.00  time=   0.0s
+2026-04-18 10:02:12 [INFO]   san200_0.7_1.clq.wcnf          seed=1 cost=      0.00  time=   0.0s
+2026-04-18 10:02:12 [INFO]   san200_0.7_1.clq.wcnf          seed=2 cost=      0.00  time=   0.0s
+2026-04-18 10:02:12 [INFO]   sanr200_0.7.clq.wcnf           seed=1 cost=      0.00  time=   0.1s
+2026-04-18 10:02:13 [INFO]   sanr200_0.7.clq.wcnf           seed=2 cost=      0.00  time=   0.0s
+2026-04-18 10:02:13 [INFO] 
+--- MS 2021 (33 instances) ---
+2026-04-18 10:02:13 [INFO]   brock200_3.clq.wcnf            seed=1 cost=      0.00  time=   0.1s
+2026-04-18 10:02:13 [INFO]   brock200_3.clq.wcnf            seed=2 cost=      0.00  time=   0.0s
+2026-04-18 10:02:13 [INFO]   data.135.wcnf                  seed=1 cost=      0.00  time=   0.1s
+2026-04-18 10:02:13 [INFO]   data.135.wcnf                  seed=2 cost=      0.00  time=   0.0s
+2026-04-18 10:02:13 [INFO]   maxcut-140-630-0.7-12.wcnf     seed=1 cost=      0.00  time=   0.1s
+2026-04-18 10:02:14 [INFO]   maxcut-140-630-0.7-12.wcnf     seed=2 cost=      0.00  time=   0.1s
+2026-04-18 10:02:14 [INFO]   maxcut-140-630-0.7-20.wcnf     seed=1 cost=      0.00  time=   0.0s
+2026-04-18 10:02:14 [INFO]   maxcut-140-630-0.7-20.wcnf     seed=2 cost=      0.00  time=   0.0s
+2026-04-18 10:02:14 [INFO]   maxcut-140-630-0.7-28.wcnf     seed=1 cost=      0.00  time=   0.1s
+2026-04-18 10:02:14 [INFO]   maxcut-140-630-0.7-28.wcnf     seed=2 cost=      0.00  time=   0.1s
+2026-04-18 10:02:14 [INFO]   maxcut-140-630-0.7-4.wcnf      seed=1 cost=      0.00  time=   0.0s
+2026-04-18 10:02:15 [INFO]   maxcut-140-630-0.7-4.wcnf      seed=2 cost=      0.00  time=   0.0s
+2026-04-18 10:02:15 [INFO]   maxcut-140-630-0.7-45.wcnf     seed=1 cost=      0.00  time=   0.2s
+2026-04-18 10:02:15 [INFO]   maxcut-140-630-0.7-45.wcnf     seed=2 cost=      0.00  time=   0.0s
+2026-04-18 10:02:15 [INFO]   maxcut-140-630-0.7-6.wcnf      seed=1 cost=      0.00  time=   0.0s
+2026-04-18 10:02:15 [INFO]   maxcut-140-630-0.7-6.wcnf      seed=2 cost=      0.00  time=   0.0s
+2026-04-18 10:02:15 [INFO]   maxcut-140-630-0.8-1.wcnf      seed=1 cost=      0.00  time=   0.1s
+2026-04-18 10:02:16 [INFO]   maxcut-140-630-0.8-1.wcnf      seed=2 cost=      0.00  time=   0.0s
+2026-04-18 10:02:16 [INFO]   maxcut-140-630-0.8-18.wcnf     seed=1 cost=      0.00  time=   0.0s
+2026-04-18 10:02:16 [INFO]   maxcut-140-630-0.8-18.wcnf     seed=2 cost=      0.00  time=   0.0s
+2026-04-18 10:02:16 [INFO]   maxcut-140-630-0.8-26.wcnf     seed=1 cost=      0.00  time=   0.1s
+2026-04-18 10:02:16 [INFO]   maxcut-140-630-0.8-26.wcnf     seed=2 cost=      0.00  time=   0.0s
+2026-04-18 10:02:16 [INFO]   maxcut-140-630-0.8-39.wcnf     seed=1 cost=      0.00  time=   0.0s
+2026-04-18 10:02:17 [INFO]   maxcut-140-630-0.8-39.wcnf     seed=2 cost=      0.00  time=   0.1s
+2026-04-18 10:02:17 [INFO]   normalized-test4.pi.opb.msat.wcnf seed=1 cost=      0.00  time=   0.1s
+2026-04-18 10:02:17 [INFO]   normalized-test4.pi.opb.msat.wcnf seed=2 cost=      0.00  time=   0.0s
+2026-04-18 10:02:18 [INFO] Phase 1: Diffusion init (64 trajectories)...
+2026-04-18 10:02:44 [INFO]   Diffusion init best cost: 9.0
+2026-04-18 10:02:44 [INFO] Phase 2: Evolutionary refinement (n=45, m=330)...
+2026-04-18 10:03:17 [INFO] Final: cost=7.0000, steps=59, pop_size=86, time=60.0s
+2026-04-18 10:03:17 [INFO]   ram_k3_n10.ra0.wcnf            seed=1 cost=      7.00  time=  60.1s
+2026-04-18 10:03:18 [INFO] Phase 1: Diffusion init (64 trajectories)...
+2026-04-18 10:03:44 [INFO]   Diffusion init best cost: 13.0
+2026-04-18 10:03:44 [INFO] Phase 2: Evolutionary refinement (n=45, m=330)...
+2026-04-18 10:04:18 [INFO] Final: cost=9.0000, steps=52, pop_size=78, time=60.3s
+2026-04-18 10:04:18 [INFO]   ram_k3_n10.ra0.wcnf            seed=2 cost=      9.00  time=  60.3s
+2026-04-18 10:04:18 [INFO] Phase 1: Diffusion init (64 trajectories)...
+2026-04-18 10:04:45 [INFO]   Diffusion init best cost: 23.0
+2026-04-18 10:04:45 [INFO] Phase 2: Evolutionary refinement (n=55, m=495)...
+2026-04-18 10:05:19 [INFO] Final: cost=13.0000, steps=56, pop_size=83, time=60.9s
+2026-04-18 10:05:19 [INFO]   ram_k3_n11.ra0.wcnf            seed=1 cost=     13.00  time=  61.0s
+2026-04-18 10:05:19 [INFO] Phase 1: Diffusion init (64 trajectories)...
+2026-04-18 10:05:46 [INFO]   Diffusion init best cost: 22.0
+2026-04-18 10:05:46 [INFO] Phase 2: Evolutionary refinement (n=55, m=495)...
+2026-04-18 10:06:21 [INFO] Final: cost=13.0000, steps=51, pop_size=77, time=61.7s
+2026-04-18 10:06:21 [INFO]   ram_k3_n11.ra0.wcnf            seed=2 cost=     13.00  time=  61.7s
+2026-04-18 10:06:22 [INFO] Phase 1: Diffusion init (64 trajectories)...
+2026-04-18 10:06:48 [INFO]   Diffusion init best cost: 55.0
+2026-04-18 10:06:48 [INFO] Phase 2: Evolutionary refinement (n=66, m=715)...
+2026-04-18 10:07:21 [INFO] Final: cost=22.0000, steps=53, pop_size=79, time=60.2s
+2026-04-18 10:07:21 [INFO]   ram_k3_n12.ra0.wcnf            seed=1 cost=     22.00  time=  60.2s
+2026-04-18 10:07:22 [INFO] Phase 1: Diffusion init (64 trajectories)...
+2026-04-18 10:07:49 [INFO]   Diffusion init best cost: 51.0
+2026-04-18 10:07:49 [INFO] Phase 2: Evolutionary refinement (n=66, m=715)...
+2026-04-18 10:08:21 [INFO] Final: cost=22.0000, steps=46, pop_size=71, time=60.3s
+2026-04-18 10:08:21 [INFO]   ram_k3_n12.ra0.wcnf            seed=2 cost=     22.00  time=  60.3s
+2026-04-18 10:08:23 [INFO] Phase 1: Diffusion init (64 trajectories)...
+2026-04-18 10:08:51 [INFO]   Diffusion init best cost: 206.0
+2026-04-18 10:08:51 [INFO] Phase 2: Evolutionary refinement (n=78, m=1001)...
+2026-04-18 10:09:24 [INFO] Final: cost=32.0000, steps=46, pop_size=71, time=62.4s
+2026-04-18 10:09:24 [INFO]   ram_k3_n13.ra0.wcnf            seed=1 cost=     32.00  time=  62.4s
+2026-04-18 10:09:26 [INFO] Phase 1: Diffusion init (64 trajectories)...
+2026-04-18 10:09:53 [INFO]   Diffusion init best cost: 198.0
+2026-04-18 10:09:53 [INFO] Phase 2: Evolutionary refinement (n=78, m=1001)...
+2026-04-18 10:10:26 [INFO] Final: cost=27.0000, steps=41, pop_size=122, time=62.4s
+2026-04-18 10:10:26 [INFO]   ram_k3_n13.ra0.wcnf            seed=2 cost=     27.00  time=  62.4s
+2026-04-18 10:10:29 [INFO] Phase 1: Diffusion init (64 trajectories)...
+2026-04-18 10:11:10 [INFO]   Diffusion init best cost: 453.0
+2026-04-18 10:11:10 [INFO] Phase 2: Evolutionary refinement (n=91, m=1365)...
+2026-04-18 10:11:27 [INFO] Final: cost=44.0000, steps=21, pop_size=90, time=60.8s
+2026-04-18 10:11:27 [INFO]   ram_k3_n14.ra0.wcnf            seed=1 cost=     44.00  time=  60.8s
+2026-04-18 10:11:30 [INFO] Phase 1: Diffusion init (64 trajectories)...
+2026-04-18 10:12:11 [INFO]   Diffusion init best cost: 506.0
+2026-04-18 10:12:11 [INFO] Phase 2: Evolutionary refinement (n=91, m=1365)...
+2026-04-18 10:12:28 [INFO] Final: cost=44.0000, steps=17, pop_size=85, time=60.4s
+2026-04-18 10:12:28 [INFO]   ram_k3_n14.ra0.wcnf            seed=2 cost=     44.00  time=  60.4s
+2026-04-18 10:12:32 [INFO] Phase 1: Diffusion init (64 trajectories)...
+2026-04-18 10:13:32 [INFO]   Diffusion init best cost: 760.0
+2026-04-18 10:13:32 [INFO] Phase 2: Evolutionary refinement (n=105, m=1820)...
+2026-04-18 10:13:32 [INFO] Final: cost=53.0000, steps=0, pop_size=64, time=63.6s
+2026-04-18 10:13:32 [INFO]   ram_k3_n15.ra0.wcnf            seed=1 cost=     53.00  time=  63.6s
+2026-04-18 10:13:36 [INFO] Phase 1: Diffusion init (64 trajectories)...
+2026-04-18 10:14:36 [INFO]   Diffusion init best cost: 554.0
+2026-04-18 10:14:36 [INFO] Phase 2: Evolutionary refinement (n=105, m=1820)...
+2026-04-18 10:14:36 [INFO] Final: cost=60.0000, steps=0, pop_size=64, time=63.6s
+2026-04-18 10:14:36 [INFO]   ram_k3_n15.ra0.wcnf            seed=2 cost=     60.00  time=  63.6s
+2026-04-18 10:14:48 [INFO] Phase 1: Diffusion init (64 trajectories)...
+2026-04-18 10:17:52 [INFO]   Diffusion init best cost: 2182.0
+2026-04-18 10:17:52 [INFO] Phase 2: Evolutionary refinement (n=153, m=3876)...
+2026-04-18 10:17:52 [INFO] Final: cost=116.0000, steps=0, pop_size=64, time=196.7s
+2026-04-18 10:17:52 [INFO]   ram_k3_n18.ra0.wcnf            seed=1 cost=    116.00  time= 196.7s
+2026-04-18 10:18:05 [INFO] Phase 1: Diffusion init (64 trajectories)...
+2026-04-18 10:21:09 [INFO]   Diffusion init best cost: 1999.0
+2026-04-18 10:21:09 [INFO] Phase 2: Evolutionary refinement (n=153, m=3876)...
+2026-04-18 10:21:09 [INFO] Final: cost=117.0000, steps=0, pop_size=64, time=196.6s
+2026-04-18 10:21:09 [INFO]   ram_k3_n18.ra0.wcnf            seed=2 cost=    117.00  time= 196.6s
+2026-04-18 10:21:27 [INFO] Phase 1: Diffusion init (64 trajectories)...
+2026-04-18 10:25:52 [INFO]   Diffusion init best cost: 2700.0
+2026-04-18 10:25:52 [INFO] Phase 2: Evolutionary refinement (n=171, m=4845)...
+2026-04-18 10:25:52 [INFO] Final: cost=148.0000, steps=0, pop_size=64, time=283.0s
+2026-04-18 10:25:52 [INFO]   ram_k3_n19.ra0.wcnf            seed=1 cost=    148.00  time= 283.0s
+2026-04-18 10:26:11 [INFO] Phase 1: Diffusion init (64 trajectories)...
+2026-04-18 10:30:36 [INFO]   Diffusion init best cost: 2673.0
+2026-04-18 10:30:36 [INFO] Phase 2: Evolutionary refinement (n=171, m=4845)...
+2026-04-18 10:30:36 [INFO] Final: cost=153.0000, steps=0, pop_size=64, time=283.4s
+2026-04-18 10:30:36 [INFO]   ram_k3_n19.ra0.wcnf            seed=2 cost=    153.00  time= 283.4s
+2026-04-18 10:31:10 [INFO] Phase 1: Diffusion init (64 trajectories)...
+2026-04-18 10:40:34 [INFO]   Diffusion init best cost: 2118.0
+2026-04-18 10:40:34 [INFO] Phase 2: Evolutionary refinement (n=153, m=6120)...
+2026-04-18 10:40:34 [INFO] Final: cost=60.0000, steps=0, pop_size=64, time=598.3s
+2026-04-18 10:40:34 [INFO]   ram_k4_n18.ra0.wcnf            seed=1 cost=     60.00  time= 598.3s
+2026-04-18 10:41:08 [INFO] Phase 1: Diffusion init (64 trajectories)...
+2026-04-18 10:50:33 [INFO]   Diffusion init best cost: 1865.0
+2026-04-18 10:50:33 [INFO] Phase 2: Evolutionary refinement (n=153, m=6120)...
+2026-04-18 10:50:33 [INFO] Final: cost=61.0000, steps=0, pop_size=64, time=598.1s
+2026-04-18 10:50:33 [INFO]   ram_k4_n18.ra0.wcnf            seed=2 cost=     61.00  time= 598.1s
+2026-04-18 10:51:23 [INFO] Phase 1: Diffusion init (64 trajectories)...
+2026-04-18 11:05:17 [INFO]   Diffusion init best cost: 2700.0
+2026-04-18 11:05:18 [INFO] Phase 2: Evolutionary refinement (n=171, m=7752)...
+2026-04-18 11:05:18 [INFO] Final: cost=81.0000, steps=0, pop_size=64, time=884.8s
+2026-04-18 11:05:18 [INFO]   ram_k4_n19.ra0.wcnf            seed=1 cost=     81.00  time= 884.8s
+2026-04-18 11:06:08 [INFO] Phase 1: Diffusion init (64 trajectories)...
+2026-04-18 11:20:03 [INFO]   Diffusion init best cost: 2659.0
+2026-04-18 11:20:03 [INFO] Phase 2: Evolutionary refinement (n=171, m=7752)...
+2026-04-18 11:20:03 [INFO] Final: cost=79.0000, steps=0, pop_size=64, time=885.1s
+2026-04-18 11:20:03 [INFO]   ram_k4_n19.ra0.wcnf            seed=2 cost=     79.00  time= 885.1s
+2026-04-18 11:20:37 [ERROR]   ram_k4_n20.ra0.wcnf seed=1: FAILED (Allocation on device )
+2026-04-18 11:21:13 [ERROR]   ram_k4_n20.ra0.wcnf seed=2: FAILED (Allocation on device )
+2026-04-18 11:21:14 [INFO]   scpclr11_maxsat.wcnf           seed=1 cost=      0.00  time=   0.0s
+2026-04-18 11:21:14 [INFO]   scpclr11_maxsat.wcnf           seed=2 cost=      0.00  time=   0.0s
+2026-04-18 11:21:14 [INFO]   scpclr12_maxsat.wcnf           seed=1 cost=      0.00  time=   0.1s
+2026-04-18 11:21:14 [INFO]   scpclr12_maxsat.wcnf           seed=2 cost=      0.00  time=   0.0s
+2026-04-18 11:21:14 [INFO]   scpclr13_maxsat.wcnf           seed=1 cost=      0.00  time=   0.1s
+2026-04-18 11:21:15 [INFO]   scpclr13_maxsat.wcnf           seed=2 cost=      0.00  time=   0.1s
+2026-04-18 11:21:15 [INFO]   scpcyc06_maxsat.wcnf           seed=1 cost=      0.00  time=   0.0s
+2026-04-18 11:21:15 [INFO]   scpcyc06_maxsat.wcnf           seed=2 cost=      0.00  time=   0.0s
+2026-04-18 11:21:15 [INFO]   scpcyc07_maxsat.wcnf           seed=1 cost=      0.00  time=   0.0s
+2026-04-18 11:21:15 [INFO]   scpcyc07_maxsat.wcnf           seed=2 cost=      0.00  time=   0.0s
+2026-04-18 11:21:15 [INFO]   scpcyc08_maxsat.wcnf           seed=1 cost=      0.00  time=   0.0s
+2026-04-18 11:21:15 [INFO]   scpcyc08_maxsat.wcnf           seed=2 cost=      0.00  time=   0.0s
+2026-04-18 11:21:15 [INFO]   scpcyc09_maxsat.wcnf           seed=1 cost=      0.00  time=   0.0s
+2026-04-18 11:21:16 [INFO]   scpcyc09_maxsat.wcnf           seed=2 cost=      0.00  time=   0.0s
+2026-04-18 11:21:16 [INFO]   uaq-min-nr-nr50-np400-rpp5-nc0-rs0-t0-plb100-n9.wcnf seed=1 cost=      0.00  time=   0.2s
+2026-04-18 11:21:16 [INFO]   uaq-min-nr-nr50-np400-rpp5-nc0-rs0-t0-plb100-n9.wcnf seed=2 cost=      0.00  time=   0.0s
+2026-04-18 11:21:17 [INFO]   uaq-ppr-nr200-nc66-n5-k2-rpp4-ppr13-plb100.wcnf seed=1 cost=      0.00  time=   0.5s
+2026-04-18 11:21:17 [INFO]   uaq-ppr-nr200-nc66-n5-k2-rpp4-ppr13-plb100.wcnf seed=2 cost=      0.00  time=   0.6s
+2026-04-18 11:21:17 [INFO] 
+--- WMS 2024 (229 instances) ---
+2026-04-18 11:21:18 [ERROR]   BTBNSL_wt-Rounded_BTWBNSL_Flag.BIC_TWBound_3.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:19 [ERROR]   BTBNSL_wt-Rounded_BTWBNSL_Flag.BIC_TWBound_3.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:19 [ERROR]   BTBNSL_wt-Rounded_BTWBNSL_Flag.BIC_TWBound_4.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:19 [ERROR]   BTBNSL_wt-Rounded_BTWBNSL_Flag.BIC_TWBound_4.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:19 [ERROR]   BTBNSL_wt-Rounded_BTWBNSL_Hepatitis.BIC_TWBound4.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:19 [ERROR]   BTBNSL_wt-Rounded_BTWBNSL_Hepatitis.BIC_TWBound4.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:19 [ERROR]   BTBNSL_wt-Rounded_BTWBNSL_Horse.BIC_TWBound_2.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:19 [ERROR]   BTBNSL_wt-Rounded_BTWBNSL_Horse.BIC_TWBound_2.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:19 [ERROR]   BTBNSL_wt-Rounded_BTWBNSL_Water_1000_1_2.scores_TWBound_3.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:20 [ERROR]   BTBNSL_wt-Rounded_BTWBNSL_Water_1000_1_2.scores_TWBound_3.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:20 [ERROR]   BTBNSL_wt-Rounded_BTWBNSL_Wine_TWBound_3.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:20 [ERROR]   BTBNSL_wt-Rounded_BTWBNSL_Wine_TWBound_3.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:20 [ERROR]   BTBNSL_wt-Rounded_BTWBNSL_alarm_100_1_3.scores_TWBound_3.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:20 [ERROR]   BTBNSL_wt-Rounded_BTWBNSL_alarm_100_1_3.scores_TWBound_3.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:20 [ERROR]   BTBNSL_wt-Rounded_BTWBNSL_hailfinder_10000_1_3.scores_TWBound_3.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:20 [ERROR]   BTBNSL_wt-Rounded_BTWBNSL_hailfinder_10000_1_3.scores_TWBound_3.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:20 [ERROR]   BTBNSL_wt-Rounded_BTWBNSL_hailfinder_1000_1_3.scores_TWBound_2.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:20 [ERROR]   BTBNSL_wt-Rounded_BTWBNSL_hailfinder_1000_1_3.scores_TWBound_2.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:21 [ERROR]   BTBNSL_wt-Rounded_BTWBNSL_hailfinder_1000_1_3.scores_TWBound_3.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:21 [ERROR]   BTBNSL_wt-Rounded_BTWBNSL_hailfinder_1000_1_3.scores_TWBound_3.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:21 [ERROR]   BTBNSL_wt-Rounded_BTWBNSL_hailfinder_1000_1_3.scores_TWBound_4.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:21 [ERROR]   BTBNSL_wt-Rounded_BTWBNSL_hailfinder_1000_1_3.scores_TWBound_4.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:21 [ERROR]   BTBNSL_wt-Rounded_BTWBNSL_insurance_1000_1_3.scores_TWBound_3.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:21 [ERROR]   BTBNSL_wt-Rounded_BTWBNSL_insurance_1000_1_3.scores_TWBound_3.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:21 [ERROR]   BTBNSL_wt-Rounded_BTWBNSL_insurance_1000_1_3.scores_TWBound_4.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:21 [ERROR]   BTBNSL_wt-Rounded_BTWBNSL_insurance_1000_1_3.scores_TWBound_4.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:22 [ERROR]   BTBNSL_wt-Rounded_BTWBNSL_insurance_100_1_3.scores_TWBound_3.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:22 [ERROR]   BTBNSL_wt-Rounded_BTWBNSL_insurance_100_1_3.scores_TWBound_3.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:22 [ERROR]   CSG_wt-CSG140-140-6.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:22 [ERROR]   CSG_wt-CSG140-140-6.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:22 [ERROR]   CSG_wt-CSGNaive140-140-6.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:22 [ERROR]   CSG_wt-CSGNaive140-140-6.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:22 [ERROR]   MaxSATQueriesinInterpretableClassifiers_wt-compas_train_2_CNF_3_15.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:22 [ERROR]   MaxSATQueriesinInterpretableClassifiers_wt-compas_train_2_CNF_3_15.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:22 [ERROR]   MaxSATQueriesinInterpretableClassifiers_wt-heart_train_1_CNF_3_5.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:23 [ERROR]   MaxSATQueriesinInterpretableClassifiers_wt-heart_train_1_CNF_3_5.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:23 [ERROR]   MaxSATQueriesinInterpretableClassifiers_wt-twitter_train_5_CNF_4_10.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:23 [ERROR]   MaxSATQueriesinInterpretableClassifiers_wt-twitter_train_5_CNF_4_10.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:23 [ERROR]   MinimumWeightDominatingSetProblem_wt-bn-human-BNU_1_0025865_session_1-bg.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:23 [ERROR]   MinimumWeightDominatingSetProblem_wt-bn-human-BNU_1_0025865_session_1-bg.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:23 [ERROR]   MinimumWeightDominatingSetProblem_wt-channel-500x100x100-b050.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:23 [ERROR]   MinimumWeightDominatingSetProblem_wt-channel-500x100x100-b050.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:24 [ERROR]   MinimumWeightDominatingSetProblem_wt-delaunay_n24.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:24 [ERROR]   MinimumWeightDominatingSetProblem_wt-delaunay_n24.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:24 [ERROR]   MinimumWeightDominatingSetProblem_wt-hugebubbles-00020.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:24 [ERROR]   MinimumWeightDominatingSetProblem_wt-hugebubbles-00020.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:24 [ERROR]   MinimumWeightDominatingSetProblem_wt-inf-road-usa.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:24 [ERROR]   MinimumWeightDominatingSetProblem_wt-inf-road-usa.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:24 [ERROR]   MinimumWeightDominatingSetProblem_wt-rgg_n_2_24_s0.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:24 [ERROR]   MinimumWeightDominatingSetProblem_wt-rgg_n_2_24_s0.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:25 [ERROR]   MinimumWeightDominatingSetProblem_wt-sc-rel9.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:25 [ERROR]   MinimumWeightDominatingSetProblem_wt-sc-rel9.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:25 [ERROR]   MinimumWeightDominatingSetProblem_wt-soc-livejournal-user-groups.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:25 [ERROR]   MinimumWeightDominatingSetProblem_wt-soc-livejournal-user-groups.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:25 [ERROR]   MinimumWeightDominatingSetProblem_wt-socfb-uci-uni.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:25 [ERROR]   MinimumWeightDominatingSetProblem_wt-socfb-uci-uni.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:25 [ERROR]   MinimumWeightDominatingSetProblem_wt-web-wikipedia2009.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:25 [ERROR]   MinimumWeightDominatingSetProblem_wt-web-wikipedia2009.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:25 [ERROR]   ParametricRBACMaintenance_mse20_wt-role_domino_multiple_0.1_1.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:26 [ERROR]   ParametricRBACMaintenance_mse20_wt-role_domino_multiple_0.1_1.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:26 [ERROR]   ParametricRBACMaintenance_mse20_wt-role_domino_multiple_0.3_1.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:26 [ERROR]   ParametricRBACMaintenance_mse20_wt-role_domino_multiple_0.3_1.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:26 [ERROR]   ParametricRBACMaintenance_mse20_wt-role_domino_multiple_0.3_9.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:26 [ERROR]   ParametricRBACMaintenance_mse20_wt-role_domino_multiple_0.3_9.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:27 [ERROR]   ParametricRBACMaintenance_mse20_wt-role_domino_multiple_0.4_0.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:27 [ERROR]   ParametricRBACMaintenance_mse20_wt-role_domino_multiple_0.4_0.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:27 [ERROR]   ParametricRBACMaintenance_mse20_wt-role_domino_multiple_0.4_1.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:27 [ERROR]   ParametricRBACMaintenance_mse20_wt-role_domino_multiple_0.4_1.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:27 [ERROR]   ParametricRBACMaintenance_mse20_wt-role_domino_multiple_0.5_6.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:28 [ERROR]   ParametricRBACMaintenance_mse20_wt-role_domino_multiple_0.5_6.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:28 [ERROR]   ParametricRBACMaintenance_mse20_wt-role_domino_multiple_0.5_7.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:28 [ERROR]   ParametricRBACMaintenance_mse20_wt-role_domino_multiple_0.5_7.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:28 [ERROR]   ParametricRBACMaintenance_mse20_wt-role_domino_multiple_0.7_0.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:28 [ERROR]   ParametricRBACMaintenance_mse20_wt-role_domino_multiple_0.7_0.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:29 [ERROR]   ParametricRBACMaintenance_mse20_wt-role_domino_multiple_0.7_7.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:29 [ERROR]   ParametricRBACMaintenance_mse20_wt-role_domino_multiple_0.7_7.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:29 [ERROR]   ParametricRBACMaintenance_mse20_wt-role_smallcomp_multiple_0.1_9.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:29 [ERROR]   ParametricRBACMaintenance_mse20_wt-role_smallcomp_multiple_0.1_9.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:29 [ERROR]   ParametricRBACMaintenance_mse20_wt-role_smallcomp_multiple_0.4_2.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:29 [ERROR]   ParametricRBACMaintenance_mse20_wt-role_smallcomp_multiple_0.4_2.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:29 [ERROR]   ParametricRBACMaintenance_mse20_wt-role_smallcomp_multiple_0.5_2.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:29 [ERROR]   ParametricRBACMaintenance_mse20_wt-role_smallcomp_multiple_0.5_2.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:30 [ERROR]   ParametricRBACMaintenance_mse20_wt-role_smallcomp_multiple_0.8_0.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:30 [ERROR]   ParametricRBACMaintenance_mse20_wt-role_smallcomp_multiple_0.8_0.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:30 [ERROR]   ParametricRBACMaintenance_mse20_wt-role_smallcomp_multiple_0.8_2.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:30 [ERROR]   ParametricRBACMaintenance_mse20_wt-role_smallcomp_multiple_0.8_2.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:30 [ERROR]   ParametricRBACMaintenance_mse20_wt-role_smallcomp_multiple_0.8_6.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:30 [ERROR]   ParametricRBACMaintenance_mse20_wt-role_smallcomp_multiple_0.8_6.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:30 [ERROR]   abstraction-refinement_wt-downcast-antlr.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:30 [ERROR]   abstraction-refinement_wt-downcast-antlr.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:30 [ERROR]   abstraction-refinement_wt-downcast-avrora.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:31 [ERROR]   abstraction-refinement_wt-downcast-avrora.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:31 [ERROR]   abstraction-refinement_wt-downcast-hsqldb.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:31 [ERROR]   abstraction-refinement_wt-downcast-hsqldb.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:31 [ERROR]   abstraction-refinement_wt-downcast-pmd.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:31 [ERROR]   abstraction-refinement_wt-downcast-pmd.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:31 [ERROR]   abstraction-refinement_wt-downcast-xalan.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:31 [ERROR]   abstraction-refinement_wt-downcast-xalan.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:31 [ERROR]   abstraction-refinement_wt-polysite-avrora.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:31 [ERROR]   abstraction-refinement_wt-polysite-avrora.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:32 [ERROR]   abstraction-refinement_wt-polysite-bloat.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:32 [ERROR]   abstraction-refinement_wt-polysite-bloat.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:32 [ERROR]   abstraction-refinement_wt-polysite-hsqldb.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:32 [ERROR]   abstraction-refinement_wt-polysite-hsqldb.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:32 [ERROR]   abstraction-refinement_wt-polysite-lusearch.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:32 [ERROR]   abstraction-refinement_wt-polysite-lusearch.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:33 [ERROR]   abstraction-refinement_wt-polysite-pmd.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:33 [ERROR]   abstraction-refinement_wt-polysite-pmd.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:33 [ERROR]   abstraction-refinement_wt-polysite-xalan.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:33 [ERROR]   abstraction-refinement_wt-polysite-xalan.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:34 [ERROR]   af-synthesis_wt-af-synthesis_stb_50_100_4.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:34 [ERROR]   af-synthesis_wt-af-synthesis_stb_50_100_4.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:34 [ERROR]   af-synthesis_wt-af-synthesis_stb_50_120_5.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:34 [ERROR]   af-synthesis_wt-af-synthesis_stb_50_120_5.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:34 [ERROR]   af-synthesis_wt-af-synthesis_stb_50_140_0.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:34 [ERROR]   af-synthesis_wt-af-synthesis_stb_50_140_0.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:34 [ERROR]   af-synthesis_wt-af-synthesis_stb_50_140_1.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:34 [ERROR]   af-synthesis_wt-af-synthesis_stb_50_140_1.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:34 [ERROR]   af-synthesis_wt-af-synthesis_stb_50_140_7.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:35 [ERROR]   af-synthesis_wt-af-synthesis_stb_50_140_7.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:35 [ERROR]   af-synthesis_wt-af-synthesis_stb_50_160_1.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:35 [ERROR]   af-synthesis_wt-af-synthesis_stb_50_160_1.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:35 [ERROR]   af-synthesis_wt-af-synthesis_stb_50_160_5.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:35 [ERROR]   af-synthesis_wt-af-synthesis_stb_50_160_5.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:35 [ERROR]   af-synthesis_wt-af-synthesis_stb_50_160_9.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:35 [ERROR]   af-synthesis_wt-af-synthesis_stb_50_160_9.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:35 [ERROR]   af-synthesis_wt-af-synthesis_stb_50_200_0.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:35 [ERROR]   af-synthesis_wt-af-synthesis_stb_50_200_0.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:36 [ERROR]   af-synthesis_wt-af-synthesis_stb_50_200_5.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:36 [ERROR]   af-synthesis_wt-af-synthesis_stb_50_200_5.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:36 [ERROR]   af-synthesis_wt-af-synthesis_stb_50_20_4.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:36 [ERROR]   af-synthesis_wt-af-synthesis_stb_50_20_4.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:36 [ERROR]   af-synthesis_wt-af-synthesis_stb_50_20_8.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:36 [ERROR]   af-synthesis_wt-af-synthesis_stb_50_20_8.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:36 [ERROR]   af-synthesis_wt-af-synthesis_stb_50_40_0.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:36 [ERROR]   af-synthesis_wt-af-synthesis_stb_50_40_0.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:36 [ERROR]   af-synthesis_wt-af-synthesis_stb_50_40_6.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:36 [ERROR]   af-synthesis_wt-af-synthesis_stb_50_40_6.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:37 [ERROR]   af-synthesis_wt-af-synthesis_stb_50_40_8.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:37 [ERROR]   af-synthesis_wt-af-synthesis_stb_50_40_8.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:37 [ERROR]   causal-discovery_wt-causal_Bands_6_277.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:37 [ERROR]   causal-discovery_wt-causal_Bands_6_277.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:37 [ERROR]   causal-discovery_wt-causal_Mildew_8_1000.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:37 [ERROR]   causal-discovery_wt-causal_Mildew_8_1000.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:37 [ERROR]   causal-discovery_wt-causal_Water_10_100.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:37 [ERROR]   causal-discovery_wt-causal_Water_10_100.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:37 [ERROR]   causal-discovery_wt-causal_hailfinder_7_100.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:38 [ERROR]   causal-discovery_wt-causal_hailfinder_7_100.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:38 [ERROR]   causal-discovery_wt-causal_insurance_8_10000.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:38 [ERROR]   causal-discovery_wt-causal_insurance_8_10000.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:38 [ERROR]   causal-discovery_wt-causal_n6_i2_N500_uai13_log_int.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:38 [ERROR]   causal-discovery_wt-causal_n6_i2_N500_uai13_log_int.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:38 [ERROR]   causal-discovery_wt-causal_n7_i4_N500_uai14_log_int.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:38 [ERROR]   causal-discovery_wt-causal_n7_i4_N500_uai14_log_int.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:38 [ERROR]   correlation-clustering_wt-Rounded_CorrelationClustering_Ionosphere_BINARY_N280_D0.200.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:38 [ERROR]   correlation-clustering_wt-Rounded_CorrelationClustering_Ionosphere_BINARY_N280_D0.200.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:39 [ERROR]   correlation-clustering_wt-Rounded_CorrelationClustering_Ionosphere_BINARY_N300_D0.200.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:39 [ERROR]   correlation-clustering_wt-Rounded_CorrelationClustering_Ionosphere_BINARY_N300_D0.200.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:39 [ERROR]   correlation-clustering_wt-Rounded_CorrelationClustering_Protein1_BINARY_N320.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:39 [ERROR]   correlation-clustering_wt-Rounded_CorrelationClustering_Protein1_BINARY_N320.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:39 [ERROR]   correlation-clustering_wt-Rounded_CorrelationClustering_Protein1_BINARY_N400.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:39 [ERROR]   correlation-clustering_wt-Rounded_CorrelationClustering_Protein1_BINARY_N400.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:39 [ERROR]   correlation-clustering_wt-Rounded_CorrelationClustering_Protein1_TRANSITIVE_N270.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:39 [ERROR]   correlation-clustering_wt-Rounded_CorrelationClustering_Protein1_TRANSITIVE_N270.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:39 [ERROR]   correlation-clustering_wt-Rounded_CorrelationClustering_Protein1_UNARY_N250.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:40 [ERROR]   correlation-clustering_wt-Rounded_CorrelationClustering_Protein1_UNARY_N250.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:40 [ERROR]   correlation-clustering_wt-Rounded_CorrelationClustering_Protein3_TRANSITIVE_N200.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:40 [ERROR]   correlation-clustering_wt-Rounded_CorrelationClustering_Protein3_TRANSITIVE_N200.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:40 [ERROR]   correlation-clustering_wt-Rounded_CorrelationClustering_Protein3_TRANSITIVE_N220.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:40 [ERROR]   correlation-clustering_wt-Rounded_CorrelationClustering_Protein3_TRANSITIVE_N220.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:40 [ERROR]   correlation-clustering_wt-Rounded_CorrelationClustering_Protein4_BINARY_N360.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:40 [ERROR]   correlation-clustering_wt-Rounded_CorrelationClustering_Protein4_BINARY_N360.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:40 [ERROR]   correlation-clustering_wt-Rounded_CorrelationClustering_Protein4_BINARY_N400.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:40 [ERROR]   correlation-clustering_wt-Rounded_CorrelationClustering_Protein4_BINARY_N400.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:41 [ERROR]   correlation-clustering_wt-Rounded_CorrelationClustering_Protein4_TRANSITIVE_N190.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:41 [ERROR]   correlation-clustering_wt-Rounded_CorrelationClustering_Protein4_TRANSITIVE_N190.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:41 [ERROR]   correlation-clustering_wt-Rounded_CorrelationClustering_Vowel_BINARY_N700_D0.200.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:41 [ERROR]   correlation-clustering_wt-Rounded_CorrelationClustering_Vowel_BINARY_N700_D0.200.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:41 [ERROR]   decision-tree-australian-credit-un-formula_0.8_2021_atleast_15_max-3_reduced_incomplete_adaboost_2.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:41 [ERROR]   decision-tree-australian-credit-un-formula_0.8_2021_atleast_15_max-3_reduced_incomplete_adaboost_2.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:41 [ERROR]   decision-tree-australian-credit-un-formula_0.8_2021_atleast_15_max-3_reduced_incomplete_adaboost_5.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:41 [ERROR]   decision-tree-australian-credit-un-formula_0.8_2021_atleast_15_max-3_reduced_incomplete_adaboost_5.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:41 [ERROR]   decision-tree-australian-credit-un-formula_0.8_2021_atleast_63_max-5_reduced_incomplete_adaboost_3.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:42 [ERROR]   decision-tree-australian-credit-un-formula_0.8_2021_atleast_63_max-5_reduced_incomplete_adaboost_3.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:42 [ERROR]   decision-tree-australian-credit-un-formula_0.8_2021_atleast_63_max-5_reduced_incomplete_adaboost_5.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:42 [ERROR]   decision-tree-australian-credit-un-formula_0.8_2021_atleast_63_max-5_reduced_incomplete_adaboost_5.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:42 [ERROR]   decision-tree-heart-cleveland-un-formula_0.8_2021_atleast_127_max-6_reduced_incomplete_adaboost_5.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:42 [ERROR]   decision-tree-heart-cleveland-un-formula_0.8_2021_atleast_127_max-6_reduced_incomplete_adaboost_5.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:42 [ERROR]   decision-tree-heart-cleveland-un-formula_0.8_2021_atleast_15_max-3_reduced_incomplete_adaboost_5.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:42 [ERROR]   decision-tree-heart-cleveland-un-formula_0.8_2021_atleast_15_max-3_reduced_incomplete_adaboost_5.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:42 [ERROR]   decision-tree-heart-cleveland-un-formula_0.8_2021_atleast_15_max-3_reduced_incomplete_adaboost_6.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:42 [ERROR]   decision-tree-heart-cleveland-un-formula_0.8_2021_atleast_15_max-3_reduced_incomplete_adaboost_6.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:43 [ERROR]   decision-tree-primary-tumor-un-formula_0.8_2021_atleast_127_max-6_reduced_incomplete_adaboost_4.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:43 [ERROR]   decision-tree-primary-tumor-un-formula_0.8_2021_atleast_127_max-6_reduced_incomplete_adaboost_4.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:43 [ERROR]   decision-tree-primary-tumor-un-formula_0.8_2021_atleast_15_max-3_reduced_incomplete_adaboost_2.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:43 [ERROR]   decision-tree-primary-tumor-un-formula_0.8_2021_atleast_15_max-3_reduced_incomplete_adaboost_2.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:43 [ERROR]   decision-tree-primary-tumor-un-formula_0.8_2021_atleast_31_max-4_reduced_incomplete_adaboost_3.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:43 [ERROR]   decision-tree-primary-tumor-un-formula_0.8_2021_atleast_31_max-4_reduced_incomplete_adaboost_3.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:43 [ERROR]   decision-tree-primary-tumor-un-formula_0.8_2021_atleast_63_max-5_reduced_incomplete_adaboost_4.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:43 [ERROR]   decision-tree-primary-tumor-un-formula_0.8_2021_atleast_63_max-5_reduced_incomplete_adaboost_4.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:43 [ERROR]   decision-tree-primary-tumor-un-formula_0.8_2021_atleast_63_max-5_reduced_incomplete_adaboost_5.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:44 [ERROR]   decision-tree-primary-tumor-un-formula_0.8_2021_atleast_63_max-5_reduced_incomplete_adaboost_5.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:44 [ERROR]   decision-tree-tic-tac-toe-un-formula_0.8_2021_atleast_127_max-6_reduced_incomplete_adaboost_3.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:44 [ERROR]   decision-tree-tic-tac-toe-un-formula_0.8_2021_atleast_127_max-6_reduced_incomplete_adaboost_3.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:44 [ERROR]   decision-tree-tic-tac-toe-un-formula_0.8_2021_atleast_127_max-6_reduced_incomplete_adaboost_5.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:44 [ERROR]   decision-tree-tic-tac-toe-un-formula_0.8_2021_atleast_127_max-6_reduced_incomplete_adaboost_5.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:44 [ERROR]   decision-tree-tic-tac-toe-un-formula_0.8_2021_atleast_31_max-4_reduced_incomplete_adaboost_2.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:44 [ERROR]   decision-tree-tic-tac-toe-un-formula_0.8_2021_atleast_31_max-4_reduced_incomplete_adaboost_2.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:44 [INFO]   drmx-cryptogen_wt-threshold128_0.wcnf seed=1 cost=      0.00  time=   0.0s
+2026-04-18 11:21:45 [INFO]   drmx-cryptogen_wt-threshold128_0.wcnf seed=2 cost=      0.00  time=   0.0s
+2026-04-18 11:21:45 [INFO]   drmx-cryptogen_wt-threshold128_1.wcnf seed=1 cost=      0.00  time=   0.1s
+2026-04-18 11:21:45 [INFO]   drmx-cryptogen_wt-threshold128_1.wcnf seed=2 cost=      0.00  time=   0.0s
+2026-04-18 11:21:45 [INFO]   drmx-cryptogen_wt-threshold128_2.wcnf seed=1 cost=      0.00  time=   0.0s
+2026-04-18 11:21:45 [INFO]   drmx-cryptogen_wt-threshold128_2.wcnf seed=2 cost=      0.00  time=   0.0s
+2026-04-18 11:21:45 [INFO]   drmx-cryptogen_wt-threshold128_6.wcnf seed=1 cost=      0.00  time=   0.0s
+2026-04-18 11:21:46 [INFO]   drmx-cryptogen_wt-threshold128_6.wcnf seed=2 cost=      0.00  time=   0.0s
+2026-04-18 11:21:46 [INFO]   drmx-cryptogen_wt-threshold128_8.wcnf seed=1 cost=      0.00  time=   0.0s
+2026-04-18 11:21:46 [INFO]   drmx-cryptogen_wt-threshold128_8.wcnf seed=2 cost=      0.00  time=   0.1s
+2026-04-18 11:21:46 [INFO]   frb_wt-frb40-19-3.wcnf         seed=1 cost=      0.00  time=   0.2s
+2026-04-18 11:21:47 [INFO]   frb_wt-frb40-19-3.wcnf         seed=2 cost=      0.00  time=   0.2s
+2026-04-18 11:21:47 [INFO]   frb_wt-frb40-19-4.wcnf         seed=1 cost=      0.00  time=   0.3s
+2026-04-18 11:21:47 [INFO]   frb_wt-frb40-19-4.wcnf         seed=2 cost=      0.00  time=   0.2s
+2026-04-18 11:21:47 [ERROR]   haplotyping-pedigrees_wt-ped2.G.recomb10-0.20-12.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:48 [ERROR]   haplotyping-pedigrees_wt-ped2.G.recomb10-0.20-12.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:48 [ERROR]   haplotyping-pedigrees_wt-ped2.G.recomb10-0.20-13.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:48 [ERROR]   haplotyping-pedigrees_wt-ped2.G.recomb10-0.20-13.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:49 [ERROR]   judgment-aggregation-ja-kemeny-preflib-00043-00000180.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:49 [ERROR]   judgment-aggregation-ja-kemeny-preflib-00043-00000180.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:49 [ERROR]   judgment-aggregation-ja-kemeny-preflib-00049-00000287.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:49 [ERROR]   judgment-aggregation-ja-kemeny-preflib-00049-00000287.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:50 [ERROR]   judgment-aggregation-ja-kemeny-preflib-00049-00000300.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:50 [ERROR]   judgment-aggregation-ja-kemeny-preflib-00049-00000300.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:50 [ERROR]   judgment-aggregation-ja-kemeny-preflib-00049-00000334.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:50 [ERROR]   judgment-aggregation-ja-kemeny-preflib-00049-00000334.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:50 [ERROR]   judgment-aggregation-ja-kemeny-preflib-00049-00000353.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:50 [ERROR]   judgment-aggregation-ja-kemeny-preflib-00049-00000353.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:50 [ERROR]   judgment-aggregation-ja-kemeny-preflib-00049-00000377.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:50 [ERROR]   judgment-aggregation-ja-kemeny-preflib-00049-00000377.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:50 [ERROR]   judgment-aggregation-ja-kemeny-preflib-00049-00000451.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:50 [ERROR]   judgment-aggregation-ja-kemeny-preflib-00049-00000451.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:51 [ERROR]   judgment-aggregation-ja-kemeny-preflib-00049-00000454.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:51 [ERROR]   judgment-aggregation-ja-kemeny-preflib-00049-00000454.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:51 [ERROR]   judgment-aggregation-ja-kemeny-preflib-00049-00000468.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:51 [ERROR]   judgment-aggregation-ja-kemeny-preflib-00049-00000468.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:51 [ERROR]   judgment-aggregation-ja-kemeny-preflib-00049-00000614.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:51 [ERROR]   judgment-aggregation-ja-kemeny-preflib-00049-00000614.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:51 [ERROR]   judgment-aggregation-ja-kemeny-preflib-00051-00000007.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:51 [ERROR]   judgment-aggregation-ja-kemeny-preflib-00051-00000007.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:51 [ERROR]   judgment-aggregation-ja-kemeny-preflib-00051-00000009.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:52 [ERROR]   judgment-aggregation-ja-kemeny-preflib-00051-00000009.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:52 [ERROR]   judgment-aggregation-ja-kemeny-preflib-00051-00000011.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:52 [ERROR]   judgment-aggregation-ja-kemeny-preflib-00051-00000011.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:52 [ERROR]   lisbon-wedding_wt-lisbon-wedding-1-18.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:52 [ERROR]   lisbon-wedding_wt-lisbon-wedding-1-18.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:52 [ERROR]   lisbon-wedding_wt-lisbon-wedding-1-19.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:52 [ERROR]   lisbon-wedding_wt-lisbon-wedding-1-19.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:52 [ERROR]   lisbon-wedding_wt-lisbon-wedding-10-17.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:53 [ERROR]   lisbon-wedding_wt-lisbon-wedding-10-17.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:53 [ERROR]   lisbon-wedding_wt-lisbon-wedding-10-18.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:53 [ERROR]   lisbon-wedding_wt-lisbon-wedding-10-18.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:53 [ERROR]   lisbon-wedding_wt-lisbon-wedding-3-18.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:53 [ERROR]   lisbon-wedding_wt-lisbon-wedding-3-18.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:53 [ERROR]   lisbon-wedding_wt-lisbon-wedding-4-17.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:53 [ERROR]   lisbon-wedding_wt-lisbon-wedding-4-17.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:53 [ERROR]   lisbon-wedding_wt-lisbon-wedding-5-19.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:53 [ERROR]   lisbon-wedding_wt-lisbon-wedding-5-19.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:54 [ERROR]   lisbon-wedding_wt-lisbon-wedding-6-19.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:54 [ERROR]   lisbon-wedding_wt-lisbon-wedding-6-19.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:54 [ERROR]   lisbon-wedding_wt-lisbon-wedding-7-18.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:54 [ERROR]   lisbon-wedding_wt-lisbon-wedding-7-18.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:54 [ERROR]   lisbon-wedding_wt-lisbon-wedding-7-19.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:54 [ERROR]   lisbon-wedding_wt-lisbon-wedding-7-19.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:54 [ERROR]   lisbon-wedding_wt-lisbon-wedding-8-17.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:54 [ERROR]   lisbon-wedding_wt-lisbon-wedding-8-17.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:54 [ERROR]   lisbon-wedding_wt-lisbon-wedding-9-17.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:55 [ERROR]   lisbon-wedding_wt-lisbon-wedding-9-17.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:55 [ERROR]   lisbon-wedding_wt-lisbon-wedding-9-18.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:55 [ERROR]   lisbon-wedding_wt-lisbon-wedding-9-18.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:55 [ERROR]   max-realizability_wt-power-distribution_10_7.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:55 [ERROR]   max-realizability_wt-power-distribution_10_7.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:55 [ERROR]   max-realizability_wt-power-distribution_11_6.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:55 [ERROR]   max-realizability_wt-power-distribution_11_6.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:55 [ERROR]   max-realizability_wt-power-distribution_11_7.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:55 [ERROR]   max-realizability_wt-power-distribution_11_7.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:56 [ERROR]   max-realizability_wt-power-distribution_12_7.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:56 [ERROR]   max-realizability_wt-power-distribution_12_7.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:56 [ERROR]   metro_wt-metro_8_8_5_20_10_6_500_1_3.lp.sm-extracted.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:56 [ERROR]   metro_wt-metro_8_8_5_20_10_6_500_1_3.lp.sm-extracted.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:56 [ERROR]   mpe_wt-random-net-20-5_network-3.net.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:56 [ERROR]   mpe_wt-random-net-20-5_network-3.net.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:56 [ERROR]   mpe_wt-random-net-30-5_network-4.net.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:56 [ERROR]   mpe_wt-random-net-30-5_network-4.net.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:56 [ERROR]   mpe_wt-random-net-60-3_network-7.net.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:57 [ERROR]   mpe_wt-random-net-60-3_network-7.net.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:57 [ERROR]   planning-bnn-inventory_4_7.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:57 [ERROR]   planning-bnn-inventory_4_7.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:57 [ERROR]   planning-bnn-inventory_4_8.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:57 [ERROR]   planning-bnn-inventory_4_8.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:57 [ERROR]   preference_planning_wt-WCNF_pathways_p16.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:57 [ERROR]   preference_planning_wt-WCNF_pathways_p16.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:57 [ERROR]   protein_ins_wt-1bpi_.2knt_.g.wcnf.t.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:57 [ERROR]   protein_ins_wt-1bpi_.2knt_.g.wcnf.t.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:58 [ERROR]   protein_ins_wt-1knt_.1bpi_.g.wcnf.t.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:58 [ERROR]   protein_ins_wt-1knt_.1bpi_.g.wcnf.t.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:58 [ERROR]   protein_ins_wt-1knt_.5pti_.g.wcnf.t.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:58 [ERROR]   protein_ins_wt-1knt_.5pti_.g.wcnf.t.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:58 [ERROR]   protein_ins_wt-2knt_.5pti_.g.wcnf.t.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:58 [ERROR]   protein_ins_wt-2knt_.5pti_.g.wcnf.t.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:58 [ERROR]   protein_ins_wt-3ebx_.1era_.g.wcnf.t.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:58 [ERROR]   protein_ins_wt-3ebx_.1era_.g.wcnf.t.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:58 [ERROR]   protein_ins_wt-6ebx_.1era_.g.wcnf.t.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:59 [ERROR]   protein_ins_wt-6ebx_.1era_.g.wcnf.t.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:59 [ERROR]   protein_ins_wt-p1.wcnf.t.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:59 [ERROR]   protein_ins_wt-p1.wcnf.t.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:59 [ERROR]   protein_ins_wt-sandiaprotein.g.wcnf.t.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:59 [ERROR]   protein_ins_wt-sandiaprotein.g.wcnf.t.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:59 [ERROR]   pseudoBoolean_wt-normalized-mps-v2-20-10-mod010.opb.msat.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:59 [ERROR]   pseudoBoolean_wt-normalized-mps-v2-20-10-mod010.opb.msat.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:59 [ERROR]   quantum-circuit-grover-noancilla_4_52_ibmq-casablanca_7.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:21:59 [ERROR]   quantum-circuit-grover-noancilla_4_52_ibmq-casablanca_7.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:22:00 [ERROR]   quantum-circuit-qgan_6_15_ibmq-casablanca_7.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:22:00 [ERROR]   quantum-circuit-qgan_6_15_ibmq-casablanca_7.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:22:00 [ERROR]   railway-transport_wt-bf2030fvcons.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:22:00 [ERROR]   railway-transport_wt-bf2030fvcons.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:22:00 [ERROR]   railway-transport_wt-bf2030fvslack.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:22:00 [ERROR]   railway-transport_wt-bf2030fvslack.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:22:00 [ERROR]   railway-transport_wt-f2030.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:22:00 [ERROR]   railway-transport_wt-f2030.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:22:01 [ERROR]   railway-transport_wt-r11.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:22:01 [ERROR]   railway-transport_wt-r11.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:22:01 [ERROR]   railway-transport_wt-wg2.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:22:01 [ERROR]   railway-transport_wt-wg2.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:22:02 [INFO] Phase 1: Diffusion init (64 trajectories)...
+2026-04-18 11:22:28 [INFO]   Diffusion init best cost: 167998.0
+2026-04-18 11:22:28 [INFO] Phase 2: Evolutionary refinement (n=55, m=495)...
+2026-04-18 11:23:02 [INFO] Final: cost=5722.0000, steps=56, pop_size=83, time=61.3s
+2026-04-18 11:23:02 [INFO]   ramsey_wt-ram_k3_n11.ra1.wcnf  seed=1 cost=   5722.00  time=  61.3s
+2026-04-18 11:23:03 [INFO] Phase 1: Diffusion init (64 trajectories)...
+2026-04-18 11:23:30 [INFO]   Diffusion init best cost: 167998.0
+2026-04-18 11:23:30 [INFO] Phase 2: Evolutionary refinement (n=55, m=495)...
+2026-04-18 11:24:03 [INFO] Final: cost=5715.0000, steps=52, pop_size=78, time=60.5s
+2026-04-18 11:24:03 [INFO]   ramsey_wt-ram_k3_n11.ra1.wcnf  seed=2 cost=   5715.00  time=  60.5s
+2026-04-18 11:24:04 [INFO] Phase 1: Diffusion init (64 trajectories)...
+2026-04-18 11:24:31 [INFO]   Diffusion init best cost: 247901.0
+2026-04-18 11:24:31 [INFO] Phase 2: Evolutionary refinement (n=66, m=715)...
+2026-04-18 11:25:03 [INFO] Final: cost=8408.0000, steps=54, pop_size=80, time=60.3s
+2026-04-18 11:25:03 [INFO]   ramsey_wt-ram_k3_n12.ra1.wcnf  seed=1 cost=   8408.00  time=  60.3s
+2026-04-18 11:25:04 [INFO] Phase 1: Diffusion init (64 trajectories)...
+2026-04-18 11:25:31 [INFO]   Diffusion init best cost: 247901.0
+2026-04-18 11:25:31 [INFO] Phase 2: Evolutionary refinement (n=66, m=715)...
+2026-04-18 11:26:04 [INFO] Final: cost=9280.0000, steps=46, pop_size=71, time=60.5s
+2026-04-18 11:26:04 [INFO]   ramsey_wt-ram_k3_n12.ra1.wcnf  seed=2 cost=   9280.00  time=  60.5s
+2026-04-18 11:26:13 [INFO] Phase 1: Diffusion init (64 trajectories)...
+2026-04-18 11:28:19 [INFO]   Diffusion init best cost: 1191850.0
+2026-04-18 11:28:19 [INFO] Phase 2: Evolutionary refinement (n=136, m=3060)...
+2026-04-18 11:28:19 [INFO] Final: cost=47639.0000, steps=0, pop_size=64, time=135.3s
+2026-04-18 11:28:19 [INFO]   ramsey_wt-ram_k3_n17.ra1.wcnf  seed=1 cost=  47639.00  time= 135.3s
+2026-04-18 11:28:28 [INFO] Phase 1: Diffusion init (64 trajectories)...
+2026-04-18 11:30:35 [INFO]   Diffusion init best cost: 1191850.0
+2026-04-18 11:30:35 [INFO] Phase 2: Evolutionary refinement (n=136, m=3060)...
+2026-04-18 11:30:35 [INFO] Final: cost=45692.0000, steps=0, pop_size=64, time=135.5s
+2026-04-18 11:30:35 [INFO]   ramsey_wt-ram_k3_n17.ra1.wcnf  seed=2 cost=  45692.00  time= 135.5s
+2026-04-18 11:30:49 [INFO] Phase 1: Diffusion init (64 trajectories)...
+2026-04-18 11:33:52 [INFO]   Diffusion init best cost: 1521768.0
+2026-04-18 11:33:52 [INFO] Phase 2: Evolutionary refinement (n=153, m=3876)...
+2026-04-18 11:33:52 [INFO] Final: cost=56021.0000, steps=0, pop_size=64, time=197.0s
+2026-04-18 11:33:52 [INFO]   ramsey_wt-ram_k3_n18.ra1.wcnf  seed=1 cost=  56021.00  time= 197.0s
+2026-04-18 11:34:06 [INFO] Phase 1: Diffusion init (64 trajectories)...
+2026-04-18 11:37:11 [INFO]   Diffusion init best cost: 1521768.0
+2026-04-18 11:37:11 [INFO] Phase 2: Evolutionary refinement (n=153, m=3876)...
+2026-04-18 11:37:11 [INFO] Final: cost=58321.0000, steps=0, pop_size=64, time=198.5s
+2026-04-18 11:37:11 [INFO]   ramsey_wt-ram_k3_n18.ra1.wcnf  seed=2 cost=  58321.00  time= 198.5s
+2026-04-18 11:37:11 [ERROR]   relational-inference_wt-ar-2.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:11 [ERROR]   relational-inference_wt-ar-2.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:11 [ERROR]   relational-inference_wt-pa-1.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:12 [ERROR]   relational-inference_wt-pa-1.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:12 [ERROR]   relational-inference_wt-pa-2.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:12 [ERROR]   relational-inference_wt-pa-2.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:12 [ERROR]   relational-inference_wt-pa-3.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:12 [ERROR]   relational-inference_wt-pa-3.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:12 [ERROR]   setcover_wt-rail2536.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:12 [ERROR]   setcover_wt-rail2536.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:13 [ERROR]   setcover_wt-rail4284.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:13 [ERROR]   setcover_wt-rail4284.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:13 [ERROR]   setcover_wt-rail4872.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:13 [ERROR]   setcover_wt-rail4872.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:13 [ERROR]   setcover_wt-rail507.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:13 [ERROR]   setcover_wt-rail507.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:13 [ERROR]   setcover_wt-rail516.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:13 [ERROR]   setcover_wt-rail516.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:14 [ERROR]   setcover_wt-rail582.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:14 [ERROR]   setcover_wt-rail582.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:14 [ERROR]   spot5_wt-1405.wcsp.dir.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:14 [ERROR]   spot5_wt-1405.wcsp.dir.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:14 [ERROR]   spot5_wt-1405.wcsp.log.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:14 [ERROR]   spot5_wt-1405.wcsp.log.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:14 [ERROR]   spot5_wt-1407.wcsp.log.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:15 [ERROR]   spot5_wt-1407.wcsp.log.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:15 [ERROR]   switchingactivitymaximization-SwitchingActivityMaximization_OpenRISC1200_100.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:15 [ERROR]   switchingactivitymaximization-SwitchingActivityMaximization_OpenRISC1200_100.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:15 [ERROR]   switchingactivitymaximization-SwitchingActivityMaximization_OpenRISC1200_150.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:15 [ERROR]   switchingactivitymaximization-SwitchingActivityMaximization_OpenRISC1200_150.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:15 [ERROR]   switchingactivitymaximization-SwitchingActivityMaximization_OpenRISC1200_200.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:15 [ERROR]   switchingactivitymaximization-SwitchingActivityMaximization_OpenRISC1200_200.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:15 [ERROR]   switchingactivitymaximization-SwitchingActivityMaximization_OpenRISC1200_66.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:16 [ERROR]   switchingactivitymaximization-SwitchingActivityMaximization_OpenRISC1200_66.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:16 [ERROR]   switchingactivitymaximization-SwitchingActivityMaximization_OpenRISC1200_68.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:16 [ERROR]   switchingactivitymaximization-SwitchingActivityMaximization_OpenRISC1200_68.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:16 [ERROR]   switchingactivitymaximization-SwitchingActivityMaximization_OpenRISC1200_70.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:16 [ERROR]   switchingactivitymaximization-SwitchingActivityMaximization_OpenRISC1200_70.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:16 [ERROR]   switchingactivitymaximization-SwitchingActivityMaximization_OpenRISC1200_74.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:17 [ERROR]   switchingactivitymaximization-SwitchingActivityMaximization_OpenRISC1200_74.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:17 [ERROR]   switchingactivitymaximization-SwitchingActivityMaximization_OpenRISC1200_76.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:17 [ERROR]   switchingactivitymaximization-SwitchingActivityMaximization_OpenRISC1200_76.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:17 [ERROR]   switchingactivitymaximization-SwitchingActivityMaximization_OpenRISC1200_80.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:17 [ERROR]   switchingactivitymaximization-SwitchingActivityMaximization_OpenRISC1200_80.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:17 [ERROR]   synplicate_new-synplicate_complete_tree_arity2_feature_4_size_10_ms_0_25_0_erm.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:17 [ERROR]   synplicate_new-synplicate_complete_tree_arity2_feature_4_size_10_ms_0_25_0_erm.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:18 [ERROR]   synplicate_new-synplicate_complete_tree_arity2_feature_4_size_11_ms_0_25_0_erm.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:18 [ERROR]   synplicate_new-synplicate_complete_tree_arity2_feature_4_size_11_ms_0_25_0_erm.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:18 [ERROR]   synplicate_new-synplicate_complete_tree_arity2_feature_4_size_6_ms_0_25_0_erm.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:18 [ERROR]   synplicate_new-synplicate_complete_tree_arity2_feature_4_size_6_ms_0_25_0_erm.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:18 [ERROR]   synplicate_new-synplicate_complete_tree_arity2_feature_4_size_8_ms_0_25_0_erm.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:18 [ERROR]   synplicate_new-synplicate_complete_tree_arity2_feature_4_size_8_ms_0_25_0_erm.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:18 [ERROR]   synplicate_new-synplicate_complete_tree_arity2_feature_4_size_9_ms_0_25_0_erm.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:19 [ERROR]   synplicate_new-synplicate_complete_tree_arity2_feature_4_size_9_ms_0_25_0_erm.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:19 [ERROR]   synplicate_new-synplicate_complete_tree_arity3_feature_3_size_10_ms_0_25_0_erm.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:19 [ERROR]   synplicate_new-synplicate_complete_tree_arity3_feature_3_size_10_ms_0_25_0_erm.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:19 [ERROR]   synplicate_new-synplicate_complete_tree_arity3_feature_3_size_11_ms_0_25_0_erm.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:19 [ERROR]   synplicate_new-synplicate_complete_tree_arity3_feature_3_size_11_ms_0_25_0_erm.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:19 [ERROR]   synplicate_new-synplicate_complete_tree_arity3_feature_3_size_5_ms_0_25_0_erm.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:19 [ERROR]   synplicate_new-synplicate_complete_tree_arity3_feature_3_size_5_ms_0_25_0_erm.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:19 [ERROR]   synplicate_new-synplicate_complete_tree_arity3_feature_3_size_8_ms_0_25_0_erm.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:20 [ERROR]   synplicate_new-synplicate_complete_tree_arity3_feature_3_size_8_ms_0_25_0_erm.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:20 [ERROR]   synplicate_new-synplicate_complete_tree_arity3_feature_4_size_10_ms_0_25_0_erm.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:20 [ERROR]   synplicate_new-synplicate_complete_tree_arity3_feature_4_size_10_ms_0_25_0_erm.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:20 [ERROR]   synplicate_new-synplicate_complete_tree_arity3_feature_4_size_12_ms_0_25_0_erm.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:20 [ERROR]   synplicate_new-synplicate_complete_tree_arity3_feature_4_size_12_ms_0_25_0_erm.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:20 [ERROR]   synplicate_new-synplicate_complete_tree_arity3_feature_4_size_5_ms_0_25_0_erm.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:21 [ERROR]   synplicate_new-synplicate_complete_tree_arity3_feature_4_size_5_ms_0_25_0_erm.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:21 [ERROR]   synplicate_new-synplicate_complete_tree_arity3_feature_4_size_6_ms_0_25_0_erm.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:21 [ERROR]   synplicate_new-synplicate_complete_tree_arity3_feature_4_size_6_ms_0_25_0_erm.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:21 [ERROR]   synplicate_new-synplicate_complete_tree_arity5_feature_3_size_7_ms_0_25_0_erm.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:21 [ERROR]   synplicate_new-synplicate_complete_tree_arity5_feature_3_size_7_ms_0_25_0_erm.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:21 [ERROR]   synplicate_new-synplicate_synthetic_dag_run1_14_size_5_ms_0_25_0_erm.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:21 [ERROR]   synplicate_new-synplicate_synthetic_dag_run1_14_size_5_ms_0_25_0_erm.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:22 [ERROR]   synplicate_new-synplicate_synthetic_dag_run1_14_size_6_ms_0_25_0_erm.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:22 [ERROR]   synplicate_new-synplicate_synthetic_dag_run1_14_size_6_ms_0_25_0_erm.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:22 [ERROR]   synplicate_new-synplicate_synthetic_dag_run1_16_size_4_ms_0_25_0_erm.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:22 [ERROR]   synplicate_new-synplicate_synthetic_dag_run1_16_size_4_ms_0_25_0_erm.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:22 [ERROR]   synplicate_new-synplicate_synthetic_dag_run1_17_size_5_ms_0_25_0_erm.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:22 [ERROR]   synplicate_new-synplicate_synthetic_dag_run1_17_size_5_ms_0_25_0_erm.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:22 [ERROR]   synplicate_new-synplicate_synthetic_dag_run2_0_size_10_ms_26_50_0_erm.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:23 [ERROR]   synplicate_new-synplicate_synthetic_dag_run2_0_size_10_ms_26_50_0_erm.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:23 [ERROR]   synplicate_new-synplicate_synthetic_dag_run2_10_size_11_ms_26_50_0_erm.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:23 [ERROR]   synplicate_new-synplicate_synthetic_dag_run2_10_size_11_ms_26_50_0_erm.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:23 [ERROR]   synplicate_new-synplicate_synthetic_dag_run2_11_size_10_ms_26_50_0_erm.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:23 [ERROR]   synplicate_new-synplicate_synthetic_dag_run2_11_size_10_ms_26_50_0_erm.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:24 [ERROR]   synplicate_new-synplicate_synthetic_dag_run2_12_size_8_ms_26_50_0_erm.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:24 [ERROR]   synplicate_new-synplicate_synthetic_dag_run2_12_size_8_ms_26_50_0_erm.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:24 [ERROR]   synplicate_new-synplicate_synthetic_dag_run2_13_size_11_ms_26_50_0_erm.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:24 [ERROR]   synplicate_new-synplicate_synthetic_dag_run2_13_size_11_ms_26_50_0_erm.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:25 [ERROR]   synplicate_new-synplicate_synthetic_dag_run2_16_size_9_ms_26_50_0_erm.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:25 [ERROR]   synplicate_new-synplicate_synthetic_dag_run2_16_size_9_ms_26_50_0_erm.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:25 [ERROR]   synplicate_new-synplicate_synthetic_dag_run2_17_size_10_ms_26_50_0_erm.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:25 [ERROR]   synplicate_new-synplicate_synthetic_dag_run2_17_size_10_ms_26_50_0_erm.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:25 [ERROR]   tcp_wt-tcp_students_112_it_13.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:25 [ERROR]   tcp_wt-tcp_students_112_it_13.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:25 [ERROR]   tcp_wt-tcp_students_112_it_5.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:26 [ERROR]   tcp_wt-tcp_students_112_it_5.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:26 [ERROR]   tcp_wt-tcp_students_91_it_13.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:26 [ERROR]   tcp_wt-tcp_students_91_it_13.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:26 [ERROR]   tcp_wt-tcp_students_98_it_11.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:26 [ERROR]   tcp_wt-tcp_students_98_it_11.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:26 [ERROR]   timetabling_wt-comp02.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:26 [ERROR]   timetabling_wt-comp02.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:26 [ERROR]   timetabling_wt-comp06.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:27 [ERROR]   timetabling_wt-comp06.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:27 [ERROR]   timetabling_wt-comp07.lp.sm-extracted.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:27 [ERROR]   timetabling_wt-comp07.lp.sm-extracted.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:27 [ERROR]   timetabling_wt-comp07.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:27 [ERROR]   timetabling_wt-comp07.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:27 [ERROR]   timetabling_wt-comp09.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:28 [ERROR]   timetabling_wt-comp09.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:28 [ERROR]   timetabling_wt-comp10.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:28 [ERROR]   timetabling_wt-comp10.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:28 [ERROR]   timetabling_wt-comp21.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:28 [ERROR]   timetabling_wt-comp21.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:28 [ERROR]   timetabling_wt-test4.wcnf seed=1: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:28 [ERROR]   timetabling_wt-test4.wcnf seed=2: FAILED (could not convert string to float: 'h')
+2026-04-18 11:37:29 [INFO] 
+Best-known costs saved to ./results/hydra/eval_60s_seeds12/best_known.json
+2026-04-18 11:37:29 [INFO] 
+2026-04-18 11:37:29 [INFO] ================================================================================
+2026-04-18 11:37:29 [INFO]   RESULTS TABLE (Avg Incomplete Score — SGAT-MS Table 1 format)
+2026-04-18 11:37:29 [INFO] ================================================================================
+2026-04-18 11:37:29 [INFO] 
+  Timeout: 60s
+2026-04-18 11:37:29 [INFO]   Type        2020      2021      2022      2023      2024
+2026-04-18 11:37:29 [INFO]   ------  --------  --------  --------  --------  --------
+2026-04-18 11:37:29 [INFO]   MS           N/A0.9614±0.003       N/A       N/A       N/A
+2026-04-18 11:37:29 [INFO]   WMS   0.9485±0.003       N/A       N/A       N/A0.0477±0.000
+2026-04-18 11:37:29 [INFO] 
+2026-04-18 11:37:29 [INFO] ================================================================================
+2026-04-18 11:37:29 [INFO]   SGAT-MS (LS-SGAT) reference scores from Table 1:
+2026-04-18 11:37:29 [INFO] ================================================================================
+2026-04-18 11:37:29 [INFO]   60s timeout:
+2026-04-18 11:37:29 [INFO]   MS     0.5237  0.5420  0.6202  0.1653  0.3516
+2026-04-18 11:37:29 [INFO]   WMS    0.8499  0.8973  0.7587  0.8432  0.7816
+2026-04-18 11:37:29 [INFO]   300s timeout:
+2026-04-18 11:37:29 [INFO]   MS     0.5289  0.5541  0.6403  0.1828  0.3684
+2026-04-18 11:37:29 [INFO]   WMS    0.8342  0.8835  0.7594  0.8471  0.7840
+2026-04-18 11:37:29 [INFO] Raw results saved to ./results/hydra/eval_60s_seeds12/results_raw.json
+2026-04-18 11:37:29 [INFO] Summary saved to ./results/hydra/eval_60s_seeds12/results_summary.json

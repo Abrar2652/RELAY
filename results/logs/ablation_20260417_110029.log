@@ -1,0 +1,31 @@
+11:00:48 [INFO] [full] loading pretrained from ./hydra_pretrained
+11:00:55 [INFO] [full] WMS 2020: 12 instances
+11:01:15 [INFO]     MANN_a45.clq.wcnf                        cost=     0.00 t=  0.3s
+11:01:25 [INFO]     brock200_3.clq.wcnf                      cost=     0.00 t=  0.0s
+11:01:34 [INFO]     brock200_4.clq.wcnf                      cost=     0.00 t=  0.0s
+11:01:43 [INFO]     brock400_2.clq.wcnf                      cost=     0.00 t=  0.2s
+11:01:53 [INFO]     brock400_3.clq.wcnf                      cost=     0.00 t=  0.0s
+11:02:02 [INFO]     brock800_3.clq.wcnf                      cost=     0.00 t=  0.2s
+11:02:41 [INFO]     p_hat300-3.clq.wcnf                      cost=     0.00 t=  0.1s
+11:02:46 [INFO]     p_hat500-3.clq.wcnf                      cost=     0.00 t=  0.1s
+11:02:52 [INFO]     p_hat700-3.clq.wcnf                      cost=     0.00 t=  0.6s
+11:03:49 [INFO] Phase 1: Diffusion init (64 trajectories)...
+11:04:51 [INFO]   Diffusion init best cost: 360422.0
+11:04:51 [INFO] Phase 2: Evolutionary refinement (n=78, m=1001)...
+11:04:51 [INFO] Final: cost=12308.0000, steps=0, pop_size=64, time=111.2s
+11:04:51 [INFO]     ram_k3_n13.ra1.wcnf                      cost= 12308.00 t=111.3s
+11:04:57 [INFO]     san200_0.7_1.clq.wcnf                    cost=     0.00 t=  0.1s
+11:05:04 [INFO]     sanr200_0.7.clq.wcnf                     cost=     0.00 t=  0.1s
+11:05:04 [INFO] Wrote ./results/ablations/full_results_raw.json
+11:05:04 [INFO] [no_diffusion] loading pretrained from ./hydra_pretrained
+11:05:12 [INFO] [no_diffusion] WMS 2020: 12 instances
+11:05:19 [INFO]     MANN_a45.clq.wcnf                        cost=     0.00 t=  0.1s
+11:05:27 [INFO]     brock200_3.clq.wcnf                      cost=     0.00 t=  0.0s
+11:05:34 [INFO]     brock200_4.clq.wcnf                      cost=     0.00 t=  0.0s
+11:05:41 [INFO]     brock400_2.clq.wcnf                      cost=     0.00 t=  0.1s
+11:05:48 [INFO]     brock400_3.clq.wcnf                      cost=     0.00 t=  0.0s
+11:05:55 [INFO]     brock800_3.clq.wcnf                      cost=     0.00 t=  0.2s
+11:06:02 [INFO]     p_hat300-3.clq.wcnf                      cost=     0.00 t=  0.1s
+11:06:09 [INFO]     p_hat500-3.clq.wcnf                      cost=     0.00 t=  0.1s
+11:06:16 [INFO]     p_hat700-3.clq.wcnf                      cost=     0.00 t=  0.1s
+11:06:48 [INFO] Phase 2: Evolutionary refinement (n=78, m=1001)...

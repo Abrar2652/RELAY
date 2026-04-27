@@ -1,0 +1,48 @@
+2026-04-18 12:20:33 [INFO] Logging to file: /nas/ckgfs/users/jahin/HYDRA/results/logs/hydra_eval_300s_v2shard0_20260418_122029.log
+2026-04-18 12:20:46 [INFO] Loading pre-trained model from ./hydra_pretrained
+2026-04-18 12:20:48 [INFO] 
+Discovering benchmarks in /nas/ckgfs/users/jahin/HYDRA/results/shard_v2_tmp/shard_0_bench...
+2026-04-18 12:20:48 [INFO]   ms2020: 55 instances
+2026-04-18 12:20:48 [INFO]   ms2024: 216 instances
+2026-04-18 12:20:48 [INFO]   wms2023: 160 instances
+2026-04-18 12:20:48 [INFO] 
+============================================================
+2026-04-18 12:20:48 [INFO]   EVALUATION: timeout=300.0s, seeds=1
+2026-04-18 12:20:48 [INFO] ============================================================
+2026-04-18 12:20:48 [INFO] 
+--- MS 2020 (55 instances) ---
+2026-04-18 12:20:49 [INFO]   MANN_a27.clq.wcnf              cost=      0.00  time=   0.1s
+2026-04-18 12:20:49 [INFO]   MANN_a45.clq.wcnf              cost=      0.00  time=   0.1s
+2026-04-18 12:20:49 [INFO]   MANN_a81.clq.wcnf              cost=      0.00  time=   0.1s
+2026-04-18 12:20:50 [INFO]   MANN_a81.clq__1c44d3.wcnf      cost=      0.00  time=   0.4s
+2026-04-18 12:20:50 [INFO]   MANN_a9.clq.wcnf               cost=      0.00  time=   0.1s
+2026-04-18 12:20:50 [INFO]   c-fat500-10.clq.wcnf           cost=      0.00  time=   0.1s
+2026-04-18 12:22:55 [INFO] Phase 1: Diffusion init (16 trajectories)...
+2026-04-18 12:23:38 [INFO]   Diffusion init best cost: 17485.0
+2026-04-18 12:23:38 [INFO] Phase 2: Evolutionary refinement (n=132, m=1398)...
+2026-04-18 12:25:26 [INFO]   Step 100: Consensus decimation, fixing 105/132 vars
+2026-04-18 12:25:51 [INFO] Final: cost=156.0000, steps=126, pop_size=18, time=300.5s
+2026-04-18 12:25:51 [INFO]   g2_n13e12_n46e57.wcnf          cost=    156.00  time= 300.5s
+2026-04-18 12:25:51 [INFO]   gen_mult_3_5_9999.wcnf         cost=      0.00  time=   0.3s
+2026-04-18 12:25:53 [INFO]   gen_mult_4_5_991.wcnf          cost=      0.00  time=   1.0s
+2026-04-18 12:25:53 [INFO]   hamming10-2.clq.wcnf           cost=      0.00  time=   0.1s
+2026-04-18 12:25:54 [INFO]   hamming6-2.clq.wcnf            cost=      0.00  time=   0.8s
+2026-04-18 12:25:55 [INFO]   hamming8-2.clq.wcnf            cost=      0.00  time=   0.4s
+2026-04-18 12:25:55 [INFO]   heart_train_0_CNF_5_1.wcnf     cost=      0.00  time=   0.2s
+2026-04-18 12:25:55 [INFO]   heart_train_1_DNF_3_1.wcnf     cost=      0.00  time=   0.1s
+2026-04-18 12:25:56 [INFO]   heart_train_4_CNF_5_1.wcnf     cost=      0.00  time=   0.5s
+2026-04-18 12:25:57 [INFO]   johnson8-4-4.clq.wcnf          cost=      0.00  time=   0.6s
+2026-04-18 12:25:57 [INFO]   normalized-par32-3-c.wcnf      cost=      0.00  time=   0.1s
+2026-04-18 12:25:58 [INFO]   normalized-test4.pi.opb.msat.wcnf cost=      0.00  time=   0.4s
+2026-04-18 12:25:58 [INFO]   normalized-test4.pi.wcnf       cost=      0.00  time=   0.1s
+2026-04-18 12:26:01 [INFO] Phase 1: Diffusion init (16 trajectories)...
+2026-04-18 12:26:47 [INFO]   Diffusion init best cost: 66.0
+2026-04-18 12:26:47 [INFO] Phase 2: Evolutionary refinement (n=66, m=715)...
+2026-04-18 12:28:38 [INFO]   Step 100: Consensus decimation, fixing 32/66 vars
+2026-04-18 12:30:29 [INFO]   Step 200: Consensus decimation, fixing 4/66 vars
+2026-04-18 12:30:59 [INFO] Final: cost=19.0000, steps=230, pop_size=26, time=300.4s
+2026-04-18 12:30:59 [INFO]   ram_k3_n12.ra0.wcnf            cost=     19.00  time= 300.5s
+2026-04-18 12:31:03 [INFO] Phase 1: Diffusion init (16 trajectories)...
+2026-04-18 12:31:49 [INFO]   Diffusion init best cost: 214.0
+2026-04-18 12:31:49 [INFO] Phase 2: Evolutionary refinement (n=78, m=1001)...
+2026-04-18 12:33:41 [INFO]   Step 100: Consensus decimation, fixing 9/78 vars

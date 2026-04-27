@@ -1,0 +1,31 @@
+2026-04-17 05:10:16 [supervisor] supervisor start (CUDA_MAIN=2, CUDA_ABL=6)
+2026-04-17 05:10:16 [supervisor] HYDRA_DIR=/nas/ckgfs/jaunts/jahin/HYDRA
+2026-04-17 05:10:16 [supervisor] waiting for /nas/ckgfs/jaunts/jahin/HYDRA/hydra_pretrained/hydra_status.json (end-of-training marker) ...
+2026-04-17 05:10:16 [supervisor] training complete: /nas/ckgfs/jaunts/jahin/HYDRA/hydra_pretrained/hydra_status.json
+2026-04-17 05:10:21 [supervisor] pre-flight: testing solver on a single small instance
+2026-04-17 05:10:32 [INFO] Logging to file: /nas/ckgfs/jaunts/jahin/HYDRA/results/preflight/preflight.log
+/nas/home/jahin/.local/lib/python3.10/site-packages/requests/__init__.py:113: RequestsDependencyWarning: urllib3 (1.26.5) or chardet (7.2.0)/charset_normalizer (3.4.4) doesn't match a supported version!
+  warnings.warn(
+2026-04-17 05:10:53 [INFO] Loading pre-trained model from /nas/ckgfs/jaunts/jahin/HYDRA/hydra_pretrained
+/nas/home/jahin/.local/lib/python3.10/site-packages/torch/cuda/__init__.py:654: UserWarning: Can't initialize NVML
+  warnings.warn("Can't initialize NVML")
+2026-04-17 05:10:55 [INFO] 
+Discovering benchmarks in /nas/ckgfs/jaunts/jahin/HYDRA/results/preflight/benchmarks...
+2026-04-17 05:10:55 [ERROR] No benchmark directories found!
+2026-04-17 05:10:57 [supervisor] pre-flight exit code: 0
+2026-04-17 05:10:57 [supervisor] launching sharded HYDRA eval 60s across GPUs: 0 5
+2026-04-17 05:10:57 [supervisor] HYDRA eval 60s PID=2837511
+2026-04-17 05:10:57 [supervisor] launching ablation campaign on GPU 6
+2026-04-17 05:10:57 [supervisor] ablation PID=2837518
+05:11:02 [INFO] shard 0 (GPU 0): 10 year-dirs
+05:11:02 [INFO]   cmd: python3 -u /nas/ckgfs/users/jahin/HYDRA/evaluate.py --model_dir /nas/ckgfs/jaunts/jahin/HYDRA/hydra_pretrained --bench_dir /nas/ckgfs/users/jahin/HYDRA/results/shard_tmp/shard_0_bench --timeouts 60 --seeds 1 --output_dir /nas/ckgfs/jaunts/jahin/HYDRA/results/hydra/eval_60s/shard_0 --device cuda --log_file /nas/ckgfs/users/jahin/HYDRA/results/logs/hydra_eval_60s_shard0_20260417_051102.log --population_size 64 --guidance_scale 0.1
+05:11:02 [INFO] shard 0 launched on GPU 0, PID 2837580
+05:11:02 [INFO] shard 1 (GPU 5): 10 year-dirs
+05:11:02 [INFO]   cmd: python3 -u /nas/ckgfs/users/jahin/HYDRA/evaluate.py --model_dir /nas/ckgfs/jaunts/jahin/HYDRA/hydra_pretrained --bench_dir /nas/ckgfs/users/jahin/HYDRA/results/shard_tmp/shard_1_bench --timeouts 60 --seeds 1 --output_dir /nas/ckgfs/jaunts/jahin/HYDRA/results/hydra/eval_60s/shard_1 --device cuda --log_file /nas/ckgfs/users/jahin/HYDRA/results/logs/hydra_eval_60s_shard1_20260417_051102.log --population_size 64 --guidance_scale 0.1
+05:11:02 [INFO] shard 1 launched on GPU 5, PID 2837581
+/nas/home/jahin/.local/lib/python3.10/site-packages/requests/__init__.py:113: RequestsDependencyWarning: urllib3 (1.26.5) or chardet (7.2.0)/charset_normalizer (3.4.4) doesn't match a supported version!
+  warnings.warn(
+05:11:18 [INFO] [full] loading pretrained from /nas/ckgfs/jaunts/jahin/HYDRA/hydra_pretrained
+/nas/home/jahin/.local/lib/python3.10/site-packages/torch/cuda/__init__.py:654: UserWarning: Can't initialize NVML
+  warnings.warn("Can't initialize NVML")
+05:11:43 [INFO] [full] MS 2018: 153 instances

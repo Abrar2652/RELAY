@@ -1,0 +1,20 @@
+\begin{table}[t]\centering\small
+\caption{Incomplete MaxSAT scores on MSE 2020--2024 (1736 instances per timeout). Score $= (1+c^*)/(1+c)$ capped to $[0,1]$.
+\textbf{PP}$n$ = $n$-solver parallel portfolio (min cost). All parallel portfolios have zero regressions vs NuWLS at both timeouts.}
+\label{tab:main_combined}
+\begin{tabular}{lrrrr|rrrr}\toprule
+ & \multicolumn{4}{c|}{\textbf{60s timeout}} & \multicolumn{4}{c}{\textbf{300s timeout}} \\
+\textbf{Method} & Avg & $\Delta$ & W & L & Avg & $\Delta$ & W & L \\\midrule
+NuWLS & 0.8720 & --- & --- & --- & 0.8940 & --- & --- & --- \\
+SatLike & 0.8532 & $-0.0188$ & 75 & 250 & 0.8711 & $-0.0229$ & 42 & 266 \\
+SPB & 0.6366 & $-0.2354$ & 226 & 920 & 0.6981 & $-0.1959$ & 198 & 861 \\
+NuWLS-c & 0.8687 & $-0.0033$ & 99 & 117 & 0.8934 & $-0.0006$ & 109 & 100 \\
+SPB-c & 0.6336 & $-0.2384$ & 230 & 940 & 0.6883 & $-0.2056$ & 205 & 884 \\
+NuWLS-BandHS & 0.5971 & $-0.2749$ & 124 & 1081 & 0.6519 & $-0.2421$ & 122 & 1007 \\
+\textit{VBS} & 0.8955 & $+0.0235$ & 281 & 0 & 0.9122 & $+0.0182$ & 243 & 0 \\
+\textbf{PP2}: NuWLS+SPB & 0.8852 & $+0.0132$ & 226 & 0 & 0.9086 & $+0.0146$ & 198 & 0 \\
+\textbf{PP3}: NuWLS+SatLike+SPB & 0.8920 & $+0.0200$ & 241 & 0 & 0.9094 & $+0.0154$ & 205 & 0 \\
+\textbf{PP4}: Top-4 & 0.8886 & $+0.0166$ & 260 & 0 & 0.9105 & $+0.0165$ & 227 & 0 \\
+\bottomrule
+\end{tabular}
+\end{table}

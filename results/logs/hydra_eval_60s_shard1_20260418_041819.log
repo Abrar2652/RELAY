@@ -1,0 +1,22 @@
+2026-04-18 04:18:25 [INFO] Logging to file: /nas/ckgfs/users/jahin/HYDRA/results/logs/hydra_eval_60s_shard1_20260418_041819.log
+2026-04-18 04:18:34 [INFO] Loading pre-trained model from ./hydra_pretrained
+2026-04-18 04:18:35 [INFO] 
+Discovering benchmarks in /nas/ckgfs/users/jahin/HYDRA/results/shard_tmp/shard_1_bench...
+2026-04-18 04:18:35 [INFO]   ms2020: 33 instances
+2026-04-18 04:18:35 [INFO]   ms2021: 14 instances
+2026-04-18 04:18:35 [INFO]   ms2022: 59 instances
+2026-04-18 04:18:35 [INFO]   ms2023: 60 instances
+2026-04-18 04:18:35 [INFO]   ms2024: 72 instances
+2026-04-18 04:18:35 [INFO]   wms2020: 19 instances
+2026-04-18 04:18:35 [INFO]   wms2021: 6 instances
+2026-04-18 04:18:35 [INFO]   wms2022: 66 instances
+2026-04-18 04:18:35 [INFO]   wms2023: 53 instances
+2026-04-18 04:18:35 [INFO]   wms2024: 77 instances
+2026-04-18 04:18:35 [INFO] 
+============================================================
+2026-04-18 04:18:35 [INFO]   EVALUATION: timeout=60.0s, seeds=1
+2026-04-18 04:18:35 [INFO] ============================================================
+2026-04-18 04:18:35 [INFO] 
+--- MS 2020 (33 instances) ---
+2026-04-18 04:18:35 [INFO]   MANN_a27.clq.wcnf              cost=      0.00  time=   0.0s
+2026-04-18 04:18:35 [INFO]   MANN_a9.clq.wcnf               cost=      0.00  time=   0.2s

@@ -1,0 +1,7 @@
+2026-04-19 03:08:32 [sup-ckg08] start; HYDRA_DIR=/nas/ckgfs/jaunts/jahin/HYDRA
+2026-04-19 03:08:32 [sup-ckg08] EVAL_GPUS='0 1 2' ABL_GPU=3 FULL_EVAL_GPUS='0 1 2 3'
+2026-04-19 03:08:32 [sup-ckg08] python=/nas/ckgfs/jaunts/jahin/HYDRA/.venv_ckg08/bin/python
+2026-04-19 03:08:32 [sup-ckg08] Stage A: launching HYDRA 60s eval seeds=3 across GPUs: 0 1 2
+2026-04-19 03:08:32 [sup-ckg08] HYDRA eval 60s PID=2479557
+2026-04-19 03:08:32 [sup-ckg08] Stage A: launching ablation on GPU 3 (12 configs × diverse-hard)
+2026-04-19 03:08:32 [sup-ckg08] ablation PID=2479564

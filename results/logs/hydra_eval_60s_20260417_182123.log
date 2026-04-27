@@ -1,0 +1,17 @@
+18:21:29 [INFO] shard 0 (GPU 0): 10 year-dirs
+18:21:29 [INFO]   cmd: /usr/bin/python3 -u /nas/ckgfs/users/jahin/HYDRA/evaluate.py --model_dir ./hydra_pretrained --bench_dir /nas/ckgfs/users/jahin/HYDRA/results/shard_tmp/shard_0_bench --timeouts 60 --seeds 1 --output_dir ./results/hydra/eval_60s/shard_0 --device cuda --log_file /nas/ckgfs/users/jahin/HYDRA/results/logs/hydra_eval_60s_shard0_20260417_182129.log --population_size 64 --guidance_scale 0.1
+18:21:29 [INFO] shard 0 launched on GPU 0, PID 2181190
+18:21:29 [INFO] shard 1 (GPU 1): 10 year-dirs
+18:21:29 [INFO]   cmd: /usr/bin/python3 -u /nas/ckgfs/users/jahin/HYDRA/evaluate.py --model_dir ./hydra_pretrained --bench_dir /nas/ckgfs/users/jahin/HYDRA/results/shard_tmp/shard_1_bench --timeouts 60 --seeds 1 --output_dir ./results/hydra/eval_60s/shard_1 --device cuda --log_file /nas/ckgfs/users/jahin/HYDRA/results/logs/hydra_eval_60s_shard1_20260417_182129.log --population_size 64 --guidance_scale 0.1
+18:21:29 [INFO] shard 1 launched on GPU 1, PID 2181191
+18:21:29 [INFO] shard 2 (GPU 2): 10 year-dirs
+18:21:29 [INFO]   cmd: /usr/bin/python3 -u /nas/ckgfs/users/jahin/HYDRA/evaluate.py --model_dir ./hydra_pretrained --bench_dir /nas/ckgfs/users/jahin/HYDRA/results/shard_tmp/shard_2_bench --timeouts 60 --seeds 1 --output_dir ./results/hydra/eval_60s/shard_2 --device cuda --log_file /nas/ckgfs/users/jahin/HYDRA/results/logs/hydra_eval_60s_shard2_20260417_182129.log --population_size 64 --guidance_scale 0.1
+18:21:29 [INFO] shard 2 launched on GPU 2, PID 2181192
+19:01:33 [INFO] shard 0 exited with code -9
+19:01:33 [INFO] shard 1 exited with code -9
+19:01:33 [INFO] shard 2 exited with code -9
+19:01:33 [WARNING] no results at ./results/hydra/eval_60s/shard_0/results_raw.json (shard may have crashed)
+19:01:33 [WARNING] no results at ./results/hydra/eval_60s/shard_1/results_raw.json (shard may have crashed)
+19:01:33 [WARNING] no results at ./results/hydra/eval_60s/shard_2/results_raw.json (shard may have crashed)
+19:01:33 [INFO] merged 0 instance results into ./results/hydra/eval_60s/results_raw.json
+19:01:33 [WARNING] at least one shard failed (rc=-9) — merged what we had

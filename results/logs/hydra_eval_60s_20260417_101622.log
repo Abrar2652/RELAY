@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "/nas/ckgfs/users/jahin/HYDRA/eval/shard_eval.py", line 224, in <module>
+    main()
+  File "/nas/ckgfs/users/jahin/HYDRA/eval/shard_eval.py", line 185, in main
+    make_shard_bench_dir(shard, sdir)
+  File "/nas/ckgfs/users/jahin/HYDRA/eval/shard_eval.py", line 91, in make_shard_bench_dir
+    os.symlink(inst_path, target)
+FileExistsError: [Errno 17] File exists: './benchmarks/ms2021/mse21_incomplete_unwt/decision-tree/soybean-un/formula_0.8_2021_atleast_127_max-6_reduced_incomplete_tree.wcnf' -> '/nas/ckgfs/users/jahin/HYDRA/results/shard_tmp/shard_0_bench/ms2021/formula_0.8_2021_atleast_127_max-6_reduced_incomplete_tree.wcnf'

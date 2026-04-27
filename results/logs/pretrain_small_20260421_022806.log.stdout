@@ -1,0 +1,11 @@
+2026-04-21 02:28:12 [INFO] Logging to file: results/logs/pretrain_small_20260421_022806.log
+2026-04-21 02:28:21 [INFO] ============================================================
+2026-04-21 02:28:21 [INFO] HYDRA Pre-Training
+2026-04-21 02:28:21 [INFO] ============================================================
+2026-04-21 02:28:21 [INFO] Found 28 instances
+2026-04-21 02:28:40 [INFO] Loaded 28 instances
+2026-04-21 02:28:40 [INFO] Model: 1,753,624 params
+/nas/ckgfs/jaunts/jahin/HYDRA/.venv_ckg08/lib/python3.12/site-packages/torch_geometric/utils/_scatter.py:91: UserWarning: The usage of `scatter(reduce='max')` can be accelerated via the 'torch-scatter' package, but it was not found
+  warnings.warn(
+/nas/ckgfs/users/jahin/HYDRA/hydra_data.py:178: RuntimeWarning: compute_clause_centrality: 2058 clause nodes — using scatter-based triangle count (no N×N allocation).
+  self._clause_centrality_cache = compute_clause_centrality(

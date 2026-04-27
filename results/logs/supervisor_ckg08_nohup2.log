@@ -1,0 +1,6 @@
+2026-04-19 03:22:35 [sup-ckg08] start; HYDRA_DIR=/nas/ckgfs/jaunts/jahin/HYDRA
+2026-04-19 03:22:35 [sup-ckg08] EVAL_GPUS='0 1 2' FULL_EVAL_GPUS='0 1 2 3' SKIP_ABLATION=1
+2026-04-19 03:22:36 [sup-ckg08] python=/nas/ckgfs/jaunts/jahin/HYDRA/.venv_ckg08/bin/python
+2026-04-19 03:22:36 [sup-ckg08] Stage A: launching HYDRA 60s eval seeds=3 across GPUs: 0 1 2
+2026-04-19 03:22:36 [sup-ckg08] HYDRA eval 60s PID=2482848
+2026-04-19 03:22:36 [sup-ckg08] Stage A: ablation skipped (running separately)

@@ -1,0 +1,49 @@
+2026-04-18 11:48:37 [INFO] Logging to file: /nas/ckgfs/users/jahin/HYDRA/results/logs/hydra_eval_60s_v2shard2_20260418_114832.log
+2026-04-18 11:48:44 [INFO] Loading pre-trained model from ./hydra_pretrained
+2026-04-18 11:48:45 [INFO] 
+Discovering benchmarks in /nas/ckgfs/users/jahin/HYDRA/results/shard_v2_tmp/shard_2_bench...
+2026-04-18 11:48:45 [INFO]   ms2022: 179 instances
+2026-04-18 11:48:45 [INFO]   wms2021: 14 instances
+2026-04-18 11:48:45 [INFO] 
+============================================================
+2026-04-18 11:48:45 [INFO]   EVALUATION: timeout=60.0s, seeds=1
+2026-04-18 11:48:45 [INFO] ============================================================
+2026-04-18 11:48:45 [INFO] 
+--- WMS 2021 (14 instances) ---
+2026-04-18 11:48:46 [INFO]   MANN_a45.clq.wcnf              cost=      0.00  time=   0.0s
+2026-04-18 11:48:46 [INFO]   brock200_3.clq.wcnf            cost=      0.00  time=   0.0s
+2026-04-18 11:48:46 [INFO]   brock400_2.clq.wcnf            cost=      0.00  time=   0.0s
+2026-04-18 11:48:46 [INFO]   p_hat300-3.clq.wcnf            cost=      0.00  time=   0.2s
+/nas/ckgfs/users/jahin/HYDRA/hydra_data.py:178: RuntimeWarning: compute_clause_centrality: 1001 clause nodes — using scatter-based triangle count (no N×N allocation).
+  self._clause_centrality_cache = compute_clause_centrality(
+2026-04-18 11:48:48 [INFO] Phase 1: Diffusion init (64 trajectories)...
+2026-04-18 11:49:16 [INFO]   Diffusion init best cost: 360422.0
+2026-04-18 11:49:16 [INFO] Phase 2: Evolutionary refinement (n=78, m=1001)...
+/nas/home/jahin/.local/lib/python3.12/site-packages/torch_geometric/warnings.py:11: UserWarning: The usage of `scatter(reduce='max')` can be accelerated via the 'torch-scatter' package, but it was not found
+  warnings.warn(message)
+2026-04-18 11:49:47 [INFO] Final: cost=15212.0000, steps=51, pop_size=77, time=60.5s
+2026-04-18 11:49:47 [INFO]   ram_k3_n13.ra1.wcnf            cost=  15212.00  time=  60.5s
+/nas/ckgfs/users/jahin/HYDRA/hydra_data.py:178: RuntimeWarning: compute_clause_centrality: 1820 clause nodes — using scatter-based triangle count (no N×N allocation).
+  self._clause_centrality_cache = compute_clause_centrality(
+2026-04-18 11:49:50 [INFO] Phase 1: Diffusion init (64 trajectories)...
+2026-04-18 11:50:52 [INFO]   Diffusion init best cost: 690848.0
+2026-04-18 11:50:52 [INFO] Phase 2: Evolutionary refinement (n=105, m=1820)...
+2026-04-18 11:50:52 [INFO] Final: cost=27249.0000, steps=0, pop_size=64, time=65.0s
+2026-04-18 11:50:52 [INFO]   ram_k3_n15.ra1.wcnf            cost=  27249.00  time=  65.0s
+/nas/ckgfs/users/jahin/HYDRA/hydra_data.py:178: RuntimeWarning: compute_clause_centrality: 2380 clause nodes — using scatter-based triangle count (no N×N allocation).
+  self._clause_centrality_cache = compute_clause_centrality(
+2026-04-18 11:50:57 [INFO] Phase 1: Diffusion init (64 trajectories)...
+2026-04-18 11:52:29 [INFO]   Diffusion init best cost: 898741.0
+2026-04-18 11:52:29 [INFO] Phase 2: Evolutionary refinement (n=120, m=2380)...
+2026-04-18 11:52:29 [INFO] Final: cost=37790.0000, steps=0, pop_size=64, time=96.8s
+2026-04-18 11:52:29 [INFO]   ram_k3_n16.ra1.wcnf            cost=  37790.00  time=  96.8s
+/nas/ckgfs/users/jahin/HYDRA/hydra_data.py:178: RuntimeWarning: compute_clause_centrality: 3876 clause nodes — using scatter-based triangle count (no N×N allocation).
+  self._clause_centrality_cache = compute_clause_centrality(
+2026-04-18 11:52:41 [INFO] Phase 1: Diffusion init (64 trajectories)...
+2026-04-18 11:55:53 [INFO]   Diffusion init best cost: 1521768.0
+2026-04-18 11:55:53 [INFO] Phase 2: Evolutionary refinement (n=153, m=3876)...
+2026-04-18 11:55:53 [INFO] Final: cost=55894.0000, steps=0, pop_size=64, time=204.4s
+2026-04-18 11:55:53 [INFO]   ram_k3_n18.ra1.wcnf            cost=  55894.00  time= 204.4s
+/nas/ckgfs/users/jahin/HYDRA/hydra_data.py:178: RuntimeWarning: compute_clause_centrality: 4845 clause nodes — using scatter-based triangle count (no N×N allocation).
+  self._clause_centrality_cache = compute_clause_centrality(
+2026-04-18 11:56:11 [INFO] Phase 1: Diffusion init (64 trajectories)...

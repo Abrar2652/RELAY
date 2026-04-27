@@ -1,0 +1,147 @@
+2026-04-23 05:11:58 [INFO] Logging to file: /nas/ckgfs/users/jahin/HYDRA/results/logs/hydra_eval_60s_v2shard3_20260423_051146.log
+2026-04-23 05:12:17 [INFO] Loading pre-trained model from ./hydra_pretrained
+2026-04-23 05:12:18 [INFO] 
+Discovering benchmarks in /nas/ckgfs/users/jahin/HYDRA/results/shard_v2_tmp/shard_3_bench...
+2026-04-23 05:12:18 [INFO]   ms2023: 10 instances
+2026-04-23 05:12:18 [INFO]   wms2022: 17 instances
+2026-04-23 05:12:18 [INFO] 
+============================================================
+2026-04-23 05:12:18 [INFO]   EVALUATION: timeout=60.0s, seeds=1
+2026-04-23 05:12:18 [INFO] ============================================================
+2026-04-23 05:12:18 [INFO] 
+--- WMS 2022 (17 instances) ---
+2026-04-23 05:12:25 [INFO] Phase 1: Diffusion init (16 trajectories)...
+2026-04-23 05:12:41 [INFO]   Diffusion init best cost: 4138.0
+2026-04-23 05:12:41 [INFO] Phase 2: Evolutionary refinement (n=41, m=1638)...
+2026-04-23 05:13:13 [INFO]   Step 100: Consensus decimation, fixing 12/41 vars
+2026-04-23 05:13:19 [INFO] Final: cost=2194.0000, steps=116, pop_size=23, time=60.1s
+2026-04-23 05:13:19 [INFO]   dim.MANN_a81.clq.wcnf          cost=   2194.00  time=  60.1s
+2026-04-23 05:13:19 [INFO] Phase 1: Diffusion init (16 trajectories)...
+2026-04-23 05:13:33 [INFO]   Diffusion init best cost: 2551.0
+2026-04-23 05:13:33 [INFO] Phase 2: Evolutionary refinement (n=40, m=1014)...
+2026-04-23 05:14:19 [INFO] Final: cost=1302.0000, steps=153, pop_size=24, time=60.1s
+2026-04-23 05:14:19 [INFO]   dim.brock800_3.clq.wcnf        cost=   1302.00  time=  60.1s
+2026-04-23 05:14:20 [INFO] Phase 1: Diffusion init (16 trajectories)...
+2026-04-23 05:14:34 [INFO]   Diffusion init best cost: 3649.0
+2026-04-23 05:14:34 [INFO] Phase 2: Evolutionary refinement (n=41, m=1436)...
+2026-04-23 05:15:04 [INFO]   Step 100: Consensus decimation, fixing 18/41 vars
+2026-04-23 05:15:19 [INFO] Final: cost=1894.0000, steps=146, pop_size=29, time=60.3s
+2026-04-23 05:15:19 [INFO]   dim.hamming10-4.clq.wcnf       cost=   1894.00  time=  60.3s
+2026-04-23 05:15:23 [INFO] Phase 1: Diffusion init (16 trajectories)...
+2026-04-23 05:15:48 [INFO]   Diffusion init best cost: 9971.0
+2026-04-23 05:15:48 [INFO] Phase 2: Evolutionary refinement (n=70, m=3710)...
+2026-04-23 05:16:20 [INFO] Final: cost=5064.0000, steps=66, pop_size=23, time=60.1s
+2026-04-23 05:16:20 [INFO]   dim.johnson8-4-4.clq.wcnf      cost=   5064.00  time=  60.2s
+2026-04-23 05:16:20 [INFO] Phase 1: Diffusion init (16 trajectories)...
+2026-04-23 05:16:34 [INFO]   Diffusion init best cost: 2912.0
+2026-04-23 05:16:34 [INFO] Phase 2: Evolutionary refinement (n=40, m=1094)...
+2026-04-23 05:17:03 [INFO]   Step 100: Consensus decimation, fixing 21/40 vars
+2026-04-23 05:17:20 [INFO] Final: cost=1418.0000, steps=154, pop_size=25, time=60.2s
+2026-04-23 05:17:20 [INFO]   dim.san400_0.7_3.clq.wcnf      cost=   1418.00  time=  60.2s
+2026-04-23 05:17:21 [INFO] Phase 1: Diffusion init (16 trajectories)...
+2026-04-23 05:17:35 [INFO]   Diffusion init best cost: 3622.0
+2026-04-23 05:17:35 [INFO] Phase 2: Evolutionary refinement (n=40, m=1356)...
+2026-04-23 05:18:20 [INFO] Final: cost=1789.0000, steps=150, pop_size=20, time=60.0s
+2026-04-23 05:18:20 [INFO]   dim.san400_0.9_1.clq.wcnf      cost=   1789.00  time=  60.1s
+2026-04-23 05:18:54 [WARNING]   load()+preproc took 34.0s of 60s budget; skipping diffusion, using random assignment
+2026-04-23 05:18:54 [INFO]   log.28.wcsp.log.wcnf           cost=788000140082.00  time=  34.0s
+2026-04-23 05:39:49 [WARNING]   load()+preproc took 1254.7s of 60s budget; skipping diffusion, using random assignment
+2026-04-23 05:39:49 [INFO]   mul.role_smallcomp_multiple_0.9_7.wcnf cost=1677000677636.00  time=1254.7s
+2026-04-23 05:39:51 [INFO] Phase 1: Diffusion init (16 trajectories)...
+2026-04-23 05:40:07 [INFO]   Diffusion init best cost: 504950.0
+2026-04-23 05:40:07 [INFO] Phase 2: Evolutionary refinement (n=91, m=1365)...
+2026-04-23 05:40:45 [INFO]   Step 100: Consensus decimation, fixing 44/91 vars
+2026-04-23 05:40:49 [INFO] Final: cost=21289.0000, steps=114, pop_size=20, time=60.1s
+2026-04-23 05:40:49 [INFO]   ram_k3_n14.ra1.wcnf            cost=  21289.00  time=  60.1s
+2026-04-23 05:40:54 [INFO] Phase 1: Diffusion init (16 trajectories)...
+2026-04-23 05:41:27 [INFO]   Diffusion init best cost: 898741.0
+2026-04-23 05:41:27 [INFO] Phase 2: Evolutionary refinement (n=120, m=2380)...
+2026-04-23 05:41:49 [INFO] Final: cost=42848.0000, steps=43, pop_size=21, time=60.1s
+2026-04-23 05:41:49 [INFO]   ram_k3_n16.ra1.wcnf            cost=  42848.00  time=  60.1s
+2026-04-23 05:41:56 [INFO] Phase 1: Diffusion init (16 trajectories)...
+2026-04-23 05:42:43 [INFO]   Diffusion init best cost: 1191850.0
+2026-04-23 05:42:43 [INFO] Phase 2: Evolutionary refinement (n=136, m=3060)...
+2026-04-23 05:42:51 [INFO] Final: cost=334821.0000, steps=11, pop_size=30, time=61.0s
+2026-04-23 05:42:51 [INFO]   ram_k3_n17.ra1.wcnf            cost= 334821.00  time=  61.1s
+2026-04-23 05:43:13 [ERROR]   ram_k4_n20.ra1.wcnf seed=0: FAILED (Allocation on device )
+2026-04-23 05:43:28 [INFO] Phase 1: Diffusion init (16 trajectories)...
+2026-04-23 05:45:17 [INFO]   Diffusion init best cost: 8210557.0
+2026-04-23 05:45:17 [INFO] Phase 2: Evolutionary refinement (n=122, m=3889)...
+2026-04-23 05:45:17 [INFO] Final: cost=8210557.0000, steps=0, pop_size=16, time=123.9s
+2026-04-23 05:45:17 [INFO]   random-net-40-4_network-2.net.wcnf cost=8210557.00  time= 123.9s
+2026-04-23 05:45:32 [INFO] Phase 1: Diffusion init (16 trajectories)...
+2026-04-23 05:47:17 [INFO]   Diffusion init best cost: 10296813.0
+2026-04-23 05:47:17 [INFO] Phase 2: Evolutionary refinement (n=142, m=5005)...
+2026-04-23 05:47:17 [INFO] Final: cost=10296813.0000, steps=0, pop_size=16, time=120.0s
+2026-04-23 05:47:17 [INFO]   random-net-50-4_network-8.net.wcnf cost=10296813.00  time= 120.0s
+2026-04-23 05:48:14 [WARNING]   load()+preproc took 56.6s of 60s budget; skipping diffusion, using random assignment
+2026-04-23 05:48:14 [INFO]   role_smallcomp_0.85_4.wcnf     cost=555000561398.00  time=  56.6s
+2026-04-23 05:51:22 [WARNING]   load()+preproc took 187.9s of 60s budget; skipping diffusion, using random assignment
+2026-04-23 05:51:22 [INFO]   wcn.heart_train_2_CNF_5_10.wcnf cost=1609000001578.00  time= 187.9s
+2026-04-23 05:55:38 [WARNING]   load()+preproc took 255.6s of 60s budget; skipping diffusion, using random assignment
+2026-04-23 05:55:38 [INFO]   wcn.heart_train_6_DNF_5_5.wcnf cost=1632000000750.00  time= 255.6s
+2026-04-23 05:55:38 [INFO] 
+--- MS 2023 (10 instances) ---
+2026-04-23 05:56:41 [WARNING]   load()+preproc took 63.6s of 60s budget; skipping diffusion, using random assignment
+2026-04-23 05:56:42 [INFO]   inconsistency-measurement-im-hit-B-3-stb_390_450.tgf.pl.wcnf cost=873000000224.00  time=  63.6s
+2026-04-23 05:58:48 [WARNING]   load()+preproc took 126.5s of 60s budget; skipping diffusion, using random assignment
+2026-04-23 05:58:48 [INFO]   logic-synthesis-normalized-test4.pi.opb.msat.wcnf cost=   3020.00  time= 126.5s
+2026-04-23 06:01:25 [WARNING]   load()+preproc took 156.9s of 60s budget; skipping diffusion, using random assignment
+2026-04-23 06:01:25 [INFO]   optic-gen_mult_4_5_991.wcnf    cost=   2327.00  time= 156.9s
+2026-04-23 06:01:26 [INFO] Phase 1: Diffusion init (16 trajectories)...
+2026-04-23 06:01:40 [INFO]   Diffusion init best cost: 330.0
+2026-04-23 06:01:40 [INFO] Phase 2: Evolutionary refinement (n=55, m=495)...
+2026-04-23 06:02:09 [INFO]   Step 100: Consensus decimation, fixing 11/55 vars
+2026-04-23 06:02:25 [INFO] Final: cost=19.0000, steps=151, pop_size=18, time=60.1s
+2026-04-23 06:02:25 [INFO]   ramsey-ram_k3_n11.ra0.wcnf     cost=     19.00  time=  60.1s
+2026-04-23 06:02:28 [INFO] Phase 1: Diffusion init (16 trajectories)...
+2026-04-23 06:02:44 [INFO]   Diffusion init best cost: 1001.0
+2026-04-23 06:02:44 [INFO] Phase 2: Evolutionary refinement (n=91, m=1365)...
+2026-04-23 06:03:21 [INFO]   Step 100: Consensus decimation, fixing 43/91 vars
+2026-04-23 06:03:25 [INFO] Final: cost=45.0000, steps=115, pop_size=21, time=60.1s
+2026-04-23 06:03:25 [INFO]   ramsey-ram_k3_n14.ra0.wcnf     cost=     45.00  time=  60.1s
+2026-04-23 06:03:29 [INFO] Phase 1: Diffusion init (16 trajectories)...
+2026-04-23 06:03:52 [INFO]   Diffusion init best cost: 1287.0
+2026-04-23 06:03:52 [INFO] Phase 2: Evolutionary refinement (n=105, m=1820)...
+2026-04-23 06:04:26 [INFO] Final: cost=56.0000, steps=76, pop_size=18, time=60.5s
+2026-04-23 06:04:26 [INFO]   ramsey-ram_k3_n15.ra0.wcnf     cost=     56.00  time=  60.5s
+2026-04-23 06:04:33 [INFO] Phase 1: Diffusion init (16 trajectories)...
+2026-04-23 06:05:20 [INFO]   Diffusion init best cost: 2171.0
+2026-04-23 06:05:20 [INFO] Phase 2: Evolutionary refinement (n=136, m=3060)...
+2026-04-23 06:05:27 [INFO] Final: cost=680.0000, steps=11, pop_size=30, time=61.3s
+2026-04-23 06:05:27 [INFO]   ramsey-ram_k3_n17.ra0.wcnf     cost=    680.00  time=  61.3s
+2026-04-23 06:05:54 [INFO] Phase 1: Diffusion init (16 trajectories)...
+2026-04-23 06:09:12 [INFO]   Diffusion init best cost: 2047.0
+2026-04-23 06:09:12 [INFO] Phase 2: Evolutionary refinement (n=153, m=6120)...
+2026-04-23 06:09:12 [INFO] Final: cost=2047.0000, steps=0, pop_size=16, time=224.9s
+2026-04-23 06:09:12 [INFO]   ramsey-ram_k4_n18.ra0.wcnf     cost=   2047.00  time= 224.9s
+2026-04-23 06:09:35 [ERROR]   ramsey-ram_k4_n20.ra0.wcnf seed=0: FAILED (Allocation on device )
+2026-04-23 06:10:03 [INFO] Phase 1: Diffusion init (16 trajectories)...
+2026-04-23 06:10:25 [INFO]   Diffusion init best cost: 135.0
+2026-04-23 06:10:25 [INFO] Phase 2: Evolutionary refinement (n=135, m=3150)...
+2026-04-23 06:11:00 [INFO] Final: cost=135.0000, steps=81, pop_size=24, time=61.0s
+2026-04-23 06:11:00 [INFO]   setcover-sts-data.135.wcnf     cost=    135.00  time=  61.0s
+2026-04-23 06:11:00 [INFO] 
+Best-known costs saved to ./results/hydra_standalone/eval_60s/shard_3/best_known.json
+2026-04-23 06:11:00 [INFO] 
+2026-04-23 06:11:00 [INFO] ================================================================================
+2026-04-23 06:11:00 [INFO]   RESULTS TABLE (Avg Incomplete Score — SGAT-MS Table 1 format)
+2026-04-23 06:11:00 [INFO] ================================================================================
+2026-04-23 06:11:00 [INFO] 
+  Timeout: 60s
+2026-04-23 06:11:00 [INFO]   Type        2020      2021      2022      2023      2024
+2026-04-23 06:11:00 [INFO]   ------  --------  --------  --------  --------  --------
+2026-04-23 06:11:00 [INFO]   MS           N/A       N/A       N/A  0.9000       N/A
+2026-04-23 06:11:00 [INFO]   WMS          N/A       N/A  0.9412       N/A       N/A
+2026-04-23 06:11:00 [INFO] 
+2026-04-23 06:11:00 [INFO] ================================================================================
+2026-04-23 06:11:00 [INFO]   SGAT-MS (LS-SGAT) reference scores from Table 1:
+2026-04-23 06:11:00 [INFO] ================================================================================
+2026-04-23 06:11:00 [INFO]   60s timeout:
+2026-04-23 06:11:00 [INFO]   MS     0.5237  0.5420  0.6202  0.1653  0.3516
+2026-04-23 06:11:00 [INFO]   WMS    0.8499  0.8973  0.7587  0.8432  0.7816
+2026-04-23 06:11:00 [INFO]   300s timeout:
+2026-04-23 06:11:00 [INFO]   MS     0.5289  0.5541  0.6403  0.1828  0.3684
+2026-04-23 06:11:00 [INFO]   WMS    0.8342  0.8835  0.7594  0.8471  0.7840
+2026-04-23 06:11:00 [INFO] Raw results saved to ./results/hydra_standalone/eval_60s/shard_3/results_raw.json
+2026-04-23 06:11:00 [INFO] Summary saved to ./results/hydra_standalone/eval_60s/shard_3/results_summary.json

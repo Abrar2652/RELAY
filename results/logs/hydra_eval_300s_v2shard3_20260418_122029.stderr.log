@@ -1,0 +1,23 @@
+2026-04-18 12:20:33 [INFO] Logging to file: /nas/ckgfs/users/jahin/HYDRA/results/logs/hydra_eval_300s_v2shard3_20260418_122029.log
+/nas/home/jahin/.local/lib/python3.10/site-packages/requests/__init__.py:113: RequestsDependencyWarning: urllib3 (1.26.5) or chardet (7.2.0)/charset_normalizer (3.4.4) doesn't match a supported version!
+  warnings.warn(
+2026-04-18 12:20:46 [INFO] Loading pre-trained model from ./hydra_pretrained
+/nas/home/jahin/.local/lib/python3.10/site-packages/torch/cuda/__init__.py:654: UserWarning: Can't initialize NVML
+  warnings.warn("Can't initialize NVML")
+2026-04-18 12:20:48 [INFO] 
+Discovering benchmarks in /nas/ckgfs/users/jahin/HYDRA/results/shard_v2_tmp/shard_3_bench...
+2026-04-18 12:20:48 [INFO]   ms2023: 179 instances
+2026-04-18 12:20:48 [INFO]   wms2022: 197 instances
+2026-04-18 12:20:48 [INFO] 
+============================================================
+2026-04-18 12:20:48 [INFO]   EVALUATION: timeout=300.0s, seeds=1
+2026-04-18 12:20:48 [INFO] ============================================================
+2026-04-18 12:20:48 [INFO] 
+--- WMS 2022 (197 instances) ---
+/nas/ckgfs/users/jahin/HYDRA/hydra_data.py:178: RuntimeWarning: compute_clause_centrality: 17619 clause nodes — using scatter-based triangle count (no N×N allocation).
+  self._clause_centrality_cache = compute_clause_centrality(
+2026-04-18 18:33:14 [INFO] Phase 1: Diffusion init (16 trajectories)...
+2026-04-18 18:34:16 [INFO]   Diffusion init best cost: 3565000065024.0
+2026-04-18 18:34:16 [INFO] Phase 2: Evolutionary refinement (n=5476, m=17619)...
+2026-04-18 18:34:16 [INFO] Final: cost=3565000065024.0000, steps=0, pop_size=16, time=22407.6s
+2026-04-18 18:34:16 [INFO]   BrazilInstance1.xml.wcnf       cost=3565000065024.00  time=22407.6s

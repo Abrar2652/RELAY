@@ -1,0 +1,71 @@
+{
+  "nuwls": {
+    "avg_score": 0.8720006369438071
+  },
+  "bandhs": {
+    "avg_score": 0,
+    "wins_vs_nuwls": 0,
+    "ties_vs_nuwls": 0,
+    "losses_vs_nuwls": 0
+  },
+  "satlike": {
+    "avg_score": 0.8532432785339854,
+    "wins_vs_nuwls": 75,
+    "ties_vs_nuwls": 1411,
+    "losses_vs_nuwls": 250
+  },
+  "spb": {
+    "avg_score": 0.6365838810292875,
+    "wins_vs_nuwls": 226,
+    "ties_vs_nuwls": 590,
+    "losses_vs_nuwls": 920
+  },
+  "foursat": {
+    "avg_score": 0,
+    "wins_vs_nuwls": 0,
+    "ties_vs_nuwls": 0,
+    "losses_vs_nuwls": 0
+  },
+  "nuwls_c": {
+    "avg_score": 0.8687203255833839,
+    "wins_vs_nuwls": 99,
+    "ties_vs_nuwls": 1520,
+    "losses_vs_nuwls": 117
+  },
+  "spb_c": {
+    "avg_score": 0.6336186785221923,
+    "wins_vs_nuwls": 230,
+    "ties_vs_nuwls": 567,
+    "losses_vs_nuwls": 940
+  },
+  "nuwls_bandhs": {
+    "avg_score": 0.5970693198082485,
+    "wins_vs_nuwls": 124,
+    "ties_vs_nuwls": 531,
+    "losses_vs_nuwls": 1081
+  },
+  "VBS": {
+    "avg_score": 0.8955343036780902,
+    "wins_vs_nuwls": 281,
+    "ties_vs_nuwls": 1455,
+    "losses_vs_nuwls": 0
+  },
+  "P2_NuWLS+SPB": {
+    "avg_score": 0.8852469698583932,
+    "wins_vs_nuwls": 226,
+    "ties_vs_nuwls": 1510,
+    "losses_vs_nuwls": 0
+  },
+  "P3_NuWLS+SatLike+SPB": {
+    "avg_score": 0.8919963130364514,
+    "wins_vs_nuwls": 241,
+    "ties_vs_nuwls": 1495,
+    "losses_vs_nuwls": 0
+  },
+  "P4_top4": {
+    "avg_score": 0,
+    "wins_vs_nuwls": 0,
+    "ties_vs_nuwls": 0,
+    "losses_vs_nuwls": 0
+  }
+}

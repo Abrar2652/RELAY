@@ -1,0 +1,80 @@
+2026-04-19 03:08:52 [INFO] Logging to file: /nas/ckgfs/users/jahin/HYDRA/results/logs/hydra_eval_60s_v2shard2_20260419_030837.log
+2026-04-19 03:09:14 [INFO] Loading pre-trained model from /nas/ckgfs/jaunts/jahin/HYDRA/hydra_pretrained
+2026-04-19 03:09:15 [INFO] 
+Discovering benchmarks in /nas/ckgfs/users/jahin/HYDRA/results/shard_v2_tmp/shard_2_bench...
+2026-04-19 03:09:15 [INFO]   ms2022: 179 instances
+2026-04-19 03:09:15 [INFO]   wms2020: 26 instances
+2026-04-19 03:09:15 [INFO]   wms2023: 160 instances
+2026-04-19 03:09:15 [INFO] 
+============================================================
+2026-04-19 03:09:15 [INFO]   EVALUATION: timeout=60.0s, seeds=3
+2026-04-19 03:09:15 [INFO] ============================================================
+2026-04-19 03:09:15 [INFO] 
+--- WMS 2020 (26 instances) ---
+2026-04-19 03:09:15 [INFO]   brock200_4.clq.wcnf            seed=0 cost=      0.00  time=   0.0s
+2026-04-19 03:09:16 [INFO]   brock200_4.clq.wcnf            seed=1 cost=      0.00  time=   0.0s
+2026-04-19 03:09:16 [INFO]   brock200_4.clq.wcnf            seed=2 cost=      0.00  time=   0.0s
+2026-04-19 03:09:16 [INFO]   brock400_3.clq.wcnf            seed=0 cost=      0.00  time=   0.0s
+2026-04-19 03:09:16 [INFO]   brock400_3.clq.wcnf            seed=1 cost=      0.00  time=   0.0s
+2026-04-19 03:09:16 [INFO]   brock400_3.clq.wcnf            seed=2 cost=      0.00  time=   0.0s
+2026-04-19 03:09:16 [INFO]   brock800_3.clq.wcnf            seed=0 cost=      0.00  time=   0.0s
+2026-04-19 03:09:16 [INFO]   brock800_3.clq.wcnf            seed=1 cost=      0.00  time=   0.0s
+2026-04-19 03:09:16 [INFO]   brock800_3.clq.wcnf            seed=2 cost=      0.00  time=   0.0s
+2026-04-19 03:09:17 [INFO]   hamming6-2.clq.wcnf            seed=0 cost=      0.00  time=   0.3s
+2026-04-19 03:09:17 [INFO]   hamming6-2.clq.wcnf            seed=1 cost=      0.00  time=   0.3s
+2026-04-19 03:09:18 [INFO]   hamming6-2.clq.wcnf            seed=2 cost=      0.00  time=   0.2s
+2026-04-19 03:09:18 [INFO]   johnson8-4-4.clq.wcnf          seed=0 cost=      0.00  time=   0.3s
+2026-04-19 03:09:18 [INFO]   johnson8-4-4.clq.wcnf          seed=1 cost=      0.00  time=   0.3s
+2026-04-19 03:09:19 [INFO]   johnson8-4-4.clq.wcnf          seed=2 cost=      0.00  time=   0.3s
+2026-04-19 03:09:19 [INFO]   p_hat500-3.clq.wcnf            seed=0 cost=      0.00  time=   0.0s
+2026-04-19 03:09:19 [INFO]   p_hat500-3.clq.wcnf            seed=1 cost=      0.00  time=   0.0s
+2026-04-19 03:09:19 [INFO]   p_hat500-3.clq.wcnf            seed=2 cost=      0.00  time=   0.0s
+2026-04-19 03:09:19 [INFO]   p_hat700-3.clq.wcnf            seed=0 cost=      0.00  time=   0.0s
+2026-04-19 03:09:19 [INFO]   p_hat700-3.clq.wcnf            seed=1 cost=      0.00  time=   0.0s
+2026-04-19 03:09:20 [INFO]   p_hat700-3.clq.wcnf            seed=2 cost=      0.00  time=   0.0s
+2026-04-19 03:09:26 [INFO] Phase 1: Diffusion init (16 trajectories)...
+2026-04-19 03:10:00 [INFO]   Diffusion init best cost: 360422.0
+2026-04-19 03:10:00 [INFO] Phase 2: Evolutionary refinement (n=78, m=1001)...
+2026-04-19 03:10:20 [INFO] Final: cost=18685.0000, steps=31, pop_size=24, time=60.4s
+2026-04-19 03:10:20 [INFO]   ram_k3_n13.ra1.wcnf            seed=0 cost=  18685.00  time=  60.4s
+2026-04-19 03:10:22 [INFO] Phase 1: Diffusion init (16 trajectories)...
+2026-04-19 03:10:52 [INFO]   Diffusion init best cost: 360422.0
+2026-04-19 03:10:52 [INFO] Phase 2: Evolutionary refinement (n=78, m=1001)...
+2026-04-19 03:11:21 [INFO] Final: cost=19535.0000, steps=46, pop_size=25, time=61.2s
+2026-04-19 03:11:21 [INFO]   ram_k3_n13.ra1.wcnf            seed=1 cost=  19535.00  time=  61.2s
+2026-04-19 03:11:23 [INFO] Phase 1: Diffusion init (16 trajectories)...
+2026-04-19 03:11:51 [INFO]   Diffusion init best cost: 360422.0
+2026-04-19 03:11:51 [INFO] Phase 2: Evolutionary refinement (n=78, m=1001)...
+2026-04-19 03:12:22 [INFO] Final: cost=18024.0000, steps=41, pop_size=19, time=60.4s
+2026-04-19 03:12:22 [INFO]   ram_k3_n13.ra1.wcnf            seed=2 cost=  18024.00  time=  60.5s
+2026-04-19 03:12:24 [INFO] Phase 1: Diffusion init (16 trajectories)...
+2026-04-19 03:13:06 [INFO]   Diffusion init best cost: 504950.0
+2026-04-19 03:13:06 [INFO] Phase 2: Evolutionary refinement (n=91, m=1365)...
+2026-04-19 03:13:23 [INFO] Final: cost=183887.0000, steps=26, pop_size=18, time=60.9s
+2026-04-19 03:13:23 [INFO]   ram_k3_n14.ra1.wcnf            seed=0 cost= 183887.00  time=  60.9s
+2026-04-19 03:13:25 [INFO] Phase 1: Diffusion init (16 trajectories)...
+2026-04-19 03:14:08 [INFO]   Diffusion init best cost: 504950.0
+2026-04-19 03:14:08 [INFO] Phase 2: Evolutionary refinement (n=91, m=1365)...
+2026-04-19 03:14:25 [INFO] Final: cost=98042.0000, steps=21, pop_size=25, time=61.6s
+2026-04-19 03:14:25 [INFO]   ram_k3_n14.ra1.wcnf            seed=1 cost=  98042.00  time=  61.6s
+2026-04-19 03:14:27 [INFO] Phase 1: Diffusion init (16 trajectories)...
+2026-04-19 03:15:09 [INFO]   Diffusion init best cost: 504950.0
+2026-04-19 03:15:09 [INFO] Phase 2: Evolutionary refinement (n=91, m=1365)...
+2026-04-19 03:15:28 [INFO] Final: cost=183887.0000, steps=16, pop_size=19, time=62.9s
+2026-04-19 03:15:28 [INFO]   ram_k3_n14.ra1.wcnf            seed=2 cost= 183887.00  time=  62.9s
+2026-04-19 03:15:32 [INFO] Phase 1: Diffusion init (16 trajectories)...
+2026-04-19 03:16:35 [INFO]   Diffusion init best cost: 690848.0
+2026-04-19 03:16:35 [INFO] Phase 2: Evolutionary refinement (n=105, m=1820)...
+2026-04-19 03:16:35 [INFO] Final: cost=690848.0000, steps=0, pop_size=16, time=67.0s
+2026-04-19 03:16:35 [INFO]   ram_k3_n15.ra1.wcnf            seed=0 cost= 690848.00  time=  67.0s
+2026-04-19 03:16:39 [INFO] Phase 1: Diffusion init (16 trajectories)...
+2026-04-19 03:17:42 [INFO]   Diffusion init best cost: 690848.0
+2026-04-19 03:17:42 [INFO] Phase 2: Evolutionary refinement (n=105, m=1820)...
+2026-04-19 03:17:42 [INFO] Final: cost=690848.0000, steps=0, pop_size=16, time=67.1s
+2026-04-19 03:17:42 [INFO]   ram_k3_n15.ra1.wcnf            seed=1 cost= 690848.00  time=  67.1s
+2026-04-19 03:17:46 [INFO] Phase 1: Diffusion init (16 trajectories)...
+2026-04-19 03:18:49 [INFO]   Diffusion init best cost: 690848.0
+2026-04-19 03:18:49 [INFO] Phase 2: Evolutionary refinement (n=105, m=1820)...
+2026-04-19 03:18:49 [INFO] Final: cost=690848.0000, steps=0, pop_size=16, time=67.2s
+2026-04-19 03:18:49 [INFO]   ram_k3_n15.ra1.wcnf            seed=2 cost= 690848.00  time=  67.2s
+2026-04-19 03:18:56 [INFO] Phase 1: Diffusion init (16 trajectories)...

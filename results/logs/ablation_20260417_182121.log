@@ -1,0 +1,227 @@
+18:21:30 [INFO] [full] loading pretrained from ./hydra_pretrained
+18:21:32 [INFO] [full] WMS 2020: 12 instances
+18:21:32 [INFO]     MANN_a45.clq.wcnf                        cost=     0.00 t=  0.0s
+18:21:32 [INFO]     brock200_3.clq.wcnf                      cost=     0.00 t=  0.0s
+18:21:33 [INFO]     brock200_4.clq.wcnf                      cost=     0.00 t=  0.0s
+18:21:33 [INFO]     brock400_2.clq.wcnf                      cost=     0.00 t=  0.1s
+18:21:33 [INFO]     brock400_3.clq.wcnf                      cost=     0.00 t=  0.0s
+18:21:33 [INFO]     brock800_3.clq.wcnf                      cost=     0.00 t=  0.0s
+18:21:33 [INFO]     p_hat300-3.clq.wcnf                      cost=     0.00 t=  0.0s
+18:21:34 [INFO]     p_hat500-3.clq.wcnf                      cost=     0.00 t=  0.0s
+18:21:35 [INFO]     p_hat700-3.clq.wcnf                      cost=     0.00 t=  0.0s
+18:21:37 [INFO] Phase 1: Diffusion init (64 trajectories)...
+18:22:07 [INFO]   Diffusion init best cost: 360422.0
+18:22:07 [INFO] Phase 2: Evolutionary refinement (n=78, m=1001)...
+18:22:35 [INFO] Final: cost=12308.0000, steps=34, pop_size=113, time=60.0s
+18:22:35 [INFO]     ram_k3_n13.ra1.wcnf                      cost= 12308.00 t= 60.0s
+18:22:36 [INFO]     san200_0.7_1.clq.wcnf                    cost=     0.00 t=  0.2s
+18:22:36 [INFO]     sanr200_0.7.clq.wcnf                     cost=     0.00 t=  0.0s
+18:22:36 [INFO] Wrote ./results/ablations/full_results_raw.json
+18:22:36 [INFO] [no_diffusion] loading pretrained from ./hydra_pretrained
+18:22:37 [INFO] [no_diffusion] WMS 2020: 12 instances
+18:22:38 [INFO]     MANN_a45.clq.wcnf                        cost=     0.00 t=  0.0s
+18:22:38 [INFO]     brock200_3.clq.wcnf                      cost=     0.00 t=  0.1s
+18:22:39 [INFO]     brock200_4.clq.wcnf                      cost=     0.00 t=  0.0s
+18:22:40 [INFO]     brock400_2.clq.wcnf                      cost=     0.00 t=  0.0s
+18:22:40 [INFO]     brock400_3.clq.wcnf                      cost=     0.00 t=  0.0s
+18:22:40 [INFO]     brock800_3.clq.wcnf                      cost=     0.00 t=  0.0s
+18:22:40 [INFO]     p_hat300-3.clq.wcnf                      cost=     0.00 t=  0.0s
+18:22:41 [INFO]     p_hat500-3.clq.wcnf                      cost=     0.00 t=  0.0s
+18:22:41 [INFO]     p_hat700-3.clq.wcnf                      cost=     0.00 t=  0.0s
+18:22:43 [INFO] Phase 2: Evolutionary refinement (n=78, m=1001)...
+18:23:42 [INFO] Final: cost=19079.0000, steps=71, pop_size=1, time=60.0s
+18:23:42 [INFO]     ram_k3_n13.ra1.wcnf                      cost= 19079.00 t= 60.0s
+18:23:43 [INFO]     san200_0.7_1.clq.wcnf                    cost=     0.00 t=  0.3s
+18:23:43 [INFO]     sanr200_0.7.clq.wcnf                     cost=     0.00 t=  0.0s
+18:23:43 [INFO] Wrote ./results/ablations/no_diffusion_results_raw.json
+18:23:43 [INFO] [no_rich_graph] loading pretrained from ./hydra_pretrained
+18:23:45 [INFO] [no_rich_graph] WMS 2020: 12 instances
+18:23:45 [INFO]     MANN_a45.clq.wcnf                        cost=     0.00 t=  0.0s
+18:23:45 [INFO]     brock200_3.clq.wcnf                      cost=     0.00 t=  0.2s
+18:23:46 [INFO]     brock200_4.clq.wcnf                      cost=     0.00 t=  0.0s
+18:23:46 [INFO]     brock400_2.clq.wcnf                      cost=     0.00 t=  0.0s
+18:23:47 [INFO]     brock400_3.clq.wcnf                      cost=     0.00 t=  0.0s
+18:23:47 [INFO]     brock800_3.clq.wcnf                      cost=     0.00 t=  0.0s
+18:23:48 [INFO]     p_hat300-3.clq.wcnf                      cost=     0.00 t=  0.0s
+18:23:48 [INFO]     p_hat500-3.clq.wcnf                      cost=     0.00 t=  0.0s
+18:23:48 [INFO]     p_hat700-3.clq.wcnf                      cost=     0.00 t=  0.0s
+18:23:50 [INFO] Phase 1: Diffusion init (64 trajectories)...
+18:24:08 [INFO]   Diffusion init best cost: 144845.0
+18:24:08 [INFO] Phase 2: Evolutionary refinement (n=78, m=1001)...
+18:24:48 [INFO] Final: cost=12308.0000, steps=93, pop_size=78, time=60.0s
+18:24:49 [INFO]     ram_k3_n13.ra1.wcnf                      cost= 12308.00 t= 60.0s
+18:24:49 [INFO]     san200_0.7_1.clq.wcnf                    cost=     0.00 t=  0.0s
+18:24:49 [INFO]     sanr200_0.7.clq.wcnf                     cost=     0.00 t=  0.0s
+18:24:49 [INFO] Wrote ./results/ablations/no_rich_graph_results_raw.json
+18:24:49 [INFO] [no_unsupervised] using fresh random model
+18:24:49 [INFO] [no_unsupervised] WMS 2020: 12 instances
+18:24:50 [INFO]     MANN_a45.clq.wcnf                        cost=     0.00 t=  0.0s
+18:24:50 [INFO]     brock200_3.clq.wcnf                      cost=     0.00 t=  0.2s
+18:24:50 [INFO]     brock200_4.clq.wcnf                      cost=     0.00 t=  0.0s
+18:24:50 [INFO]     brock400_2.clq.wcnf                      cost=     0.00 t=  0.0s
+18:24:50 [INFO]     brock400_3.clq.wcnf                      cost=     0.00 t=  0.0s
+18:24:50 [INFO]     brock800_3.clq.wcnf                      cost=     0.00 t=  0.0s
+18:24:50 [INFO]     p_hat300-3.clq.wcnf                      cost=     0.00 t=  0.0s
+18:24:51 [INFO]     p_hat500-3.clq.wcnf                      cost=     0.00 t=  0.0s
+18:24:51 [INFO]     p_hat700-3.clq.wcnf                      cost=     0.00 t=  0.0s
+18:24:53 [INFO] Phase 1: Diffusion init (64 trajectories)...
+18:25:22 [INFO]   Diffusion init best cost: 360422.0
+18:25:22 [INFO] Phase 2: Evolutionary refinement (n=78, m=1001)...
+18:25:51 [INFO] Final: cost=12308.0000, steps=35, pop_size=114, time=60.2s
+18:25:51 [INFO]     ram_k3_n13.ra1.wcnf                      cost= 12308.00 t= 60.2s
+18:25:51 [INFO]     san200_0.7_1.clq.wcnf                    cost=     0.00 t=  0.0s
+18:25:51 [INFO]     sanr200_0.7.clq.wcnf                     cost=     0.00 t=  0.0s
+18:25:51 [INFO] Wrote ./results/ablations/no_unsupervised_results_raw.json
+18:25:51 [INFO] [no_spectral_pe] loading pretrained from ./hydra_pretrained
+18:25:53 [INFO] [no_spectral_pe] WMS 2020: 12 instances
+18:25:53 [INFO]     MANN_a45.clq.wcnf                        cost=     0.00 t=  0.2s
+18:25:53 [INFO]     brock200_3.clq.wcnf                      cost=     0.00 t=  0.0s
+18:25:53 [INFO]     brock200_4.clq.wcnf                      cost=     0.00 t=  0.0s
+18:25:54 [INFO]     brock400_2.clq.wcnf                      cost=     0.00 t=  0.0s
+18:25:55 [INFO]     brock400_3.clq.wcnf                      cost=     0.00 t=  0.0s
+18:25:55 [INFO]     brock800_3.clq.wcnf                      cost=     0.00 t=  0.0s
+18:25:55 [INFO]     p_hat300-3.clq.wcnf                      cost=     0.00 t=  0.0s
+18:25:56 [INFO]     p_hat500-3.clq.wcnf                      cost=     0.00 t=  0.0s
+18:25:56 [INFO]     p_hat700-3.clq.wcnf                      cost=     0.00 t=  0.2s
+18:25:58 [INFO] Phase 1: Diffusion init (64 trajectories)...
+18:26:27 [INFO]   Diffusion init best cost: 360422.0
+18:26:27 [INFO] Phase 2: Evolutionary refinement (n=78, m=1001)...
+18:26:57 [INFO] Final: cost=12308.0000, steps=41, pop_size=122, time=60.7s
+18:26:57 [INFO]     ram_k3_n13.ra1.wcnf                      cost= 12308.00 t= 60.7s
+18:26:57 [INFO]     san200_0.7_1.clq.wcnf                    cost=     0.00 t=  0.0s
+18:26:59 [INFO]     sanr200_0.7.clq.wcnf                     cost=     0.00 t=  0.3s
+18:26:59 [INFO] Wrote ./results/ablations/no_spectral_pe_results_raw.json
+18:26:59 [INFO] [no_rw_pe] loading pretrained from ./hydra_pretrained
+18:27:02 [INFO] [no_rw_pe] WMS 2020: 12 instances
+18:27:03 [INFO]     MANN_a45.clq.wcnf                        cost=     0.00 t=  0.2s
+18:27:03 [INFO]     brock200_3.clq.wcnf                      cost=     0.00 t=  0.0s
+18:27:03 [INFO]     brock200_4.clq.wcnf                      cost=     0.00 t=  0.0s
+18:27:04 [INFO]     brock400_2.clq.wcnf                      cost=     0.00 t=  0.0s
+18:27:04 [INFO]     brock400_3.clq.wcnf                      cost=     0.00 t=  0.0s
+18:27:04 [INFO]     brock800_3.clq.wcnf                      cost=     0.00 t=  0.0s
+18:27:04 [INFO]     p_hat300-3.clq.wcnf                      cost=     0.00 t=  0.0s
+18:27:05 [INFO]     p_hat500-3.clq.wcnf                      cost=     0.00 t=  0.0s
+18:27:05 [INFO]     p_hat700-3.clq.wcnf                      cost=     0.00 t=  0.2s
+18:27:07 [INFO] Phase 1: Diffusion init (64 trajectories)...
+18:27:37 [INFO]   Diffusion init best cost: 360422.0
+18:27:37 [INFO] Phase 2: Evolutionary refinement (n=78, m=1001)...
+18:28:06 [INFO] Final: cost=12308.0000, steps=36, pop_size=116, time=60.2s
+18:28:06 [INFO]     ram_k3_n13.ra1.wcnf                      cost= 12308.00 t= 60.2s
+18:28:06 [INFO]     san200_0.7_1.clq.wcnf                    cost=     0.00 t=  0.1s
+18:28:06 [INFO]     sanr200_0.7.clq.wcnf                     cost=     0.00 t=  0.0s
+18:28:06 [INFO] Wrote ./results/ablations/no_rw_pe_results_raw.json
+18:28:06 [INFO] [no_ricci] loading pretrained from ./hydra_pretrained
+18:28:07 [INFO] [no_ricci] WMS 2020: 12 instances
+18:28:08 [INFO]     MANN_a45.clq.wcnf                        cost=     0.00 t=  0.1s
+18:28:09 [INFO]     brock200_3.clq.wcnf                      cost=     0.00 t=  0.0s
+18:28:09 [INFO]     brock200_4.clq.wcnf                      cost=     0.00 t=  0.0s
+18:28:09 [INFO]     brock400_2.clq.wcnf                      cost=     0.00 t=  0.0s
+18:28:09 [INFO]     brock400_3.clq.wcnf                      cost=     0.00 t=  0.0s
+18:28:10 [INFO]     brock800_3.clq.wcnf                      cost=     0.00 t=  0.0s
+18:28:11 [INFO]     p_hat300-3.clq.wcnf                      cost=     0.00 t=  0.0s
+18:28:11 [INFO]     p_hat500-3.clq.wcnf                      cost=     0.00 t=  0.0s
+18:28:11 [INFO]     p_hat700-3.clq.wcnf                      cost=     0.00 t=  0.2s
+18:28:13 [INFO] Phase 1: Diffusion init (64 trajectories)...
+18:28:37 [INFO]   Diffusion init best cost: 360422.0
+18:28:37 [INFO] Phase 2: Evolutionary refinement (n=78, m=1001)...
+18:29:13 [INFO] Final: cost=12308.0000, steps=61, pop_size=89, time=61.1s
+18:29:13 [INFO]     ram_k3_n13.ra1.wcnf                      cost= 12308.00 t= 61.1s
+18:29:13 [INFO]     san200_0.7_1.clq.wcnf                    cost=     0.00 t=  0.0s
+18:29:13 [INFO]     sanr200_0.7.clq.wcnf                     cost=     0.00 t=  0.0s
+18:29:13 [INFO] Wrote ./results/ablations/no_ricci_results_raw.json
+18:29:13 [INFO] [no_var_edges] loading pretrained from ./hydra_pretrained
+18:29:14 [INFO] [no_var_edges] WMS 2020: 12 instances
+18:29:15 [INFO]     MANN_a45.clq.wcnf                        cost=     0.00 t=  0.2s
+18:29:15 [INFO]     brock200_3.clq.wcnf                      cost=     0.00 t=  0.0s
+18:29:17 [INFO]     brock200_4.clq.wcnf                      cost=     0.00 t=  0.0s
+18:29:17 [INFO]     brock400_2.clq.wcnf                      cost=     0.00 t=  0.0s
+18:29:17 [INFO]     brock400_3.clq.wcnf                      cost=     0.00 t=  0.0s
+18:29:18 [INFO]     brock800_3.clq.wcnf                      cost=     0.00 t=  0.0s
+18:29:18 [INFO]     p_hat300-3.clq.wcnf                      cost=     0.00 t=  0.0s
+18:29:19 [INFO]     p_hat500-3.clq.wcnf                      cost=     0.00 t=  0.0s
+18:29:19 [INFO]     p_hat700-3.clq.wcnf                      cost=     0.00 t=  0.0s
+18:29:21 [INFO] Phase 1: Diffusion init (64 trajectories)...
+18:29:48 [INFO]   Diffusion init best cost: 144845.0
+18:29:48 [INFO] Phase 2: Evolutionary refinement (n=78, m=1001)...
+18:30:19 [INFO] Final: cost=12308.0000, steps=50, pop_size=75, time=60.1s
+18:30:19 [INFO]     ram_k3_n13.ra1.wcnf                      cost= 12308.00 t= 60.1s
+18:30:20 [INFO]     san200_0.7_1.clq.wcnf                    cost=     0.00 t=  0.2s
+18:30:20 [INFO]     sanr200_0.7.clq.wcnf                     cost=     0.00 t=  0.0s
+18:30:20 [INFO] Wrote ./results/ablations/no_var_edges_results_raw.json
+18:30:20 [INFO] [no_centrality] loading pretrained from ./hydra_pretrained
+18:30:22 [INFO] [no_centrality] WMS 2020: 12 instances
+18:30:22 [INFO]     MANN_a45.clq.wcnf                        cost=     0.00 t=  0.2s
+18:30:23 [INFO]     brock200_3.clq.wcnf                      cost=     0.00 t=  0.0s
+18:30:23 [INFO]     brock200_4.clq.wcnf                      cost=     0.00 t=  0.0s
+18:30:23 [INFO]     brock400_2.clq.wcnf                      cost=     0.00 t=  0.0s
+18:30:24 [INFO]     brock400_3.clq.wcnf                      cost=     0.00 t=  0.0s
+18:30:25 [INFO]     brock800_3.clq.wcnf                      cost=     0.00 t=  0.0s
+18:30:25 [INFO]     p_hat300-3.clq.wcnf                      cost=     0.00 t=  0.0s
+18:30:26 [INFO]     p_hat500-3.clq.wcnf                      cost=     0.00 t=  0.0s
+18:30:26 [INFO]     p_hat700-3.clq.wcnf                      cost=     0.00 t=  0.0s
+18:30:28 [INFO] Phase 1: Diffusion init (64 trajectories)...
+18:30:59 [INFO]   Diffusion init best cost: 360422.0
+18:30:59 [INFO] Phase 2: Evolutionary refinement (n=78, m=1001)...
+18:31:28 [INFO] Final: cost=12308.0000, steps=36, pop_size=116, time=61.7s
+18:31:28 [INFO]     ram_k3_n13.ra1.wcnf                      cost= 12308.00 t= 61.7s
+18:31:29 [INFO]     san200_0.7_1.clq.wcnf                    cost=     0.00 t=  0.0s
+18:31:29 [INFO]     sanr200_0.7.clq.wcnf                     cost=     0.00 t=  0.0s
+18:31:29 [INFO] Wrote ./results/ablations/no_centrality_results_raw.json
+18:31:29 [INFO] [no_guidance] loading pretrained from ./hydra_pretrained
+18:31:30 [INFO] [no_guidance] WMS 2020: 12 instances
+18:31:31 [INFO]     MANN_a45.clq.wcnf                        cost=     0.00 t=  0.2s
+18:31:32 [INFO]     brock200_3.clq.wcnf                      cost=     0.00 t=  0.0s
+18:31:32 [INFO]     brock200_4.clq.wcnf                      cost=     0.00 t=  0.0s
+18:31:32 [INFO]     brock400_2.clq.wcnf                      cost=     0.00 t=  0.0s
+18:31:33 [INFO]     brock400_3.clq.wcnf                      cost=     0.00 t=  0.0s
+18:31:33 [INFO]     brock800_3.clq.wcnf                      cost=     0.00 t=  0.0s
+18:31:34 [INFO]     p_hat300-3.clq.wcnf                      cost=     0.00 t=  0.0s
+18:31:34 [INFO]     p_hat500-3.clq.wcnf                      cost=     0.00 t=  0.0s
+18:31:34 [INFO]     p_hat700-3.clq.wcnf                      cost=     0.00 t=  0.2s
+18:31:36 [INFO] Phase 1: Diffusion init (64 trajectories)...
+18:32:06 [INFO]   Diffusion init best cost: 33339.0
+18:32:06 [INFO] Phase 2: Evolutionary refinement (n=78, m=1001)...
+18:32:35 [INFO] Final: cost=12308.0000, steps=41, pop_size=122, time=60.7s
+18:32:35 [INFO]     ram_k3_n13.ra1.wcnf                      cost= 12308.00 t= 60.8s
+18:32:36 [INFO]     san200_0.7_1.clq.wcnf                    cost=     0.00 t=  0.0s
+18:32:36 [INFO]     sanr200_0.7.clq.wcnf                     cost=     0.00 t=  0.0s
+18:32:36 [INFO] Wrote ./results/ablations/no_guidance_results_raw.json
+18:32:36 [INFO] [no_population] loading pretrained from ./hydra_pretrained
+18:32:37 [INFO] [no_population] WMS 2020: 12 instances
+18:32:38 [INFO]     MANN_a45.clq.wcnf                        cost=     0.00 t=  0.2s
+18:32:38 [INFO]     brock200_3.clq.wcnf                      cost=     0.00 t=  0.0s
+18:32:39 [INFO]     brock200_4.clq.wcnf                      cost=     0.00 t=  0.0s
+18:32:39 [INFO]     brock400_2.clq.wcnf                      cost=     0.00 t=  0.0s
+18:32:39 [INFO]     brock400_3.clq.wcnf                      cost=     0.00 t=  0.0s
+18:32:40 [INFO]     brock800_3.clq.wcnf                      cost=     0.00 t=  0.0s
+18:32:40 [INFO]     p_hat300-3.clq.wcnf                      cost=     0.00 t=  0.0s
+18:32:41 [INFO]     p_hat500-3.clq.wcnf                      cost=     0.00 t=  0.1s
+18:32:41 [INFO]     p_hat700-3.clq.wcnf                      cost=     0.00 t=  0.2s
+18:32:43 [INFO] Phase 1: Diffusion init (1 trajectories)...
+18:32:45 [INFO]   Diffusion init best cost: 360422.0
+18:32:45 [INFO] Phase 2: Evolutionary refinement (n=78, m=1001)...
+18:33:31 [INFO]   Step 100: Consensus decimation, fixing 78/78 vars
+18:33:42 [INFO] Final: cost=144845.0000, steps=124, pop_size=1, time=60.0s
+18:33:42 [INFO]     ram_k3_n13.ra1.wcnf                      cost=144845.00 t= 60.0s
+18:33:42 [INFO]     san200_0.7_1.clq.wcnf                    cost=     0.00 t=  0.0s
+18:33:43 [INFO]     sanr200_0.7.clq.wcnf                     cost=     0.00 t=  0.2s
+18:33:43 [INFO] Wrote ./results/ablations/no_population_results_raw.json
+18:33:43 [INFO] [no_consensus] loading pretrained from ./hydra_pretrained
+18:33:43 [INFO] [no_consensus] WMS 2020: 12 instances
+18:33:44 [INFO]     MANN_a45.clq.wcnf                        cost=     0.00 t=  0.0s
+18:33:45 [INFO]     brock200_3.clq.wcnf                      cost=     0.00 t=  0.0s
+18:33:46 [INFO]     brock200_4.clq.wcnf                      cost=     0.00 t=  0.2s
+18:33:46 [INFO]     brock400_2.clq.wcnf                      cost=     0.00 t=  0.0s
+18:33:46 [INFO]     brock400_3.clq.wcnf                      cost=     0.00 t=  0.0s
+18:33:47 [INFO]     brock800_3.clq.wcnf                      cost=     0.00 t=  0.0s
+18:33:47 [INFO]     p_hat300-3.clq.wcnf                      cost=     0.00 t=  0.0s
+18:33:47 [INFO]     p_hat500-3.clq.wcnf                      cost=     0.00 t=  0.0s
+18:33:47 [INFO]     p_hat700-3.clq.wcnf                      cost=     0.00 t=  0.0s
+18:33:50 [INFO] Phase 1: Diffusion init (64 trajectories)...
+18:34:21 [INFO]   Diffusion init best cost: 360422.0
+18:34:21 [INFO] Phase 2: Evolutionary refinement (n=78, m=1001)...
+18:34:48 [INFO] Final: cost=12308.0000, steps=36, pop_size=116, time=60.1s
+18:34:48 [INFO]     ram_k3_n13.ra1.wcnf                      cost= 12308.00 t= 60.1s
+18:34:49 [INFO]     san200_0.7_1.clq.wcnf                    cost=     0.00 t=  0.2s
+18:34:50 [INFO]     sanr200_0.7.clq.wcnf                     cost=     0.00 t=  0.0s
+18:34:50 [INFO] Wrote ./results/ablations/no_consensus_results_raw.json

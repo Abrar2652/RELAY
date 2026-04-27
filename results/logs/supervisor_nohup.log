@@ -1,0 +1,5 @@
+2026-04-16 18:22:51 [supervisor] supervisor start (CUDA_MAIN=3, CUDA_ABL=5)
+2026-04-16 18:22:51 [supervisor] HYDRA_DIR=/nas/ckgfs/jaunts/jahin/HYDRA
+2026-04-16 18:22:52 [supervisor] waiting for /nas/ckgfs/jaunts/jahin/HYDRA/hydra_pretrained/hydra_best.pt ...
+2026-04-16 18:28:52 [supervisor] ERROR: no pretrain process alive and no model file — aborting
+2026-04-16 18:28:52 [supervisor] pretraining failed; exiting without running dependent jobs

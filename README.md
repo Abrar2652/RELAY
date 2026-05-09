@@ -1,4 +1,4 @@
-# RELAY: Parallel Portfolio Racing for Incomplete Weighted MaxSAT
+# RELAY-Bench: A Benchmark and Portfolio Baseline for Incomplete MaxSAT Evaluation
 
 Implementation and experiments for a parallel-portfolio framework on MaxSAT Evaluation 2020-2024.  The portfolio combines $k$ off-the-shelf SLS solvers executed concurrently and reports the minimum cost per instance, yielding a strict Pareto improvement over any single solver.
 

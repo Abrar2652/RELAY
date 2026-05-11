@@ -1,0 +1,334 @@
+{
+  "300": {
+    "2020": {
+      "ms": {
+        "wdbc_train_7_DNF_5_1.wcnf": [
+          21.0
+        ],
+        "uaq-ppr-nr200-nc66-n5-k2-rpp4-ppr9-plb100.wcnf": [
+          74.0
+        ],
+        "tictactoe_train_6_CNF_4_1.wcnf": [
+          119.0
+        ],
+        "d4.wcnf": [
+          Infinity
+        ],
+        "uaq-ppr-nr200-nc66-n5-k2-rpp4-ppr10-plb100.wcnf": [
+          71.0
+        ],
+        "scpclr13_maxsat.wcnf": [
+          29.0
+        ],
+        "GenHyperTW_hole9.wcnf": [
+          10.0
+        ],
+        "sanr400_0.7.clq.wcnf": [
+          379.0
+        ],
+        "atcoss_mesat_03.wcnf": [
+          Infinity
+        ],
+        "ram_k4_n18.ra0.wcnf": [
+          9.0
+        ]
+      },
+      "wms": {
+        "lisbon-wedding-7-19.wcnf": [
+          515.0
+        ],
+        "channel-500x100x100-b050.wcnf": [
+          33348213.0
+        ],
+        "limits-10-10_data-2_inst-003_30m.sm-extracted.wcnf": [
+          Infinity
+        ],
+        "af-synthesis_stb_50_140_8.wcnf": [
+          142.0
+        ],
+        "normalized-mps-v2-20-10-mod008.opb.msat.wcnf": [
+          Infinity
+        ],
+        "rail4284.wcnf": [
+          Infinity
+        ],
+        "Rounded_CorrelationClustering_Protein2_BINARY_N400.wcnf": [
+          41579864.0
+        ],
+        "ram_k3_n15.ra1.wcnf": [
+          4884.0
+        ],
+        "normalized-mps-v2-20-10-sentoy.opb.msat.wcnf": [
+          Infinity
+        ],
+        "sanr200_0.7.clq.wcnf": [
+          1171.0
+        ]
+      }
+    },
+    "2021": {
+      "ms": {
+        "scpcyc06_maxsat.wcnf": [
+          60.0
+        ],
+        "MinFill_R0_myciel6.wcnf": [
+          768.0
+        ],
+        "sysadmin_4_4.wcnf": [
+          Infinity
+        ],
+        "atcoss_mesat_15.wcnf": [
+          Infinity
+        ],
+        "AMAZON.wcnf": [
+          Infinity
+        ],
+        "mul_8_3.wcnf": [
+          37.0
+        ],
+        "ms_260_20_20-0.wcnf": [
+          Infinity
+        ],
+        "mul_8_9.wcnf": [
+          44.0
+        ],
+        "ms_200_22_20-2.wcnf": [
+          Infinity
+        ],
+        "Q34_OPTIONS_1.wcnf": [
+          Infinity
+        ]
+      },
+      "wms": {
+        "r11.wcnf": [
+          57898605.0
+        ],
+        "MultiDay_2_weighted.wcnf": [
+          464888.0
+        ],
+        "downcast-pmd.wcnf": [
+          4293.0
+        ],
+        "hugebubbles-00020.wcnf": [
+          Infinity
+        ],
+        "SwitchingActivityMaximization_OpenRISC1200_150.wcnf": [
+          Infinity
+        ],
+        "instance4.wcnf": [
+          1858.0
+        ],
+        "SwitchingActivityMaximization_OpenRISC1200_68.wcnf": [
+          Infinity
+        ],
+        "simNo_2-s_5-m_300-n_300-fp_0.01-fn_0.20.wcnf": [
+          6631602611110028.0
+        ],
+        "instance3.wcnf": [
+          1042.0
+        ],
+        "ram_k3_n18.ra1.wcnf": [
+          15621.0
+        ]
+      }
+    },
+    "2022": {
+      "ms": {
+        "lam.20-100-p100-86.wcnf": [
+          0.0
+        ],
+        "unw.SingleDay_15.wcnf": [
+          0.0
+        ],
+        "bip.maxcut-140-630-0.7-44.wcnf": [
+          0.0
+        ],
+        "ram_k3_n19.ra0.wcnf": [
+          0.0
+        ],
+        "navigation_5x5_10.wcnf": [
+          0.0
+        ],
+        "bupa.wcnf": [
+          0.0
+        ],
+        "ran-scp.scp48_maxsat.wcnf": [
+          0.0
+        ],
+        "data.405.wcnf": [
+          0.0
+        ],
+        "dim.hamming8-2.clq.wcnf": [
+          0.0
+        ],
+        "mes.atcoss_mesat_04.wcnf": [
+          0.0
+        ]
+      },
+      "wms": {
+        "vio.role_domino_violations_0.15_9.wcnf": [
+          0.0
+        ],
+        "hea.formula_0.8_2021_atleast_63_max-5_reduced_incomplete_adaboost_5.wcnf": [
+          0.0
+        ],
+        "MinWidthCB_mitdbsample_300_26_1k_6s_1t_8.wcnf": [
+          0.0
+        ],
+        "bnn_mnist_back_image_32_label3_adversarial_norm_inf_totalizer.wcnf": [
+          0.0
+        ],
+        "ann.formula_0.8_2021_atleast_63_max-5_reduced_incomplete_adaboost_4.wcnf": [
+          0.0
+        ],
+        "dim.hamming10-4.clq.wcnf": [
+          0.0
+        ],
+        "mul.role_university_multiple_0.1_0.wcnf": [
+          0.0
+        ],
+        "wei.MultiDay_4_weighted.wcnf": [
+          0.0
+        ],
+        "tic.formula_0.8_2021_atleast_15_max-3_reduced_incomplete_adaboost_6.wcnf": [
+          0.0
+        ],
+        "bf2030fvslack.wcnf": [
+          0.0
+        ]
+      }
+    },
+    "2023": {
+      "ms": {
+        "judgment-aggregation-ja-maxham-preflib-00049-00000338.wcnf": [
+          0.0
+        ],
+        "xai-mindset2-shuttleM.wcnf": [
+          0.0
+        ],
+        "planning-bnn-cellda_y_9.wcnf": [
+          0.0
+        ],
+        "inconsistency-measurement-im-hit-A-1-grd_1790_4_8.tgf.pl.wcnf": [
+          0.0
+        ],
+        "optimizing-BDDs-vote-un-wcnf_incomplete_improved_1_2019_8.wcnf": [
+          0.0
+        ],
+        "ramsey-ram_k3_n14.ra0.wcnf": [
+          0.0
+        ],
+        "fault-diagnosis-s38584_nan_explicit_9_0.wcnf": [
+          0.0
+        ],
+        "gen-hyper-tw-GenHyperTW_b01.wcnf": [
+          0.0
+        ],
+        "SeanSafarpour-rsdecoder1_blackbox_KESblock-problem.dimacs_30.filtered.wcnf": [
+          0.0
+        ],
+        "treewidth-computation-TWComp_eil51.tsp_N51.wcnf": [
+          0.0
+        ]
+      },
+      "wms": {
+        "staff-scheduling_wt-instance2.wcnf": [
+          0.0
+        ],
+        "correlation-clustering_wt-Rounded_CorrelationClustering_Ionosphere_BINARY_N260_D0.200.wcnf": [
+          0.0
+        ],
+        "staff-scheduling_wt-instance5.wcnf": [
+          0.0
+        ],
+        "correlation-clustering_wt-Rounded_CorrelationClustering_Protein2_BINARY_N240.wcnf": [
+          0.0
+        ],
+        "decision-tree-heart-cleveland-un-formula_0.8_2021_atleast_127_max-6_reduced_incomplete_adaboost_2.wcnf": [
+          0.0
+        ],
+        "spot5_wt-1405.wcsp.dir.wcnf": [
+          0.0
+        ],
+        "MaxSATQueriesinInterpretableClassifiers_wt-pima_train_6_CNF_3_20.wcnf": [
+          0.0
+        ],
+        "staff-scheduling_wt-instance3.wcnf": [
+          0.0
+        ],
+        "causal-discovery_wt-causal_Mushroom_7_1000.wcnf": [
+          0.0
+        ],
+        "shiftdesign_wt-limits-10-10_data-2_inst-030_30m.sm-extracted.wcnf": [
+          0.0
+        ]
+      }
+    },
+    "2024": {
+      "ms": {
+        "decision-tree-hypothyroid-un-formula_0.8_2021_atleast_127_max-6_reduced_incomplete_tree.wcnf": [
+          0.0
+        ],
+        "minimize-5gons-u5-cube-maxcdcl-60-tmp-15-2655746.wcnf": [
+          0.0
+        ],
+        "treewidth-computation-TWComp_1en2_N69.wcnf": [
+          0.0
+        ],
+        "privilege-escalation-cloud_access_control_repair_task-134.wcnf": [
+          0.0
+        ],
+        "optic-gen_mult_4_6_9999.wcnf": [
+          0.0
+        ],
+        "gen-hyper-tw-GenHyperTW_uf20-099.wcnf": [
+          0.0
+        ],
+        "decision-tree-vote-un-formula_0.8_2021_atleast_15_max-3_reduced_incomplete_tree.wcnf": [
+          0.0
+        ],
+        "gen-hyper-tw-GenHyperTW_flat30-1.wcnf": [
+          0.0
+        ],
+        "treewidth-computation-TWComp_queen5_5_N25.wcnf": [
+          0.0
+        ],
+        "judgment-aggregation-ja-maxham-preflib-00049-00000106.wcnf": [
+          0.0
+        ]
+      },
+      "wms": {
+        "drmx-cryptogen_wt-threshold128_6.wcnf": [
+          0.0
+        ],
+        "causal-discovery_wt-causal_Mildew_8_1000.wcnf": [
+          0.0
+        ],
+        "decision-tree-primary-tumor-un-formula_0.8_2021_atleast_15_max-3_reduced_incomplete_adaboost_2.wcnf": [
+          0.0
+        ],
+        "lisbon-wedding_wt-lisbon-wedding-7-19.wcnf": [
+          0.0
+        ],
+        "synplicate_new-synplicate_synthetic_dag_run2_16_size_9_ms_26_50_0_erm.wcnf": [
+          0.0
+        ],
+        "BTBNSL_wt-Rounded_BTWBNSL_hailfinder_10000_1_3.scores_TWBound_3.wcnf": [
+          0.0
+        ],
+        "switchingactivitymaximization-SwitchingActivityMaximization_OpenRISC1200_74.wcnf": [
+          0.0
+        ],
+        "decision-tree-heart-cleveland-un-formula_0.8_2021_atleast_127_max-6_reduced_incomplete_adaboost_5.wcnf": [
+          0.0
+        ],
+        "BTBNSL_wt-Rounded_BTWBNSL_Horse.BIC_TWBound_2.wcnf": [
+          0.0
+        ],
+        "setcover_wt-rail4872.wcnf": [
+          0.0
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,702 @@
+[
+  {
+    "name": "wdbc_train_7_DNF_5_1.wcnf",
+    "year": "2020",
+    "cat": "ms",
+    "included": true,
+    "size_kb": 610
+  },
+  {
+    "name": "uaq-ppr-nr200-nc66-n5-k2-rpp4-ppr9-plb100.wcnf",
+    "year": "2020",
+    "cat": "ms",
+    "included": true,
+    "size_kb": 76
+  },
+  {
+    "name": "tictactoe_train_6_CNF_4_1.wcnf",
+    "year": "2020",
+    "cat": "ms",
+    "included": true,
+    "size_kb": 267
+  },
+  {
+    "name": "d4.wcnf",
+    "year": "2020",
+    "cat": "ms",
+    "included": false,
+    "reason": "size=473536KB"
+  },
+  {
+    "name": "uaq-ppr-nr200-nc66-n5-k2-rpp4-ppr10-plb100.wcnf",
+    "year": "2020",
+    "cat": "ms",
+    "included": true,
+    "size_kb": 80
+  },
+  {
+    "name": "scpclr13_maxsat.wcnf",
+    "year": "2020",
+    "cat": "ms",
+    "included": true,
+    "size_kb": 1396
+  },
+  {
+    "name": "GenHyperTW_hole9.wcnf",
+    "year": "2020",
+    "cat": "ms",
+    "included": false,
+    "reason": "size=71589KB"
+  },
+  {
+    "name": "sanr400_0.7.clq.wcnf",
+    "year": "2020",
+    "cat": "ms",
+    "included": true,
+    "size_kb": 319
+  },
+  {
+    "name": "atcoss_mesat_03.wcnf",
+    "year": "2020",
+    "cat": "ms",
+    "included": false,
+    "reason": "size=28011KB"
+  },
+  {
+    "name": "ram_k4_n18.ra0.wcnf",
+    "year": "2020",
+    "cat": "ms",
+    "included": true,
+    "size_kb": 160
+  },
+  {
+    "name": "lisbon-wedding-7-19.wcnf",
+    "year": "2020",
+    "cat": "wms",
+    "included": false,
+    "reason": "size=4731KB"
+  },
+  {
+    "name": "channel-500x100x100-b050.wcnf",
+    "year": "2020",
+    "cat": "wms",
+    "included": false,
+    "reason": "size=807091KB"
+  },
+  {
+    "name": "limits-10-10_data-2_inst-003_30m.sm-extracted.wcnf",
+    "year": "2020",
+    "cat": "wms",
+    "included": false,
+    "reason": "size=489328KB"
+  },
+  {
+    "name": "af-synthesis_stb_50_140_8.wcnf",
+    "year": "2020",
+    "cat": "wms",
+    "included": false,
+    "reason": "size=7589KB"
+  },
+  {
+    "name": "normalized-mps-v2-20-10-mod008.opb.msat.wcnf",
+    "year": "2020",
+    "cat": "wms",
+    "included": true,
+    "size_kb": 1613
+  },
+  {
+    "name": "rail4284.wcnf",
+    "year": "2020",
+    "cat": "wms",
+    "included": false,
+    "reason": "size=89729KB"
+  },
+  {
+    "name": "Rounded_CorrelationClustering_Protein2_BINARY_N400.wcnf",
+    "year": "2020",
+    "cat": "wms",
+    "included": false,
+    "reason": "size=12389KB"
+  },
+  {
+    "name": "ram_k3_n15.ra1.wcnf",
+    "year": "2020",
+    "cat": "wms",
+    "included": true,
+    "size_kb": 46
+  },
+  {
+    "name": "normalized-mps-v2-20-10-sentoy.opb.msat.wcnf",
+    "year": "2020",
+    "cat": "wms",
+    "included": false,
+    "reason": "size=2215KB"
+  },
+  {
+    "name": "sanr200_0.7.clq.wcnf",
+    "year": "2020",
+    "cat": "wms",
+    "included": true,
+    "size_kb": 12
+  },
+  {
+    "name": "scpcyc06_maxsat.wcnf",
+    "year": "2021",
+    "cat": "ms",
+    "included": true,
+    "size_kb": 6
+  },
+  {
+    "name": "MinFill_R0_myciel6.wcnf",
+    "year": "2021",
+    "cat": "ms",
+    "included": false,
+    "reason": "size=20115KB"
+  },
+  {
+    "name": "sysadmin_4_4.wcnf",
+    "year": "2021",
+    "cat": "ms",
+    "included": false,
+    "reason": "size=105084KB"
+  },
+  {
+    "name": "atcoss_mesat_15.wcnf",
+    "year": "2021",
+    "cat": "ms",
+    "included": false,
+    "reason": "size=47781KB"
+  },
+  {
+    "name": "AMAZON.wcnf",
+    "year": "2021",
+    "cat": "ms",
+    "included": false,
+    "reason": "size=49376KB"
+  },
+  {
+    "name": "mul_8_3.wcnf",
+    "year": "2021",
+    "cat": "ms",
+    "included": false,
+    "reason": "size=11120KB"
+  },
+  {
+    "name": "ms_260_20_20-0.wcnf",
+    "year": "2021",
+    "cat": "ms",
+    "included": false,
+    "reason": "size=903805KB"
+  },
+  {
+    "name": "mul_8_9.wcnf",
+    "year": "2021",
+    "cat": "ms",
+    "included": false,
+    "reason": "size=16979KB"
+  },
+  {
+    "name": "ms_200_22_20-2.wcnf",
+    "year": "2021",
+    "cat": "ms",
+    "included": false,
+    "reason": "size=940366KB"
+  },
+  {
+    "name": "Q34_OPTIONS_1.wcnf",
+    "year": "2021",
+    "cat": "ms",
+    "included": false,
+    "reason": "size=139178KB"
+  },
+  {
+    "name": "r11.wcnf",
+    "year": "2021",
+    "cat": "wms",
+    "included": false,
+    "reason": "size=685838KB"
+  },
+  {
+    "name": "MultiDay_2_weighted.wcnf",
+    "year": "2021",
+    "cat": "wms",
+    "included": false,
+    "reason": "size=51300KB"
+  },
+  {
+    "name": "downcast-pmd.wcnf",
+    "year": "2021",
+    "cat": "wms",
+    "included": false,
+    "reason": "size=612043KB"
+  },
+  {
+    "name": "hugebubbles-00020.wcnf",
+    "year": "2021",
+    "cat": "wms",
+    "included": false,
+    "reason": "size=1280036KB"
+  },
+  {
+    "name": "SwitchingActivityMaximization_OpenRISC1200_150.wcnf",
+    "year": "2021",
+    "cat": "wms",
+    "included": false,
+    "reason": "size=42849KB"
+  },
+  {
+    "name": "instance4.wcnf",
+    "year": "2021",
+    "cat": "wms",
+    "included": true,
+    "size_kb": 525
+  },
+  {
+    "name": "SwitchingActivityMaximization_OpenRISC1200_68.wcnf",
+    "year": "2021",
+    "cat": "wms",
+    "included": false,
+    "reason": "size=42834KB"
+  },
+  {
+    "name": "simNo_2-s_5-m_300-n_300-fp_0.01-fn_0.20.wcnf",
+    "year": "2021",
+    "cat": "wms",
+    "included": false,
+    "reason": "size=1585095KB"
+  },
+  {
+    "name": "instance3.wcnf",
+    "year": "2021",
+    "cat": "wms",
+    "included": true,
+    "size_kb": 1019
+  },
+  {
+    "name": "ram_k3_n18.ra1.wcnf",
+    "year": "2021",
+    "cat": "wms",
+    "included": true,
+    "size_kb": 107
+  },
+  {
+    "name": "lam.20-100-p100-86.wcnf",
+    "year": "2022",
+    "cat": "ms",
+    "included": false,
+    "reason": "size=25323KB"
+  },
+  {
+    "name": "unw.SingleDay_15.wcnf",
+    "year": "2022",
+    "cat": "ms",
+    "included": false,
+    "reason": "size=16552KB"
+  },
+  {
+    "name": "bip.maxcut-140-630-0.7-44.wcnf",
+    "year": "2022",
+    "cat": "ms",
+    "included": true,
+    "size_kb": 14
+  },
+  {
+    "name": "ram_k3_n19.ra0.wcnf",
+    "year": "2022",
+    "cat": "ms",
+    "included": true,
+    "size_kb": 128
+  },
+  {
+    "name": "navigation_5x5_10.wcnf",
+    "year": "2022",
+    "cat": "ms",
+    "included": false,
+    "reason": "size=319853KB"
+  },
+  {
+    "name": "bupa.wcnf",
+    "year": "2022",
+    "cat": "ms",
+    "included": false,
+    "reason": "size=11615KB"
+  },
+  {
+    "name": "ran-scp.scp48_maxsat.wcnf",
+    "year": "2022",
+    "cat": "ms",
+    "included": true,
+    "size_kb": 25
+  },
+  {
+    "name": "data.405.wcnf",
+    "year": "2022",
+    "cat": "ms",
+    "included": true,
+    "size_kb": 462
+  },
+  {
+    "name": "dim.hamming8-2.clq.wcnf",
+    "year": "2022",
+    "cat": "ms",
+    "included": true,
+    "size_kb": 19
+  },
+  {
+    "name": "mes.atcoss_mesat_04.wcnf",
+    "year": "2022",
+    "cat": "ms",
+    "included": false,
+    "reason": "size=42060KB"
+  },
+  {
+    "name": "vio.role_domino_violations_0.15_9.wcnf",
+    "year": "2022",
+    "cat": "wms",
+    "included": false,
+    "reason": "size=23843KB"
+  },
+  {
+    "name": "hea.formula_0.8_2021_atleast_63_max-5_reduced_incomplete_adaboost_5.wcnf",
+    "year": "2022",
+    "cat": "wms",
+    "included": false,
+    "reason": "size=45574KB"
+  },
+  {
+    "name": "MinWidthCB_mitdbsample_300_26_1k_6s_1t_8.wcnf",
+    "year": "2022",
+    "cat": "wms",
+    "included": true,
+    "size_kb": 947
+  },
+  {
+    "name": "bnn_mnist_back_image_32_label3_adversarial_norm_inf_totalizer.wcnf",
+    "year": "2022",
+    "cat": "wms",
+    "included": false,
+    "reason": "size=3521685KB"
+  },
+  {
+    "name": "ann.formula_0.8_2021_atleast_63_max-5_reduced_incomplete_adaboost_4.wcnf",
+    "year": "2022",
+    "cat": "wms",
+    "included": false,
+    "reason": "size=58331KB"
+  },
+  {
+    "name": "dim.hamming10-4.clq.wcnf",
+    "year": "2022",
+    "cat": "wms",
+    "included": true,
+    "size_kb": 15
+  },
+  {
+    "name": "mul.role_university_multiple_0.1_0.wcnf",
+    "year": "2022",
+    "cat": "wms",
+    "included": false,
+    "reason": "size=46417KB"
+  },
+  {
+    "name": "wei.MultiDay_4_weighted.wcnf",
+    "year": "2022",
+    "cat": "wms",
+    "included": false,
+    "reason": "size=104783KB"
+  },
+  {
+    "name": "tic.formula_0.8_2021_atleast_15_max-3_reduced_incomplete_adaboost_6.wcnf",
+    "year": "2022",
+    "cat": "wms",
+    "included": false,
+    "reason": "size=2825KB"
+  },
+  {
+    "name": "bf2030fvslack.wcnf",
+    "year": "2022",
+    "cat": "wms",
+    "included": false,
+    "reason": "size=435056KB"
+  },
+  {
+    "name": "judgment-aggregation-ja-maxham-preflib-00049-00000338.wcnf",
+    "year": "2023",
+    "cat": "ms",
+    "included": false,
+    "reason": "size=2177KB"
+  },
+  {
+    "name": "xai-mindset2-shuttleM.wcnf",
+    "year": "2023",
+    "cat": "ms",
+    "included": false,
+    "reason": "size=647174KB"
+  },
+  {
+    "name": "planning-bnn-cellda_y_9.wcnf",
+    "year": "2023",
+    "cat": "ms",
+    "included": false,
+    "reason": "size=1198218KB"
+  },
+  {
+    "name": "inconsistency-measurement-im-hit-A-1-grd_1790_4_8.tgf.pl.wcnf",
+    "year": "2023",
+    "cat": "ms",
+    "included": true,
+    "size_kb": 1389
+  },
+  {
+    "name": "optimizing-BDDs-vote-un-wcnf_incomplete_improved_1_2019_8.wcnf",
+    "year": "2023",
+    "cat": "ms",
+    "included": false,
+    "reason": "size=8001KB"
+  },
+  {
+    "name": "ramsey-ram_k3_n14.ra0.wcnf",
+    "year": "2023",
+    "cat": "ms",
+    "included": true,
+    "size_kb": 31
+  },
+  {
+    "name": "fault-diagnosis-s38584_nan_explicit_9_0.wcnf",
+    "year": "2023",
+    "cat": "ms",
+    "included": false,
+    "reason": "size=19370KB"
+  },
+  {
+    "name": "gen-hyper-tw-GenHyperTW_b01.wcnf",
+    "year": "2023",
+    "cat": "ms",
+    "included": false,
+    "reason": "size=4117KB"
+  },
+  {
+    "name": "SeanSafarpour-rsdecoder1_blackbox_KESblock-problem.dimacs_30.filtered.wcnf",
+    "year": "2023",
+    "cat": "ms",
+    "included": false,
+    "reason": "size=24210KB"
+  },
+  {
+    "name": "treewidth-computation-TWComp_eil51.tsp_N51.wcnf",
+    "year": "2023",
+    "cat": "ms",
+    "included": false,
+    "reason": "size=6856KB"
+  },
+  {
+    "name": "staff-scheduling_wt-instance2.wcnf",
+    "year": "2023",
+    "cat": "wms",
+    "included": true,
+    "size_kb": 280
+  },
+  {
+    "name": "correlation-clustering_wt-Rounded_CorrelationClustering_Ionosphere_BINARY_N260_D0.200.wcnf",
+    "year": "2023",
+    "cat": "wms",
+    "included": false,
+    "reason": "size=8031KB"
+  },
+  {
+    "name": "staff-scheduling_wt-instance5.wcnf",
+    "year": "2023",
+    "cat": "wms",
+    "included": true,
+    "size_kb": 1101
+  },
+  {
+    "name": "correlation-clustering_wt-Rounded_CorrelationClustering_Protein2_BINARY_N240.wcnf",
+    "year": "2023",
+    "cat": "wms",
+    "included": false,
+    "reason": "size=3238KB"
+  },
+  {
+    "name": "decision-tree-heart-cleveland-un-formula_0.8_2021_atleast_127_max-6_reduced_incomplete_adaboost_2.wcnf",
+    "year": "2023",
+    "cat": "wms",
+    "included": false,
+    "reason": "size=172447KB"
+  },
+  {
+    "name": "spot5_wt-1405.wcsp.dir.wcnf",
+    "year": "2023",
+    "cat": "wms",
+    "included": true,
+    "size_kb": 457
+  },
+  {
+    "name": "MaxSATQueriesinInterpretableClassifiers_wt-pima_train_6_CNF_3_20.wcnf",
+    "year": "2023",
+    "cat": "wms",
+    "included": true,
+    "size_kb": 145
+  },
+  {
+    "name": "staff-scheduling_wt-instance3.wcnf",
+    "year": "2023",
+    "cat": "wms",
+    "included": true,
+    "size_kb": 830
+  },
+  {
+    "name": "causal-discovery_wt-causal_Mushroom_7_1000.wcnf",
+    "year": "2023",
+    "cat": "wms",
+    "included": false,
+    "reason": "size=2734KB"
+  },
+  {
+    "name": "shiftdesign_wt-limits-10-10_data-2_inst-030_30m.sm-extracted.wcnf",
+    "year": "2023",
+    "cat": "wms",
+    "included": false,
+    "reason": "size=800175KB"
+  },
+  {
+    "name": "decision-tree-hypothyroid-un-formula_0.8_2021_atleast_127_max-6_reduced_incomplete_tree.wcnf",
+    "year": "2024",
+    "cat": "ms",
+    "included": false,
+    "reason": "size=331490KB"
+  },
+  {
+    "name": "minimize-5gons-u5-cube-maxcdcl-60-tmp-15-2655746.wcnf",
+    "year": "2024",
+    "cat": "ms",
+    "included": true,
+    "size_kb": 713
+  },
+  {
+    "name": "treewidth-computation-TWComp_1en2_N69.wcnf",
+    "year": "2024",
+    "cat": "ms",
+    "included": false,
+    "reason": "size=16450KB"
+  },
+  {
+    "name": "privilege-escalation-cloud_access_control_repair_task-134.wcnf",
+    "year": "2024",
+    "cat": "ms",
+    "included": false,
+    "reason": "size=637045KB"
+  },
+  {
+    "name": "optic-gen_mult_4_6_9999.wcnf",
+    "year": "2024",
+    "cat": "ms",
+    "included": false,
+    "reason": "size=57736KB"
+  },
+  {
+    "name": "gen-hyper-tw-GenHyperTW_uf20-099.wcnf",
+    "year": "2024",
+    "cat": "ms",
+    "included": true,
+    "size_kb": 1409
+  },
+  {
+    "name": "decision-tree-vote-un-formula_0.8_2021_atleast_15_max-3_reduced_incomplete_tree.wcnf",
+    "year": "2024",
+    "cat": "ms",
+    "included": false,
+    "reason": "size=2549KB"
+  },
+  {
+    "name": "gen-hyper-tw-GenHyperTW_flat30-1.wcnf",
+    "year": "2024",
+    "cat": "ms",
+    "included": false,
+    "reason": "size=57442KB"
+  },
+  {
+    "name": "treewidth-computation-TWComp_queen5_5_N25.wcnf",
+    "year": "2024",
+    "cat": "ms",
+    "included": true,
+    "size_kb": 741
+  },
+  {
+    "name": "judgment-aggregation-ja-maxham-preflib-00049-00000106.wcnf",
+    "year": "2024",
+    "cat": "ms",
+    "included": false,
+    "reason": "size=2751KB"
+  },
+  {
+    "name": "drmx-cryptogen_wt-threshold128_6.wcnf",
+    "year": "2024",
+    "cat": "wms",
+    "included": true,
+    "size_kb": 233
+  },
+  {
+    "name": "causal-discovery_wt-causal_Mildew_8_1000.wcnf",
+    "year": "2024",
+    "cat": "wms",
+    "included": false,
+    "reason": "size=8368KB"
+  },
+  {
+    "name": "decision-tree-primary-tumor-un-formula_0.8_2021_atleast_15_max-3_reduced_incomplete_adaboost_2.wcnf",
+    "year": "2024",
+    "cat": "wms",
+    "included": true,
+    "size_kb": 1517
+  },
+  {
+    "name": "lisbon-wedding_wt-lisbon-wedding-7-19.wcnf",
+    "year": "2024",
+    "cat": "wms",
+    "included": false,
+    "reason": "size=4089KB"
+  },
+  {
+    "name": "synplicate_new-synplicate_synthetic_dag_run2_16_size_9_ms_26_50_0_erm.wcnf",
+    "year": "2024",
+    "cat": "wms",
+    "included": false,
+    "reason": "size=27154KB"
+  },
+  {
+    "name": "BTBNSL_wt-Rounded_BTWBNSL_hailfinder_10000_1_3.scores_TWBound_3.wcnf",
+    "year": "2024",
+    "cat": "wms",
+    "included": false,
+    "reason": "size=14214KB"
+  },
+  {
+    "name": "switchingactivitymaximization-SwitchingActivityMaximization_OpenRISC1200_74.wcnf",
+    "year": "2024",
+    "cat": "wms",
+    "included": false,
+    "reason": "size=39046KB"
+  },
+  {
+    "name": "decision-tree-heart-cleveland-un-formula_0.8_2021_atleast_127_max-6_reduced_incomplete_adaboost_5.wcnf",
+    "year": "2024",
+    "cat": "wms",
+    "included": false,
+    "reason": "size=172447KB"
+  },
+  {
+    "name": "BTBNSL_wt-Rounded_BTWBNSL_Horse.BIC_TWBound_2.wcnf",
+    "year": "2024",
+    "cat": "wms",
+    "included": true,
+    "size_kb": 1254
+  },
+  {
+    "name": "setcover_wt-rail4872.wcnf",
+    "year": "2024",
+    "cat": "wms",
+    "included": false,
+    "reason": "size=73450KB"
+  }
+]

@@ -1,0 +1,106 @@
+{
+  "60s": {
+    "nuwls": {
+      "avg": 0.8720006369438073,
+      "wins_vs_nuwls": 0,
+      "losses_vs_nuwls": 0
+    },
+    "satlike": {
+      "avg": 0.8532432785339854,
+      "wins_vs_nuwls": 75,
+      "losses_vs_nuwls": 250
+    },
+    "spb": {
+      "avg": 0.6365838810292875,
+      "wins_vs_nuwls": 226,
+      "losses_vs_nuwls": 920
+    },
+    "nuwls_c": {
+      "avg": 0.8687203255833839,
+      "wins_vs_nuwls": 99,
+      "losses_vs_nuwls": 117
+    },
+    "spb_c": {
+      "avg": 0.6336186785221923,
+      "wins_vs_nuwls": 230,
+      "losses_vs_nuwls": 940
+    },
+    "nuwls_bandhs": {
+      "avg": 0.5970693198082483,
+      "wins_vs_nuwls": 124,
+      "losses_vs_nuwls": 1081
+    },
+    "VBS": {
+      "avg": 0.8955343036780902,
+      "wins_vs_nuwls": 281,
+      "losses_vs_nuwls": 0
+    },
+    "P2_NuWLS+SPB": {
+      "avg": 0.8852469698583931,
+      "wins_vs_nuwls": 226,
+      "losses_vs_nuwls": 0
+    },
+    "P3_NuWLS+SatLike+SPB": {
+      "avg": 0.8919963130364514,
+      "wins_vs_nuwls": 241,
+      "losses_vs_nuwls": 0
+    },
+    "P4_top4": {
+      "avg": 0.888604502398032,
+      "wins_vs_nuwls": 260,
+      "losses_vs_nuwls": 0
+    }
+  },
+  "300s": {
+    "nuwls": {
+      "avg": 0.8939676877995746,
+      "wins_vs_nuwls": 0,
+      "losses_vs_nuwls": 0
+    },
+    "satlike": {
+      "avg": 0.871095307576409,
+      "wins_vs_nuwls": 42,
+      "losses_vs_nuwls": 266
+    },
+    "spb": {
+      "avg": 0.6981162293011295,
+      "wins_vs_nuwls": 198,
+      "losses_vs_nuwls": 861
+    },
+    "nuwls_c": {
+      "avg": 0.8933759999710021,
+      "wins_vs_nuwls": 109,
+      "losses_vs_nuwls": 100
+    },
+    "spb_c": {
+      "avg": 0.6883488199425251,
+      "wins_vs_nuwls": 205,
+      "losses_vs_nuwls": 884
+    },
+    "nuwls_bandhs": {
+      "avg": 0.6518735959388229,
+      "wins_vs_nuwls": 122,
+      "losses_vs_nuwls": 1007
+    },
+    "VBS": {
+      "avg": 0.912212527765644,
+      "wins_vs_nuwls": 243,
+      "losses_vs_nuwls": 0
+    },
+    "P2_NuWLS+SPB": {
+      "avg": 0.9085862835666265,
+      "wins_vs_nuwls": 198,
+      "losses_vs_nuwls": 0
+    },
+    "P3_NuWLS+SatLike+SPB": {
+      "avg": 0.9093561455234865,
+      "wins_vs_nuwls": 205,
+      "losses_vs_nuwls": 0
+    },
+    "P4_top4": {
+      "avg": 0.9104670520726117,
+      "wins_vs_nuwls": 227,
+      "losses_vs_nuwls": 0
+    }
+  }
+}

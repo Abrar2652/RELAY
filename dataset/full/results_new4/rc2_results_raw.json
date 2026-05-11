@@ -1,0 +1,1162 @@
+{
+  "60": {
+    "2020": {
+      "ms": {
+        "diabetes.wcnf": [
+          Infinity
+        ],
+        "ms_120_20_20-0.wcnf": [
+          Infinity
+        ],
+        "heart-c.wcnf": [
+          Infinity
+        ],
+        "ms_260_20_20-0.wcnf": [
+          Infinity
+        ],
+        "ms_200_20_20-9.wcnf": [
+          Infinity
+        ],
+        "ms_260_20_20-1.wcnf": [
+          Infinity
+        ],
+        "bupa.wcnf": [
+          Infinity
+        ],
+        "ms_200_12_20-2.wcnf": [
+          Infinity
+        ],
+        "australian.wcnf": [
+          Infinity
+        ],
+        "haberman.wcnf": [
+          Infinity
+        ],
+        "ecoli.wcnf": [
+          Infinity
+        ],
+        "cleve.wcnf": [
+          Infinity
+        ],
+        "colic.wcnf": [
+          Infinity
+        ],
+        "SM_AS_TOP_buggy1.dimacs.filtered.wcnf": [
+          57.0
+        ],
+        "wb_4m8s4.dimacs.filtered.wcnf": [
+          Infinity
+        ],
+        "adult_train_3_CNF_5_1.wcnf": [
+          Infinity
+        ],
+        "shuttleM.wcnf": [
+          Infinity
+        ],
+        "soybean.wcnf": [
+          Infinity
+        ],
+        "SM_MAIN_MEM_buggy1.dimacs.filtered.wcnf": [
+          Infinity
+        ],
+        "wb_4m8s-problem.dimacs_49.filtered.wcnf": [
+          Infinity
+        ],
+        "credit_train_0_CNF_2_1.wcnf": [
+          Infinity
+        ],
+        "compas_train_4_DNF_4_1.wcnf": [
+          Infinity
+        ],
+        "compas_train_4_DNF_5_1.wcnf": [
+          Infinity
+        ],
+        "credit_train_1_CNF_3_1.wcnf": [
+          Infinity
+        ],
+        "wb_4m8s-problem.dimacs_47.filtered.wcnf": [
+          Infinity
+        ],
+        "rsdecoder6.dimacs.filtered.wcnf": [
+          Infinity
+        ],
+        "heart-statlog.wcnf": [
+          Infinity
+        ],
+        "credit_train_6_DNF_3_1.wcnf": [
+          Infinity
+        ],
+        "postoperative-patient-data.wcnf": [
+          Infinity
+        ],
+        "liver-disorder.wcnf": [
+          Infinity
+        ],
+        "credit_train_4_CNF_5_1.wcnf": [
+          Infinity
+        ],
+        "heart-h.wcnf": [
+          Infinity
+        ],
+        "heart_train_1_DNF_3_1.wcnf": [
+          Infinity
+        ],
+        "hungarian.wcnf": [
+          Infinity
+        ],
+        "heart_train_4_CNF_5_1.wcnf": [
+          Infinity
+        ],
+        "AES2-72-67.wcnf": [
+          Infinity
+        ],
+        "toms_test_1_DNF_2_1.wcnf": [
+          Infinity
+        ],
+        "toms_train_1_CNF_2_1.wcnf": [
+          Infinity
+        ],
+        "scpclr11_maxsat.wcnf": [
+          Infinity
+        ],
+        "ionosphere_train_1_CNF_3_1.wcnf": [
+          Infinity
+        ],
+        "twitter_test_1_CNF_2_1.wcnf": [
+          Infinity
+        ],
+        "cnf.20.p.8.wcnf": [
+          Infinity
+        ],
+        "scpcyc11_maxsat.wcnf": [
+          Infinity
+        ],
+        "cnf.19.p.10.wcnf": [
+          Infinity
+        ],
+        "credit_test_0_CNF_4_1.wcnf": [
+          Infinity
+        ],
+        "atcoss_mesat_03.wcnf": [
+          Infinity
+        ],
+        "scpcyc07_maxsat.wcnf": [
+          Infinity
+        ],
+        "tictactoe_train_6_CNF_4_1.wcnf": [
+          Infinity
+        ],
+        "scpclr13_maxsat.wcnf": [
+          Infinity
+        ],
+        "atcoss_mesat_04.wcnf": [
+          Infinity
+        ],
+        "wdbc_train_7_DNF_5_1.wcnf": [
+          Infinity
+        ],
+        "toms_train_4_DNF_5_1.wcnf": [
+          Infinity
+        ],
+        "atcoss_mesat_18.wcnf": [
+          Infinity
+        ],
+        "cnf.20.p.10.wcnf": [
+          Infinity
+        ],
+        "AES1-76-38.wcnf": [
+          Infinity
+        ],
+        "scpcyc09_maxsat.wcnf": [
+          Infinity
+        ],
+        "scpcyc08_maxsat.wcnf": [
+          Infinity
+        ],
+        "atcoss_mesat_15.wcnf": [
+          Infinity
+        ],
+        "heart_train_0_CNF_5_1.wcnf": [
+          Infinity
+        ],
+        "atcoss_sugar_15.wcnf": [
+          Infinity
+        ],
+        "atcoss_sugar_03.wcnf": [
+          Infinity
+        ],
+        "ionosphere_train_1_CNF_4_1.wcnf": [
+          Infinity
+        ],
+        "cnf_small.wcnf": [
+          Infinity
+        ],
+        "GenHyperTW_aim-50-2_0-yes1-3.wcnf": [
+          Infinity
+        ],
+        "AMAZON.wcnf": [
+          Infinity
+        ],
+        "DBLP.wcnf": [
+          Infinity
+        ],
+        "scpcyc06_maxsat.wcnf": [
+          Infinity
+        ],
+        "GenHyperTW_flat30-50.wcnf": [
+          Infinity
+        ],
+        "YOUTUBE.wcnf": [
+          Infinity
+        ],
+        "GenHyperTW_hole9.wcnf": [
+          Infinity
+        ],
+        "Q13_OPTIONS_1.wcnf": [
+          Infinity
+        ],
+        "d4.wcnf": [
+          Infinity
+        ],
+        "GenHyperTW_par8-5-c.wcnf": [
+          Infinity
+        ],
+        "GenHyperTW_hole6.wcnf": [
+          Infinity
+        ],
+        "pesp_18Min.wcnf": [
+          Infinity
+        ],
+        "scpclr12_maxsat.wcnf": [
+          Infinity
+        ],
+        "pesp_5min.wcnf": [
+          Infinity
+        ],
+        "gen_cvc-add7to3_9999.wcnf": [
+          Infinity
+        ],
+        "gen_mult_4_5_991.wcnf": [
+          Infinity
+        ],
+        "scpcyc10_maxsat.wcnf": [
+          Infinity
+        ],
+        "gen_mult_4_5_399.wcnf": [
+          Infinity
+        ],
+        "gen_mult_4_5_33.wcnf": [
+          Infinity
+        ],
+        "gen_mult_3_6_9999.wcnf": [
+          Infinity
+        ],
+        "gen_mult_4_7_991.wcnf": [
+          Infinity
+        ],
+        "gen_mult_3_5_9999.wcnf": [
+          Infinity
+        ],
+        "atcoss_sugar_05.wcnf": [
+          Infinity
+        ],
+        "gen_mult_5_5_991.wcnf": [
+          Infinity
+        ],
+        "gen_mult_5_5_9999.wcnf": [
+          Infinity
+        ],
+        "gen_mult_4_6_991.wcnf": [
+          Infinity
+        ],
+        "gen_square_5_9999.wcnf": [
+          Infinity
+        ],
+        "gen_mult_5_5_399.wcnf": [
+          Infinity
+        ],
+        "extension-enforcement_non-strict_stb_150_0.1_2_8_2.wcnf": [
+          Infinity
+        ],
+        "gen_mult_4_5_9999.wcnf": [
+          Infinity
+        ],
+        "gen_add_4_carry_33.wcnf": [
+          Infinity
+        ],
+        "gen_mult_4_6_9999.wcnf": [
+          Infinity
+        ],
+        "extension-enforcement_non-strict_stb_150_0.05_2_8_4.wcnf": [
+          Infinity
+        ],
+        "extension-enforcement_non-strict_stb_200_0.05_3_10_1.wcnf": [
+          Infinity
+        ],
+        "GenHyperTW_atv_partial_system.wcnf": [
+          Infinity
+        ],
+        "extension-enforcement_non-strict_stb_200_0.05_4_10_3.wcnf": [
+          Infinity
+        ],
+        "MultiDay_1.wcnf": [
+          Infinity
+        ],
+        "MultiDay_3.wcnf": [
+          Infinity
+        ],
+        "extension-enforcement_non-strict_stb_200_0.05_1_10_0.wcnf": [
+          Infinity
+        ],
+        "extension-enforcement_non-strict_stb_200_0.05_1_10_2.wcnf": [
+          Infinity
+        ],
+        "MultiDay_4.wcnf": [
+          Infinity
+        ],
+        "extension-enforcement_non-strict_stb_200_0.05_4_10_2.wcnf": [
+          Infinity
+        ],
+        "SingleDay_37.wcnf": [
+          Infinity
+        ],
+        "SAT11__application__fuhs__AProVE11__AProVE11-09.cnf.wcnf.2.wcnf": [
+          Infinity
+        ],
+        "SAT11__application__fuhs__AProVE11__AProVE11-09.cnf.wcnf.3.wcnf": [
+          Infinity
+        ],
+        "SAT11__application__fuhs__AProVE11__AProVE11-10.cnf.wcnf.3.wcnf": [
+          Infinity
+        ],
+        "SAT11__application__rintanen__SATPlanning__blocks-blocks-36-0.170-NOTKNOWN.cnf.wcnf.6.wcnf": [
+          Infinity
+        ],
+        "extension-enforcement_non-strict_stb_200_0.05_4_10_1.wcnf": [
+          Infinity
+        ],
+        "TWComp_1dj7_N73.wcnf": [
+          Infinity
+        ],
+        "TWComp_1dp_N76.wcnf": [
+          Infinity
+        ],
+        "TWComp_mulsol.i.5-pp_N119.wcnf": [
+          Infinity
+        ],
+        "TWComp_1c75_N69.wcnf": [
+          Infinity
+        ],
+        "atcoss_mesat_05.wcnf": [
+          Infinity
+        ],
+        "TWComp_myciel5_N47.wcnf": [
+          Infinity
+        ],
+        "s38584_nan_explicit_2_0.wcnf": [
+          Infinity
+        ],
+        "s38584_nan_explicit_7_0.wcnf": [
+          Infinity
+        ],
+        "s38584_nan_explicit_8_0.wcnf": [
+          Infinity
+        ],
+        "s38584_nan_explicit_9_0.wcnf": [
+          Infinity
+        ],
+        "MANN_a81.clq.wcnf": [
+          Infinity
+        ],
+        "brock400_1.clq.wcnf": [
+          Infinity
+        ],
+        "TWComp_queen7_7_N49.wcnf": [
+          Infinity
+        ],
+        "brock400_4.clq.wcnf": [
+          Infinity
+        ],
+        "brock800_2.clq.wcnf": [
+          Infinity
+        ],
+        "p_hat1000-1.clq.wcnf": [
+          Infinity
+        ],
+        "p_hat1000-3.clq.wcnf": [
+          Infinity
+        ],
+        "p_hat300-3.clq.wcnf": [
+          Infinity
+        ],
+        "p_hat500-3.clq.wcnf": [
+          Infinity
+        ],
+        "p_hat700-1.clq.wcnf": [
+          Infinity
+        ],
+        "p_hat700-3.clq.wcnf": [
+          Infinity
+        ],
+        "b14_C-mbd14-0277.wcnf": [
+          Infinity
+        ],
+        "sanr400_0.7.clq.wcnf": [
+          Infinity
+        ],
+        "extension-enforcement_non-strict_stb_200_0.05_2_10_2.wcnf": [
+          Infinity
+        ],
+        "uaq-ppr-nr200-nc66-n5-k2-rpp4-ppr11-plb100.wcnf": [
+          Infinity
+        ],
+        "uaq-ppr-nr200-nc66-n5-k2-rpp4-ppr10-plb100.wcnf": [
+          Infinity
+        ],
+        "uaq-ppr-nr200-nc66-n5-k2-rpp4-ppr13-plb100.wcnf": [
+          Infinity
+        ],
+        "uaq-ppr-nr200-nc66-n5-k2-rpp4-ppr12-plb100.wcnf": [
+          Infinity
+        ],
+        "uaq-ppr-nr200-nc66-n5-k2-rpp4-ppr14-plb100.wcnf": [
+          Infinity
+        ],
+        "extension-enforcement_non-strict_stb_200_0.1_2_10_1.wcnf": [
+          Infinity
+        ],
+        "uaq-ppr-nr200-nc66-n5-k2-rpp4-ppr8-plb100.wcnf": [
+          Infinity
+        ],
+        "b14_C-mbd14-0388.wcnf": [
+          Infinity
+        ],
+        "b14_C-mbd14-0337.wcnf": [
+          Infinity
+        ],
+        "uaq-ppr-nr200-nc66-n5-k2-rpp4-ppr6-plb100.wcnf": [
+          Infinity
+        ],
+        "uaq-ppr-nr200-nc66-n5-k2-rpp4-ppr9-plb100.wcnf": [
+          Infinity
+        ],
+        "uaq-ppr-nr200-nc66-n5-k2-rpp6-ppr10-plb100.wcnf": [
+          Infinity
+        ],
+        "uaq-ppr-nr200-nc66-n5-k2-rpp6-ppr11-plb100.wcnf": [
+          Infinity
+        ],
+        "uaq-ppr-nr200-nc66-n5-k2-rpp6-ppr12-plb100.wcnf": [
+          Infinity
+        ],
+        "b21_C-mbd14-0322.wcnf": [
+          Infinity
+        ],
+        "uaq-ppr-nr200-nc66-n5-k2-rpp6-ppr13-plb100.wcnf": [
+          Infinity
+        ],
+        "uaq-ppr-nr200-nc66-n5-k2-rpp6-ppr6-plb100.wcnf": [
+          Infinity
+        ],
+        "uaq-ppr-nr200-nc66-n5-k2-rpp6-ppr14-plb100.wcnf": [
+          Infinity
+        ],
+        "uaq-ppr-nr200-nc66-n5-k2-rpp6-ppr7-plb100.wcnf": [
+          Infinity
+        ],
+        "uaq-ppr-nr200-nc66-n5-k2-rpp6-ppr5-plb100.wcnf": [
+          Infinity
+        ],
+        "uaq-ppr-nr200-nc66-n5-k2-rpp6-ppr9-plb100.wcnf": [
+          Infinity
+        ],
+        "uaq-ppr-nr200-nc66-n5-k2-rpp6-ppr8-plb100.wcnf": [
+          Infinity
+        ],
+        "extension-enforcement_non-strict_stb_200_0.05_3_10_0.wcnf": [
+          Infinity
+        ],
+        "SU-100kb__simp-genos.haps.22.wcnf": [
+          Infinity
+        ],
+        "SU3__simp-genos.haps.63.wcnf": [
+          Infinity
+        ],
+        "b21_C-mbd14-0218.wcnf": [
+          Infinity
+        ],
+        "extension-enforcement_non-strict_stb_200_0.05_1_10_1.wcnf": [
+          Infinity
+        ],
+        "normalized-fir08_area_opers.wcnf": [
+          48.0
+        ],
+        "SU-100kb__simp-genos.haps.21.wcnf": [
+          Infinity
+        ],
+        "normalized-g125.18.wcnf": [
+          Infinity
+        ],
+        "SU3__simp-genos.haps.80.wcnf": [
+          Infinity
+        ],
+        "meltdown_min.wcnf": [
+          Infinity
+        ],
+        "spectre_min.wcnf": [
+          Infinity
+        ],
+        "SU3__simp-genos.haps.9.wcnf": [
+          Infinity
+        ],
+        "SU-100kb__simp-genos.haps.3.wcnf": [
+          Infinity
+        ],
+        "normalized-g100x100.opb.msat.wcnf": [
+          Infinity
+        ],
+        "normalized-ex1010.pi.wcnf": [
+          Infinity
+        ],
+        "atcoss_sugar_04.wcnf": [
+          Infinity
+        ],
+        "normalized-test4.pi.wcnf": [
+          Infinity
+        ],
+        "TWComp_queen5_5_N25.wcnf": [
+          Infinity
+        ],
+        "ram_k3_n13.ra0.wcnf": [
+          Infinity
+        ],
+        "ram_k3_n16.ra0.wcnf": [
+          Infinity
+        ],
+        "SU-100kb__simp-genos.haps.12.wcnf": [
+          Infinity
+        ],
+        "SU-100kb__simp-genos.haps.1.wcnf": [
+          Infinity
+        ],
+        "ram_k3_n14.ra0.wcnf": [
+          Infinity
+        ],
+        "ram_k3_n12.ra0.wcnf": [
+          Infinity
+        ],
+        "ram_k3_n19.ra0.wcnf": [
+          Infinity
+        ],
+        "ram_k3_n18.ra0.wcnf": [
+          Infinity
+        ],
+        "MANN_a45.clq.wcnf": [
+          Infinity
+        ],
+        "MANN_a27.clq.wcnf": [
+          Infinity
+        ],
+        "ram_k3_n17.ra0.wcnf": [
+          Infinity
+        ],
+        "MANN_a9.clq.wcnf": [
+          Infinity
+        ],
+        "c-fat500-10.clq.wcnf": [
+          Infinity
+        ],
+        "cnf_10.wcnf": [
+          Infinity
+        ],
+        "ram_k3_n20.ra0.wcnf": [
+          Infinity
+        ],
+        "hamming6-2.clq.wcnf": [
+          Infinity
+        ],
+        "hamming10-2.clq.wcnf": [
+          Infinity
+        ],
+        "hamming8-2.clq.wcnf": [
+          Infinity
+        ],
+        "johnson8-4-4.clq.wcnf": [
+          Infinity
+        ],
+        "rev66-14.wcnf": [
+          Infinity
+        ],
+        "rev66-12.wcnf": [
+          Infinity
+        ],
+        "rev66-16.wcnf": [
+          Infinity
+        ],
+        "TWComp_queen6_6_N36.wcnf": [
+          Infinity
+        ],
+        "rev66-18.wcnf": [
+          Infinity
+        ],
+        "rsdecoder4.dimacs.filtered.wcnf": [
+          Infinity
+        ],
+        "rsdecoder-problem.dimacs_41.filtered.wcnf": [
+          Infinity
+        ],
+        "MinFill_R0_myciel6.wcnf": [
+          Infinity
+        ],
+        "MinFill_R0_myciel7.wcnf": [
+          Infinity
+        ],
+        "MinFill_R0_queen11_11.wcnf": [
+          Infinity
+        ],
+        "MinFill_R0_queen6_6.wcnf": [
+          Infinity
+        ],
+        "MinFill_R0_queen7_7.wcnf": [
+          Infinity
+        ],
+        "MinFill_R0_queen8_12.wcnf": [
+          Infinity
+        ],
+        "MinFill_R0_queen8_8.wcnf": [
+          Infinity
+        ],
+        "MinFill_R0_queen9_9.wcnf": [
+          Infinity
+        ],
+        "MinFill_R1_games120.wcnf": [
+          Infinity
+        ],
+        "MinFill_R3_miles1000.wcnf": [
+          Infinity
+        ],
+        "MinFill_R3_miles750.wcnf": [
+          Infinity
+        ],
+        "MinFill_R4_miles500.wcnf": [
+          Infinity
+        ],
+        "normalized-test4.pi.opb.msat.wcnf": [
+          Infinity
+        ],
+        "mul_8_11.wcnf": [
+          Infinity
+        ],
+        "mul_8_13.wcnf": [
+          Infinity
+        ],
+        "mul_8_14.wcnf": [
+          Infinity
+        ],
+        "mul_8_9.wcnf": [
+          Infinity
+        ],
+        "sbox_8.wcnf": [
+          Infinity
+        ],
+        "atcoss_mesat_10.wcnf": [
+          Infinity
+        ],
+        "atcoss_sugar_10.wcnf": [
+          Infinity
+        ],
+        "g2_n35e34_n58e61.wcnf": [
+          Infinity
+        ],
+        "g2_n42e55_n44e53.wcnf": [
+          Infinity
+        ],
+        "g2_n57e60_n61e85.wcnf": [
+          Infinity
+        ],
+        "g2_n61e68_n73e75.wcnf": [
+          Infinity
+        ],
+        "g2_n63e71_n74e99.wcnf": [
+          Infinity
+        ],
+        "g2_n67e83_n68e73.wcnf": [
+          Infinity
+        ],
+        "g3_n46e48_n58e61_n75e81.wcnf": [
+          Infinity
+        ],
+        "GenHyperTW_dubois24.wcnf": [
+          Infinity
+        ],
+        "g4_n47e58_n55e66_n61e85_n67e83.wcnf": [
+          Infinity
+        ],
+        "g4_n56e84_n61e85_n62e78_n63e71.wcnf": [
+          Infinity
+        ],
+        "AES1-76-36.wcnf": [
+          Infinity
+        ],
+        "Q22_OPTIONS_1.wcnf": [
+          Infinity
+        ],
+        "rsdecoder-problem.dimacs_38.filtered.wcnf": [
+          Infinity
+        ],
+        "normalized-par32-1.wcnf": [
+          Infinity
+        ],
+        "normalized-par32-3-c.wcnf": [
+          Infinity
+        ]
+      },
+      "wms": {
+        "1407.wcsp.log.wcnf": [
+          Infinity
+        ],
+        "BrazilInstance2.xml.wcnf": [
+          Infinity
+        ],
+        "BrazilInstance6.xml.wcnf": [
+          Infinity
+        ],
+        "BrazilInstance1.xml.wcnf": [
+          Infinity
+        ],
+        "FinlandSecondarySchool.xml.wcnf": [
+          Infinity
+        ],
+        "MinWidthCB_milan_200_12_1k_10s_1t_12.wcnf": [
+          Infinity
+        ],
+        "BrazilInstance7.xml.wcnf": [
+          Infinity
+        ],
+        "MinWidthCB_mitdbsample_100_43_1k_5s_2t_7.wcnf": [
+          Infinity
+        ],
+        "MinWidthCB_mitdbsample_200_26_1k_2s_2t_4.wcnf": [
+          Infinity
+        ],
+        "MinWidthCB_mitdbsample_200_43_1k_10s_2t_12.wcnf": [
+          Infinity
+        ],
+        "MinWidthCB_mitdbsample_300_26_1k_6s_1t_8.wcnf": [
+          Infinity
+        ],
+        "MinWidthCB_mitdbsample_300_26_1k_6s_2t_6.wcnf": [
+          Infinity
+        ],
+        "MinWidthCB_mitdbsample_300_32_1k_6s_1t_8.wcnf": [
+          Infinity
+        ],
+        "MinWidthCB_mitdbsample_300_32_1k_15s_2t_17.wcnf": [
+          Infinity
+        ],
+        "MinWidthCB_mitdbsample_300_32_1k_6s_2t_8.wcnf": [
+          Infinity
+        ],
+        "MinWidthCB_mitdbsample_300_43_1k_3s_1t_5.wcnf": [
+          Infinity
+        ],
+        "MinWidthCB_mitdbsample_300_43_1k_3s_2t_3.wcnf": [
+          Infinity
+        ],
+        "MinWidthCB_mitdbsample_300_64_1k_15s_2t_17.wcnf": [
+          Infinity
+        ],
+        "MinWidthCB_mitdbsample_300_64_1k_6s_1t_8.wcnf": [
+          Infinity
+        ],
+        "MinWidthCB_power_600_24_1k_12s_2t_14.wcnf": [
+          Infinity
+        ],
+        "MultiDay_2_weighted.wcnf": [
+          Infinity
+        ],
+        "MultiDay_3_weighted.wcnf": [
+          Infinity
+        ],
+        "MultiDay_4_weighted.wcnf": [
+          Infinity
+        ],
+        "Rounded_BTWBNSL_Flag.BIC_TWBound_2.wcnf": [
+          Infinity
+        ],
+        "Rounded_BTWBNSL_Housing_TWBound_2.wcnf": [
+          Infinity
+        ],
+        "Rounded_BTWBNSL_Voting_TWBound_3.wcnf": [
+          Infinity
+        ],
+        "Rounded_BTWBNSL_hailfinder_10000_1_3.scores_TWBound_3.wcnf": [
+          Infinity
+        ],
+        "Rounded_BTWBNSL_hailfinder_1000_1_3.scores_TWBound_2.wcnf": [
+          Infinity
+        ],
+        "Rounded_BTWBNSL_insurance_1000_1_3.scores_TWBound_3.wcnf": [
+          Infinity
+        ],
+        "Rounded_CorrelationClustering_Ecoli_BINARY_N220_D0.200.wcnf": [
+          Infinity
+        ],
+        "Rounded_CorrelationClustering_Ecoli_BINARY_N240_D0.200.wcnf": [
+          Infinity
+        ],
+        "Rounded_CorrelationClustering_Ecoli_BINARY_N280_D0.200.wcnf": [
+          Infinity
+        ],
+        "Rounded_CorrelationClustering_Ecoli_BINARY_N300_D0.200.wcnf": [
+          Infinity
+        ],
+        "Rounded_CorrelationClustering_Ionosphere_BINARY_N280_D0.200.wcnf": [
+          Infinity
+        ],
+        "Rounded_CorrelationClustering_Ionosphere_BINARY_N300_D0.200.wcnf": [
+          Infinity
+        ],
+        "Rounded_CorrelationClustering_Protein1_UNARY_N230.wcnf": [
+          Infinity
+        ],
+        "Rounded_CorrelationClustering_Protein1_UNARY_N250.wcnf": [
+          Infinity
+        ],
+        "Rounded_CorrelationClustering_Protein1_UNARY_N270.wcnf": [
+          Infinity
+        ],
+        "Rounded_CorrelationClustering_Protein1_UNARY_N290.wcnf": [
+          Infinity
+        ],
+        "Rounded_CorrelationClustering_Protein2_BINARY_N400.wcnf": [
+          Infinity
+        ],
+        "Rounded_CorrelationClustering_Protein2_UNARY_N180.wcnf": [
+          Infinity
+        ],
+        "Rounded_CorrelationClustering_Protein2_UNARY_N200.wcnf": [
+          Infinity
+        ],
+        "Rounded_CorrelationClustering_Protein2_UNARY_N220.wcnf": [
+          Infinity
+        ],
+        "Rounded_CorrelationClustering_Protein2_UNARY_N240.wcnf": [
+          Infinity
+        ],
+        "Rounded_CorrelationClustering_Protein3_UNARY_N220.wcnf": [
+          Infinity
+        ],
+        "Rounded_CorrelationClustering_Protein3_UNARY_N240.wcnf": [
+          Infinity
+        ],
+        "Rounded_CorrelationClustering_Protein3_UNARY_N260.wcnf": [
+          Infinity
+        ],
+        "Rounded_CorrelationClustering_Protein3_UNARY_N300.wcnf": [
+          Infinity
+        ],
+        "BrazilInstance4.xml.wcnf": [
+          Infinity
+        ],
+        "Rounded_CorrelationClustering_Protein4_BINARY_N380.wcnf": [
+          Infinity
+        ],
+        "Rounded_CorrelationClustering_Protein4_UNARY_N210.wcnf": [
+          Infinity
+        ],
+        "Rounded_CorrelationClustering_Vowel_BINARY_N700_D0.200.wcnf": [
+          Infinity
+        ],
+        "Rounded_CorrelationClustering_Vowel_BINARY_N760_D0.200.wcnf": [
+          Infinity
+        ],
+        "Rounded_CorrelationClustering_Vowel_BINARY_N800_D0.200.wcnf": [
+          Infinity
+        ],
+        "SingleDay_37_weighted.wcnf": [
+          Infinity
+        ],
+        "adult_train_0_CNF_5_20.wcnf": [
+          Infinity
+        ],
+        "adult_train_3_CNF_4_5.wcnf": [
+          Infinity
+        ],
+        "af-synthesis_stb_50_120_3.wcnf": [
+          Infinity
+        ],
+        "af-synthesis_stb_50_120_9.wcnf": [
+          Infinity
+        ],
+        "af-synthesis_stb_50_140_0.wcnf": [
+          Infinity
+        ],
+        "af-synthesis_stb_50_140_1.wcnf": [
+          Infinity
+        ],
+        "af-synthesis_stb_50_140_7.wcnf": [
+          Infinity
+        ],
+        "af-synthesis_stb_50_140_8.wcnf": [
+          Infinity
+        ],
+        "af-synthesis_stb_50_160_4.wcnf": [
+          Infinity
+        ],
+        "af-synthesis_stb_50_160_5.wcnf": [
+          Infinity
+        ],
+        "af-synthesis_stb_50_180_1.wcnf": [
+          Infinity
+        ],
+        "af-synthesis_stb_50_180_2.wcnf": [
+          Infinity
+        ],
+        "af-synthesis_stb_50_200_4.wcnf": [
+          Infinity
+        ],
+        "af-synthesis_stb_50_40_8.wcnf": [
+          Infinity
+        ],
+        "af-synthesis_stb_50_20_8.wcnf": [
+          Infinity
+        ],
+        "af-synthesis_stb_50_40_9.wcnf": [
+          Infinity
+        ],
+        "af-synthesis_stb_50_80_3.wcnf": [
+          Infinity
+        ],
+        "af-synthesis_stb_50_60_3.wcnf": [
+          Infinity
+        ],
+        "af-synthesis_stb_50_80_7.wcnf": [
+          Infinity
+        ],
+        "bf2030fvslack.wcnf": [
+          Infinity
+        ],
+        "bnn_mnist_rot_7_label2_adversarial_norm_inf_totalizer.wcnf": [
+          Infinity
+        ],
+        "brock400_3.clq.wcnf": [
+          Infinity
+        ],
+        "brock200_4.clq.wcnf": [
+          Infinity
+        ],
+        "brock800_3.clq.wcnf": [
+          Infinity
+        ],
+        "causal_Autos_8_159.wcnf": [
+          Infinity
+        ],
+        "causal_Heart_10_212.wcnf": [
+          Infinity
+        ],
+        "causal_Horse_9_300.wcnf": [
+          Infinity
+        ],
+        "causal_Link_10_1000.wcnf": [
+          Infinity
+        ],
+        "causal_Water_10_1000.wcnf": [
+          Infinity
+        ],
+        "causal_alarm_9_1000.wcnf": [
+          Infinity
+        ],
+        "causal_carpo_9_10000.wcnf": [
+          Infinity
+        ],
+        "causal_insurance_9_100.wcnf": [
+          Infinity
+        ],
+        "channel-500x100x100-b050.wcnf": [
+          Infinity
+        ],
+        "comp05.wcnf": [
+          Infinity
+        ],
+        "comp06.lp.sm-extracted.wcnf": [
+          Infinity
+        ],
+        "comp02.wcnf": [
+          Infinity
+        ],
+        "comp09.wcnf": [
+          Infinity
+        ],
+        "comp12.wcnf": [
+          Infinity
+        ],
+        "comp15.wcnf": [
+          Infinity
+        ],
+        "comp18.wcnf": [
+          Infinity
+        ],
+        "compas_train_0_CNF_5_5.wcnf": [
+          Infinity
+        ],
+        "credit_test_9_CNF_4_10.wcnf": [
+          Infinity
+        ],
+        "credit_train_8_CNF_5_15.wcnf": [
+          Infinity
+        ],
+        "dds4.wcnf": [
+          Infinity
+        ],
+        "comp21.wcnf": [
+          Infinity
+        ],
+        "delaunay_n24.wcnf": [
+          Infinity
+        ],
+        "hamming6-2.clq.wcnf": [
+          Infinity
+        ],
+        "hugebubbles-00020.wcnf": [
+          Infinity
+        ],
+        "inf-road-usa.wcnf": [
+          Infinity
+        ],
+        "instance10.wcnf": [
+          Infinity
+        ],
+        "instance2.wcnf": [
+          Infinity
+        ],
+        "instance3.wcnf": [
+          Infinity
+        ],
+        "instance4.wcnf": [
+          Infinity
+        ],
+        "instance5.wcnf": [
+          Infinity
+        ],
+        "instance6.wcnf": [
+          Infinity
+        ],
+        "instance7.wcnf": [
+          Infinity
+        ],
+        "instance8.wcnf": [
+          Infinity
+        ],
+        "comp07.wcnf": [
+          Infinity
+        ],
+        "johnson8-4-4.clq.wcnf": [
+          Infinity
+        ],
+        "limits-10-10_data-2_inst-003_30m.sm-extracted.wcnf": [
+          Infinity
+        ],
+        "limits-10-10_data-2_inst-025_30m.sm-extracted.wcnf": [
+          Infinity
+        ],
+        "limits-10-10_data-2_inst-030_30m.sm-extracted.wcnf": [
+          Infinity
+        ],
+        "limits-10-10_data-4_inst-003_60m.sm-extracted.wcnf": [
+          Infinity
+        ],
+        "lisbon-wedding-1-17.wcnf": [
+          Infinity
+        ],
+        "lisbon-wedding-1-19.wcnf": [
+          Infinity
+        ],
+        "lisbon-wedding-10-19.wcnf": [
+          Infinity
+        ],
+        "lisbon-wedding-2-17.wcnf": [
+          Infinity
+        ],
+        "lisbon-wedding-2-18.wcnf": [
+          Infinity
+        ],
+        "lisbon-wedding-3-19.wcnf": [
+          Infinity
+        ],
+        "lisbon-wedding-4-17.wcnf": [
+          Infinity
+        ],
+        "lisbon-wedding-4-19.wcnf": [
+          Infinity
+        ],
+        "lisbon-wedding-5-19.wcnf": [
+          Infinity
+        ],
+        "lisbon-wedding-6-19.wcnf": [
+          Infinity
+        ],
+        "lisbon-wedding-7-17.wcnf": [
+          Infinity
+        ],
+        "lisbon-wedding-7-19.wcnf": [
+          Infinity
+        ],
+        "lisbon-wedding-8-17.wcnf": [
+          Infinity
+        ],
+        "lisbon-wedding-8-19.wcnf": [
+          Infinity
+        ],
+        "lisbon-wedding-9-19.wcnf": [
+          Infinity
+        ],
+        "metro_8_8_5_20_10_6_500_1_3.lp.sm-extracted.wcnf": [
+          Infinity
+        ],
+        "normalized-mps-v2-20-10-cracpb1.opb.msat.wcnf": [
+          Infinity
+        ],
+        "normalized-mps-v2-20-10-l152lav.opb.msat.wcnf": [
+          Infinity
+        ],
+        "normalized-mps-v2-20-10-lp4l.opb.msat.wcnf": [
+          Infinity
+        ],
+        "normalized-mps-v2-20-10-mod008.opb.msat.wcnf": [
+          Infinity
+        ],
+        "normalized-mps-v2-20-10-mod010.opb.msat.wcnf": [
+          Infinity
+        ],
+        "normalized-mps-v2-20-10-p0548.opb.msat.wcnf": [
+          Infinity
+        ],
+        "normalized-mps-v2-20-10-sentoy.opb.msat.wcnf": [
+          Infinity
+        ],
+        "p_hat500-3.clq.wcnf": [
+          Infinity
+        ],
+        "p_hat700-3.clq.wcnf": [
+          Infinity
+        ],
+        "pima_train_3_CNF_5_20.wcnf": [
+          Infinity
+        ],
+        "power-distribution_10_7.wcnf": [
+          Infinity
+        ],
+        "power-distribution_10_8.wcnf": [
+          Infinity
+        ],
+        "power-distribution_11_7.wcnf": [
+          Infinity
+        ],
+        "power-distribution_11_8.wcnf": [
+          Infinity
+        ]
+      }
+    }
+  }
+}
